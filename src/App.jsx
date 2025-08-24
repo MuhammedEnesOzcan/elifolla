@@ -85,12 +85,22 @@ export default function App() {
 
   // Enter → kaydet + (bitmediyse) sonraki boş harfe geç
   const handleKeyDown = (e) => {
-    if (e.key === "Enter" && !e.shiftKey) {
-      e.preventDefault();
-      const finished = saveAndMaybeFinish();
-      if (!finished) passToNextEmpty();
+  if (e.key === "Enter" && !e.shiftKey) {
+    e.preventDefault();
+
+    // 1) Boşsa: kaydetme, PAS gibi davran
+    if (!draft || draft.trim() === "") {
+      passToNextEmpty();
+      return;
     }
-  };
+
+    // 2) Doluysa: kaydet + (bitmediyse) sonraki boş harfe geç
+    const finished = saveAndMaybeFinish
+      ? saveAndMaybeFinish()           // eğer önceki sürümde bu fonksiyonu eklediysen
+      : (saveAnswer(), false);         // yoksa mevcut kaydeti kullan
+    if (!finished) passToNextEmpty();
+  }
+};
 
   // Özet metni (panoya kopyalanabilir)
   const buildSummaryText = () => {
@@ -157,12 +167,17 @@ export default function App() {
             <div className="row">
               {letters.map((letter) => {
                 const isActive = letter === active;
-                const result = results[letter];
+                const result = results[letter]; // "correct" | "wrong" | undefined
+                const answered = Boolean(result);
                 return (
                   <button
                     key={letter}
                     className={`circle ${isActive ? "active" : ""} ${result ?? ""}`}
-                    onClick={() => setActive(letter)}
+                    disabled={answered}                 // ← tıklanamaz
+                    onClick={() => {
+                      if (!answered) setActive(letter); // ← fazladan güvenlik
+                    }}
+                    title={answered ? "Cevaplandı" : letter}
                   >
                     {letter}
                   </button>
