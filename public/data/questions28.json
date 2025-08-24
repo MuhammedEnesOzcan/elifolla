@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1333,
+        "question": "Yıldız falcılığı",
+        "letter": "A",
+        "answer": "Astroloji"
+    },
+    {
+        "id": 1085,
+        "question": "Bateri çalmaya yarayan ince, kısa çubuk",
+        "letter": "B",
+        "answer": "Baget"
+    },
+    {
+        "id": 1257,
+        "question": "İşletmelere gün sonu giren para, kazanç",
+        "letter": "C",
+        "answer": "Ciro, cirosu"
+    },
+    {
+        "id": 792,
+        "question": "Bodur şelale",
+        "letter": "Ç",
+        "answer": "Çağlayan"
+    },
+    {
+        "id": 189,
+        "question": "Perhiz, rejim",
+        "letter": "D",
+        "answer": "diyet"
+    },
+    {
+        "id": 1238,
+        "question": "Kimyasal tepkimelerin hızını arttıran, canlı hücrelerde üretilen özel proteinler",
+        "letter": "E",
+        "answer": "Enzim, enzimler"
+    },
+    {
+        "id": 1327,
+        "question": "Bir sanık, tutuklu veya hükümlünün gözcülerin elinden kurtulması",
+        "letter": "F",
+        "answer": "Firar, firari, firar etme, firar etmek, firar etmesi"
+    },
+    {
+        "id": 1436,
+        "question": "Yerkürenin geometrik olmayan gerçek biçimi",
+        "letter": "G",
+        "answer": "Geoit"
+    },
+    {
+        "id": 1794,
+        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "letter": "H",
+        "answer": "Hasılat"
+    },
+    {
+        "id": 268,
+        "question": "Kabul etmeme, tanımama",
+        "letter": "İ",
+        "answer": "inkar, inkar etme, inkar etmek"
+    },
+    {
+        "id": 277,
+        "question": "Cam veya seramikten yapılmış, kulplu, büyük bardak",
+        "letter": "K",
+        "answer": "kupa"
+    },
+    {
+        "id": 622,
+        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
+        "letter": "L",
+        "answer": "Liste"
+    },
+    {
+        "id": 1630,
+        "question": "Güç, kuvvet, derman, takat",
+        "letter": "M",
+        "answer": "Mecal"
+    },
+    {
+        "id": 327,
+        "question": "Haykırma, bağırma",
+        "letter": "N",
+        "answer": "nara, nara atma, nara atmak"
+    },
+    {
+        "id": 349,
+        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
+        "letter": "O",
+        "answer": "onbaşı"
+    },
+    {
+        "id": 1535,
+        "question": "Bilimde bir düzenli görüşü oluşturan ilke ve dogmaların bütünü, meslek, doktrin",
+        "letter": "Ö",
+        "answer": "Öğreti"
+    },
+    {
+        "id": 375,
+        "question": "Kedi, köpek vb. hayvanların ön ayağı",
+        "letter": "P",
+        "answer": "pati"
+    },
+    {
+        "id": 826,
+        "question": "İrade dışı sinir etkinliği",
+        "letter": "R",
+        "answer": "Refleks"
+    },
+    {
+        "id": 765,
+        "question": "İşlerine önem vermeyen, ihmalkâr",
+        "letter": "S",
+        "answer": "Savsak"
+    },
+    {
+        "id": 898,
+        "question": "Oda İçinde Tuğla Ya Da Taşdan Yapılmış Ocak",
+        "letter": "Ş",
+        "answer": "Şömine, somine"
+    },
+    {
+        "id": 1910,
+        "question": "BİR YAZARIN, KONU VE FİKRİ YAPI OLARAK BİRBİRİNİ İZLEYEN ÜÇ ESERİ",
+        "letter": "T",
+        "answer": "Triloji"
+    },
+    {
+        "id": 1070,
+        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
+        "letter": "U",
+        "answer": "Uçkun"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 887,
+        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "letter": "V",
+        "answer": "Veba"
+    },
+    {
+        "id": 1553,
+        "question": "Birçok kimsenin veya nesnenin bir araya gelmesiyle oluşan kalabalık, küme, kitle, kütle",
+        "letter": "Y",
+        "answer": "Yığın"
+    },
+    {
+        "id": 1145,
+        "question": "Hor görülme, alçalma",
+        "letter": "Z",
+        "answer": "Zillet"
+    }
+]

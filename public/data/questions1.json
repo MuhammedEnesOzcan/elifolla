@@ -1,0 +1,158 @@
+[
+    {
+        "id": 780,
+        "question": "Öncelik tanımak, öndelik vermek",
+        "letter": "A",
+        "answer": "Avans, avans verme, avans vermek, avans tanıma, avans tanımak"
+    },
+    {
+        "id": 82,
+        "question": "Fenike uygarlığı'nın doğduğu Lübnan'ın başkenti",
+        "letter": "B",
+        "answer": "beyrut"
+    },
+    {
+        "id": 1366,
+        "question": "Kümes hayvanlarının yumurtadan yeni çıkmış yavrusu",
+        "letter": "C",
+        "answer": "Civciv"
+    },
+    {
+        "id": 1447,
+        "question": "Çevresine göre aşağı çökmüş olan yer",
+        "letter": "Ç",
+        "answer": "Çukur"
+    },
+    {
+        "id": 1152,
+        "question": "En son il olan şehrimiz",
+        "letter": "D",
+        "answer": "Düzce"
+    },
+    {
+        "id": 207,
+        "question": "Benzer, eş, denk, daha önce benzeri görülen",
+        "letter": "E",
+        "answer": "emsal"
+    },
+    {
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "letter": "F",
+        "answer": "Freze"
+    },
+    {
+        "id": 1759,
+        "question": "Çevresiyle uyuşamayan, aksi tabiatlı, kavga çıkaran kimse",
+        "letter": "G",
+        "answer": "Geçimsiz"
+    },
+    {
+        "id": 1445,
+        "question": "Sürekli hayal kuran, hep hayal peşinde koşan (kimse)",
+        "letter": "H",
+        "answer": "Hayalperest, hayalperver"
+    },
+    {
+        "id": 602,
+        "question": "Bir şeyin olabilmesi durumu, olabilirlik, olasılık",
+        "letter": "İ",
+        "answer": "İhtimal"
+    },
+    {
+        "id": 1783,
+        "question": "KİTABIN, DERGİNİN İÇERİĞİNİ ÖZETLEYEN DIŞ YÜZÜ",
+        "letter": "K",
+        "answer": "Kapak"
+    },
+    {
+        "id": 1203,
+        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
+        "letter": "L",
+        "answer": "Lens"
+    },
+    {
+        "id": 1892,
+        "question": "Bilgisayarın telefon hattına bağlanarak internete bağlanmasını sağlayan aygıt",
+        "letter": "M",
+        "answer": "Modem"
+    },
+    {
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "letter": "N",
+        "answer": "Noter"
+    },
+    {
+        "id": 996,
+        "question": "Özenli, düzgün, uygun",
+        "letter": "O",
+        "answer": "Onat"
+    },
+    {
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "letter": "Ö",
+        "answer": "Örk"
+    },
+    {
+        "id": 381,
+        "question": "Elektrik akımı almak için fişin sokulduğu yuva",
+        "letter": "P",
+        "answer": "priz"
+    },
+    {
+        "id": 680,
+        "question": "İzin belgesi",
+        "letter": "R",
+        "answer": "Ruhsat, Ruhsat belgesi"
+    },
+    {
+        "id": 1276,
+        "question": "Elle tutulur, gerçek",
+        "letter": "S",
+        "answer": "Somut, sahi, sahici"
+    },
+    {
+        "id": 698,
+        "question": "Gizli haberleşmeye yarayan işaretlerin tümü, kod",
+        "letter": "Ş",
+        "answer": "Şifre, şifreli mesaj"
+    },
+    {
+        "id": 64,
+        "question": "Hava sıcaklığını ölçmeye yarayan alet",
+        "letter": "T",
+        "answer": "termometre"
+    },
+    {
+        "id": 892,
+        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "letter": "U",
+        "answer": "Uzman"
+    },
+    {
+        "id": 464,
+        "question": "Korkuya çabuk kapılan",
+        "letter": "Ü",
+        "answer": "ürkek"
+    },
+    {
+        "id": 1570,
+        "question": "Bir kimsenin ölümünden sonra yapılmasını istediği şey",
+        "letter": "V",
+        "answer": "Vasiyet, vasiyeti, vasiyetname"
+    },
+    {
+        "id": 1577,
+        "question": "Hacmine oranla ağırlığı çok olan",
+        "letter": "Y",
+        "answer": "Yoğun"
+    },
+    {
+        "id": 719,
+        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "letter": "Z",
+        "answer": "Zindan"
+    }
+]

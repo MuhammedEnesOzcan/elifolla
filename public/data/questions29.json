@@ -1,0 +1,158 @@
+[
+    {
+        "id": 107,
+        "question": "Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri",
+        "letter": "A",
+        "answer": "akran"
+    },
+    {
+        "id": 526,
+        "question": "Geçidi kapamak için her türlü araçtan yararlanılarak yapılan engel",
+        "letter": "B",
+        "answer": "Barikat"
+    },
+    {
+        "id": 155,
+        "question": "Topluluk, zümre",
+        "letter": "C",
+        "answer": "Camia, cemiyet"
+    },
+    {
+        "id": 1450,
+        "question": "Karikatürcü",
+        "letter": "Ç",
+        "answer": "Çizer"
+    },
+    {
+        "id": 192,
+        "question": "Geri bildirim",
+        "letter": "D",
+        "answer": "dönüt"
+    },
+    {
+        "id": 1418,
+        "question": "Vücutta istenmeyen kılları alma",
+        "letter": "E",
+        "answer": "Epilasyon"
+    },
+    {
+        "id": 229,
+        "question": "Tanıtma filmi",
+        "letter": "F",
+        "answer": "fragman"
+    },
+    {
+        "id": 579,
+        "question": "Su veya hava akıntısının dönerek ve çukurlaşarak yaptığı çevrinti",
+        "letter": "G",
+        "answer": "Girdap"
+    },
+    {
+        "id": 1494,
+        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "letter": "H",
+        "answer": "Halef, halefi"
+    },
+    {
+        "id": 1228,
+        "question": "İnsanları bir yere yerleştirme, yurtlandırma",
+        "letter": "İ",
+        "answer": "İskan, iskan etme, iskan etmek"
+    },
+    {
+        "id": 278,
+        "question": "Çocuk yuvası",
+        "letter": "K",
+        "answer": "kreş"
+    },
+    {
+        "id": 1203,
+        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
+        "letter": "L",
+        "answer": "Lens"
+    },
+    {
+        "id": 1878,
+        "question": "Seçkin kişilerin yaşantılarını konu alan yayın",
+        "letter": "M",
+        "answer": "Magazin"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 341,
+        "question": "Yüksek ve alçaktan mermi atabilen kısa namlulu top",
+        "letter": "O",
+        "answer": "obüs"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 376,
+        "question": "Bir başkasına bağımlılığı olan",
+        "letter": "P",
+        "answer": "peyk"
+    },
+    {
+        "id": 1278,
+        "question": "Uyku sırasında görülen olaylar",
+        "letter": "R",
+        "answer": "Rüya"
+    },
+    {
+        "id": 1887,
+        "question": "ROMAN JARGONUNDA “PARA” ANLAMINDA KULLANILAN SÖZCÜK",
+        "letter": "S",
+        "answer": "Sipali"
+    },
+    {
+        "id": 67,
+        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "letter": "Ş",
+        "answer": "Şanlıurfa, Şanlı Urfa"
+    },
+    {
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "letter": "T",
+        "answer": "Taktik"
+    },
+    {
+        "id": 1077,
+        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "letter": "U",
+        "answer": "ucuz"
+    },
+    {
+        "id": 878,
+        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
+        "letter": "Ü",
+        "answer": "Ülkü"
+    },
+    {
+        "id": 1568,
+        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "letter": "V",
+        "answer": "Vardiya"
+    },
+    {
+        "id": 1572,
+        "question": "Bir yere bağlamak veya çekerek götürmek için hayvanın başlığına veya tasmasına bağlanan ip",
+        "letter": "Y",
+        "answer": "Yular"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

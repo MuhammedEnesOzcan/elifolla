@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1335,
+        "question": "Havadaki duman, is, koku vb. yabancı maddeleri emerek dışarı atan aygıt",
+        "letter": "A",
+        "answer": "Aspiratör, aspratör"
+    },
+    {
+        "id": 1348,
+        "question": "Kaldırımların kenarlarında bulunan taşlar",
+        "letter": "B",
+        "answer": "Bordür"
+    },
+    {
+        "id": 531,
+        "question": "Uygun, yerinde sayılan, yakışık alan",
+        "letter": "C",
+        "answer": "Caiz"
+    },
+    {
+        "id": 1542,
+        "question": "Değirmende buğday teknesi oluğu",
+        "letter": "Ç",
+        "answer": "Çörtü"
+    },
+    {
+        "id": 941,
+        "question": "Ermenistan’ın para birimi",
+        "letter": "D",
+        "answer": "dram"
+    },
+    {
+        "id": 796,
+        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
+        "letter": "E",
+        "answer": "Elbette"
+    },
+    {
+        "id": 567,
+        "question": "Yanıcı bir maddeden aldığı itici güçle hareket eden düzenek",
+        "letter": "F",
+        "answer": "Füze"
+    },
+    {
+        "id": 1430,
+        "question": "Makine yağı",
+        "letter": "G",
+        "answer": "Gres, gres yağ, gres yağı"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 1199,
+        "question": "Damıtma işinde kullanılan araç, damıtıcı",
+        "letter": "İ",
+        "answer": "İmbik"
+    },
+    {
+        "id": 1751,
+        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
+        "letter": "K",
+        "answer": "Kıta"
+    },
+    {
+        "id": 291,
+        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
+        "letter": "L",
+        "answer": "loş"
+    },
+    {
+        "id": 313,
+        "question": "Ara verme, duraklama",
+        "letter": "M",
+        "answer": "mola"
+    },
+    {
+        "id": 644,
+        "question": "Atomun çekirdeğinden elde edilen bir enerji türü",
+        "letter": "N",
+        "answer": "Nükleer, Nükleer enerji"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 1689,
+        "question": "AYIRT EDİCİ BİR NİTELİĞİ OLAN",
+        "letter": "Ö",
+        "answer": "Özel, özellikli"
+    },
+    {
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "letter": "P",
+        "answer": "plak"
+    },
+    {
+        "id": 388,
+        "question": "İkiyüzlülük",
+        "letter": "R",
+        "answer": "riya, riyakar, riyakarlık"
+    },
+    {
+        "id": 412,
+        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "letter": "S",
+        "answer": "statü, statüsü"
+    },
+    {
+        "id": 433,
+        "question": "Art düşünce, hile",
+        "letter": "Ş",
+        "answer": "şaibe, şike"
+    },
+    {
+        "id": 1809,
+        "question": "TOPRAK ALTINDA YETİŞEN, TADI, KOKUSU VE YÜKSEK FİYATIYLA DA ÜNLÜ BİR MANTAR TÜRÜ",
+        "letter": "T",
+        "answer": "Trüf, Trüf mantarı"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 849,
+        "question": "Bilim yada sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "Üstad, üstat"
+    },
+    {
+        "id": 1504,
+        "question": "Açık, aydın, belli",
+        "letter": "V",
+        "answer": "Vazıh"
+    },
+    {
+        "id": 1573,
+        "question": "Bir olayı belli bir görüşe göre açıklama, değerlendirme",
+        "letter": "Y",
+        "answer": "Yorum, yorum yapma, yorum yapmak, yorumlama, yorumlamak"
+    },
+    {
+        "id": 737,
+        "question": "Hoşluk, güzellik, incelik, zarif olma",
+        "letter": "Z",
+        "answer": "Zarafet, Zerafet"
+    }
+]

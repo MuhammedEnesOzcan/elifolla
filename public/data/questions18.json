@@ -1,0 +1,158 @@
+[
+    {
+        "id": 123,
+        "question": "Rütbesi general ile aynı olan deniz subayı",
+        "letter": "A",
+        "answer": "amiral"
+    },
+    {
+        "id": 136,
+        "question": "Orkestrada vurmalı çalgı takımı, davul",
+        "letter": "B",
+        "answer": "bateri"
+    },
+    {
+        "id": 1308,
+        "question": "Küçük ve tatlı bir tür karpuz",
+        "letter": "C",
+        "answer": "Cimcime"
+    },
+    {
+        "id": 179,
+        "question": "Çizilerek veya oyularak açılan kertik",
+        "letter": "Ç",
+        "answer": "çetele, çentik"
+    },
+    {
+        "id": 188,
+        "question": "Doğrudan doğruya olmayan, dolayısıyla olan, vasıtalı, bilvasıta, endirekt",
+        "letter": "D",
+        "answer": "dolaylı, dolambaçlı"
+    },
+    {
+        "id": 1416,
+        "question": "Araçlarla koruma işi",
+        "letter": "E",
+        "answer": "Eskortluk, eskort"
+    },
+    {
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "letter": "F",
+        "answer": "Freze"
+    },
+    {
+        "id": 241,
+        "question": "Öfke, kızgınlık, hiddet",
+        "letter": "G",
+        "answer": "gazap"
+    },
+    {
+        "id": 1494,
+        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "letter": "H",
+        "answer": "Halef, halefi"
+    },
+    {
+        "id": 1197,
+        "question": "Gerçeğine benzetilerek yapılmış olan süs eşyası",
+        "letter": "İ",
+        "answer": "İmitasyon"
+    },
+    {
+        "id": 757,
+        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "letter": "K",
+        "answer": "Komisyon, Kar, Kâr"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 319,
+        "question": "Bir olayın, bir durumun etkisinde veya karşısında bulunan",
+        "letter": "M",
+        "answer": "maruz, maruz kalan"
+    },
+    {
+        "id": 993,
+        "question": "Hoş olmayan, hoşa gitmeyen, kötü, çirkin",
+        "letter": "N",
+        "answer": "Nahoş"
+    },
+    {
+        "id": 351,
+        "question": "Kişisel değer, şeref, itibar",
+        "letter": "O",
+        "answer": "onur"
+    },
+    {
+        "id": 356,
+        "question": "Bir başarı karşılığında verilen armağan, mükâfat",
+        "letter": "Ö",
+        "answer": "ödül"
+    },
+    {
+        "id": 1740,
+        "question": "İnsanın yüzünün yandan görünüşü",
+        "letter": "P",
+        "answer": "Profil"
+    },
+    {
+        "id": 398,
+        "question": "Havalimanında uçuşun gecikme durumu",
+        "letter": "R",
+        "answer": "rötar"
+    },
+    {
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "letter": "S",
+        "answer": "Sahaf"
+    },
+    {
+        "id": 1462,
+        "question": "Etkisi çok olan, zorlu, aşırı",
+        "letter": "Ş",
+        "answer": "Şiddetli"
+    },
+    {
+        "id": 1154,
+        "question": "Diş taşı",
+        "letter": "T",
+        "answer": "tartar"
+    },
+    {
+        "id": 776,
+        "question": "Yağmur Getirmeyen Fırtına",
+        "letter": "U",
+        "answer": "Urağan, uragan"
+    },
+    {
+        "id": 854,
+        "question": "Isı azlığı nedeniyle soğuğun etkisini duymak",
+        "letter": "Ü",
+        "answer": "Üşümek"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 1237,
+        "question": "\"Veya, ya da\" eş anlamlısı",
+        "letter": "Y",
+        "answer": "Yahut"
+    },
+    {
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
+        "letter": "Z",
+        "answer": "Züğürt, züürt, zürt, zügürt"
+    }
+]

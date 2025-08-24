@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1661,
+        "question": "Davranışları ölçülü, olgun (kimse), vakur, ciddi",
+        "letter": "A",
+        "answer": "Ağırbaşlı"
+    },
+    {
+        "id": 139,
+        "question": "Aracısız, kendisi olarak",
+        "letter": "B",
+        "answer": "bizzat"
+    },
+    {
+        "id": 1367,
+        "question": "Bireye, üreme işinde ayrı bir rol veren ve erkekle dişiyi ayırt ettiren özellik",
+        "letter": "C",
+        "answer": "Cinsiyet"
+    },
+    {
+        "id": 178,
+        "question": "Kişileri taşımak için kullanılan, insan gücüyle işleyen iki tekerlekli araç",
+        "letter": "Ç",
+        "answer": "çekçek"
+    },
+    {
+        "id": 553,
+        "question": "Sınır dışı etme, uzaklaştırma",
+        "letter": "D",
+        "answer": "Deport, deport etme, deport etmek"
+    },
+    {
+        "id": 1417,
+        "question": "Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku",
+        "letter": "E",
+        "answer": "Epitelyum"
+    },
+    {
+        "id": 567,
+        "question": "Yanıcı bir maddeden aldığı itici güçle hareket eden düzenek",
+        "letter": "F",
+        "answer": "Füze"
+    },
+    {
+        "id": 1429,
+        "question": "Toprak altına gömülerek saklanmış para veya değerli şeyler, define",
+        "letter": "G",
+        "answer": "Gömü"
+    },
+    {
+        "id": 1442,
+        "question": "Sularda yaşayan canlıların hayatını inceleyen bilim dalı",
+        "letter": "H",
+        "answer": "Hidrobiyoloji"
+    },
+    {
+        "id": 1842,
+        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "letter": "İ",
+        "answer": "İmtina, İmtina etme, İmtina etmek"
+    },
+    {
+        "id": 1922,
+        "question": "FRANSIZCA KÖKENLİ “KONTRAST” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Karşıtlık"
+    },
+    {
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "letter": "L",
+        "answer": "Logo"
+    },
+    {
+        "id": 1748,
+        "question": "Başkalarının hatalarını hoşgörüyle karşılama erdemi",
+        "letter": "M",
+        "answer": "Müsamaha, müsamaha gösterme, müsamaha göstermek"
+    },
+    {
+        "id": 1224,
+        "question": "Çaresi, çözümü olmayan, çaresiz olan",
+        "letter": "N",
+        "answer": "Naçar, naçarlık, nafile"
+    },
+    {
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "letter": "O",
+        "answer": "Orada, orda"
+    },
+    {
+        "id": 659,
+        "question": "Nesnelerin gerçeğine değil, bireyin düşünce ve duygularına dayanan",
+        "letter": "Ö",
+        "answer": "Öznel"
+    },
+    {
+        "id": 1761,
+        "question": "Çalışma saati bitiminde işi bırakma",
+        "letter": "P",
+        "answer": "Paydos, paydos etme, paydos etmek"
+    },
+    {
+        "id": 1637,
+        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "letter": "R",
+        "answer": "Röntgen"
+    },
+    {
+        "id": 828,
+        "question": "Dokuz karenin belirli bir şekilde geçilmesine dayanan çocuk oyunu",
+        "letter": "S",
+        "answer": "Seksek"
+    },
+    {
+        "id": 832,
+        "question": "Sesi tanımlayan sözlerden oluşmuş “çabucak” anlamında kullanılan bir kelime",
+        "letter": "Ş",
+        "answer": "Şipşak"
+    },
+    {
+        "id": 36,
+        "question": "1500 km²'lik yüzeyi ile Türkiye'nin ikinci büyük gölü ",
+        "letter": "T",
+        "answer": "Tuz Gölü, Tuz"
+    },
+    {
+        "id": 450,
+        "question": "Bilgiçlik taslayan (kimse)",
+        "letter": "U",
+        "answer": "ukala"
+    },
+    {
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
+        "letter": "Ü",
+        "answer": "ülke"
+    },
+    {
+        "id": 478,
+        "question": "Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç",
+        "letter": "V",
+        "answer": "vinç"
+    },
+    {
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
+        "letter": "Y",
+        "answer": "Yassı"
+    },
+    {
+        "id": 859,
+        "question": "Fotoğrafçılıkta, Değişken Odak Uzunluklu Objektif",
+        "letter": "Z",
+        "answer": "Zum, zoom"
+    }
+]

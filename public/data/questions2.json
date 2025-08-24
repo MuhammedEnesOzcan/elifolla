@@ -1,0 +1,158 @@
+[
+    {
+        "id": 85,
+        "question": "Şubatın 29 çektiği yıla ne denir",
+        "letter": "A",
+        "answer": "Artık yıl, Artık"
+    },
+    {
+        "id": 1351,
+        "question": "Deniz, havuz vb. yerlere girerken veya güneşlenirken giyilen, iki parçadan oluşan kadın giysisi",
+        "letter": "B",
+        "answer": "Bikini"
+    },
+    {
+        "id": 1729,
+        "question": "Kelimelerin bir araya gelerek oluşturduğu söz dizimi",
+        "letter": "C",
+        "answer": "Cümle"
+    },
+    {
+        "id": 1547,
+        "question": "Balık kılçığı",
+        "letter": "Ç",
+        "answer": "Çopra"
+    },
+    {
+        "id": 1089,
+        "question": "Kavga, gürültülü bağrışıp çağrışma",
+        "letter": "D",
+        "answer": "Dalaş, dalaşı"
+    },
+    {
+        "id": 1409,
+        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
+        "letter": "E",
+        "answer": "Ergonomik"
+    },
+    {
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "letter": "F",
+        "answer": "Freze"
+    },
+    {
+        "id": 1964,
+        "question": "DİVAN EDEBİYATINDA 5-10 BEYİT ARASINDA DEĞİŞEN, UYAKLI, GENELLİKLE LİRİK KONULARDA YAZILAN NAZIM BİÇİMİ",
+        "letter": "G",
+        "answer": "GAZEL"
+    },
+    {
+        "id": 15,
+        "question": "Hristiyan ve İslam inançlarına göre dünyada var olan ilk kadın",
+        "letter": "H",
+        "answer": "havva"
+    },
+    {
+        "id": 601,
+        "question": "Gerçek yönünü ortaya çıkarma, kanıtlama",
+        "letter": "İ",
+        "answer": "İspat, ispatlama, ispatlamak, ispat etme, ispat etmek"
+    },
+    {
+        "id": 979,
+        "question": "Damızlık erkek koyun",
+        "letter": "K",
+        "answer": "Koç"
+    },
+    {
+        "id": 1703,
+        "question": "Yıkanmak için kullanılan bitki telleri demeti veya türlü ipliklerden yapılmış örgü",
+        "letter": "L",
+        "answer": "Lif"
+    },
+    {
+        "id": 629,
+        "question": "Tek, ayrı, kendi başına olan",
+        "letter": "M",
+        "answer": "Münferit"
+    },
+    {
+        "id": 330,
+        "question": "Kullanılması hemen mümkün olan para, likit",
+        "letter": "N",
+        "answer": "nakit, nakit para"
+    },
+    {
+        "id": 820,
+        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
+        "letter": "O",
+        "answer": "Otlak, otlak arazi, ova"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 1020,
+        "question": "Giysilerde bazı yerlerden içeriye doğru daraltılarak dikilmiş bölüm",
+        "letter": "P",
+        "answer": "pens"
+    },
+    {
+        "id": 678,
+        "question": "Yapılması alışkanlık haline gelmiş iş",
+        "letter": "R",
+        "answer": "Rutin, Rutin iş"
+    },
+    {
+        "id": 1123,
+        "question": "Geçen, önceki, eski",
+        "letter": "S",
+        "answer": "sabık, selef, selefi"
+    },
+    {
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
+        "letter": "Ş",
+        "answer": "şakrak"
+    },
+    {
+        "id": 1648,
+        "question": "Gençliği sebebiyle görgüsüz ve beceriksiz olan, çaylak",
+        "letter": "T",
+        "answer": "Toy"
+    },
+    {
+        "id": 778,
+        "question": "Zafer, Üstünlük Sağlama, Yenme",
+        "letter": "U",
+        "answer": "utku"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 1304,
+        "question": "Şehrin mülki amiri",
+        "letter": "V",
+        "answer": "Vali, valilik"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 846,
+        "question": "Zorunluluk, gereklilik ya da yoksulluk anlamındaki söz",
+        "letter": "Z",
+        "answer": "Zaruret, Zaruri"
+    }
+]

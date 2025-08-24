@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1332,
+        "question": "Gök bilimi",
+        "letter": "A",
+        "answer": "Astronomi"
+    },
+    {
+        "id": 135,
+        "question": "Yapılan bir hizmete ödenen ücretten ayrı olarak fazladan verilen para",
+        "letter": "B",
+        "answer": "bahşiş"
+    },
+    {
+        "id": 1306,
+        "question": "Boyu, normalden çok daha kısa olan (kimse)",
+        "letter": "C",
+        "answer": "Cüce"
+    },
+    {
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
+        "letter": "Ç",
+        "answer": "Çaça"
+    },
+    {
+        "id": 1391,
+        "question": "Yabancı ülke parası",
+        "letter": "D",
+        "answer": "Döviz"
+    },
+    {
+        "id": 1238,
+        "question": "Kimyasal tepkimelerin hızını arttıran, canlı hücrelerde üretilen özel proteinler",
+        "letter": "E",
+        "answer": "Enzim, enzimler"
+    },
+    {
+        "id": 227,
+        "question": "Satıcının alıcıya verdiği hesap pusulası",
+        "letter": "F",
+        "answer": "fatura, fiş"
+    },
+    {
+        "id": 1284,
+        "question": "Cildin nefes almasını ve nemli kalmasını sağlayan küçük kanallar",
+        "letter": "G",
+        "answer": "Gözenek, gözenekler"
+    },
+    {
+        "id": 1099,
+        "question": "Adalete uygun bir biçimde, doğrulukla, adilane",
+        "letter": "H",
+        "answer": "Hakça"
+    },
+    {
+        "id": 270,
+        "question": "Çözülmesi kolay düğüm, eğreti düğüm",
+        "letter": "İ",
+        "answer": "ilmek"
+    },
+    {
+        "id": 613,
+        "question": "Uygunsuz hareket, çirkin, yakışıksız davranış, suç",
+        "letter": "K",
+        "answer": "Kabahat"
+    },
+    {
+        "id": 1106,
+        "question": "Üzerinde su muslukları bulunan, el, yüz, bulaşık yıkamaya yarar, çukur yer veya eşya",
+        "letter": "L",
+        "answer": "Lavabo, lavobo"
+    },
+    {
+        "id": 1839,
+        "question": "BİR BÖLGEYE ÖZGÜ OLAN, BÖLGESEL, YER, MAHAL",
+        "letter": "M",
+        "answer": "Mevzi, Mevzii"
+    },
+    {
+        "id": 329,
+        "question": "Bir yerden alıp başka bir yere iletme, aktarma, taşıma",
+        "letter": "N",
+        "answer": "nakil, nakil işlemi"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 1013,
+        "question": "Yaşlı, koca, ihtiyar kimse",
+        "letter": "P",
+        "answer": "Pir"
+    },
+    {
+        "id": 1640,
+        "question": "Müzikte durakların düzenli bir biçimde tekrarlanmasından doğan ses uygunluğu",
+        "letter": "R",
+        "answer": "Ritim, ritm"
+    },
+    {
+        "id": 1876,
+        "question": "İKİ VEYA DAHA ÇOK ŞEY ARASINDA KONUM, BİÇİM VE BELİRLİ BİR EKSENE GÖRE ÖLÇÜ UYGUNLUĞU",
+        "letter": "S",
+        "answer": "Simetri"
+    },
+    {
+        "id": 1312,
+        "question": "Kuşku",
+        "letter": "Ş",
+        "answer": "Şüphe"
+    },
+    {
+        "id": 1065,
+        "question": "Ayağın alt yüzü, aya",
+        "letter": "T",
+        "answer": "taban"
+    },
+    {
+        "id": 893,
+        "question": "Kaşındırıcı bir deri hastalığı",
+        "letter": "U",
+        "answer": "Uyuz"
+    },
+    {
+        "id": 874,
+        "question": "İnsanların ihtiyaçlarını karşılamak için yeni ürünler ortaya koyması",
+        "letter": "Ü",
+        "answer": "Üretim, üretme, üretmek"
+    },
+    {
+        "id": 474,
+        "question": "Sevgiyi sürdürme, sevgi, dostluk bağlılığı",
+        "letter": "V",
+        "answer": "vefa"
+    },
+    {
+        "id": 1500,
+        "question": "Genellikle dağlık bölgelerde, yazın havası iyi ve serin olan, hayvan otlatma veya dinlenme yeri",
+        "letter": "Y",
+        "answer": "Yayla"
+    },
+    {
+        "id": 503,
+        "question": "Acımasız ve haksız davranan, zulmeden",
+        "letter": "Z",
+        "answer": "zalim, zorba"
+    }
+]

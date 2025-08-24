@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1808,
+        "question": "Gürültülü çatışma, kavga",
+        "letter": "A",
+        "answer": "Arbede"
+    },
+    {
+        "id": 1773,
+        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "letter": "B",
+        "answer": "Buluş"
+    },
+    {
+        "id": 161,
+        "question": "Sözünden, kararından dönmek, vazgeçmek",
+        "letter": "C",
+        "answer": "caymak, cayma"
+    },
+    {
+        "id": 1844,
+        "question": "PARÇALARA AYRILIP DAĞILMAYACAK BİR BİÇİMDE YARILMA",
+        "letter": "Ç",
+        "answer": "Çatlama, Çatlamak"
+    },
+    {
+        "id": 193,
+        "question": "Sıkıştırılmış hava içine püskürtülen yakıtla çalışan motor",
+        "letter": "D",
+        "answer": "dizel, dizel motor"
+    },
+    {
+        "id": 1723,
+        "question": "Enfeksiyon sonucu hasta olan kişi, enfenksiyon bulaşmış",
+        "letter": "E",
+        "answer": "Enfekte"
+    },
+    {
+        "id": 226,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "facia, feci"
+    },
+    {
+        "id": 753,
+        "question": "Bitkilerin büyümesi için gerekli gıdayı ihtiva eden madde",
+        "letter": "G",
+        "answer": "Gübre"
+    },
+    {
+        "id": 806,
+        "question": "Monarşik aile",
+        "letter": "H",
+        "answer": "Hanedan, Hanedanlık"
+    },
+    {
+        "id": 256,
+        "question": "Alınmış bir şeyi geri verme",
+        "letter": "İ",
+        "answer": "iade"
+    },
+    {
+        "id": 284,
+        "question": "Davranış, düşünce, duygu bakımından ince, nazik olan (kimse)",
+        "letter": "K",
+        "answer": "kibar"
+    },
+    {
+        "id": 293,
+        "question": "Bulgar para birimi",
+        "letter": "L",
+        "answer": "leva"
+    },
+    {
+        "id": 314,
+        "question": "Ayrı tutulmuş, ayrıcalık tanınmış",
+        "letter": "M",
+        "answer": "muaf"
+    },
+    {
+        "id": 1224,
+        "question": "Çaresi, çözümü olmayan, çaresiz olan",
+        "letter": "N",
+        "answer": "Naçar, naçarlık, nafile"
+    },
+    {
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "letter": "O",
+        "answer": "Ofris"
+    },
+    {
+        "id": 1009,
+        "question": "Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey, mavera",
+        "letter": "Ö",
+        "answer": "Öte"
+    },
+    {
+        "id": 1013,
+        "question": "Yaşlı, koca, ihtiyar kimse",
+        "letter": "P",
+        "answer": "Pir"
+    },
+    {
+        "id": 1641,
+        "question": "Eski yapıları onarma",
+        "letter": "R",
+        "answer": "Restore, restorasyon, restore etme, restore etmek"
+    },
+    {
+        "id": 690,
+        "question": "Kısa mesaj servisi kısaltması",
+        "letter": "S",
+        "answer": "SMS"
+    },
+    {
+        "id": 1058,
+        "question": "Genellikle bazı sporları yaparken giyilen, paçaları dizlerin yukarısında başlayan kısa pantolon",
+        "letter": "Ş",
+        "answer": "Şort"
+    },
+    {
+        "id": 1061,
+        "question": "Birçok spor oyununda kullanılan, türlü büyüklükte, genellikle kauçuktan yapılmış yuvarlak nesne",
+        "letter": "T",
+        "answer": "top"
+    },
+    {
+        "id": 1068,
+        "question": "Çok uzun",
+        "letter": "U",
+        "answer": "upuzun"
+    },
+    {
+        "id": 1468,
+        "question": "Güvercinlerden, korularda yaşayan, eti için avlanan, boz renkli bir kuş (Streptopelia turtur)",
+        "letter": "Ü",
+        "answer": "Üveyik"
+    },
+    {
+        "id": 1138,
+        "question": "Tehlikeli durum",
+        "letter": "V",
+        "answer": "varta, vuku, vukuat"
+    },
+    {
+        "id": 772,
+        "question": "Genellikle eylemin çekiciliğini arttıran engelleyici kural",
+        "letter": "Y",
+        "answer": "Yasak"
+    },
+    {
+        "id": 850,
+        "question": "Dermansızlık, Zayıf nokta",
+        "letter": "Z",
+        "answer": "Zafiyet, zafıyet"
+    }
+]

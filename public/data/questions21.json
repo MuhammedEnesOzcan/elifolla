@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1378,
+        "question": "Bir şeye dikkati yönelterek o şeyin bilincine varma, idrak",
+        "letter": "A",
+        "answer": "Algı, algılama, algılamak"
+    },
+    {
+        "id": 1287,
+        "question": "Verme, bağışlama",
+        "letter": "B",
+        "answer": "Bahşetme, bahşetmek"
+    },
+    {
+        "id": 1361,
+        "question": "Çekici, Enteresan, Dikkat Çeken",
+        "letter": "C",
+        "answer": "Cezbedici, cazip, cazibeli"
+    },
+    {
+        "id": 177,
+        "question": "Çiçek, dal ve yapraklarla yapılmış halka",
+        "letter": "Ç",
+        "answer": "çelenk"
+    },
+    {
+        "id": 1388,
+        "question": "Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva",
+        "letter": "D",
+        "answer": "Dübel"
+    },
+    {
+        "id": 560,
+        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "letter": "E",
+        "answer": "Edip"
+    },
+    {
+        "id": 1226,
+        "question": "Herhangi bir konuda verilen kararın kısa bir özet haline getirilmesi, soruşturma evrakı",
+        "letter": "F",
+        "answer": "Fezleke"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 593,
+        "question": "Uçan balonların içinde bulunan gaz",
+        "letter": "H",
+        "answer": "Helyum, Helyum gazı"
+    },
+    {
+        "id": 266,
+        "question": "Bir kararı, bir yargıyı yerine getirme, uygulama, yürütüm",
+        "letter": "İ",
+        "answer": "infaz, infaz etme, infaz etmek"
+    },
+    {
+        "id": 1194,
+        "question": "Arabalarda da bulunan, yaz aylarında ortamı soğutmak için kullanılan cihaz",
+        "letter": "K",
+        "answer": "Klima"
+    },
+    {
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
+        "letter": "L",
+        "answer": "leziz"
+    },
+    {
+        "id": 1616,
+        "question": "Miras bırakan kimse",
+        "letter": "M",
+        "answer": "Muris"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 820,
+        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
+        "letter": "O",
+        "answer": "Otlak, otlak arazi, ova"
+    },
+    {
+        "id": 1478,
+        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "letter": "Ö",
+        "answer": "Özerk"
+    },
+    {
+        "id": 1156,
+        "question": "Tank tekeri, zorlu arazilerde gitmeye yarayan araç",
+        "letter": "P",
+        "answer": "Palet, paletli"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 1813,
+        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
+        "letter": "S",
+        "answer": "Solaryum"
+    },
+    {
+        "id": 1686,
+        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
+        "letter": "Ş",
+        "answer": "Şapel"
+    },
+    {
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "letter": "T",
+        "answer": "Taktik"
+    },
+    {
+        "id": 450,
+        "question": "Bilgiçlik taslayan (kimse)",
+        "letter": "U",
+        "answer": "ukala"
+    },
+    {
+        "id": 854,
+        "question": "Isı azlığı nedeniyle soğuğun etkisini duymak",
+        "letter": "Ü",
+        "answer": "Üşümek"
+    },
+    {
+        "id": 482,
+        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
+        "letter": "V",
+        "answer": "vezne"
+    },
+    {
+        "id": 489,
+        "question": "Kişiye isnat edilen haksız suçlama",
+        "letter": "Y",
+        "answer": "yafta, yaftalama, yaftalamak"
+    },
+    {
+        "id": 1591,
+        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "letter": "Z",
+        "answer": "Zarar, ziyan"
+    }
+]

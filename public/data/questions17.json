@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1754,
+        "question": "Anlaşmazlık konusunda çözüm için araya giren üçünçü kimse ya da kurum",
+        "letter": "A",
+        "answer": "Arabulucu"
+    },
+    {
+        "id": 1230,
+        "question": "Birdenbire ortaya çıkan tehlikeli durum",
+        "letter": "B",
+        "answer": "Badire, badire atlatma, badire atlatmak"
+    },
+    {
+        "id": 1308,
+        "question": "Küçük ve tatlı bir tür karpuz",
+        "letter": "C",
+        "answer": "Cimcime"
+    },
+    {
+        "id": 1541,
+        "question": "Şundan dolayı, şu sebeple, zira",
+        "letter": "Ç",
+        "answer": "Çünkü"
+    },
+    {
+        "id": 1171,
+        "question": "Hareketsiz, sabit, akışında",
+        "letter": "D",
+        "answer": "Durağan"
+    },
+    {
+        "id": 563,
+        "question": "Öğrenci yurt dışı değişim programı",
+        "letter": "E",
+        "answer": "Erasmus"
+    },
+    {
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
+        "letter": "F",
+        "answer": "fünye"
+    },
+    {
+        "id": 1790,
+        "question": "BENZERLERİ ARASINDA NİTELİKLERİ SEBEBİYLE ÜSTÜN TUTULAN, BEĞENİLEN, ÖNEM VERİLEN KİMSE VEYA ŞEY",
+        "letter": "G",
+        "answer": "Gözde"
+    },
+    {
+        "id": 60,
+        "question": "Güney yarım küre'de en uzun gecenin yaşandığı ay",
+        "letter": "H",
+        "answer": "haziran"
+    },
+    {
+        "id": 1198,
+        "question": "Sığınma, sığınma hakkı",
+        "letter": "İ",
+        "answer": "İltica, iltica hakkı"
+    },
+    {
+        "id": 1697,
+        "question": "GERÇEĞİN NE OLDUĞUNU TAM OLARAK KESTİREMEMEKTEN DOĞAN KARARSIZLIK, İŞKİL",
+        "letter": "K",
+        "answer": "Kuşku, kuşkulanma, kuşkulanmak"
+    },
+    {
+        "id": 294,
+        "question": "Gösterişli, şatafatlı olan",
+        "letter": "L",
+        "answer": "lüks"
+    },
+    {
+        "id": 1893,
+        "question": "“BİLEREK, İSTEYEREK, KASTEN” ANLAMLARINA GELEN SÖZCÜK",
+        "letter": "M",
+        "answer": "Mahsus"
+    },
+    {
+        "id": 990,
+        "question": "Güzel, uyumlu ses, ezgi, melodi",
+        "letter": "N",
+        "answer": "Nağme"
+    },
+    {
+        "id": 1898,
+        "question": "GÖZETİLEN AMACA VEYA BEKLENİLENE UYGUN OLMAYAN, MENFİ",
+        "letter": "O",
+        "answer": "Olumsuz"
+    },
+    {
+        "id": 1689,
+        "question": "AYIRT EDİCİ BİR NİTELİĞİ OLAN",
+        "letter": "Ö",
+        "answer": "Özel, özellikli"
+    },
+    {
+        "id": 1937,
+        "question": "Hastalıkla ilgili hücrelerdeki, dokulardaki ve organlardaki yapısal ve işlevsel değişikliklerin tanınması, araştırılması ve incelenmesiyle ilgilenen bilim dalı",
+        "letter": "P",
+        "answer": "Patoloji, Pataloji"
+    },
+    {
+        "id": 1637,
+        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "letter": "R",
+        "answer": "Röntgen"
+    },
+    {
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "letter": "S",
+        "answer": "Sahaf"
+    },
+    {
+        "id": 1460,
+        "question": "Peynir, zeytin, salam, sucuk vb. yiyeceklerin satıldığı market bölümü",
+        "letter": "Ş",
+        "answer": "Şarküteri"
+    },
+    {
+        "id": 705,
+        "question": "Güneş’in doğuşundan önceki alacakaranlık zaman",
+        "letter": "T",
+        "answer": "Tan, Tan vakti"
+    },
+    {
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
+        "letter": "U",
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
+    },
+    {
+        "id": 725,
+        "question": "Birci, birlikten yana olan, tekil, birimsel",
+        "letter": "Ü",
+        "answer": "Üniter"
+    },
+    {
+        "id": 1567,
+        "question": "Miras bırakılan kimse, mirasçı",
+        "letter": "V",
+        "answer": "Varis"
+    },
+    {
+        "id": 947,
+        "question": "Köpek ve ineklere yedirilmek üzere un ve kepekle hazırlanan yiyecek",
+        "letter": "Y",
+        "answer": "yal, yem"
+    },
+    {
+        "id": 511,
+        "question": "Saçma, saçma sapan, boş, anlamsız söz",
+        "letter": "Z",
+        "answer": "zırva"
+    }
+]

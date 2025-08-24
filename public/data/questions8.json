@@ -1,0 +1,158 @@
+[
+    {
+        "id": 783,
+        "question": "Bir yapının veya yapı grubunun ortasında kalan, etrafı çevrili üstü açık alan",
+        "letter": "A",
+        "answer": "Avlu, Avlusu"
+    },
+    {
+        "id": 1773,
+        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "letter": "B",
+        "answer": "Buluş"
+    },
+    {
+        "id": 1360,
+        "question": "Kuşların ötüşürken çıkardıkları ses",
+        "letter": "C",
+        "answer": "Cıvıltı, cıvıldama, cıvıldamak"
+    },
+    {
+        "id": 1450,
+        "question": "Karikatürcü",
+        "letter": "Ç",
+        "answer": "Çizer"
+    },
+    {
+        "id": 1231,
+        "question": "Otomobilin vites geçirmek için en sol tarafta ayak ile basılan pedalı",
+        "letter": "D",
+        "answer": "Debriyaj, debriaj, debriyaj pedalı, debriaj pedalı"
+    },
+    {
+        "id": 1487,
+        "question": "Organizmada hastalığa yol açan bir mikrobun genel veya yerel gelişmesi, yayılması",
+        "letter": "E",
+        "answer": "Enfeksiyon, enfekte olma, enfekte olma"
+    },
+    {
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "letter": "F",
+        "answer": "Fidan"
+    },
+    {
+        "id": 1863,
+        "question": "YEMEK YENİLEN, GÖSTERİ İZLENEN, MÜZİK DİNLENEN, BAZEN OYUN SERGİLENEN EĞLENCE YERİ",
+        "letter": "G",
+        "answer": "Gazino"
+    },
+    {
+        "id": 1438,
+        "question": "Bazı durumlarda olumsuz sonuçlar doğurabilecek sonu gelmeyen istek, aşırı tutku",
+        "letter": "H",
+        "answer": "Hırs"
+    },
+    {
+        "id": 604,
+        "question": "Gerçeğin gülünç yanını ortaya koyan ince alay",
+        "letter": "İ",
+        "answer": "İroni"
+    },
+    {
+        "id": 977,
+        "question": "Başlık, sipersiz şapka",
+        "letter": "K",
+        "answer": "Kep"
+    },
+    {
+        "id": 985,
+        "question": "Tanrı'nın sevgi ve ilgisinden yoksun olma, beddua",
+        "letter": "L",
+        "answer": "Lanet, lanetleme, lanetlenme, lanetlenmek"
+    },
+    {
+        "id": 1791,
+        "question": "“HUY, YARADILIŞ, TABİAT VEYA KARAKTER” ANLAMLARINDA KULLANILAN BİR SÖZCÜK",
+        "letter": "M",
+        "answer": "Mizaç"
+    },
+    {
+        "id": 642,
+        "question": "Davranışı kaba, sert ve gönül kırıcı olan",
+        "letter": "N",
+        "answer": "Nobran"
+    },
+    {
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "letter": "O",
+        "answer": "OLGU"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 1707,
+        "question": "Hristiyan din adamı, peder",
+        "letter": "P",
+        "answer": "Papaz"
+    },
+    {
+        "id": 677,
+        "question": "Gözden geçirmek, düzeltmek, yenilemek",
+        "letter": "R",
+        "answer": "Revize, Revizyon, Rötuş, Rötuşlamak"
+    },
+    {
+        "id": 411,
+        "question": "Yoğun bir biçimde yapılan atak",
+        "letter": "S",
+        "answer": "salvo"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 64,
+        "question": "Hava sıcaklığını ölçmeye yarayan alet",
+        "letter": "T",
+        "answer": "termometre"
+    },
+    {
+        "id": 447,
+        "question": "Uysal bir biçimde",
+        "letter": "U",
+        "answer": "uslu"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 488,
+        "question": "Yürüyerek giden kimse",
+        "letter": "Y",
+        "answer": "yaya"
+    },
+    {
+        "id": 1594,
+        "question": "Şiddetli bir şekilde titremek veya sallanmak",
+        "letter": "Z",
+        "answer": "Zangırdamak, zangırdama"
+    }
+]

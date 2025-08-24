@@ -1,0 +1,158 @@
+[
+    {
+        "id": 118,
+        "question": "Genellikle üzeri siperli masa lambası veya ayaklı lamba",
+        "letter": "A",
+        "answer": "abajur"
+    },
+    {
+        "id": 87,
+        "question": "Birim yüzeye uygulanan kuvvet",
+        "letter": "B",
+        "answer": "basınç"
+    },
+    {
+        "id": 14,
+        "question": "Ülkemizde de sık görülen bir tür köpek balığı?",
+        "letter": "C",
+        "answer": "camgöz"
+    },
+    {
+        "id": 172,
+        "question": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
+        "letter": "Ç",
+        "answer": "çakı"
+    },
+    {
+        "id": 1396,
+        "question": "Sıkıştırılmış hava içine püskürtülen mazotla çalışan motor",
+        "letter": "D",
+        "answer": "Dizel, dizel motor"
+    },
+    {
+        "id": 216,
+        "question": "Damar tıkanıklığı",
+        "letter": "E",
+        "answer": "emboli"
+    },
+    {
+        "id": 752,
+        "question": "Anlayış, seziş, sezgi",
+        "letter": "F",
+        "answer": "Feraset"
+    },
+    {
+        "id": 1701,
+        "question": "Yadırganacak bir yönü olma durumu, yadırgatıcılık, tuhaflık",
+        "letter": "G",
+        "answer": "Garabet"
+    },
+    {
+        "id": 248,
+        "question": "Dışta kalmak üzere, dışında sayılmak üzere, müstesna",
+        "letter": "H",
+        "answer": "hariç"
+    },
+    {
+        "id": 1199,
+        "question": "Damıtma işinde kullanılan araç, damıtıcı",
+        "letter": "İ",
+        "answer": "İmbik"
+    },
+    {
+        "id": 66,
+        "question": "Diğer adı perçem olan alna düşen kısa kesilmiş saç",
+        "letter": "K",
+        "answer": "Kahkül, Kakül"
+    },
+    {
+        "id": 1832,
+        "question": "PORTATİF KÜÇÜK ÇOCUK TUVALETİ",
+        "letter": "L",
+        "answer": "Lazımlık"
+    },
+    {
+        "id": 324,
+        "question": "Özdeyiş, slogan",
+        "letter": "M",
+        "answer": "motto"
+    },
+    {
+        "id": 1242,
+        "question": "Düzyazı sanatı",
+        "letter": "N",
+        "answer": "Nesir, nesir sanatı"
+    },
+    {
+        "id": 998,
+        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
+        "letter": "O",
+        "answer": "oya"
+    },
+    {
+        "id": 658,
+        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
+        "letter": "Ö",
+        "answer": "Özenti, Özentilik, Özenme, Özenmek"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 1025,
+        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
+        "letter": "R",
+        "answer": "run"
+    },
+    {
+        "id": 1824,
+        "question": "Bir şeyin yalnız kenar çizgileriyle tek renk olarak beliren görüntüsü, gölge",
+        "letter": "S",
+        "answer": "Silüet"
+    },
+    {
+        "id": 1685,
+        "question": "İsrail para birimi",
+        "letter": "Ş",
+        "answer": "Şekel"
+    },
+    {
+        "id": 1750,
+        "question": "Dini referanslar dikkate alınarak yönetilen hükümet sistemi",
+        "letter": "T",
+        "answer": "Teokrasi"
+    },
+    {
+        "id": 1069,
+        "question": "ele avuca sığmaz (kimse)",
+        "letter": "U",
+        "answer": "Uçarı"
+    },
+    {
+        "id": 1315,
+        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "letter": "Ü",
+        "answer": "Ütopik"
+    },
+    {
+        "id": 872,
+        "question": "Bulaşıcı Hastalıklara Yol Açan Mikrop",
+        "letter": "V",
+        "answer": "Virüs, vırus"
+    },
+    {
+        "id": 717,
+        "question": "Yüksek mahkeme, yüksek yargı kurulu",
+        "letter": "Y",
+        "answer": "Yargıtay"
+    },
+    {
+        "id": 501,
+        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
+        "letter": "Z",
+        "answer": "zırh"
+    }
+]

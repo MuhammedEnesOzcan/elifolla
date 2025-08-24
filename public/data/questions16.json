@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1654,
+        "question": "Bir şeyin umulduğundan az olduğu yargısına varmak, az görmek, az bulmak",
+        "letter": "A",
+        "answer": "Azımsamak, azımsama"
+    },
+    {
+        "id": 135,
+        "question": "Yapılan bir hizmete ödenen ücretten ayrı olarak fazladan verilen para",
+        "letter": "B",
+        "answer": "bahşiş"
+    },
+    {
+        "id": 156,
+        "question": "Bir devlet veya kuruluşun gizli amaçları için çalışan kimse, ajan",
+        "letter": "C",
+        "answer": "casus"
+    },
+    {
+        "id": 1200,
+        "question": "Evlenecekler için hazırlanan yada alınan ev eşyalarının tümü",
+        "letter": "Ç",
+        "answer": "Çeyiz"
+    },
+    {
+        "id": 196,
+        "question": "Belirli miktarın veya büyüklüğün iki katı",
+        "letter": "D",
+        "answer": "duble"
+    },
+    {
+        "id": 1091,
+        "question": "Bireyler, fertler",
+        "letter": "E",
+        "answer": "Efrat"
+    },
+    {
+        "id": 1490,
+        "question": "Koku, ilaç vb. sıvıları püskürtmek için kullanılan araç",
+        "letter": "F",
+        "answer": "Fısfıs"
+    },
+    {
+        "id": 236,
+        "question": "Elde edilmesi gereken, ulaşılmak istenen şey, amaç, maksat",
+        "letter": "G",
+        "answer": "gaye"
+    },
+    {
+        "id": 1496,
+        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "letter": "H",
+        "answer": "Hamak"
+    },
+    {
+        "id": 1842,
+        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "letter": "İ",
+        "answer": "İmtina, İmtina etme, İmtina etmek"
+    },
+    {
+        "id": 281,
+        "question": "Silah, kılıç vb. şeylerde tutulacak yer, tutak, sap",
+        "letter": "K",
+        "answer": "kabza"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 628,
+        "question": "Ruh hali, mizaç, hal, anlık hal durumu",
+        "letter": "M",
+        "answer": "Mod, moral"
+    },
+    {
+        "id": 949,
+        "question": "Nikel'in simgesi",
+        "letter": "N",
+        "answer": "ni"
+    },
+    {
+        "id": 1001,
+        "question": "Erkek çocuk",
+        "letter": "O",
+        "answer": "Oğlan"
+    },
+    {
+        "id": 370,
+        "question": "Benzeri yapılacak olan, benzetilmek istenen şey, model",
+        "letter": "Ö",
+        "answer": "örnek"
+    },
+    {
+        "id": 1854,
+        "question": "YAYA OLARAK SAVAŞAN ASKERLERİN OLUŞTURDUĞU SINIF",
+        "letter": "P",
+        "answer": "Piyade"
+    },
+    {
+        "id": 1278,
+        "question": "Uyku sırasında görülen olaylar",
+        "letter": "R",
+        "answer": "Rüya"
+    },
+    {
+        "id": 685,
+        "question": "Yapay, yapma, sentetik",
+        "letter": "S",
+        "answer": "Suni"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 440,
+        "question": "Herhangi bir konuda verilen gizli bilgi",
+        "letter": "T",
+        "answer": "tüyo, tüyo verme, tüyo vermek"
+    },
+    {
+        "id": 1066,
+        "question": "Dik ve derin yamaç",
+        "letter": "U",
+        "answer": "Uçurum"
+    },
+    {
+        "id": 861,
+        "question": "Sivrisineğe benzer çok küçük bir sinek türü",
+        "letter": "Ü",
+        "answer": "Üvez"
+    },
+    {
+        "id": 872,
+        "question": "Bulaşıcı Hastalıklara Yol Açan Mikrop",
+        "letter": "V",
+        "answer": "Virüs, vırus"
+    },
+    {
+        "id": 496,
+        "question": "Enerji ve ısı ortaya çıkaran yanıcı madde",
+        "letter": "Y",
+        "answer": "yakıt"
+    },
+    {
+        "id": 842,
+        "question": "Zeki, anlayış sahibi",
+        "letter": "Z",
+        "answer": "Zeren"
+    }
+]

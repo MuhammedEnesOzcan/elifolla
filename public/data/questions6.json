@@ -1,0 +1,158 @@
+[
+    {
+        "id": 517,
+        "question": "Bir şeyi, bir olayı olduğundan büyük veya çok gösterme",
+        "letter": "A",
+        "answer": "Abartı, Abartma, Abartmak"
+    },
+    {
+        "id": 746,
+        "question": "Çeşitli sebeplerle zihin gücünü yitirmek",
+        "letter": "B",
+        "answer": "Bunama, Bunamak"
+    },
+    {
+        "id": 532,
+        "question": "Heyecanlı, coşkulu ve atik kimse",
+        "letter": "C",
+        "answer": "Cevval"
+    },
+    {
+        "id": 1541,
+        "question": "Şundan dolayı, şu sebeple, zira",
+        "letter": "Ç",
+        "answer": "Çünkü"
+    },
+    {
+        "id": 1383,
+        "question": "Eşlerin baba ve analarının birbirlerine göre durumu",
+        "letter": "D",
+        "answer": "Dünür, dünürü, dünürlük"
+    },
+    {
+        "id": 1487,
+        "question": "Organizmada hastalığa yol açan bir mikrobun genel veya yerel gelişmesi, yayılması",
+        "letter": "E",
+        "answer": "Enfeksiyon, enfekte olma, enfekte olma"
+    },
+    {
+        "id": 1490,
+        "question": "Koku, ilaç vb. sıvıları püskürtmek için kullanılan araç",
+        "letter": "F",
+        "answer": "Fısfıs"
+    },
+    {
+        "id": 1865,
+        "question": "BİR TOPLUMUN, GEREKLİ KAYNAKLARI ELDE EDEBİLMEK ÜZERE DÜZENLİ OLARAK YER DEĞİŞTİRMESİ",
+        "letter": "G",
+        "answer": "Göçebelik, Göç, Göç etmesi"
+    },
+    {
+        "id": 1098,
+        "question": "Kur'an'ı bütünüyle ezbere bilen kimse",
+        "letter": "H",
+        "answer": "Hafız"
+    },
+    {
+        "id": 1953,
+        "question": "ACI VE ÜZÜNTÜYÜ BELİRTEN KESİK KESİK SESLER",
+        "letter": "İ",
+        "answer": "İnilti"
+    },
+    {
+        "id": 1935,
+        "question": "Hem taşıt hem konut olarak kullanılan üstü kapalı araç",
+        "letter": "K",
+        "answer": "Karavan"
+    },
+    {
+        "id": 1527,
+        "question": "Sükseli, kalantor, gösterişli kimse",
+        "letter": "L",
+        "answer": "Lort"
+    },
+    {
+        "id": 57,
+        "question": "Türkçede adı tek heceli olan tek ay",
+        "letter": "M",
+        "answer": "mart"
+    },
+    {
+        "id": 635,
+        "question": "Kuzey Atlantik Antlaşması Örgütü",
+        "letter": "N",
+        "answer": "NATO"
+    },
+    {
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "letter": "O",
+        "answer": "OLGU"
+    },
+    {
+        "id": 366,
+        "question": "Bir kusurun hoş görülmesini gerektiren sebep, mazeret",
+        "letter": "Ö",
+        "answer": "özür"
+    },
+    {
+        "id": 381,
+        "question": "Elektrik akımı almak için fişin sokulduğu yuva",
+        "letter": "P",
+        "answer": "priz"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 416,
+        "question": "Çok bulunmayan, az rastlanan, nadir",
+        "letter": "S",
+        "answer": "seyrek"
+    },
+    {
+        "id": 703,
+        "question": "Oturduğu yerde hafif ve kısa süreli uyuma",
+        "letter": "Ş",
+        "answer": "Şekerleme"
+    },
+    {
+        "id": 1129,
+        "question": "Verimsiz duruma getirme, sonuçsuz bırakma, kısırlaştırma",
+        "letter": "T",
+        "answer": "takim"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 469,
+        "question": "Ayrıca, bir de, bundan başka",
+        "letter": "Ü",
+        "answer": "üstelik"
+    },
+    {
+        "id": 875,
+        "question": "Foseptik Kuyularındaki Pis Suları Çekmeye Yarayan Makine",
+        "letter": "V",
+        "answer": "Vidanjör, vıdanjor"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

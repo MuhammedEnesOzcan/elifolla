@@ -1,0 +1,153 @@
+/* stage zaten var; genişliği %100 kalsın */
+.stage {
+  min-height: calc(100vh - var(--topbar-h));
+  width: 100%;
+  display: grid;
+  place-items: center;
+  padding: 24px;
+  box-sizing: border-box;
+}
+
+/* Ortadaki editör kutusu */
+.editor {
+  max-width: 900px;
+  width: min(90vw, 900px);
+  display: grid;
+  gap: 16px;
+  text-align: center;
+}
+
+/* Metin */
+.stage-text {
+  margin: 0;
+  font-size: clamp(24px, 5vw, 40px);
+  line-height: 1.25;
+  color: #f0f0f0; /* koyu arkaplanda okunaklı */
+}
+
+.circle.active {
+  border-color: white !important;  /* beyaz kenar */
+  box-shadow: 0 0 6px rgba(255, 255, 255, 0.8);
+}
+
+.circle.correct {
+  background: #4caf50;
+  border-color: #4caf50;
+  color: white;
+}
+
+/* Yanlış cevap: kırmızı */
+.circle.wrong {
+  background: #f44336;
+  border-color: #f44336;
+  color: white;
+}
+
+/* Form alanı */
+.field {
+  display: grid;
+  gap: 8px;
+  text-align: left;
+}
+
+.field-label {
+  font-weight: 600;
+  color: #ddd;
+}
+
+textarea {
+  resize: none;
+  width: 60%;
+  height: 40%;
+  margin: 20px auto;   /* üstten-alttan 20px, sağ-sol auto → ortalar */
+  display: block; 
+}
+
+textarea:focus {
+  border-color: var(--ring);
+  box-shadow: 0 0 0 3px rgba(255,77,79,.2);
+}
+
+/* Butonlar */
+.actions {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.btn {
+  padding: 10px 16px;
+  border-radius: 10px;
+  border: 1px solid #3a3a3a;
+  background: #2a2a2a;
+  color: #fff;
+  cursor: pointer;
+}
+
+.btn:hover { filter: brightness(1.05); }
+
+.btn.primary {
+  border-color: var(--ring);
+  background: #ff4d4f;
+  color: #fff;
+}
+/* Sonuç sayfası */
+.result-page {
+  min-height: calc(100vh - var(--topbar-h));
+  width: 100%;
+  padding: 24px;
+  box-sizing: border-box;
+  display: grid;
+  gap: 16px;
+  place-items: start center;
+  text-align: center;
+}
+
+.result-table {
+  width: min(1200px, 95vw);
+  display: grid;
+  gap: 8px;
+}
+
+.result-head,
+.result-row {
+  display: grid;
+  grid-template-columns: 72px 1.6fr 1.2fr 1fr 96px;
+  gap: 12px;
+  align-items: start;
+}
+
+.result-head {
+  font-weight: 700;
+  opacity: 0.9;
+  padding: 8px 10px;
+  border-bottom: 1px solid #444;
+}
+
+.result-row {
+  padding: 8px 10px;
+  border: 1px solid #333;
+  border-radius: 10px;
+  background: #1b1b1b;
+}
+
+.mono { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; }
+.ok { color: #4caf50; }
+.bad { color: #f44336; }
+
+.copy-block {
+  width: min(1200px, 95vw);
+  display: grid;
+  gap: 10px;
+}
+
+.copy-block textarea {
+  width: 100%;
+  min-height: 160px;
+  background: #101010;
+  color: #ddd;
+  border: 1px solid #333;
+  border-radius: 10px;
+  padding: 12px;
+  resize: vertical;
+}

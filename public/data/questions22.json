@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1302,
+        "question": "Bir işin yolunda gitmemesi durumu, elverişsizlik",
+        "letter": "A",
+        "answer": "Aksilik, aksi, aksilik çıkması"
+    },
+    {
+        "id": 139,
+        "question": "Aracısız, kendisi olarak",
+        "letter": "B",
+        "answer": "bizzat"
+    },
+    {
+        "id": 1086,
+        "question": "Şehir içinde ana yol",
+        "letter": "C",
+        "answer": "cadde"
+    },
+    {
+        "id": 1450,
+        "question": "Karikatürcü",
+        "letter": "Ç",
+        "answer": "Çizer"
+    },
+    {
+        "id": 1389,
+        "question": "Gelinin başını, bazen de yüzünü örten dantel veya tülden örtü",
+        "letter": "D",
+        "answer": "Duvak"
+    },
+    {
+        "id": 206,
+        "question": "Gerçekleştirilmesi zamana bağlı istek",
+        "letter": "E",
+        "answer": "emel"
+    },
+    {
+        "id": 225,
+        "question": "Ancak, ama, lakin",
+        "letter": "F",
+        "answer": "fakat"
+    },
+    {
+        "id": 1429,
+        "question": "Toprak altına gömülerek saklanmış para veya değerli şeyler, define",
+        "letter": "G",
+        "answer": "Gömü"
+    },
+    {
+        "id": 247,
+        "question": "Nişan alınacak yer, nişangah",
+        "letter": "H",
+        "answer": "hedef"
+    },
+    {
+        "id": 1610,
+        "question": "Bir bedelin ödenmesi sırasında yapılan indirim",
+        "letter": "İ",
+        "answer": "İskonto, iskonto uygulama, iskonto uygulamak"
+    },
+    {
+        "id": 1935,
+        "question": "Hem taşıt hem konut olarak kullanılan üstü kapalı araç",
+        "letter": "K",
+        "answer": "Karavan"
+    },
+    {
+        "id": 618,
+        "question": "Bir kimsenin, kendisine iş verilmeye uygunluğu",
+        "letter": "L",
+        "answer": "Liyakat, Liyakatli, Liyakatliliği"
+    },
+    {
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "letter": "M",
+        "answer": "Mimar"
+    },
+    {
+        "id": 819,
+        "question": "Deneyimsiz, doğal, saf, sade kimse ya da kişilik",
+        "letter": "N",
+        "answer": "Naif, naif kişilik"
+    },
+    {
+        "id": 1518,
+        "question": "Hızlı bir trafik akımı sağlamak amacıyla yapılan, çok şeritli, çift yönlü geniş yol, otoban",
+        "letter": "O",
+        "answer": "Otoyol"
+    },
+    {
+        "id": 662,
+        "question": "Yıpratmak, eskitmek, hırpalamak, zedelemek",
+        "letter": "Ö",
+        "answer": "Örselemek, örseleme"
+    },
+    {
+        "id": 1016,
+        "question": "Posta parası karşılığı mektuplara, damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası",
+        "letter": "P",
+        "answer": "Pul"
+    },
+    {
+        "id": 677,
+        "question": "Gözden geçirmek, düzeltmek, yenilemek",
+        "letter": "R",
+        "answer": "Revize, Revizyon, Rötuş, Rötuşlamak"
+    },
+    {
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "letter": "S",
+        "answer": "Sahaf"
+    },
+    {
+        "id": 423,
+        "question": "Bir çıkar karşılığı, uzlaşarak bir iş yapma, aldatma",
+        "letter": "Ş",
+        "answer": "şike, şike yapma, şike yapmak"
+    },
+    {
+        "id": 1774,
+        "question": "KEYFİ ALIŞKANLIĞA DÖNÜŞTÜRMÜŞ OLAN KİŞİ",
+        "letter": "T",
+        "answer": "Tiryaki"
+    },
+    {
+        "id": 1066,
+        "question": "Dik ve derin yamaç",
+        "letter": "U",
+        "answer": "Uçurum"
+    },
+    {
+        "id": 461,
+        "question": "Üretilen yararlı şey",
+        "letter": "Ü",
+        "answer": "ürün"
+    },
+    {
+        "id": 890,
+        "question": "Giysilerde omuzların dik durması için konulan parça",
+        "letter": "V",
+        "answer": "Vatka"
+    },
+    {
+        "id": 1140,
+        "question": "Dik, sarp",
+        "letter": "Y",
+        "answer": "yalçın"
+    },
+    {
+        "id": 1585,
+        "question": "Savaşta verilen kayıp",
+        "letter": "Z",
+        "answer": "Zayiat, zaiyat"
+    }
+]

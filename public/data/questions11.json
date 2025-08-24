@@ -1,0 +1,158 @@
+[
+    {
+        "id": 84,
+        "question": "Futbolda, bir takımın attığı gollerin yediği gollere oranı",
+        "letter": "A",
+        "answer": "averaj"
+    },
+    {
+        "id": 1597,
+        "question": "Bilimsel bilgilerin veya nedenselliğin yanlış anlaşılmasından kaynaklanan inanç ya da uygulamalar",
+        "letter": "B",
+        "answer": "Batıl, batıl inanç, batıl inançlar"
+    },
+    {
+        "id": 533,
+        "question": "Mecbur bırakma, zoraki",
+        "letter": "C",
+        "answer": "Cebren, cebir"
+    },
+    {
+        "id": 544,
+        "question": "Derme çatma çadır, göçebe çadırı",
+        "letter": "Ç",
+        "answer": "Çerge"
+    },
+    {
+        "id": 749,
+        "question": "Dozu düzenleme, ayarlama",
+        "letter": "D",
+        "answer": "dozaj"
+    },
+    {
+        "id": 796,
+        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
+        "letter": "E",
+        "answer": "Elbette"
+    },
+    {
+        "id": 1672,
+        "question": "Birdenbire, düşünmeden yapan",
+        "letter": "F",
+        "answer": "Fevri"
+    },
+    {
+        "id": 971,
+        "question": "Sonbahar",
+        "letter": "G",
+        "answer": "Güz"
+    },
+    {
+        "id": 1175,
+        "question": "Görev ve yapı bakımından canlılığın bütün özelliklerini gösteren en küçük birim",
+        "letter": "H",
+        "answer": "Hücre"
+    },
+    {
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
+        "letter": "İ",
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
+    },
+    {
+        "id": 1265,
+        "question": "Bir şeyin oyuk durumunda bulunan iç bölümü",
+        "letter": "K",
+        "answer": "Kovuk, kovuğu"
+    },
+    {
+        "id": 620,
+        "question": "Fazlalık, gereksiz, yersiz",
+        "letter": "L",
+        "answer": "Lüzumsuz, Luzumsuz"
+    },
+    {
+        "id": 1630,
+        "question": "Güç, kuvvet, derman, takat",
+        "letter": "M",
+        "answer": "Mecal"
+    },
+    {
+        "id": 642,
+        "question": "Davranışı kaba, sert ve gönül kırıcı olan",
+        "letter": "N",
+        "answer": "Nobran"
+    },
+    {
+        "id": 648,
+        "question": "İyimser, pesimist karşıtı",
+        "letter": "O",
+        "answer": "Optimist"
+    },
+    {
+        "id": 663,
+        "question": "Bir işin ilerisini kestirme, tahmin etmek",
+        "letter": "Ö",
+        "answer": "Öngörü, Öngörmek"
+    },
+    {
+        "id": 374,
+        "question": "Parça, kısım",
+        "letter": "P",
+        "answer": "pare"
+    },
+    {
+        "id": 680,
+        "question": "İzin belgesi",
+        "letter": "R",
+        "answer": "Ruhsat, Ruhsat belgesi"
+    },
+    {
+        "id": 1894,
+        "question": "Fotoğrafçı İşyeri",
+        "letter": "S",
+        "answer": "Stüdyo"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 1698,
+        "question": "Eski dilde tıp doktoru, hekim",
+        "letter": "T",
+        "answer": "Tabip"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 38,
+        "question": "Fakülteler topluluğu",
+        "letter": "Ü",
+        "answer": "ÜNİVERSİTE"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 1573,
+        "question": "Bir olayı belli bir görüşe göre açıklama, değerlendirme",
+        "letter": "Y",
+        "answer": "Yorum, yorum yapma, yorum yapmak, yorumlama, yorumlamak"
+    },
+    {
+        "id": 1145,
+        "question": "Hor görülme, alçalma",
+        "letter": "Z",
+        "answer": "Zillet"
+    }
+]

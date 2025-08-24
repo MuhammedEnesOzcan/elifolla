@@ -1,0 +1,158 @@
+[
+    {
+        "id": 119,
+        "question": "Çok karışık ve dağınık",
+        "letter": "A",
+        "answer": "altüst"
+    },
+    {
+        "id": 1254,
+        "question": "Uzağı görme, seziş, sezgi, uyanıklık",
+        "letter": "B",
+        "answer": "Basiret, basiretli, basiretlilik"
+    },
+    {
+        "id": 1319,
+        "question": "Mızrap ile çalınan iki veya üç teli olan halk sazı",
+        "letter": "C",
+        "answer": "Cura"
+    },
+    {
+        "id": 1087,
+        "question": "Herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor",
+        "letter": "Ç",
+        "answer": "Çaba"
+    },
+    {
+        "id": 1398,
+        "question": "Aynı cinsten onluk bir küme",
+        "letter": "D",
+        "answer": "Deste"
+    },
+    {
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "letter": "E",
+        "answer": "ezel"
+    },
+    {
+        "id": 1093,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "Facia"
+    },
+    {
+        "id": 1432,
+        "question": "Bir yarışma, karşılaşma, çatışma vb. sonunda yenen, üstün gelen, başarı kazanan",
+        "letter": "G",
+        "answer": "Galip"
+    },
+    {
+        "id": 1494,
+        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "letter": "H",
+        "answer": "Halef, halefi"
+    },
+    {
+        "id": 1160,
+        "question": "Anlaşma, bağlaşma, birlik",
+        "letter": "İ",
+        "answer": "İttifak"
+    },
+    {
+        "id": 977,
+        "question": "Başlık, sipersiz şapka",
+        "letter": "K",
+        "answer": "Kep"
+    },
+    {
+        "id": 1787,
+        "question": "Greve çıkan işçileri işverenin topluca işten uzaklaştırması",
+        "letter": "L",
+        "answer": "Lokavt"
+    },
+    {
+        "id": 317,
+        "question": "Aşırı olmayan, uygun, elverişli",
+        "letter": "M",
+        "answer": "makul, mâkul"
+    },
+    {
+        "id": 637,
+        "question": "Bir şeyin iyi veya kötü olma özelliği, kalite, özellik",
+        "letter": "N",
+        "answer": "Nitelik, niteliği"
+    },
+    {
+        "id": 351,
+        "question": "Kişisel değer, şeref, itibar",
+        "letter": "O",
+        "answer": "onur"
+    },
+    {
+        "id": 1538,
+        "question": "Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak",
+        "letter": "Ö",
+        "answer": "Örtmek"
+    },
+    {
+        "id": 1120,
+        "question": "İnce ve yarı saydam bir tür kâğıt",
+        "letter": "P",
+        "answer": "Pelür"
+    },
+    {
+        "id": 390,
+        "question": "Üzerinde boks yapılan, çevresi kordonla çevrilmiş yer",
+        "letter": "R",
+        "answer": "ring"
+    },
+    {
+        "id": 831,
+        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "letter": "S",
+        "answer": "Seküler"
+    },
+    {
+        "id": 1055,
+        "question": "Şiir söyleyen veya yazan kimse",
+        "letter": "Ş",
+        "answer": "Şair"
+    },
+    {
+        "id": 91,
+        "question": "Eski dilde öğrenci",
+        "letter": "T",
+        "answer": "talebe"
+    },
+    {
+        "id": 1074,
+        "question": "Türk müziğinde ana makamlardan biri",
+        "letter": "U",
+        "answer": "Uşşak"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 887,
+        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "letter": "V",
+        "answer": "Veba"
+    },
+    {
+        "id": 1476,
+        "question": "Su parkı gösterilerinde zekasıyla öne çıkan memeli su hayvanı",
+        "letter": "Y",
+        "answer": "Yunus, yunus balığı"
+    },
+    {
+        "id": 858,
+        "question": "Üflemeli bir çalgı",
+        "letter": "Z",
+        "answer": "Zurna"
+    }
+]

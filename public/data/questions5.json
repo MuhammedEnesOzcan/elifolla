@@ -1,0 +1,158 @@
+[
+    {
+        "id": 108,
+        "question": "İki şey arasında bağlantı kuran kimse, vasıta",
+        "letter": "A",
+        "answer": "aracı, ara bulucu"
+    },
+    {
+        "id": 1766,
+        "question": "Dal, kol, bölüm; ihtisas alanı",
+        "letter": "B",
+        "answer": "Branş"
+    },
+    {
+        "id": 1308,
+        "question": "Küçük ve tatlı bir tür karpuz",
+        "letter": "C",
+        "answer": "Cimcime"
+    },
+    {
+        "id": 791,
+        "question": "Kim olduğunu hatırlamak, tanımak",
+        "letter": "Ç",
+        "answer": "Çıkarma, Çıkarmak"
+    },
+    {
+        "id": 1401,
+        "question": "Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama, beyanat",
+        "letter": "D",
+        "answer": "Demeç, demeç verme, demeç vermek, demeç vermesi"
+    },
+    {
+        "id": 1487,
+        "question": "Organizmada hastalığa yol açan bir mikrobun genel veya yerel gelişmesi, yayılması",
+        "letter": "E",
+        "answer": "Enfeksiyon, enfekte olma, enfekte olma"
+    },
+    {
+        "id": 572,
+        "question": "Bir kimseyi veya bir yeri koruyan kimse",
+        "letter": "F",
+        "answer": "Fedai"
+    },
+    {
+        "id": 1436,
+        "question": "Yerkürenin geometrik olmayan gerçek biçimi",
+        "letter": "G",
+        "answer": "Geoit"
+    },
+    {
+        "id": 1440,
+        "question": "Dildeki bir sesi gösteren ve alfabeyi oluşturan işaretlerden her biri",
+        "letter": "H",
+        "answer": "Harf"
+    },
+    {
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
+        "letter": "İ",
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
+    },
+    {
+        "id": 1939,
+        "question": "Küp şekere göre daha büyük boyutta özellikle Erzurum yöresine ait şeker türü",
+        "letter": "K",
+        "answer": "Kıtlama, Kıtlama Şeker"
+    },
+    {
+        "id": 617,
+        "question": "Çok dar bir ışık huzmesi üreten optik araç",
+        "letter": "L",
+        "answer": "Lazer"
+    },
+    {
+        "id": 627,
+        "question": "Vapur hatlarında yolculuk yapanların genellikle simitle beslediği kuş",
+        "letter": "M",
+        "answer": "Martı"
+    },
+    {
+        "id": 1767,
+        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
+        "letter": "N",
+        "answer": "Numara, Numara yapma, Numara yapmak"
+    },
+    {
+        "id": 1760,
+        "question": "Beklenilen zaman gelinceye kadar zaman geçirmek",
+        "letter": "O",
+        "answer": "Oyalanma, Oyalanmak"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 380,
+        "question": "Tüylü hayvan derisi",
+        "letter": "P",
+        "answer": "post"
+    },
+    {
+        "id": 1638,
+        "question": "Motorlu taşıtlarda motorun en az yakıtla çalışma ayarı",
+        "letter": "R",
+        "answer": "Rölanti"
+    },
+    {
+        "id": 1042,
+        "question": "Sen zamirinin yönelme durumu",
+        "letter": "S",
+        "answer": "sana"
+    },
+    {
+        "id": 935,
+        "question": "Kesme veya oyma kalıbı",
+        "letter": "Ş",
+        "answer": "şablon"
+    },
+    {
+        "id": 1693,
+        "question": "BULAŞIK MAKİNELERİNDE KULLANILAN KOMPAKT DETERJAN TÜRÜ",
+        "letter": "T",
+        "answer": "Tablet"
+    },
+    {
+        "id": 444,
+        "question": "Çok acayip, şaşılacak kadar çirkin olan",
+        "letter": "U",
+        "answer": "ucube"
+    },
+    {
+        "id": 1702,
+        "question": "Bir peygambere inanıp onun yolunu seçen kimselerin tümü",
+        "letter": "Ü",
+        "answer": "Ümmet, Ümmed"
+    },
+    {
+        "id": 1300,
+        "question": "Para dalgalanmalarından yararlanarak kolay yoldan kazanç elde eden, spekülatör",
+        "letter": "V",
+        "answer": "Vurguncu"
+    },
+    {
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
+        "letter": "Y",
+        "answer": "Yassı"
+    },
+    {
+        "id": 501,
+        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
+        "letter": "Z",
+        "answer": "zırh"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1379,
+        "question": "Gümrüklere gelen ticari eşyanın konulduğu, korunduğu yer",
+        "letter": "A",
+        "answer": "Antrepo, ardiye"
+    },
+    {
+        "id": 527,
+        "question": "Yanıltarak bir işten caydırmak",
+        "letter": "B",
+        "answer": "Blöf, blöf yapma, blöf yapmak"
+    },
+    {
+        "id": 534,
+        "question": "Ameliyat yapan uzman hekim, operatör",
+        "letter": "C",
+        "answer": "Cerrah"
+    },
+    {
+        "id": 176,
+        "question": "İnsan bedeninde bulunan enerjiyi tüm vücuda dağıttığına inanılan enerji noktaları",
+        "letter": "Ç",
+        "answer": "çakra, çakralar"
+    },
+    {
+        "id": 1395,
+        "question": "Basım için harfleri, kelimeleri, satırları, sayfalar oluşturacak biçimde düzenleme",
+        "letter": "D",
+        "answer": "Dizgi"
+    },
+    {
+        "id": 1415,
+        "question": "Bir malın niteliğini belirtmek, özelliklerini göstermek amacıyla, o malın parasız verilen veya gönderilen parçası",
+        "letter": "E",
+        "answer": "Eşantiyon"
+    },
+    {
+        "id": 1672,
+        "question": "Birdenbire, düşünmeden yapan",
+        "letter": "F",
+        "answer": "Fevri"
+    },
+    {
+        "id": 753,
+        "question": "Bitkilerin büyümesi için gerekli gıdayı ihtiva eden madde",
+        "letter": "G",
+        "answer": "Gübre"
+    },
+    {
+        "id": 1494,
+        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "letter": "H",
+        "answer": "Halef, halefi"
+    },
+    {
+        "id": 263,
+        "question": "Anlama yeteneği, anlayış, akıl erdirme",
+        "letter": "İ",
+        "answer": "idrak, idrak etme, idrak etmek, izan"
+    },
+    {
+        "id": 1795,
+        "question": "RUMCA KÖKENLİ “YIPRANMIŞ, ESKİ VE BAKIMSIZ” ANLAMLARINDA DAHA ÇOK ARAÇLAR, MAKİNELER İÇİN KULLANILAN SÖZCÜK",
+        "letter": "K",
+        "answer": "Külüstür"
+    },
+    {
+        "id": 304,
+        "question": "Ara vermeden söylenilen saçma sapan söz dizisi, gevezelik",
+        "letter": "L",
+        "answer": "laklak, lakırdı"
+    },
+    {
+        "id": 633,
+        "question": "Virüslerin geçirdiği değişim",
+        "letter": "M",
+        "answer": "Mutasyon"
+    },
+    {
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
+        "letter": "N",
+        "answer": "nihai"
+    },
+    {
+        "id": 1736,
+        "question": "Elektrik sinyallerini görselleştirmek, ölçmek ve analiz etmek için kullanılan cihaz",
+        "letter": "O",
+        "answer": "Osiloskop"
+    },
+    {
+        "id": 659,
+        "question": "Nesnelerin gerçeğine değil, bireyin düşünce ve duygularına dayanan",
+        "letter": "Ö",
+        "answer": "Öznel"
+    },
+    {
+        "id": 382,
+        "question": "Ezerek veya süzgeçten geçirilerek elde edilmiş gıda",
+        "letter": "P",
+        "answer": "püre"
+    },
+    {
+        "id": 1637,
+        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "letter": "R",
+        "answer": "Röntgen"
+    },
+    {
+        "id": 689,
+        "question": "İstemeden bir şeylere çarpan, deviren, kıran (kimse)",
+        "letter": "S",
+        "answer": "Sakar"
+    },
+    {
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "letter": "Ş",
+        "answer": "Şakak"
+    },
+    {
+        "id": 1927,
+        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
+        "letter": "T",
+        "answer": "Takıntı, Takıntılık, Takma, Takmak"
+    },
+    {
+        "id": 1079,
+        "question": "Birinin yapmakla yükümlü olduğu iş, görev",
+        "letter": "U",
+        "answer": "uhde"
+    },
+    {
+        "id": 469,
+        "question": "Ayrıca, bir de, bundan başka",
+        "letter": "Ü",
+        "answer": "üstelik"
+    },
+    {
+        "id": 883,
+        "question": "Evleri kuşatan üstü kapalı ve camlı teras",
+        "letter": "V",
+        "answer": "Veranda"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 1147,
+        "question": "Saf, tatlı su",
+        "letter": "Z",
+        "answer": "zülal"
+    }
+]

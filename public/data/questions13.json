@@ -1,0 +1,158 @@
+[
+    {
+        "id": 519,
+        "question": "Tatar yayı veya kurmalı yay denen uzak mesafe silahı",
+        "letter": "A",
+        "answer": "Arbalet"
+    },
+    {
+        "id": 785,
+        "question": "Eskiden tercüme-i hal denilen yaşam öyküsü",
+        "letter": "B",
+        "answer": "Biyografi"
+    },
+    {
+        "id": 1149,
+        "question": "Dokumacılıkta, çözgü makinesinde çözgü ipliği bobinlerinin desen ve renk sırasına göre yerleştirildiği sehpa",
+        "letter": "C",
+        "answer": "cağlık"
+    },
+    {
+        "id": 1449,
+        "question": "Diz kapaklarına kadar çıkan bir çeşit ayakkabı",
+        "letter": "Ç",
+        "answer": "Çizme"
+    },
+    {
+        "id": 1403,
+        "question": "Titreşimin bir ortam içinde yayılma hareketi",
+        "letter": "D",
+        "answer": "Dalga, dalga frekansı, dalga boyu"
+    },
+    {
+        "id": 1488,
+        "question": "Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı",
+        "letter": "E",
+        "answer": "Engizisyon, engizisyon mahkemesi, engizisyon mahkemeleri"
+    },
+    {
+        "id": 222,
+        "question": "Genellikle boyuna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "fular"
+    },
+    {
+        "id": 1174,
+        "question": "Biçim, desen ya da çizgilerle gösterme, anlatma",
+        "letter": "G",
+        "answer": "Grafik"
+    },
+    {
+        "id": 245,
+        "question": "Karşılıksız vermek, bağış",
+        "letter": "H",
+        "answer": "hibe, hibe etmek"
+    },
+    {
+        "id": 1953,
+        "question": "ACI VE ÜZÜNTÜYÜ BELİRTEN KESİK KESİK SESLER",
+        "letter": "İ",
+        "answer": "İnilti"
+    },
+    {
+        "id": 1207,
+        "question": "Tenis oynamak için düzenlemiş dikdörtgen biçiminde alan ",
+        "letter": "K",
+        "answer": "Kort"
+    },
+    {
+        "id": 299,
+        "question": "Önder, şef",
+        "letter": "L",
+        "answer": "lider"
+    },
+    {
+        "id": 634,
+        "question": "Akla uygun, doğru düşünülmüş",
+        "letter": "M",
+        "answer": "Mantıklı"
+    },
+    {
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
+        "letter": "N",
+        "answer": "nihai"
+    },
+    {
+        "id": 907,
+        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
+        "letter": "O",
+        "answer": "Obje"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 667,
+        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
+        "letter": "P",
+        "answer": "Paraf, paraf atma, paraf atmak"
+    },
+    {
+        "id": 399,
+        "question": "Mertebe, derece",
+        "letter": "R",
+        "answer": "rütbe"
+    },
+    {
+        "id": 831,
+        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "letter": "S",
+        "answer": "Seküler"
+    },
+    {
+        "id": 433,
+        "question": "Art düşünce, hile",
+        "letter": "Ş",
+        "answer": "şaibe, şike"
+    },
+    {
+        "id": 1277,
+        "question": "Genel adıyla \"Yolculuk edilen araç\"",
+        "letter": "T",
+        "answer": "Taşıt"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
+        "letter": "Ü",
+        "answer": "Ütülmek"
+    },
+    {
+        "id": 888,
+        "question": "Kedigillerden, kürkünden yararlanılan çok yırtıcı hayvan",
+        "letter": "V",
+        "answer": "Vaşak, vasak"
+    },
+    {
+        "id": 889,
+        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "letter": "Y",
+        "answer": "Yalak"
+    },
+    {
+        "id": 1591,
+        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "letter": "Z",
+        "answer": "Zarar, ziyan"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1655,
+        "question": "Genellikle tahıl saklanan yer",
+        "letter": "A",
+        "answer": "Ambar"
+    },
+    {
+        "id": 143,
+        "question": "Bir şehir veya bir bölge avukatlarının bağlı oldukları meslek kuruluşu",
+        "letter": "B",
+        "answer": "baro"
+    },
+    {
+        "id": 1309,
+        "question": "Canlı, neşeli ve sokulgan",
+        "letter": "C",
+        "answer": "Civelek"
+    },
+    {
+        "id": 168,
+        "question": "Yasa dışı işler yapmak veya etrafındakileri korkutmak amacıyla bir araya gelmiş topluluk",
+        "letter": "Ç",
+        "answer": "çete"
+    },
+    {
+        "id": 1187,
+        "question": "Bir yeri daha önce görmüş olma veya bir olayı daha önce yaşamış olma hissi",
+        "letter": "D",
+        "answer": "Dejavu"
+    },
+    {
+        "id": 204,
+        "question": "Tutsak, köle",
+        "letter": "E",
+        "answer": "esir"
+    },
+    {
+        "id": 1094,
+        "question": "Süslü, ayaklı fener",
+        "letter": "F",
+        "answer": "Fanus"
+    },
+    {
+        "id": 1769,
+        "question": "BELLİ BİR BÜTÜNE GÖRE KALEME ALINAN METNİN SONUÇTAN ÖNCEKİ BÖLÜMÜ",
+        "letter": "G",
+        "answer": "Gelişme"
+    },
+    {
+        "id": 590,
+        "question": "Bir mala icra dairesi tarafından el konulması",
+        "letter": "H",
+        "answer": "Haciz, haciz işlemi, haczetmek, haciz etme, haciz etmek"
+    },
+    {
+        "id": 602,
+        "question": "Bir şeyin olabilmesi durumu, olabilirlik, olasılık",
+        "letter": "İ",
+        "answer": "İhtimal"
+    },
+    {
+        "id": 1925,
+        "question": "Kertenkelenin avcısından kurtulmak için geride bıraktığı uzvu",
+        "letter": "K",
+        "answer": "Kuyruk, Kuyruğu"
+    },
+    {
+        "id": 1529,
+        "question": "Kişiye alay yollu takılan takma ad",
+        "letter": "L",
+        "answer": "Lakap, lakab"
+    },
+    {
+        "id": 1947,
+        "question": "Yıldızların durumundan ve devinimlerinden anlam çıkarmak suretiyle, falcılık yapan kişi",
+        "letter": "M",
+        "answer": "Müneccim"
+    },
+    {
+        "id": 990,
+        "question": "Güzel, uyumlu ses, ezgi, melodi",
+        "letter": "N",
+        "answer": "Nağme"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 660,
+        "question": "Bir kuruluşa bağlı alt bölümlerin bütünü, teşkilat",
+        "letter": "Ö",
+        "answer": "Örgüt"
+    },
+    {
+        "id": 1118,
+        "question": "Büyük harita, plan veya modeli oluşturan ayrı parçalardan her biri",
+        "letter": "P",
+        "answer": "pafta"
+    },
+    {
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "letter": "R",
+        "answer": "rekor"
+    },
+    {
+        "id": 831,
+        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "letter": "S",
+        "answer": "Seküler"
+    },
+    {
+        "id": 1458,
+        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
+        "letter": "Ş",
+        "answer": "Şurup"
+    },
+    {
+        "id": 1128,
+        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "letter": "T",
+        "answer": "tabak"
+    },
+    {
+        "id": 1558,
+        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "letter": "U",
+        "answer": "Ulus"
+    },
+    {
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
+        "letter": "Ü",
+        "answer": "Ütülmek"
+    },
+    {
+        "id": 483,
+        "question": "Sürekli bir yönde gidip gelme, yürüme, dolaşma",
+        "letter": "V",
+        "answer": "volta, volta atma, volta atmak"
+    },
+    {
+        "id": 1500,
+        "question": "Genellikle dağlık bölgelerde, yazın havası iyi ve serin olan, hayvan otlatma veya dinlenme yeri",
+        "letter": "Y",
+        "answer": "Yayla"
+    },
+    {
+        "id": 499,
+        "question": "Zor kullanarak ele geçirme",
+        "letter": "Z",
+        "answer": "zapt, zapt etme, zapt etmek"
+    }
+]
