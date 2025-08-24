@@ -83,10 +83,15 @@ export default function App() {
     if (nextIdx !== -1) setActive(letters[nextIdx]);
   };
 
-  // Enter → kaydet + (bitmediyse) sonraki boş harfe geç
-  const handleKeyDown = (e) => {
+const handleKeyDown = (e) => {
   if (e.key === "Enter" && !e.shiftKey) {
     e.preventDefault();
+
+    // 0) Kullanıcı "bitir" yazmışsa → direkt sonuç ekranı
+    if (draft.trim().toLowerCase() === "bitir") {
+      setStep("result");
+      return;
+    }
 
     // 1) Boşsa: kaydetme, PAS gibi davran
     if (!draft || draft.trim() === "") {
@@ -96,8 +101,8 @@ export default function App() {
 
     // 2) Doluysa: kaydet + (bitmediyse) sonraki boş harfe geç
     const finished = saveAndMaybeFinish
-      ? saveAndMaybeFinish()           // eğer önceki sürümde bu fonksiyonu eklediysen
-      : (saveAnswer(), false);         // yoksa mevcut kaydeti kullan
+      ? saveAndMaybeFinish()
+      : (saveAnswer(), false);
     if (!finished) passToNextEmpty();
   }
 };
