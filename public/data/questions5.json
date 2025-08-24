@@ -1,51 +1,51 @@
 [
     {
-        "id": 108,
-        "question": "İki şey arasında bağlantı kuran kimse, vasıta",
+        "id": 110,
+        "question": "Bir akort oluşturan seslerin birbiri arkasından çalınması",
         "letter": "A",
-        "answer": "aracı, ara bulucu"
+        "answer": "arpej"
     },
     {
-        "id": 1766,
-        "question": "Dal, kol, bölüm; ihtisas alanı",
+        "id": 133,
+        "question": "Belirli bir davranışta bulunmaya zorlayıcı söz, buyuru, emir, ferman",
         "letter": "B",
-        "answer": "Branş"
+        "answer": "buyruk"
     },
     {
-        "id": 1308,
-        "question": "Küçük ve tatlı bir tür karpuz",
+        "id": 1365,
+        "question": "Hep birden, hep birlikte anlamlarındaki söz",
         "letter": "C",
-        "answer": "Cimcime"
+        "answer": "Cümleten"
     },
     {
-        "id": 791,
-        "question": "Kim olduğunu hatırlamak, tanımak",
+        "id": 748,
+        "question": "Araçların trafikte üstünlük sağlamak için kullandığı kırmızı-mavi ışıklar",
         "letter": "Ç",
-        "answer": "Çıkarma, Çıkarmak"
+        "answer": "Çakar, çakar lamba, çakar lambası"
     },
     {
-        "id": 1401,
-        "question": "Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama, beyanat",
+        "id": 188,
+        "question": "Doğrudan doğruya olmayan, dolayısıyla olan, vasıtalı, bilvasıta, endirekt",
         "letter": "D",
-        "answer": "Demeç, demeç verme, demeç vermek, demeç vermesi"
+        "answer": "dolaylı, dolambaçlı"
     },
     {
-        "id": 1487,
-        "question": "Organizmada hastalığa yol açan bir mikrobun genel veya yerel gelişmesi, yayılması",
+        "id": 560,
+        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
         "letter": "E",
-        "answer": "Enfeksiyon, enfekte olma, enfekte olma"
+        "answer": "Edip"
     },
     {
-        "id": 572,
-        "question": "Bir kimseyi veya bir yeri koruyan kimse",
+        "id": 1674,
+        "question": "Malzemesi marka sahibi tarafından karşılanarak başka bir firmaya yaptırılan mal",
         "letter": "F",
-        "answer": "Fedai"
+        "answer": "Fason"
     },
     {
-        "id": 1436,
-        "question": "Yerkürenin geometrik olmayan gerçek biçimi",
+        "id": 1428,
+        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
         "letter": "G",
-        "answer": "Geoit"
+        "answer": "Gard"
     },
     {
         "id": 1440,
@@ -54,105 +54,105 @@
         "answer": "Harf"
     },
     {
-        "id": 598,
-        "question": "Yapı kurma, yapı yapma, kurma",
+        "id": 1607,
+        "question": "Üreticiden aldığı malları tezgah ve taşıma araçları ile cadde ve sokaklarda pazarlayan kimse ",
         "letter": "İ",
-        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
+        "answer": "İşportacı"
     },
     {
-        "id": 1939,
-        "question": "Küp şekere göre daha büyük boyutta özellikle Erzurum yöresine ait şeker türü",
+        "id": 1499,
+        "question": "Yanan şeylerden artakalan toz madde",
         "letter": "K",
-        "answer": "Kıtlama, Kıtlama Şeker"
+        "answer": "Kül, küller"
     },
     {
-        "id": 617,
-        "question": "Çok dar bir ışık huzmesi üreten optik araç",
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
         "letter": "L",
-        "answer": "Lazer"
+        "answer": "Lift"
     },
     {
-        "id": 627,
-        "question": "Vapur hatlarında yolculuk yapanların genellikle simitle beslediği kuş",
+        "id": 1851,
+        "question": "RESTORANLARDA SOFRAYA ÇIKARILACAK YEMEKLERİN HEPSİ",
         "letter": "M",
-        "answer": "Martı"
+        "answer": "Menü"
     },
     {
-        "id": 1767,
-        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
+        "id": 640,
+        "question": "Söz, konuşma, söylev",
         "letter": "N",
-        "answer": "Numara, Numara yapma, Numara yapmak"
+        "answer": "Nutuk, Nutuk okuma, Nutuk okumak"
     },
     {
-        "id": 1760,
-        "question": "Beklenilen zaman gelinceye kadar zaman geçirmek",
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
         "letter": "O",
-        "answer": "Oyalanma, Oyalanmak"
+        "answer": "OLGU"
     },
     {
-        "id": 360,
-        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "id": 1009,
+        "question": "Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey, mavera",
         "letter": "Ö",
-        "answer": "ödünç, ödünç alma, ödünç almak"
+        "answer": "Öte"
     },
     {
-        "id": 380,
-        "question": "Tüylü hayvan derisi",
+        "id": 373,
+        "question": "Kimyasal enerjiyi elektrik enerjisine çeviren araç",
         "letter": "P",
-        "answer": "post"
+        "answer": "pil"
     },
     {
-        "id": 1638,
-        "question": "Motorlu taşıtlarda motorun en az yakıtla çalışma ayarı",
+        "id": 676,
+        "question": "Emek harcamadan elde edilen kazanım",
         "letter": "R",
-        "answer": "Rölanti"
+        "answer": "Rant, Rantçılık"
     },
     {
-        "id": 1042,
-        "question": "Sen zamirinin yönelme durumu",
+        "id": 409,
+        "question": "Depolanmış, yığın",
         "letter": "S",
-        "answer": "sana"
+        "answer": "stok, stoklanmış"
     },
     {
-        "id": 935,
-        "question": "Kesme veya oyma kalıbı",
+        "id": 1464,
+        "question": "Olması başka durumların gerçekleşmesini gerektiren şey, koşul",
         "letter": "Ş",
-        "answer": "şablon"
+        "answer": "Şart, şartlar"
     },
     {
-        "id": 1693,
-        "question": "BULAŞIK MAKİNELERİNDE KULLANILAN KOMPAKT DETERJAN TÜRÜ",
+        "id": 708,
+        "question": "Bir diğer söylemle \"Doğa\"",
         "letter": "T",
-        "answer": "Tablet"
+        "answer": "Tabiat"
     },
     {
-        "id": 444,
-        "question": "Çok acayip, şaşılacak kadar çirkin olan",
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
         "letter": "U",
-        "answer": "ucube"
+        "answer": "uyruk"
     },
     {
-        "id": 1702,
-        "question": "Bir peygambere inanıp onun yolunu seçen kimselerin tümü",
+        "id": 464,
+        "question": "Korkuya çabuk kapılan",
         "letter": "Ü",
-        "answer": "Ümmet, Ümmed"
+        "answer": "ürkek"
     },
     {
-        "id": 1300,
-        "question": "Para dalgalanmalarından yararlanarak kolay yoldan kazanç elde eden, spekülatör",
+        "id": 39,
+        "question": "Güneş sistemindeki en sıcak gezegen",
         "letter": "V",
-        "answer": "Vurguncu"
+        "answer": "venüs"
     },
     {
-        "id": 1583,
-        "question": "Yayvan ve düz olan",
+        "id": 1140,
+        "question": "Dik, sarp",
         "letter": "Y",
-        "answer": "Yassı"
+        "answer": "yalçın"
     },
     {
-        "id": 501,
-        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
         "letter": "Z",
-        "answer": "zırh"
+        "answer": "Zorba"
     }
 ]

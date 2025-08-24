@@ -1,158 +1,158 @@
 [
     {
-        "id": 1654,
-        "question": "Bir şeyin umulduğundan az olduğu yargısına varmak, az görmek, az bulmak",
+        "id": 1661,
+        "question": "Davranışları ölçülü, olgun (kimse), vakur, ciddi",
         "letter": "A",
-        "answer": "Azımsamak, azımsama"
+        "answer": "Ağırbaşlı"
     },
     {
-        "id": 135,
-        "question": "Yapılan bir hizmete ödenen ücretten ayrı olarak fazladan verilen para",
+        "id": 1599,
+        "question": "Şehir içinde ağaçlı, geniş cadde",
         "letter": "B",
-        "answer": "bahşiş"
+        "answer": "Bulvar"
     },
     {
-        "id": 156,
-        "question": "Bir devlet veya kuruluşun gizli amaçları için çalışan kimse, ajan",
+        "id": 964,
+        "question": "Cam ticaretini veya cam takmayı meslek edinmiş kimse",
         "letter": "C",
-        "answer": "casus"
+        "answer": "Camcı"
     },
     {
-        "id": 1200,
-        "question": "Evlenecekler için hazırlanan yada alınan ev eşyalarının tümü",
+        "id": 1542,
+        "question": "Değirmende buğday teknesi oluğu",
         "letter": "Ç",
-        "answer": "Çeyiz"
+        "answer": "Çörtü"
     },
     {
-        "id": 196,
-        "question": "Belirli miktarın veya büyüklüğün iki katı",
+        "id": 198,
+        "question": "Başkalarını çekiştirmek ve kınamak üzere yapılan konuşma, gıybet",
         "letter": "D",
-        "answer": "duble"
+        "answer": "dedikodu"
     },
     {
-        "id": 1091,
-        "question": "Bireyler, fertler",
+        "id": 1409,
+        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
         "letter": "E",
-        "answer": "Efrat"
+        "answer": "Ergonomik"
     },
     {
-        "id": 1490,
-        "question": "Koku, ilaç vb. sıvıları püskürtmek için kullanılan araç",
+        "id": 1285,
+        "question": "Uygun zaman, uygun durum veya şart, vesile, imkan, şans",
         "letter": "F",
-        "answer": "Fısfıs"
+        "answer": "Fırsat"
     },
     {
-        "id": 236,
-        "question": "Elde edilmesi gereken, ulaşılmak istenen şey, amaç, maksat",
+        "id": 583,
+        "question": "At yarışlarında birinciliği kazanan at",
         "letter": "G",
-        "answer": "gaye"
+        "answer": "Ganyan"
     },
     {
-        "id": 1496,
-        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "id": 1098,
+        "question": "Kur'an'ı bütünüyle ezbere bilen kimse",
         "letter": "H",
-        "answer": "Hamak"
+        "answer": "Hafız"
     },
     {
-        "id": 1842,
-        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "id": 1555,
+        "question": "Bir şeyi belirtecek biçimde hareket etmek, belirleyici şekilde vurgulamak",
         "letter": "İ",
-        "answer": "İmtina, İmtina etme, İmtina etmek"
+        "answer": "İşaretleme, işaretlemek"
     },
     {
-        "id": 281,
-        "question": "Silah, kılıç vb. şeylerde tutulacak yer, tutak, sap",
+        "id": 276,
+        "question": "Yeterli, yetecek ölçüde olan",
         "letter": "K",
-        "answer": "kabza"
+        "answer": "kafi, kâfi"
     },
     {
-        "id": 298,
-        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "id": 1203,
+        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
         "letter": "L",
-        "answer": "levha"
+        "answer": "Lens"
     },
     {
-        "id": 628,
-        "question": "Ruh hali, mizaç, hal, anlık hal durumu",
+        "id": 1274,
+        "question": "Uzay araçlarında özel bir göreve sahip olan ve ana gövdeden ayrılıp gerekli durumlarda birleşebilen kısım",
         "letter": "M",
-        "answer": "Mod, moral"
+        "answer": "Modül"
     },
     {
-        "id": 949,
-        "question": "Nikel'in simgesi",
+        "id": 1785,
+        "question": "Ney üfleyen sanatçı",
         "letter": "N",
-        "answer": "ni"
+        "answer": "Neyzen"
     },
     {
-        "id": 1001,
-        "question": "Erkek çocuk",
+        "id": 1517,
+        "question": "Alçak iskemle",
         "letter": "O",
-        "answer": "Oğlan"
+        "answer": "Oturak"
     },
     {
-        "id": 370,
-        "question": "Benzeri yapılacak olan, benzetilmek istenen şey, model",
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
         "letter": "Ö",
-        "answer": "örnek"
+        "answer": "ölmek, ölüm, ölme"
     },
     {
-        "id": 1854,
-        "question": "YAYA OLARAK SAVAŞAN ASKERLERİN OLUŞTURDUĞU SINIF",
+        "id": 1761,
+        "question": "Çalışma saati bitiminde işi bırakma",
         "letter": "P",
-        "answer": "Piyade"
+        "answer": "Paydos, paydos etme, paydos etmek"
     },
     {
-        "id": 1278,
-        "question": "Uyku sırasında görülen olaylar",
+        "id": 1642,
+        "question": "Tek bir sanatçının tek bir çalgı ile verdiği konser",
         "letter": "R",
-        "answer": "Rüya"
+        "answer": "Resital"
     },
     {
-        "id": 685,
-        "question": "Yapay, yapma, sentetik",
+        "id": 409,
+        "question": "Depolanmış, yığın",
         "letter": "S",
-        "answer": "Suni"
+        "answer": "stok, stoklanmış"
     },
     {
-        "id": 422,
-        "question": "Temel kural belgesi",
+        "id": 1312,
+        "question": "Kuşku",
         "letter": "Ş",
-        "answer": "şart, şartlar, şartname"
+        "answer": "Şüphe"
     },
     {
-        "id": 440,
-        "question": "Herhangi bir konuda verilen gizli bilgi",
+        "id": 1059,
+        "question": "Doğu Anadolu ile Azerbaycan'da çalınan bir çalgı türü",
         "letter": "T",
-        "answer": "tüyo, tüyo verme, tüyo vermek"
+        "answer": "tar"
     },
     {
-        "id": 1066,
-        "question": "Dik ve derin yamaç",
+        "id": 1078,
+        "question": "Yufka açılırken hamurun tahtaya yapışmaması için serpilen kalın un",
         "letter": "U",
-        "answer": "Uçurum"
+        "answer": "Uğra"
     },
     {
-        "id": 861,
-        "question": "Sivrisineğe benzer çok küçük bir sinek türü",
+        "id": 880,
+        "question": "Hastalıkları iyileştirdiğine inanılan soluk",
         "letter": "Ü",
-        "answer": "Üvez"
+        "answer": "Üfürük, üfürme"
     },
     {
-        "id": 872,
-        "question": "Bulaşıcı Hastalıklara Yol Açan Mikrop",
+        "id": 883,
+        "question": "Evleri kuşatan üstü kapalı ve camlı teras",
         "letter": "V",
-        "answer": "Virüs, vırus"
+        "answer": "Veranda"
     },
     {
-        "id": 496,
-        "question": "Enerji ve ısı ortaya çıkaran yanıcı madde",
+        "id": 839,
+        "question": "Sayıyı yukarı ya da aşağı değiştirerek tüm sayı haline getirme",
         "letter": "Y",
-        "answer": "yakıt"
+        "answer": "Yuvarlama, Yuvarlamak"
     },
     {
-        "id": 842,
-        "question": "Zeki, anlayış sahibi",
+        "id": 1586,
+        "question": "Dinç, canlı, diri, sağlam",
         "letter": "Z",
-        "answer": "Zeren"
+        "answer": "Zinde"
     }
 ]

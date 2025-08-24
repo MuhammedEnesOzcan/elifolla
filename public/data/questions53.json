@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1695,
+        "question": "Otobüs, tren gibi ulaşım araçlarında para yerine geçen sürekliliği olan bilet veya kart",
+        "letter": "A",
+        "answer": "Abonman"
+    },
+    {
+        "id": 1598,
+        "question": "Bir yemek adı olarak da kullanılan; Büyükbaş ve küçükbaş hayvanların kalın bağırsağı",
+        "letter": "B",
+        "answer": "Bumbar, bumbar dolması"
+    },
+    {
+        "id": 1370,
+        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
+        "letter": "C",
+        "answer": "Cumhuriyet"
+    },
+    {
+        "id": 175,
+        "question": "Taklit olan, sahte",
+        "letter": "Ç",
+        "answer": "çakma"
+    },
+    {
+        "id": 1399,
+        "question": "Büyük takımlar arasında oynanan maç",
+        "letter": "D",
+        "answer": "Derbi, derbi maçı"
+    },
+    {
+        "id": 210,
+        "question": "Zaman içinde birdenbire olmayan, kesintisiz, niteliksel ve niceliksel gelişme süreci",
+        "letter": "E",
+        "answer": "evrim"
+    },
+    {
+        "id": 1189,
+        "question": "Yenen, fetheden kimse",
+        "letter": "F",
+        "answer": "Fatih"
+    },
+    {
+        "id": 1422,
+        "question": "Gece kalmadan aynı gün dönmek üzere yapılan ziyaret ya da gezi",
+        "letter": "G",
+        "answer": "Günübirlik"
+    },
+    {
+        "id": 591,
+        "question": "Merkezi vücut sıcaklığının 35°C altına düşmesi",
+        "letter": "H",
+        "answer": "Hipotermi"
+    },
+    {
+        "id": 600,
+        "question": "Bir yeri ele geçirme",
+        "letter": "İ",
+        "answer": "İşgal, işgal etme, işgal etmek"
+    },
+    {
+        "id": 757,
+        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "letter": "K",
+        "answer": "Komisyon, Kar, Kâr"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 1213,
+        "question": "Başarılı, becerikli olmak, işin rast gitmesi",
+        "letter": "M",
+        "answer": "Muvaffak, muvaffak olma, muvaffak olmak"
+    },
+    {
+        "id": 1785,
+        "question": "Ney üfleyen sanatçı",
+        "letter": "N",
+        "answer": "Neyzen"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 1178,
+        "question": "Sözsüz tiyatro oyunu, mim sanatı",
+        "letter": "P",
+        "answer": "Pandomim, pandomim sanatı"
+    },
+    {
+        "id": 1028,
+        "question": "Rüşvet veren kimse",
+        "letter": "R",
+        "answer": "Raşi"
+    },
+    {
+        "id": 1044,
+        "question": "Sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su",
+        "letter": "S",
+        "answer": "sel"
+    },
+    {
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "letter": "Ş",
+        "answer": "Şakak"
+    },
+    {
+        "id": 439,
+        "question": "Manyetik bir bant üzerine sesleri kaydeden ve okuyan aygıt",
+        "letter": "T",
+        "answer": "teyp"
+    },
+    {
+        "id": 69,
+        "question": "Tıraş için kullanılan açılır kapanır keskin bıçak",
+        "letter": "U",
+        "answer": "ustura"
+    },
+    {
+        "id": 1472,
+        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
+        "letter": "Ü",
+        "answer": "Ürkmek"
+    },
+    {
+        "id": 472,
+        "question": "İki dağ arasındaki çukurca arazi veya geçit",
+        "letter": "V",
+        "answer": "vadi"
+    },
+    {
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
+        "letter": "Y",
+        "answer": "Yassı"
+    },
+    {
+        "id": 719,
+        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "letter": "Z",
+        "answer": "Zindan"
+    }
+]

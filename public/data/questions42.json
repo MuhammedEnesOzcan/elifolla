@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1926,
+        "question": "BOKSTA, BÜKÜK KOLLA AŞAĞIDAN YUKARIYA DOĞRU ÇENEYE ATILAN YUMRUK",
+        "letter": "A",
+        "answer": "Aparkat"
+    },
+    {
+        "id": 131,
+        "question": "Başıboş, serseri kimse",
+        "letter": "B",
+        "answer": "berduş"
+    },
+    {
+        "id": 1532,
+        "question": "Ezilmiş havuç içine fındık, şeker vb. eklenerek yapılan bir tür tatlı",
+        "letter": "C",
+        "answer": "Cezerye"
+    },
+    {
+        "id": 1816,
+        "question": "MECAZEN; DİNÇLİĞİNİ KAYBETMEK, İHTİYARLAMAK",
+        "letter": "Ç",
+        "answer": "Çökme, Çökmek"
+    },
+    {
+        "id": 1385,
+        "question": "Evlenme veya sünnet dolayısıyla yapılan tören, eğlence",
+        "letter": "D",
+        "answer": "Düğün"
+    },
+    {
+        "id": 1822,
+        "question": "Bir evin gelinlerinin birbirine göre akrabalık durumu",
+        "letter": "E",
+        "answer": "Elti, Eltilik"
+    },
+    {
+        "id": 227,
+        "question": "Satıcının alıcıya verdiği hesap pusulası",
+        "letter": "F",
+        "answer": "fatura, fiş"
+    },
+    {
+        "id": 238,
+        "question": "Değersiz, aşağı görülen, küçümsenen topluluk, derinti, sürü",
+        "letter": "G",
+        "answer": "güruh"
+    },
+    {
+        "id": 1443,
+        "question": "Mecazen; Yasa dışı yollarla zimmetine para veya mal geçirmek",
+        "letter": "H",
+        "answer": "Hortumlama, hortumlamak"
+    },
+    {
+        "id": 596,
+        "question": "Aşırı güçlü istek, tutku",
+        "letter": "İ",
+        "answer": "İhtiras"
+    },
+    {
+        "id": 1897,
+        "question": "TENİ VE SAÇLARI SARIYA ÇALAN AÇIK BUĞDAY RENGİ OLAN KİMSE",
+        "letter": "K",
+        "answer": "Kumral"
+    },
+    {
+        "id": 1527,
+        "question": "Sükseli, kalantor, gösterişli kimse",
+        "letter": "L",
+        "answer": "Lort"
+    },
+    {
+        "id": 1166,
+        "question": "Küçük, ufak tefek, zarif",
+        "letter": "M",
+        "answer": "Minyon"
+    },
+    {
+        "id": 994,
+        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
+        "letter": "N",
+        "answer": "naip"
+    },
+    {
+        "id": 1760,
+        "question": "Beklenilen zaman gelinceye kadar zaman geçirmek",
+        "letter": "O",
+        "answer": "Oyalanma, Oyalanmak"
+    },
+    {
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "letter": "Ö",
+        "answer": "Örk"
+    },
+    {
+        "id": 88,
+        "question": "Üstüne mumlar konan doğum günü tatlısı",
+        "letter": "P",
+        "answer": "pasta"
+    },
+    {
+        "id": 395,
+        "question": "Orta kaldırım",
+        "letter": "R",
+        "answer": "refüj"
+    },
+    {
+        "id": 1824,
+        "question": "Bir şeyin yalnız kenar çizgileriyle tek renk olarak beliren görüntüsü, gölge",
+        "letter": "S",
+        "answer": "Silüet"
+    },
+    {
+        "id": 1458,
+        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
+        "letter": "Ş",
+        "answer": "Şurup"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 1508,
+        "question": "Bir ülküye çıkar gütmeden bağlı olan, idealist",
+        "letter": "Ü",
+        "answer": "Ülkücü"
+    },
+    {
+        "id": 483,
+        "question": "Sürekli bir yönde gidip gelme, yürüme, dolaşma",
+        "letter": "V",
+        "answer": "volta, volta atma, volta atmak"
+    },
+    {
+        "id": 906,
+        "question": "Kısa kollu ceket, mont",
+        "letter": "Y",
+        "answer": "Yelek"
+    },
+    {
+        "id": 509,
+        "question": "İrade zayıflığı, eksiklik",
+        "letter": "Z",
+        "answer": "zaaf"
+    }
+]

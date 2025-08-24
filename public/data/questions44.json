@@ -1,0 +1,158 @@
+[
+    {
+        "id": 85,
+        "question": "Şubatın 29 çektiği yıla ne denir",
+        "letter": "A",
+        "answer": "Artık yıl, Artık"
+    },
+    {
+        "id": 1597,
+        "question": "Bilimsel bilgilerin veya nedenselliğin yanlış anlaşılmasından kaynaklanan inanç ya da uygulamalar",
+        "letter": "B",
+        "answer": "Batıl, batıl inanç, batıl inançlar"
+    },
+    {
+        "id": 159,
+        "question": "Kazanmak, cebine indirmek, çalmak",
+        "letter": "C",
+        "answer": "ceplemek, cukkalamak"
+    },
+    {
+        "id": 1544,
+        "question": "Bazı toprakların yüzünde beyaz bir katman durumunda toplanan ve eskiden barut yapmakta kullanılan potaslı, sutlu tuz",
+        "letter": "Ç",
+        "answer": "Çorak"
+    },
+    {
+        "id": 1388,
+        "question": "Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva",
+        "letter": "D",
+        "answer": "Dübel"
+    },
+    {
+        "id": 1798,
+        "question": "İSLAM'DA İBADET ÇAĞRISI",
+        "letter": "E",
+        "answer": "Ezan"
+    },
+    {
+        "id": 224,
+        "question": "Talih, baht, şans",
+        "letter": "F",
+        "answer": "felek"
+    },
+    {
+        "id": 239,
+        "question": "Alabildiğine, çokça",
+        "letter": "G",
+        "answer": "gırla"
+    },
+    {
+        "id": 588,
+        "question": "İlgi ile karşılanabilecek haber",
+        "letter": "H",
+        "answer": "Havadis"
+    },
+    {
+        "id": 1608,
+        "question": "Şüphe etmek, kuşkulanmak",
+        "letter": "İ",
+        "answer": "İşkillenme, işkillenmek"
+    },
+    {
+        "id": 1783,
+        "question": "KİTABIN, DERGİNİN İÇERİĞİNİ ÖZETLEYEN DIŞ YÜZÜ",
+        "letter": "K",
+        "answer": "Kapak"
+    },
+    {
+        "id": 622,
+        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
+        "letter": "L",
+        "answer": "Liste"
+    },
+    {
+        "id": 1215,
+        "question": "Güneşe en yakın gezegen",
+        "letter": "M",
+        "answer": "Merkür, merkür gezegeni"
+    },
+    {
+        "id": 333,
+        "question": "İstenilen düzende olan, düzene uygun olan",
+        "letter": "N",
+        "answer": "nizami"
+    },
+    {
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "letter": "O",
+        "answer": "Orada, orda"
+    },
+    {
+        "id": 1537,
+        "question": "En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek",
+        "letter": "Ö",
+        "answer": "Ölçmek, ölçme, ölçüm"
+    },
+    {
+        "id": 673,
+        "question": "Söz dalaşı",
+        "letter": "P",
+        "answer": "Polemik"
+    },
+    {
+        "id": 388,
+        "question": "İkiyüzlülük",
+        "letter": "R",
+        "answer": "riya, riyakar, riyakarlık"
+    },
+    {
+        "id": 829,
+        "question": "Bütün geceyi uyumadan geçirmek",
+        "letter": "S",
+        "answer": "Sabahlama, Sabahlamak"
+    },
+    {
+        "id": 432,
+        "question": "Belli bir amaçla düzenlenen eğlence",
+        "letter": "Ş",
+        "answer": "şölen, şenlik"
+    },
+    {
+        "id": 1648,
+        "question": "Gençliği sebebiyle görgüsüz ve beceriksiz olan, çaylak",
+        "letter": "T",
+        "answer": "Toy"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 461,
+        "question": "Üretilen yararlı şey",
+        "letter": "Ü",
+        "answer": "ürün"
+    },
+    {
+        "id": 770,
+        "question": "Durum, tavır, hâl",
+        "letter": "V",
+        "answer": "Vaziyet"
+    },
+    {
+        "id": 735,
+        "question": "Balıklarda sırt yüzgeci",
+        "letter": "Y",
+        "answer": "Yele"
+    },
+    {
+        "id": 845,
+        "question": "Yersiz ve zamansız davranışları olan kimse",
+        "letter": "Z",
+        "answer": "zibidi, zırzop"
+    }
+]

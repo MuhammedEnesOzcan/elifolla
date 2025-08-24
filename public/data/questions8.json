@@ -1,158 +1,158 @@
 [
     {
-        "id": 783,
-        "question": "Bir yapının veya yapı grubunun ortasında kalan, etrafı çevrili üstü açık alan",
+        "id": 1378,
+        "question": "Bir şeye dikkati yönelterek o şeyin bilincine varma, idrak",
         "letter": "A",
-        "answer": "Avlu, Avlusu"
+        "answer": "Algı, algılama, algılamak"
     },
     {
-        "id": 1773,
-        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "id": 135,
+        "question": "Yapılan bir hizmete ödenen ücretten ayrı olarak fazladan verilen para",
         "letter": "B",
-        "answer": "Buluş"
+        "answer": "bahşiş"
     },
     {
-        "id": 1360,
-        "question": "Kuşların ötüşürken çıkardıkları ses",
+        "id": 1305,
+        "question": "Yurt, baba ocağı gibi çok sevilen şeylerden ayrılmış olan, uzak kalmış olan",
         "letter": "C",
-        "answer": "Cıvıltı, cıvıldama, cıvıldamak"
+        "answer": "Cüda"
     },
     {
-        "id": 1450,
-        "question": "Karikatürcü",
+        "id": 1844,
+        "question": "PARÇALARA AYRILIP DAĞILMAYACAK BİR BİÇİMDE YARILMA",
         "letter": "Ç",
-        "answer": "Çizer"
+        "answer": "Çatlama, Çatlamak"
     },
     {
-        "id": 1231,
-        "question": "Otomobilin vites geçirmek için en sol tarafta ayak ile basılan pedalı",
+        "id": 793,
+        "question": "Para basılan yer",
         "letter": "D",
-        "answer": "Debriyaj, debriaj, debriyaj pedalı, debriaj pedalı"
+        "answer": "Darphane"
     },
     {
-        "id": 1487,
-        "question": "Organizmada hastalığa yol açan bir mikrobun genel veya yerel gelişmesi, yayılması",
+        "id": 1173,
+        "question": "Mental ve vücutça sağlıklı, sağlık içinde olan",
         "letter": "E",
-        "answer": "Enfeksiyon, enfekte olma, enfekte olma"
+        "answer": "Esen"
     },
     {
-        "id": 1329,
-        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "id": 217,
+        "question": "Çalışır durumda olan, etkin",
         "letter": "F",
-        "answer": "Fidan"
+        "answer": "faal"
     },
     {
-        "id": 1863,
-        "question": "YEMEK YENİLEN, GÖSTERİ İZLENEN, MÜZİK DİNLENEN, BAZEN OYUN SERGİLENEN EĞLENCE YERİ",
+        "id": 802,
+        "question": "Pişirilerek kurutulmuş yuvarlak veya uzun biçimli peksimet",
         "letter": "G",
-        "answer": "Gazino"
+        "answer": "Galeta, Grisini, Gevrek"
     },
     {
-        "id": 1438,
-        "question": "Bazı durumlarda olumsuz sonuçlar doğurabilecek sonu gelmeyen istek, aşırı tutku",
+        "id": 60,
+        "question": "Güney yarım küre'de en uzun gecenin yaşandığı ay",
         "letter": "H",
-        "answer": "Hırs"
+        "answer": "haziran"
     },
     {
-        "id": 604,
-        "question": "Gerçeğin gülünç yanını ortaya koyan ince alay",
+        "id": 256,
+        "question": "Alınmış bir şeyi geri verme",
         "letter": "İ",
-        "answer": "İroni"
+        "answer": "iade"
     },
     {
-        "id": 977,
-        "question": "Başlık, sipersiz şapka",
+        "id": 286,
+        "question": "Var olan ancak bilinmeyen bir şeyi bulan, ortaya çıkaran kimse, bulucu",
         "letter": "K",
-        "answer": "Kep"
+        "answer": "kaşif, kâşif"
     },
     {
-        "id": 985,
-        "question": "Tanrı'nın sevgi ve ilgisinden yoksun olma, beddua",
+        "id": 1107,
+        "question": "Hanigillerden, Akdeniz ve Ege'de yaşayan lezzetli bir balık, kaya hanisi",
         "letter": "L",
-        "answer": "Lanet, lanetleme, lanetlenme, lanetlenmek"
+        "answer": "lahos"
     },
     {
-        "id": 1791,
-        "question": "“HUY, YARADILIŞ, TABİAT VEYA KARAKTER” ANLAMLARINDA KULLANILAN BİR SÖZCÜK",
+        "id": 630,
+        "question": "Dayanaksız, delilsiz, arkası boş olan",
         "letter": "M",
-        "answer": "Mizaç"
+        "answer": "Mesnetsiz, mesnetsiz iddia"
     },
     {
-        "id": 642,
-        "question": "Davranışı kaba, sert ve gönül kırıcı olan",
+        "id": 327,
+        "question": "Haykırma, bağırma",
         "letter": "N",
-        "answer": "Nobran"
+        "answer": "nara, nara atma, nara atmak"
     },
     {
-        "id": 1969,
-        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "id": 347,
+        "question": "Yiyecek, içecek gibi şeylerin alınabildiği mekanik veya elektrikli araç",
         "letter": "O",
-        "answer": "OLGU"
+        "answer": "otomat"
     },
     {
-        "id": 1008,
-        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "id": 657,
+        "question": "Mecliste bir konuda oylamaya sunularak karar verilmesi istenen yazılı kâğıt",
         "letter": "Ö",
-        "answer": "Örf"
+        "answer": "Önerge"
     },
     {
-        "id": 1707,
-        "question": "Hristiyan din adamı, peder",
+        "id": 375,
+        "question": "Kedi, köpek vb. hayvanların ön ayağı",
         "letter": "P",
-        "answer": "Papaz"
+        "answer": "pati"
     },
     {
-        "id": 677,
-        "question": "Gözden geçirmek, düzeltmek, yenilemek",
+        "id": 681,
+        "question": "Sporda veya oyunda yenilmiş olanın aynı rakiple oynadığı ikinci oyun",
         "letter": "R",
-        "answer": "Revize, Revizyon, Rötuş, Rötuşlamak"
+        "answer": "Rövanş, Rövanş maçı, Rovanş, Rovanş maçı"
     },
     {
-        "id": 411,
-        "question": "Yoğun bir biçimde yapılan atak",
+        "id": 1934,
+        "question": "KENDİ GERÇEKLİĞİNİ YARATAN SANAT AKIMI, GERÇEKÜSTÜCÜLÜK",
         "letter": "S",
-        "answer": "salvo"
+        "answer": "Sürrealizm"
     },
     {
-        "id": 431,
-        "question": "Ortaklık, ortaklık kuruluşu",
+        "id": 832,
+        "question": "Sesi tanımlayan sözlerden oluşmuş “çabucak” anlamında kullanılan bir kelime",
         "letter": "Ş",
-        "answer": "şirket"
+        "answer": "Şipşak"
     },
     {
-        "id": 64,
-        "question": "Hava sıcaklığını ölçmeye yarayan alet",
+        "id": 1063,
+        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
         "letter": "T",
-        "answer": "termometre"
+        "answer": "Takı"
     },
     {
-        "id": 447,
-        "question": "Uysal bir biçimde",
+        "id": 768,
+        "question": "Sıkıntı duyumsamak, bezmek, bıkmak",
         "letter": "U",
-        "answer": "uslu"
+        "answer": "Usanma, Usanmak"
     },
     {
-        "id": 470,
-        "question": "Hile, düzen, dolap",
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
         "letter": "Ü",
-        "answer": "üçkağıt, üçkağıtçılık"
+        "answer": "Üstübeç"
     },
     {
-        "id": 479,
-        "question": "Polisi ilgilendiren olay veya olaylar",
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
         "letter": "V",
-        "answer": "vukuat"
+        "answer": "Vizyoner, Vizyonlu"
     },
     {
-        "id": 488,
-        "question": "Yürüyerek giden kimse",
+        "id": 1950,
+        "question": "ESKİ EVLERDEKİ YATAK, YORGAN DEPOSU",
         "letter": "Y",
-        "answer": "yaya"
+        "answer": "Yüklük"
     },
     {
-        "id": 1594,
-        "question": "Şiddetli bir şekilde titremek veya sallanmak",
+        "id": 1843,
+        "question": "RENKSİZ YA DA SARI, YEŞİL VE KAHVERENGİ RENKLERDE OLABİLEN DOĞAL, SAYDAM DEĞERLİ BİR TAŞ",
         "letter": "Z",
-        "answer": "Zangırdamak, zangırdama"
+        "answer": "Zirkon"
     }
 ]

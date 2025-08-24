@@ -1,158 +1,158 @@
 [
     {
-        "id": 1337,
-        "question": "Muhafaza edilmesi gereken belgelerin düzenli bir şekilde saklandığı yer",
+        "id": 1380,
+        "question": "Tehlikeli oyunlar yapan gösteri sanatçısı",
         "letter": "A",
-        "answer": "Arşiv, arşiv odası"
+        "answer": "Akrobat, akrobasi sanatçısı"
     },
     {
-        "id": 82,
-        "question": "Fenike uygarlığı'nın doğduğu Lübnan'ın başkenti",
+        "id": 1602,
+        "question": "Alım ve de satım işleri ile ilgilenmekte olan şirketlere aracılıklar yapan komisyoncu",
         "letter": "B",
-        "answer": "beyrut"
+        "answer": "Broker"
     },
     {
-        "id": 1361,
-        "question": "Çekici, Enteresan, Dikkat Çeken",
+        "id": 14,
+        "question": "Ülkemizde de sık görülen bir tür köpek balığı?",
         "letter": "C",
-        "answer": "Cezbedici, cazip, cazibeli"
+        "answer": "camgöz"
     },
     {
-        "id": 183,
-        "question": "Oy vermekten, eğilim göstermekten veya bir şey yapmaktan kaçınan, kararsız kimse",
+        "id": 1449,
+        "question": "Diz kapaklarına kadar çıkan bir çeşit ayakkabı",
         "letter": "Ç",
-        "answer": "çekimser"
+        "answer": "Çizme"
     },
     {
-        "id": 188,
-        "question": "Doğrudan doğruya olmayan, dolayısıyla olan, vasıtalı, bilvasıta, endirekt",
+        "id": 552,
+        "question": "Her şeyi zamanında yapmaya özen gösteren",
         "letter": "D",
-        "answer": "dolaylı, dolambaçlı"
+        "answer": "Dakik"
     },
     {
-        "id": 797,
-        "question": "Canlıların birbirleri ve çevreleriyle ilişkilerini inceleyen bilim dalı",
+        "id": 202,
+        "question": "Bir devleti başka bir devlet katında temsil eden kimse, sefir",
         "letter": "E",
-        "answer": "Ekoloji"
+        "answer": "elçi"
     },
     {
-        "id": 572,
-        "question": "Bir kimseyi veya bir yeri koruyan kimse",
+        "id": 751,
+        "question": "Gerçekte var olmayan, hayali anlamındaki söz",
         "letter": "F",
-        "answer": "Fedai"
+        "answer": "Fantastik"
     },
     {
-        "id": 235,
-        "question": "Sözde, sanki",
+        "id": 972,
+        "question": "Ülkeler veya şehirler arasında yapılan uzun yolculuk, seyahat",
         "letter": "G",
-        "answer": "güya, gûya"
+        "answer": "Gezi"
     },
     {
-        "id": 590,
-        "question": "Bir mala icra dairesi tarafından el konulması",
+        "id": 973,
+        "question": "Yere veya mobilya üstüne serilmek, duvara gerilmek için, genellikle yünden dokunan, kısa ve sık tüylü, nakışlı, kalın yaygı",
         "letter": "H",
-        "answer": "Haciz, haciz işlemi, haczetmek, haciz etme, haciz etmek"
+        "answer": "Halı"
     },
     {
-        "id": 275,
-        "question": "İçine alma, içinde bulundurma, içerme",
+        "id": 260,
+        "question": "Kötü bir olaydan alınması gereken ders, uyarıcı sonuç",
         "letter": "İ",
-        "answer": "ihtiva"
+        "answer": "ibret, ibret alma, ibret almak"
     },
     {
-        "id": 1922,
-        "question": "FRANSIZCA KÖKENLİ “KONTRAST” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "id": 1190,
+        "question": "Üzerinde harfler, rakamlar, işaretler ve bazı işlevleri bulunan bilgisayar giriş ögesi",
         "letter": "K",
-        "answer": "Karşıtlık"
+        "answer": "Klavye"
     },
     {
-        "id": 622,
-        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
+        "id": 300,
+        "question": "Yasal olan",
         "letter": "L",
-        "answer": "Liste"
+        "answer": "legal"
     },
     {
-        "id": 318,
-        "question": "On kişilik asker birliği",
+        "id": 634,
+        "question": "Akla uygun, doğru düşünülmüş",
         "letter": "M",
-        "answer": "manga"
+        "answer": "Mantıklı"
     },
     {
-        "id": 1521,
-        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "id": 916,
+        "question": "Durgun sularda ya da havuzlarda yetişen, geniş yapraklı su bitkisi",
         "letter": "N",
-        "answer": "Nova"
+        "answer": "Nilüfer, nılufer"
     },
     {
-        "id": 647,
-        "question": "Matematikte sıfır noktası",
+        "id": 341,
+        "question": "Yüksek ve alçaktan mermi atabilen kısa namlulu top",
         "letter": "O",
-        "answer": "Orijin, Orjin, Orjin noktası, Orijin noktası"
+        "answer": "obüs"
     },
     {
-        "id": 370,
-        "question": "Benzeri yapılacak olan, benzetilmek istenen şey, model",
+        "id": 369,
+        "question": "Yalnız kendine özgü bir nitelik taşıyan, orijinal",
         "letter": "Ö",
-        "answer": "örnek"
+        "answer": "Özgün"
     },
     {
-        "id": 1181,
-        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "id": 32,
+        "question": "Yer altından çıkartılan, yağa benzer, sıvı formda bulunan ham madde",
         "letter": "P",
-        "answer": "Peron"
+        "answer": "Petrol"
     },
     {
-        "id": 683,
-        "question": "Yanlış, yozlaşmış, vb. şeylerin iyileştirilmesi veya köklü değiştirilmesi",
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
         "letter": "R",
-        "answer": "Reform, Reform yapma, Reform yapmak"
+        "answer": "rekor"
     },
     {
-        "id": 418,
-        "question": "Sefalet çeken, yoksul",
+        "id": 1931,
+        "question": "BİR ŞEYİN YAYILABİLECEĞİ VEYA GENİŞLEYEBİLECEĞİ SON ÇİZGİ",
         "letter": "S",
-        "answer": "sefil, sersefil"
+        "answer": "Sınır"
     },
     {
-        "id": 923,
-        "question": "Daha çok cami avlularında bulunan havuz",
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
         "letter": "Ş",
-        "answer": "Şadırvan"
+        "answer": "Şakak"
     },
     {
-        "id": 1651,
-        "question": "Üç yaşına kadar olan at yavrusu",
+        "id": 1064,
+        "question": "Şişe gibi dar delikleri tıkamaya yarayan mantar, cam, tahta veya plastikten tıkaç",
         "letter": "T",
-        "answer": "Tay"
+        "answer": "tapa, tıpa"
     },
     {
-        "id": 847,
-        "question": "Bir düşünceyi, bir tasarıyı ya da bir kuramı gerçekleştirme",
+        "id": 778,
+        "question": "Zafer, Üstünlük Sağlama, Yenme",
         "letter": "U",
-        "answer": "Uygulama, uygulamak"
+        "answer": "utku"
     },
     {
-        "id": 1471,
-        "question": "Havlamak",
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
         "letter": "Ü",
-        "answer": "Ürümek"
+        "answer": "Ütülmek"
     },
     {
-        "id": 1708,
-        "question": "Kökeni fransızca olup evlerin giriş kısmında ve ayakkabı, mont vb. şeylerin konulduğu yer",
+        "id": 1506,
+        "question": "Geliş, gelme",
         "letter": "V",
-        "answer": "Vestiyer"
+        "answer": "Vürut"
     },
     {
-        "id": 901,
-        "question": "Özel gezinti gemisi",
+        "id": 1239,
+        "question": "Bir parçadan oluşan, tek parça, bütün",
         "letter": "Y",
-        "answer": "Yat"
+        "answer": "Yekpare"
     },
     {
-        "id": 860,
-        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "id": 738,
+        "question": "Boşuna harcama, zarar",
         "letter": "Z",
-        "answer": "Zorba"
+        "answer": "Ziyan, ziyan etme, ziyan etmek"
     }
 ]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1654,
+        "question": "Bir şeyin umulduğundan az olduğu yargısına varmak, az görmek, az bulmak",
+        "letter": "A",
+        "answer": "Azımsamak, azımsama"
+    },
+    {
+        "id": 1773,
+        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "letter": "B",
+        "answer": "Buluş"
+    },
+    {
+        "id": 1366,
+        "question": "Kümes hayvanlarının yumurtadan yeni çıkmış yavrusu",
+        "letter": "C",
+        "answer": "Civciv"
+    },
+    {
+        "id": 1542,
+        "question": "Değirmende buğday teknesi oluğu",
+        "letter": "Ç",
+        "answer": "Çörtü"
+    },
+    {
+        "id": 199,
+        "question": "Yaşayışı ve davranışı düzensiz (kimse)",
+        "letter": "D",
+        "answer": "derbeder"
+    },
+    {
+        "id": 560,
+        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "letter": "E",
+        "answer": "Edip"
+    },
+    {
+        "id": 570,
+        "question": "Olağandan bol, aşırı çoklukta bulunma durumu",
+        "letter": "F",
+        "answer": "Furya, fazla, fazlaca, fazlalık"
+    },
+    {
+        "id": 94,
+        "question": "Günlük çıkarılan haber kaynağı, yazılı yayın",
+        "letter": "G",
+        "answer": "gazete"
+    },
+    {
+        "id": 1099,
+        "question": "Adalete uygun bir biçimde, doğrulukla, adilane",
+        "letter": "H",
+        "answer": "Hakça"
+    },
+    {
+        "id": 601,
+        "question": "Gerçek yönünü ortaya çıkarma, kanıtlama",
+        "letter": "İ",
+        "answer": "İspat, ispatlama, ispatlamak, ispat etme, ispat etmek"
+    },
+    {
+        "id": 812,
+        "question": "Başkalarına belli etmeden, gizlice yapılan şey",
+        "letter": "K",
+        "answer": "Kaçamak"
+    },
+    {
+        "id": 304,
+        "question": "Ara vermeden söylenilen saçma sapan söz dizisi, gevezelik",
+        "letter": "L",
+        "answer": "laklak, lakırdı"
+    },
+    {
+        "id": 1627,
+        "question": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki)",
+        "letter": "M",
+        "answer": "Melez"
+    },
+    {
+        "id": 994,
+        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
+        "letter": "N",
+        "answer": "naip"
+    },
+    {
+        "id": 345,
+        "question": "Yenecek duruma gelmiş (meyve)",
+        "letter": "O",
+        "answer": "olgun, olgunlaşmış, olgun meyve"
+    },
+    {
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "letter": "Ö",
+        "answer": "ölmek, ölüm, ölme"
+    },
+    {
+        "id": 1018,
+        "question": "Pantolon, don, şalvar vb. giyeceklerde bacakların çıktığı aşağı bölüm",
+        "letter": "P",
+        "answer": "Paça"
+    },
+    {
+        "id": 389,
+        "question": "Bir gemi veya uçağın gidiş yönü, izleyeceği yol",
+        "letter": "R",
+        "answer": "rota"
+    },
+    {
+        "id": 1895,
+        "question": "ÖZELLİKLE MANAV VE PAZARDA MÜŞTERİNİN TERCİHİNİ TEMEL ALAN SATIŞ YÖNTEMİ",
+        "letter": "S",
+        "answer": "Seçmece"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 767,
+        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "letter": "T",
+        "answer": "Takılmak"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 1472,
+        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
+        "letter": "Ü",
+        "answer": "Ürkmek"
+    },
+    {
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "letter": "V",
+        "answer": "Vizyoner, Vizyonlu"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

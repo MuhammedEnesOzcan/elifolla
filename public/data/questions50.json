@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1918,
+        "question": "“SERBEST, HÜR, ÖZGÜR” ANLAMLARINDA FARSÇA KÖKENLİ BİR SÖZCÜK",
+        "letter": "A",
+        "answer": "Azat, Azad, Azade"
+    },
+    {
+        "id": 1342,
+        "question": "Kuruluş veya yetkili kişilerce herhangi bir durumla ilgili olarak süreli veya süresiz yayımlanan duyuru",
+        "letter": "B",
+        "answer": "Bülten"
+    },
+    {
+        "id": 1923,
+        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "letter": "C",
+        "answer": "Cıvık"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1390,
+        "question": "Üstü şekerli, renkli ve parlak bir madde ile kaplanmış hap",
+        "letter": "D",
+        "answer": "Draje"
+    },
+    {
+        "id": 1419,
+        "question": "Gereğinden fazla artış, pahalılaşma",
+        "letter": "E",
+        "answer": "Enflasyon, enflasyon oranı"
+    },
+    {
+        "id": 21,
+        "question": "Ağlayıp sızlama, bağırıp çağırma",
+        "letter": "F",
+        "answer": "Feryat, Figan, Feryat figan"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 754,
+        "question": "Hem et hem de otla beslenen canlılar",
+        "letter": "H",
+        "answer": "Hepçil, Hepobur"
+    },
+    {
+        "id": 1842,
+        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "letter": "İ",
+        "answer": "İmtina, İmtina etme, İmtina etmek"
+    },
+    {
+        "id": 1233,
+        "question": "Bir düzlemdeki konum, coğrafik konum",
+        "letter": "K",
+        "answer": "Koordinat, kordinat"
+    },
+    {
+        "id": 620,
+        "question": "Fazlalık, gereksiz, yersiz",
+        "letter": "L",
+        "answer": "Lüzumsuz, Luzumsuz"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 988,
+        "question": "Açıklık, açık ve kesin yargı",
+        "letter": "N",
+        "answer": "nas"
+    },
+    {
+        "id": 646,
+        "question": "Kağıt katlama sanatı",
+        "letter": "O",
+        "answer": "Origami"
+    },
+    {
+        "id": 366,
+        "question": "Bir kusurun hoş görülmesini gerektiren sebep, mazeret",
+        "letter": "Ö",
+        "answer": "özür"
+    },
+    {
+        "id": 1018,
+        "question": "Pantolon, don, şalvar vb. giyeceklerde bacakların çıktığı aşağı bölüm",
+        "letter": "P",
+        "answer": "Paça"
+    },
+    {
+        "id": 1635,
+        "question": "Evin duvarlarının suyu çekmesi ve ısı farkından dolayı su buharı oluşması",
+        "letter": "R",
+        "answer": "Rutubet"
+    },
+    {
+        "id": 1263,
+        "question": "Kadın veya çocuklarda en ince ses, sesi böyle olan sanatçı",
+        "letter": "S",
+        "answer": "Soprano"
+    },
+    {
+        "id": 1056,
+        "question": "Karaları çevreleyen ve karalardan sayılan, 200 m derinliğe kadar olan sığ deniz dipleri",
+        "letter": "Ş",
+        "answer": "Şelf"
+    },
+    {
+        "id": 1847,
+        "question": "İRİ İRİ DOĞRANMIŞ İŞKEMBEDEN YAPILAN BİR TÜR ÇORBA",
+        "letter": "T",
+        "answer": "Tuzlama, Tuzlama çorba, Tuzlama çorbası"
+    },
+    {
+        "id": 1071,
+        "question": "Yakışır, yaraşır, mutabık, mütenasip",
+        "letter": "U",
+        "answer": "uygun"
+    },
+    {
+        "id": 1566,
+        "question": "Mecazen; Delirmek, aklını yitirmek",
+        "letter": "Ü",
+        "answer": "Üşütmek, üşütme"
+    },
+    {
+        "id": 1867,
+        "question": "Tramvay Sürücüsü",
+        "letter": "V",
+        "answer": "Vatman"
+    },
+    {
+        "id": 906,
+        "question": "Kısa kollu ceket, mont",
+        "letter": "Y",
+        "answer": "Yelek"
+    },
+    {
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
+        "letter": "Z",
+        "answer": "Züğürt, züürt, zürt, zügürt"
+    }
+]

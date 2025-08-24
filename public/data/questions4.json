@@ -1,158 +1,158 @@
 [
     {
-        "id": 1655,
-        "question": "Genellikle tahıl saklanan yer",
+        "id": 1261,
+        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
         "letter": "A",
-        "answer": "Ambar"
+        "answer": "Aperatif, aparatif, aperetif, Aperitif"
     },
     {
-        "id": 143,
-        "question": "Bir şehir veya bir bölge avukatlarının bağlı oldukları meslek kuruluşu",
+        "id": 62,
+        "question": "Bale yapan erkek dansçılara verilen isim",
         "letter": "B",
-        "answer": "baro"
+        "answer": "balet"
     },
     {
-        "id": 1309,
-        "question": "Canlı, neşeli ve sokulgan",
+        "id": 1368,
+        "question": "Şaka olmayan, gerçek",
         "letter": "C",
-        "answer": "Civelek"
+        "answer": "Ciddi"
     },
     {
-        "id": 168,
-        "question": "Yasa dışı işler yapmak veya etrafındakileri korkutmak amacıyla bir araya gelmiş topluluk",
+        "id": 1844,
+        "question": "PARÇALARA AYRILIP DAĞILMAYACAK BİR BİÇİMDE YARILMA",
         "letter": "Ç",
-        "answer": "çete"
+        "answer": "Çatlama, Çatlamak"
     },
     {
-        "id": 1187,
-        "question": "Bir yeri daha önce görmüş olma veya bir olayı daha önce yaşamış olma hissi",
+        "id": 1694,
+        "question": "ÇEŞİTLİ TONLARI BULUNAN KIZIL KAHVE AT RENGİ",
         "letter": "D",
-        "answer": "Dejavu"
+        "answer": "Doru"
     },
     {
-        "id": 204,
-        "question": "Tutsak, köle",
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
         "letter": "E",
-        "answer": "esir"
+        "answer": "ezel"
     },
     {
-        "id": 1094,
-        "question": "Süslü, ayaklı fener",
+        "id": 1093,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
         "letter": "F",
-        "answer": "Fanus"
+        "answer": "Facia"
     },
     {
-        "id": 1769,
-        "question": "BELLİ BİR BÜTÜNE GÖRE KALEME ALINAN METNİN SONUÇTAN ÖNCEKİ BÖLÜMÜ",
+        "id": 802,
+        "question": "Pişirilerek kurutulmuş yuvarlak veya uzun biçimli peksimet",
         "letter": "G",
-        "answer": "Gelişme"
+        "answer": "Galeta, Grisini, Gevrek"
     },
     {
-        "id": 590,
-        "question": "Bir mala icra dairesi tarafından el konulması",
+        "id": 1495,
+        "question": "Satrançta taş sürme işi",
         "letter": "H",
-        "answer": "Haciz, haciz işlemi, haczetmek, haciz etme, haciz etmek"
+        "answer": "Hamle, hamle yapma, hamle yapmak"
     },
     {
-        "id": 602,
-        "question": "Bir şeyin olabilmesi durumu, olabilirlik, olasılık",
+        "id": 1228,
+        "question": "İnsanları bir yere yerleştirme, yurtlandırma",
         "letter": "İ",
-        "answer": "İhtimal"
+        "answer": "İskan, iskan etme, iskan etmek"
     },
     {
-        "id": 1925,
-        "question": "Kertenkelenin avcısından kurtulmak için geride bıraktığı uzvu",
+        "id": 1255,
+        "question": "Başparmak piyanosu da denen müzik aleti",
         "letter": "K",
-        "answer": "Kuyruk, Kuyruğu"
+        "answer": "Kalimba"
     },
     {
-        "id": 1529,
-        "question": "Kişiye alay yollu takılan takma ad",
+        "id": 616,
+        "question": "Şişkinlik yaptığıyla bilinen süt şekeri",
         "letter": "L",
-        "answer": "Lakap, lakab"
+        "answer": "Laktoz"
     },
     {
-        "id": 1947,
-        "question": "Yıldızların durumundan ve devinimlerinden anlam çıkarmak suretiyle, falcılık yapan kişi",
+        "id": 1892,
+        "question": "Bilgisayarın telefon hattına bağlanarak internete bağlanmasını sağlayan aygıt",
         "letter": "M",
-        "answer": "Müneccim"
+        "answer": "Modem"
     },
     {
-        "id": 990,
-        "question": "Güzel, uyumlu ses, ezgi, melodi",
+        "id": 330,
+        "question": "Kullanılması hemen mümkün olan para, likit",
         "letter": "N",
-        "answer": "Nağme"
+        "answer": "nakit, nakit para"
     },
     {
-        "id": 346,
-        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
         "letter": "O",
-        "answer": "otogar"
+        "answer": "OLGU"
     },
     {
-        "id": 660,
-        "question": "Bir kuruluşa bağlı alt bölümlerin bütünü, teşkilat",
+        "id": 1482,
+        "question": "Bir yargıya varmak veya değer vermek için başvurulan ilke, kıstas, mısdak, kriter",
         "letter": "Ö",
-        "answer": "Örgüt"
+        "answer": "Ölçüt"
     },
     {
-        "id": 1118,
-        "question": "Büyük harita, plan veya modeli oluşturan ayrı parçalardan her biri",
+        "id": 1298,
+        "question": "Yolun kaygan olması nedeniyle tekerlekler dönse de taşıtın ilerleyememesi durumu",
         "letter": "P",
-        "answer": "pafta"
+        "answer": "Patinaj, patinaj çekme, patinaj çekmek"
     },
     {
-        "id": 400,
-        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "id": 1121,
+        "question": "Herhangi bir işte, bir yarışta, birbirini geçmeye çalışan, aynı şeyi elde etmeye uğraşan",
         "letter": "R",
-        "answer": "rekor"
+        "answer": "Rakip"
     },
     {
-        "id": 831,
-        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "id": 1042,
+        "question": "Sen zamirinin yönelme durumu",
         "letter": "S",
-        "answer": "Seküler"
+        "answer": "sana"
     },
     {
-        "id": 1458,
-        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
+        "id": 1056,
+        "question": "Karaları çevreleyen ve karalardan sayılan, 200 m derinliğe kadar olan sığ deniz dipleri",
         "letter": "Ş",
-        "answer": "Şurup"
+        "answer": "Şelf"
     },
     {
-        "id": 1128,
-        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "id": 834,
+        "question": "Hububatın diğer adı",
         "letter": "T",
-        "answer": "tabak"
+        "answer": "Tahıl, Tahıllar"
     },
     {
-        "id": 1558,
-        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "id": 892,
+        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
         "letter": "U",
-        "answer": "Ulus"
+        "answer": "Uzman"
     },
     {
-        "id": 1473,
-        "question": "Oyunda, yenilmek, kaybetmek",
+        "id": 469,
+        "question": "Ayrıca, bir de, bundan başka",
         "letter": "Ü",
-        "answer": "Ütülmek"
+        "answer": "üstelik"
     },
     {
-        "id": 483,
-        "question": "Sürekli bir yönde gidip gelme, yürüme, dolaşma",
+        "id": 1137,
+        "question": "Kent veya kasabada dış mahalle",
         "letter": "V",
-        "answer": "volta, volta atma, volta atmak"
+        "answer": "varoş"
     },
     {
-        "id": 1500,
-        "question": "Genellikle dağlık bölgelerde, yazın havası iyi ve serin olan, hayvan otlatma veya dinlenme yeri",
+        "id": 1579,
+        "question": "Bir işte hiyerarşik düzende daha üstte bulunan, karar verme hakkına sahip olan, daha tecrübeli kimse",
         "letter": "Y",
-        "answer": "Yayla"
+        "answer": "Yetkili, yetki sahibi"
     },
     {
-        "id": 499,
-        "question": "Zor kullanarak ele geçirme",
+        "id": 853,
+        "question": "Kabe yakınında bulunan kuyu ve bu kuyunun Müslümanlarca kutsal sayılan suyu",
         "letter": "Z",
-        "answer": "zapt, zapt etme, zapt etmek"
+        "answer": "Zemzem"
     }
 ]

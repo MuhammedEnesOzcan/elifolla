@@ -1,158 +1,158 @@
 [
     {
-        "id": 1808,
-        "question": "Gürültülü çatışma, kavga",
+        "id": 103,
+        "question": "Süreli yayınları, parasını önceden ödeyerek alma işi",
         "letter": "A",
-        "answer": "Arbede"
+        "answer": "abone, abonelik, abone olma, abone olmak"
     },
     {
-        "id": 1773,
-        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "id": 1230,
+        "question": "Birdenbire ortaya çıkan tehlikeli durum",
         "letter": "B",
-        "answer": "Buluş"
+        "answer": "Badire, badire atlatma, badire atlatmak"
     },
     {
-        "id": 161,
-        "question": "Sözünden, kararından dönmek, vazgeçmek",
+        "id": 1148,
+        "question": "Yerde ve tel, at, bisiklet, ip vb. üzerinde dengeye dayanan, tehlikeli, heyecan verici gösteriler yapan kimse, akrobat",
         "letter": "C",
-        "answer": "caymak, cayma"
+        "answer": "cambaz"
     },
     {
-        "id": 1844,
-        "question": "PARÇALARA AYRILIP DAĞILMAYACAK BİR BİÇİMDE YARILMA",
+        "id": 170,
+        "question": "Hayatı boyunca birçok sıkıntı ve üzüntü çekmiş (kimse)",
         "letter": "Ç",
-        "answer": "Çatlama, Çatlamak"
+        "answer": "çilekeş"
     },
     {
-        "id": 193,
-        "question": "Sıkıştırılmış hava içine püskürtülen yakıtla çalışan motor",
+        "id": 555,
+        "question": "Uluslararası ilişkilerde ülkesini temsil etmekle görevlendirilmiş kimse",
         "letter": "D",
-        "answer": "dizel, dizel motor"
+        "answer": "Diplomat, Dış işleri bakanı"
     },
     {
-        "id": 1723,
-        "question": "Enfeksiyon sonucu hasta olan kişi, enfenksiyon bulaşmış",
+        "id": 212,
+        "question": "Bütünleşmiş, dahili",
         "letter": "E",
-        "answer": "Enfekte"
+        "answer": "entegre"
     },
     {
-        "id": 226,
+        "id": 1093,
         "question": "Çok üzüntü veren, acıklı olay, afet",
         "letter": "F",
-        "answer": "facia, feci"
+        "answer": "Facia"
     },
     {
-        "id": 753,
-        "question": "Bitkilerin büyümesi için gerekli gıdayı ihtiva eden madde",
+        "id": 1429,
+        "question": "Toprak altına gömülerek saklanmış para veya değerli şeyler, define",
         "letter": "G",
-        "answer": "Gübre"
+        "answer": "Gömü"
     },
     {
-        "id": 806,
-        "question": "Monarşik aile",
+        "id": 754,
+        "question": "Hem et hem de otla beslenen canlılar",
         "letter": "H",
-        "answer": "Hanedan, Hanedanlık"
+        "answer": "Hepçil, Hepobur"
     },
     {
-        "id": 256,
-        "question": "Alınmış bir şeyi geri verme",
+        "id": 1712,
+        "question": "Bilgisayarların veri işleyen ve yazılım komutlarını gerçekleştiren devre elemanı",
         "letter": "İ",
-        "answer": "iade"
+        "answer": "İşlemci"
     },
     {
-        "id": 284,
-        "question": "Davranış, düşünce, duygu bakımından ince, nazik olan (kimse)",
+        "id": 977,
+        "question": "Başlık, sipersiz şapka",
         "letter": "K",
-        "answer": "kibar"
+        "answer": "Kep"
     },
     {
-        "id": 293,
-        "question": "Bulgar para birimi",
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
         "letter": "L",
-        "answer": "leva"
+        "answer": "Lunapark"
     },
     {
-        "id": 314,
-        "question": "Ayrı tutulmuş, ayrıcalık tanınmış",
+        "id": 1616,
+        "question": "Miras bırakan kimse",
         "letter": "M",
-        "answer": "muaf"
+        "answer": "Muris"
     },
     {
-        "id": 1224,
-        "question": "Çaresi, çözümü olmayan, çaresiz olan",
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
         "letter": "N",
-        "answer": "Naçar, naçarlık, nafile"
+        "answer": "nihai"
     },
     {
-        "id": 1002,
-        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "id": 1000,
+        "question": "Keçi yavrusu",
         "letter": "O",
-        "answer": "Ofris"
+        "answer": "Oğlak"
     },
     {
-        "id": 1009,
-        "question": "Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey, mavera",
+        "id": 369,
+        "question": "Yalnız kendine özgü bir nitelik taşıyan, orijinal",
         "letter": "Ö",
-        "answer": "Öte"
+        "answer": "Özgün"
     },
     {
-        "id": 1013,
-        "question": "Yaşlı, koca, ihtiyar kimse",
+        "id": 1802,
+        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
         "letter": "P",
-        "answer": "Pir"
+        "answer": "Peksimet"
     },
     {
-        "id": 1641,
-        "question": "Eski yapıları onarma",
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
         "letter": "R",
-        "answer": "Restore, restorasyon, restore etme, restore etmek"
+        "answer": "Rivayet"
     },
     {
-        "id": 690,
-        "question": "Kısa mesaj servisi kısaltması",
+        "id": 1824,
+        "question": "Bir şeyin yalnız kenar çizgileriyle tek renk olarak beliren görüntüsü, gölge",
         "letter": "S",
-        "answer": "SMS"
+        "answer": "Silüet"
     },
     {
-        "id": 1058,
-        "question": "Genellikle bazı sporları yaparken giyilen, paçaları dizlerin yukarısında başlayan kısa pantolon",
+        "id": 935,
+        "question": "Kesme veya oyma kalıbı",
         "letter": "Ş",
-        "answer": "Şort"
+        "answer": "şablon"
     },
     {
-        "id": 1061,
-        "question": "Birçok spor oyununda kullanılan, türlü büyüklükte, genellikle kauçuktan yapılmış yuvarlak nesne",
+        "id": 434,
+        "question": "Hükümdarların oturduğu büyük, süslü koltuk",
         "letter": "T",
-        "answer": "top"
+        "answer": "taht"
     },
     {
-        "id": 1068,
-        "question": "Çok uzun",
+        "id": 778,
+        "question": "Zafer, Üstünlük Sağlama, Yenme",
         "letter": "U",
-        "answer": "upuzun"
+        "answer": "utku"
     },
     {
-        "id": 1468,
-        "question": "Güvercinlerden, korularda yaşayan, eti için avlanan, boz renkli bir kuş (Streptopelia turtur)",
+        "id": 462,
+        "question": "Tanınmış, şöhretli, meşhur",
         "letter": "Ü",
-        "answer": "Üveyik"
+        "answer": "ünlü"
     },
     {
-        "id": 1138,
-        "question": "Tehlikeli durum",
+        "id": 1136,
+        "question": "Değer, kıymet",
         "letter": "V",
-        "answer": "varta, vuku, vukuat"
+        "answer": "valör"
     },
     {
-        "id": 772,
-        "question": "Genellikle eylemin çekiciliğini arttıran engelleyici kural",
+        "id": 947,
+        "question": "Köpek ve ineklere yedirilmek üzere un ve kepekle hazırlanan yiyecek",
         "letter": "Y",
-        "answer": "Yasak"
+        "answer": "yal, yem"
     },
     {
-        "id": 850,
-        "question": "Dermansızlık, Zayıf nokta",
+        "id": 738,
+        "question": "Boşuna harcama, zarar",
         "letter": "Z",
-        "answer": "Zafiyet, zafıyet"
+        "answer": "Ziyan, ziyan etme, ziyan etmek"
     }
 ]

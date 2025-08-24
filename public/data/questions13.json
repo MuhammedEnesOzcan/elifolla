@@ -1,158 +1,158 @@
 [
     {
-        "id": 519,
-        "question": "Tatar yayı veya kurmalı yay denen uzak mesafe silahı",
+        "id": 1341,
+        "question": "Virüsün çoğalmasını engelleyen",
         "letter": "A",
-        "answer": "Arbalet"
+        "answer": "Antiviral"
     },
     {
-        "id": 785,
-        "question": "Eskiden tercüme-i hal denilen yaşam öyküsü",
+        "id": 1209,
+        "question": "Aynı zamanda Muğla'nın bir ilçesi de olan, apartmanların genellikle zeminin altında bulunan katı ",
         "letter": "B",
-        "answer": "Biyografi"
+        "answer": "Bodrum, bodrum kat, bodrum katı"
     },
     {
-        "id": 1149,
-        "question": "Dokumacılıkta, çözgü makinesinde çözgü ipliği bobinlerinin desen ve renk sırasına göre yerleştirildiği sehpa",
+        "id": 532,
+        "question": "Heyecanlı, coşkulu ve atik kimse",
         "letter": "C",
-        "answer": "cağlık"
+        "answer": "Cevval"
     },
     {
-        "id": 1449,
-        "question": "Diz kapaklarına kadar çıkan bir çeşit ayakkabı",
+        "id": 1547,
+        "question": "Balık kılçığı",
         "letter": "Ç",
-        "answer": "Çizme"
+        "answer": "Çopra"
     },
     {
-        "id": 1403,
-        "question": "Titreşimin bir ortam içinde yayılma hareketi",
+        "id": 77,
+        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
         "letter": "D",
-        "answer": "Dalga, dalga frekansı, dalga boyu"
+        "answer": "daktilo"
     },
     {
-        "id": 1488,
-        "question": "Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı",
+        "id": 1413,
+        "question": "Ücret karşılığı eşyayı koruyan kimse",
         "letter": "E",
-        "answer": "Engizisyon, engizisyon mahkemesi, engizisyon mahkemeleri"
+        "answer": "Emanetçi"
     },
     {
-        "id": 222,
-        "question": "Genellikle boyuna bağlanan, bir tür ince ipek kumaş",
+        "id": 218,
+        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
         "letter": "F",
-        "answer": "fular"
+        "answer": "file"
     },
     {
-        "id": 1174,
-        "question": "Biçim, desen ya da çizgilerle gösterme, anlatma",
+        "id": 1896,
+        "question": "DÜZENSİZ, RAHATSIZ EDİCİ YÜKSEK SES VEYA SESLER BÜTÜNÜ",
         "letter": "G",
-        "answer": "Grafik"
+        "answer": "Gürültü"
     },
     {
-        "id": 245,
-        "question": "Karşılıksız vermek, bağış",
+        "id": 89,
+        "question": "Bir şirketin ortaklarından her biri",
         "letter": "H",
-        "answer": "hibe, hibe etmek"
+        "answer": "hissedar"
     },
     {
-        "id": 1953,
-        "question": "ACI VE ÜZÜNTÜYÜ BELİRTEN KESİK KESİK SESLER",
+        "id": 1161,
+        "question": "Danışma, beyin fırtınası, karşılıklı tartışma",
         "letter": "İ",
-        "answer": "İnilti"
+        "answer": "İstişare"
     },
     {
-        "id": 1207,
-        "question": "Tenis oynamak için düzenlemiş dikdörtgen biçiminde alan ",
+        "id": 1190,
+        "question": "Üzerinde harfler, rakamlar, işaretler ve bazı işlevleri bulunan bilgisayar giriş ögesi",
         "letter": "K",
-        "answer": "Kort"
+        "answer": "Klavye"
     },
     {
-        "id": 299,
-        "question": "Önder, şef",
+        "id": 918,
+        "question": "Hiç tuzu olmayan yumuşak krem peynir",
         "letter": "L",
-        "answer": "lider"
+        "answer": "Labne"
     },
     {
-        "id": 634,
-        "question": "Akla uygun, doğru düşünülmüş",
+        "id": 1615,
+        "question": "Bir diğer söylemle; Önemli, gerekli",
         "letter": "M",
-        "answer": "Mantıklı"
+        "answer": "Mühim"
     },
     {
-        "id": 331,
-        "question": "Sona eren olay veya iş, son, sonuncu",
+        "id": 339,
+        "question": "Tavsiye, öğüt",
         "letter": "N",
-        "answer": "nihai"
+        "answer": "nasihat"
     },
     {
-        "id": 907,
-        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
+        "id": 344,
+        "question": "İçinde su biriken çukur yer, doğal kuyu",
         "letter": "O",
-        "answer": "Obje"
+        "answer": "obruk, oyuk, oymak"
     },
     {
-        "id": 1008,
-        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "id": 358,
+        "question": "Bir vakitte yenilen yemek",
         "letter": "Ö",
-        "answer": "Örf"
+        "answer": "öğün"
     },
     {
-        "id": 667,
-        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
         "letter": "P",
-        "answer": "Paraf, paraf atma, paraf atmak"
+        "answer": "plak"
     },
     {
-        "id": 399,
-        "question": "Mertebe, derece",
+        "id": 1805,
+        "question": "OSMANLIDA MALİYE İŞLEMLERİNDE KULLANILAN, GÜNEŞ YILI ESASINA DAYALI BİR TAKVİM TÜRÜ",
         "letter": "R",
-        "answer": "rütbe"
+        "answer": "Rumi, Rumi Takvim"
     },
     {
-        "id": 831,
-        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "id": 1317,
+        "question": "Bir şeye ayrılan, uygun görülen veya rastlayan zaman",
         "letter": "S",
-        "answer": "Seküler"
+        "answer": "Sıra"
     },
     {
-        "id": 433,
-        "question": "Art düşünce, hile",
+        "id": 67,
+        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
         "letter": "Ş",
-        "answer": "şaibe, şike"
+        "answer": "Şanlıurfa, Şanlı Urfa"
     },
     {
-        "id": 1277,
-        "question": "Genel adıyla \"Yolculuk edilen araç\"",
+        "id": 1875,
+        "question": "İÇİNDE BULUNMASI GEREKEN ŞEYLER BULUNMAYAN, BOMBOŞ",
         "letter": "T",
-        "answer": "Taşıt"
+        "answer": "Tamtakır"
     },
     {
-        "id": 1562,
-        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "id": 1074,
+        "question": "Türk müziğinde ana makamlardan biri",
         "letter": "U",
-        "answer": "Utangaç"
+        "answer": "Uşşak"
     },
     {
-        "id": 1473,
-        "question": "Oyunda, yenilmek, kaybetmek",
+        "id": 459,
+        "question": "Çok uçta, kenarda veya kıyıda köşede olan",
         "letter": "Ü",
-        "answer": "Ütülmek"
+        "answer": "ücra"
     },
     {
-        "id": 888,
-        "question": "Kedigillerden, kürkünden yararlanılan çok yırtıcı hayvan",
+        "id": 771,
+        "question": "Araç, taşıt anlamlarındaki söz",
         "letter": "V",
-        "answer": "Vaşak, vasak"
+        "answer": "Vasıta"
     },
     {
-        "id": 889,
-        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "id": 1950,
+        "question": "ESKİ EVLERDEKİ YATAK, YORGAN DEPOSU",
         "letter": "Y",
-        "answer": "Yalak"
+        "answer": "Yüklük"
     },
     {
-        "id": 1591,
-        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "id": 1587,
+        "question": "İç içe geçen sehpa",
         "letter": "Z",
-        "answer": "Zarar, ziyan"
+        "answer": "Zigon, zigon sehpa"
     }
 ]

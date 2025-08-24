@@ -1,123 +1,123 @@
 [
     {
-        "id": 517,
-        "question": "Bir şeyi, bir olayı olduğundan büyük veya çok gösterme",
+        "id": 516,
+        "question": "Bir çok müzikal kayıt bulunduran çalışma",
         "letter": "A",
-        "answer": "Abartı, Abartma, Abartmak"
+        "answer": "Albüm"
     },
     {
-        "id": 746,
-        "question": "Çeşitli sebeplerle zihin gücünü yitirmek",
+        "id": 141,
+        "question": "Karşılıksız, emeksiz, parasız elde edilen, müft",
         "letter": "B",
-        "answer": "Bunama, Bunamak"
+        "answer": "beleş, bedava"
     },
     {
-        "id": 532,
-        "question": "Heyecanlı, coşkulu ve atik kimse",
+        "id": 1306,
+        "question": "Boyu, normalden çok daha kısa olan (kimse)",
         "letter": "C",
-        "answer": "Cevval"
+        "answer": "Cüce"
     },
     {
-        "id": 1541,
-        "question": "Şundan dolayı, şu sebeple, zira",
+        "id": 1873,
+        "question": "DOĞA KİRLİLİĞİ SORUNLARIYLA UĞRAŞAN KİMSE VEYA TOPLULUK",
         "letter": "Ç",
-        "answer": "Çünkü"
+        "answer": "Çevreci"
     },
     {
-        "id": 1383,
-        "question": "Eşlerin baba ve analarının birbirlerine göre durumu",
+        "id": 1929,
+        "question": "ARGODA, “CEZAEVİ, HAPİSHANE” ANLAMINDA KULLANILAN SÖZCÜK",
         "letter": "D",
-        "answer": "Dünür, dünürü, dünürlük"
+        "answer": "Delik"
     },
     {
-        "id": 1487,
-        "question": "Organizmada hastalığa yol açan bir mikrobun genel veya yerel gelişmesi, yayılması",
+        "id": 1219,
+        "question": "Çok uzak ve yabancı ülkelerle ilgili ya da böyle ülkelerden gelmiş, getirilmiş",
         "letter": "E",
-        "answer": "Enfeksiyon, enfekte olma, enfekte olma"
+        "answer": "Egzotik, ekzotik"
     },
     {
-        "id": 1490,
-        "question": "Koku, ilaç vb. sıvıları püskürtmek için kullanılan araç",
+        "id": 1672,
+        "question": "Birdenbire, düşünmeden yapan",
         "letter": "F",
-        "answer": "Fısfıs"
+        "answer": "Fevri"
     },
     {
-        "id": 1865,
-        "question": "BİR TOPLUMUN, GEREKLİ KAYNAKLARI ELDE EDEBİLMEK ÜZERE DÜZENLİ OLARAK YER DEĞİŞTİRMESİ",
+        "id": 235,
+        "question": "Sözde, sanki",
         "letter": "G",
-        "answer": "Göçebelik, Göç, Göç etmesi"
+        "answer": "güya, gûya"
     },
     {
-        "id": 1098,
-        "question": "Kur'an'ı bütünüyle ezbere bilen kimse",
+        "id": 1496,
+        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
         "letter": "H",
-        "answer": "Hafız"
+        "answer": "Hamak"
     },
     {
-        "id": 1953,
-        "question": "ACI VE ÜZÜNTÜYÜ BELİRTEN KESİK KESİK SESLER",
+        "id": 952,
+        "question": "Bir köleyi özgürlüğüne kavuşturma",
         "letter": "İ",
-        "answer": "İnilti"
+        "answer": "itak"
     },
     {
-        "id": 1935,
-        "question": "Hem taşıt hem konut olarak kullanılan üstü kapalı araç",
+        "id": 614,
+        "question": "Toplumsal etkinliklerde sıra halinde giden insan topluluğu",
         "letter": "K",
-        "answer": "Karavan"
+        "answer": "Kortej"
     },
     {
-        "id": 1527,
-        "question": "Sükseli, kalantor, gösterişli kimse",
+        "id": 292,
+        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
         "letter": "L",
-        "answer": "Lort"
+        "answer": "lobi"
     },
     {
-        "id": 57,
-        "question": "Türkçede adı tek heceli olan tek ay",
+        "id": 1213,
+        "question": "Başarılı, becerikli olmak, işin rast gitmesi",
         "letter": "M",
-        "answer": "mart"
+        "answer": "Muvaffak, muvaffak olma, muvaffak olmak"
     },
     {
-        "id": 635,
-        "question": "Kuzey Atlantik Antlaşması Örgütü",
+        "id": 929,
+        "question": "Tek ağızlı balta",
         "letter": "N",
-        "answer": "NATO"
+        "answer": "Nacak"
     },
     {
-        "id": 1969,
-        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "id": 996,
+        "question": "Özenli, düzgün, uygun",
         "letter": "O",
-        "answer": "OLGU"
+        "answer": "Onat"
     },
     {
-        "id": 366,
-        "question": "Bir kusurun hoş görülmesini gerektiren sebep, mazeret",
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
         "letter": "Ö",
-        "answer": "özür"
+        "answer": "Öbür, Öbürü"
     },
     {
-        "id": 381,
-        "question": "Elektrik akımı almak için fişin sokulduğu yuva",
+        "id": 383,
+        "question": "Birine saldırmak için saklanarak beklenilen yer",
         "letter": "P",
-        "answer": "priz"
+        "answer": "pusu"
     },
     {
-        "id": 1765,
-        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "id": 1030,
+        "question": "Bir mal veya paranın, belirli bir süre içinde emek verilmeksizin sağladığı gelir",
         "letter": "R",
-        "answer": "Reaksiyon"
+        "answer": "Rant"
     },
     {
-        "id": 416,
-        "question": "Çok bulunmayan, az rastlanan, nadir",
+        "id": 1894,
+        "question": "Fotoğrafçı İşyeri",
         "letter": "S",
-        "answer": "seyrek"
+        "answer": "Stüdyo"
     },
     {
-        "id": 703,
-        "question": "Oturduğu yerde hafif ve kısa süreli uyuma",
+        "id": 1054,
+        "question": "Bir makinenin dönme hareketini öteki parçalara aktaran ve ucuna dişli çarklar, tekerlekler veya pervane bağlanan demir mil",
         "letter": "Ş",
-        "answer": "Şekerleme"
+        "answer": "Şaft"
     },
     {
         "id": 1129,
@@ -126,33 +126,33 @@
         "answer": "takim"
     },
     {
-        "id": 446,
-        "question": "Giysi, kılık kıyafet",
+        "id": 455,
+        "question": "Açıkgöz, kurnaz, cingöz",
         "letter": "U",
-        "answer": "urba"
+        "answer": "uyanık"
     },
     {
-        "id": 469,
-        "question": "Ayrıca, bir de, bundan başka",
+        "id": 1315,
+        "question": "Ütopyaya dayanan, ütopya ile ilgili",
         "letter": "Ü",
-        "answer": "üstelik"
+        "answer": "Ütopik"
     },
     {
-        "id": 875,
-        "question": "Foseptik Kuyularındaki Pis Suları Çekmeye Yarayan Makine",
+        "id": 39,
+        "question": "Güneş sistemindeki en sıcak gezegen",
         "letter": "V",
-        "answer": "Vidanjör, vıdanjor"
+        "answer": "venüs"
     },
     {
-        "id": 891,
-        "question": "Baştan savma, üstünkörü",
+        "id": 489,
+        "question": "Kişiye isnat edilen haksız suçlama",
         "letter": "Y",
-        "answer": "Yalapşap, yalap şap, yalapsap"
+        "answer": "yafta, yaftalama, yaftalamak"
     },
     {
-        "id": 1592,
-        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "id": 499,
+        "question": "Zor kullanarak ele geçirme",
         "letter": "Z",
-        "answer": "Ziyadesiyle"
+        "answer": "zapt, zapt etme, zapt etmek"
     }
 ]

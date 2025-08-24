@@ -1,158 +1,158 @@
 [
     {
-        "id": 118,
-        "question": "Genellikle üzeri siperli masa lambası veya ayaklı lamba",
+        "id": 1754,
+        "question": "Anlaşmazlık konusunda çözüm için araya giren üçünçü kimse ya da kurum",
         "letter": "A",
-        "answer": "abajur"
+        "answer": "Arabulucu"
     },
     {
-        "id": 87,
-        "question": "Birim yüzeye uygulanan kuvvet",
+        "id": 1355,
+        "question": "Çoğunlukla bakırdan yapılan küçük kova",
         "letter": "B",
-        "answer": "basınç"
+        "answer": "Bakraç"
     },
     {
-        "id": 14,
-        "question": "Ülkemizde de sık görülen bir tür köpek balığı?",
+        "id": 1086,
+        "question": "Şehir içinde ana yol",
         "letter": "C",
-        "answer": "camgöz"
+        "answer": "cadde"
     },
     {
-        "id": 172,
-        "question": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
+        "id": 1449,
+        "question": "Diz kapaklarına kadar çıkan bir çeşit ayakkabı",
         "letter": "Ç",
-        "answer": "çakı"
+        "answer": "Çizme"
     },
     {
-        "id": 1396,
-        "question": "Sıkıştırılmış hava içine püskürtülen mazotla çalışan motor",
+        "id": 1217,
+        "question": "Bir devletin resmi para biriminin diğer ülke dövizleri karşısında değer kaybettirilmesi ",
         "letter": "D",
-        "answer": "Dizel, dizel motor"
+        "answer": "Devaülasyon, develasyon, devalasyon, devolasyon, devalüasyon"
     },
     {
-        "id": 216,
-        "question": "Damar tıkanıklığı",
+        "id": 214,
+        "question": "Yalnız belirli duraklarda duran tren, otobüs veya gemi",
         "letter": "E",
-        "answer": "emboli"
+        "answer": "ekspres"
     },
     {
-        "id": 752,
-        "question": "Anlayış, seziş, sezgi",
+        "id": 217,
+        "question": "Çalışır durumda olan, etkin",
         "letter": "F",
-        "answer": "Feraset"
+        "answer": "faal"
     },
     {
-        "id": 1701,
-        "question": "Yadırganacak bir yönü olma durumu, yadırgatıcılık, tuhaflık",
+        "id": 1850,
+        "question": "PASLANMAKTAN KORUMAK İÇİN ERİMİŞ ÇİNKOYA BATIRILARAK KAPLANMIŞ OLAN",
         "letter": "G",
-        "answer": "Garabet"
+        "answer": "Galvanize, Galvanizli"
     },
     {
-        "id": 248,
-        "question": "Dışta kalmak üzere, dışında sayılmak üzere, müstesna",
+        "id": 1733,
+        "question": "Normalin üstünde bir hareketliliğe ve aktifliğe sahip olma durumu",
         "letter": "H",
-        "answer": "hariç"
+        "answer": "Hiperaktivite, hiperaktiflik"
     },
     {
-        "id": 1199,
-        "question": "Damıtma işinde kullanılan araç, damıtıcı",
+        "id": 1497,
+        "question": "Ülke adına makamlara sunulmak üzere toplanmış taktik içerikli bilgiler",
         "letter": "İ",
-        "answer": "İmbik"
+        "answer": "İstihbarat"
     },
     {
-        "id": 66,
-        "question": "Diğer adı perçem olan alna düşen kısa kesilmiş saç",
+        "id": 1784,
+        "question": "BAZI LOKANTALARDA ÇATAL, BIÇAK GİBİ SERVİS ÖGELERİNDEN ALINAN ÜCRET",
         "letter": "K",
-        "answer": "Kahkül, Kakül"
+        "answer": "Kuver"
     },
     {
-        "id": 1832,
-        "question": "PORTATİF KÜÇÜK ÇOCUK TUVALETİ",
+        "id": 982,
+        "question": "Bir dilin tarihi, yapısı, politik sebeplerden dolayı ses, yapı ve söz dizimiyle ayrılan bir kolu",
         "letter": "L",
-        "answer": "Lazımlık"
+        "answer": "Lehçe, lehçesi"
     },
     {
-        "id": 324,
-        "question": "Özdeyiş, slogan",
+        "id": 1622,
+        "question": "Hayatın güldürücü yönünü ortaya çıkaran sanat türü",
         "letter": "M",
-        "answer": "motto"
+        "answer": "Mizah"
     },
     {
-        "id": 1242,
-        "question": "Düzyazı sanatı",
+        "id": 336,
+        "question": "Ortak bir özellik gösteren kimselerin bütünü, popülasyon",
         "letter": "N",
-        "answer": "Nesir, nesir sanatı"
+        "answer": "nüfus"
     },
     {
-        "id": 998,
-        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
+        "id": 995,
+        "question": "Plastik, tahta, mika vb. maddelerden yapılmış taşlarla oynanan ve konkene benzeyen bir tür oyun",
         "letter": "O",
-        "answer": "oya"
+        "answer": "okey"
     },
     {
-        "id": 658,
-        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
+        "id": 1538,
+        "question": "Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak",
         "letter": "Ö",
-        "answer": "Özenti, Özentilik, Özenme, Özenmek"
+        "answer": "Örtmek"
     },
     {
-        "id": 1825,
-        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
         "letter": "P",
-        "answer": "Plankton"
+        "answer": "plaj"
     },
     {
-        "id": 1025,
-        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
+        "id": 1028,
+        "question": "Rüşvet veren kimse",
         "letter": "R",
-        "answer": "run"
+        "answer": "Raşi"
     },
     {
-        "id": 1824,
-        "question": "Bir şeyin yalnız kenar çizgileriyle tek renk olarak beliren görüntüsü, gölge",
+        "id": 765,
+        "question": "İşlerine önem vermeyen, ihmalkâr",
         "letter": "S",
-        "answer": "Silüet"
+        "answer": "Savsak"
     },
     {
-        "id": 1685,
-        "question": "İsrail para birimi",
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
         "letter": "Ş",
-        "answer": "Şekel"
+        "answer": "şakrak"
     },
     {
-        "id": 1750,
-        "question": "Dini referanslar dikkate alınarak yönetilen hükümet sistemi",
+        "id": 56,
+        "question": "Kara tahtaya yazı yazmak için kullanılan kireçli çubuk",
         "letter": "T",
-        "answer": "Teokrasi"
+        "answer": "Tebeşir"
     },
     {
-        "id": 1069,
-        "question": "ele avuca sığmaz (kimse)",
+        "id": 450,
+        "question": "Bilgiçlik taslayan (kimse)",
         "letter": "U",
-        "answer": "Uçarı"
+        "answer": "ukala"
     },
     {
-        "id": 1315,
-        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
         "letter": "Ü",
-        "answer": "Ütopik"
+        "answer": "Üzenti"
     },
     {
-        "id": 872,
-        "question": "Bulaşıcı Hastalıklara Yol Açan Mikrop",
+        "id": 472,
+        "question": "İki dağ arasındaki çukurca arazi veya geçit",
         "letter": "V",
-        "answer": "Virüs, vırus"
+        "answer": "vadi"
     },
     {
-        "id": 717,
-        "question": "Yüksek mahkeme, yüksek yargı kurulu",
+        "id": 1576,
+        "question": "\"Aksi takdirde\" anlamında kullanılan bir söz",
         "letter": "Y",
-        "answer": "Yargıtay"
+        "answer": "Yoksa"
     },
     {
-        "id": 501,
-        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
+        "id": 739,
+        "question": "Gerçekleşeceği düşünülmeyen, hesapta olmayan, umulmadık",
         "letter": "Z",
-        "answer": "zırh"
+        "answer": "Zuhurat, Zuhurât"
     }
 ]

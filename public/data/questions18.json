@@ -1,158 +1,158 @@
 [
     {
-        "id": 123,
-        "question": "Rütbesi general ile aynı olan deniz subayı",
+        "id": 1657,
+        "question": "Belli bir süre sonra inilip başka bir taşıta binilmesini gerektiren seyahat",
         "letter": "A",
-        "answer": "amiral"
+        "answer": "Aktarmalı, aktarmalı seyahat"
     },
     {
-        "id": 136,
-        "question": "Orkestrada vurmalı çalgı takımı, davul",
+        "id": 1837,
+        "question": "ARAPÇA KÖKENLİ \"MATBAA\" SÖZCÜĞÜNÜN TÜRKÇE EŞ ANLAMLISI",
         "letter": "B",
-        "answer": "bateri"
+        "answer": "Basımevi"
     },
     {
-        "id": 1308,
-        "question": "Küçük ve tatlı bir tür karpuz",
+        "id": 531,
+        "question": "Uygun, yerinde sayılan, yakışık alan",
         "letter": "C",
-        "answer": "Cimcime"
+        "answer": "Caiz"
     },
     {
-        "id": 179,
-        "question": "Çizilerek veya oyularak açılan kertik",
+        "id": 1451,
+        "question": "Bilgisayarda yazılan bir metnin kâğıda dökülmüş biçimi",
         "letter": "Ç",
-        "answer": "çetele, çentik"
+        "answer": "Çıktı, çıktısı"
     },
     {
-        "id": 188,
-        "question": "Doğrudan doğruya olmayan, dolayısıyla olan, vasıtalı, bilvasıta, endirekt",
+        "id": 1392,
+        "question": "Aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü",
         "letter": "D",
-        "answer": "dolaylı, dolambaçlı"
+        "answer": "Dosya, doküman"
     },
     {
-        "id": 1416,
-        "question": "Araçlarla koruma işi",
+        "id": 1411,
+        "question": "Zorluğa sahip olarak düz olmayan bir yeri bulunan arazi türü",
         "letter": "E",
-        "answer": "Eskortluk, eskort"
+        "answer": "Engebeli, engebeli arazi"
     },
     {
-        "id": 1322,
-        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
         "letter": "F",
-        "answer": "Freze"
+        "answer": "Fidan"
     },
     {
-        "id": 241,
-        "question": "Öfke, kızgınlık, hiddet",
+        "id": 1421,
+        "question": "İzmir yöresinde simitin diğer adı",
         "letter": "G",
-        "answer": "gazap"
+        "answer": "Gevrek"
     },
     {
-        "id": 1494,
-        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "id": 1229,
+        "question": "Yakını görememe kusuru",
         "letter": "H",
-        "answer": "Halef, halefi"
+        "answer": "Hipermetrop, hipermetropluk"
     },
     {
-        "id": 1197,
-        "question": "Gerçeğine benzetilerek yapılmış olan süs eşyası",
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
         "letter": "İ",
-        "answer": "İmitasyon"
+        "answer": "İşletme"
     },
     {
-        "id": 757,
-        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "id": 1282,
+        "question": "İş bakımından üstün tecrübeye sahip olan",
         "letter": "K",
-        "answer": "Komisyon, Kar, Kâr"
+        "answer": "Kıdemli, kıdem sahibi, kalifiye, kalifiye eleman"
     },
     {
-        "id": 298,
-        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "id": 623,
+        "question": "Eğlence yerlerinde veya parlamento salonlarında özel bölme",
         "letter": "L",
-        "answer": "levha"
+        "answer": "Loca"
     },
     {
-        "id": 319,
-        "question": "Bir olayın, bir durumun etkisinde veya karşısında bulunan",
+        "id": 57,
+        "question": "Türkçede adı tek heceli olan tek ay",
         "letter": "M",
-        "answer": "maruz, maruz kalan"
+        "answer": "mart"
     },
     {
-        "id": 993,
-        "question": "Hoş olmayan, hoşa gitmeyen, kötü, çirkin",
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
         "letter": "N",
-        "answer": "Nahoş"
+        "answer": "Noter"
     },
     {
-        "id": 351,
-        "question": "Kişisel değer, şeref, itibar",
+        "id": 1003,
+        "question": "On açısı, on kenarı olan çokgen",
         "letter": "O",
-        "answer": "onur"
+        "answer": "Ongen"
     },
     {
-        "id": 356,
-        "question": "Bir başarı karşılığında verilen armağan, mükâfat",
+        "id": 358,
+        "question": "Bir vakitte yenilen yemek",
         "letter": "Ö",
-        "answer": "ödül"
+        "answer": "öğün"
     },
     {
-        "id": 1740,
-        "question": "İnsanın yüzünün yandan görünüşü",
+        "id": 1023,
+        "question": "Baykuşgillerden, orman, dağ ve kayalıklarda yaşayan, uzunluğu 65 cm, sırtı koyu kahverengi bir kuş türü",
         "letter": "P",
-        "answer": "Profil"
+        "answer": "Puhu"
     },
     {
-        "id": 398,
-        "question": "Havalimanında uçuşun gecikme durumu",
+        "id": 1635,
+        "question": "Evin duvarlarının suyu çekmesi ve ısı farkından dolayı su buharı oluşması",
         "letter": "R",
-        "answer": "rötar"
+        "answer": "Rutubet"
     },
     {
-        "id": 692,
-        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "id": 1940,
+        "question": "Öğretmenin diyaloğa dayalı yaptığı sınav biçimi",
         "letter": "S",
-        "answer": "Sahaf"
+        "answer": "Sözlü"
     },
     {
-        "id": 1462,
-        "question": "Etkisi çok olan, zorlu, aşırı",
+        "id": 424,
+        "question": "Okullarda aynı düzeydeki sınıflardan her biri",
         "letter": "Ş",
-        "answer": "Şiddetli"
+        "answer": "şube"
     },
     {
-        "id": 1154,
-        "question": "Diş taşı",
+        "id": 1749,
+        "question": "Demokratik hak ve özgürlüklerin baskı altında tutulduğu devlet düzeni",
         "letter": "T",
-        "answer": "tartar"
+        "answer": "Totaliter, Totaliter Rejim, Totalitarizm, Totalirite"
     },
     {
-        "id": 776,
-        "question": "Yağmur Getirmeyen Fırtına",
+        "id": 1072,
+        "question": "Fikir, sanat ve endüstri alanlarında çok büyük bir gelişme göstermiş olan, medeni, mütemeddin",
         "letter": "U",
-        "answer": "Urağan, uragan"
+        "answer": "uygar"
     },
     {
-        "id": 854,
-        "question": "Isı azlığı nedeniyle soğuğun etkisini duymak",
+        "id": 729,
+        "question": "Özen göstermeden, gelişigüzel, baştan savma yapılan",
         "letter": "Ü",
-        "answer": "Üşümek"
+        "answer": "Üstünkörü"
     },
     {
-        "id": 479,
-        "question": "Polisi ilgilendiren olay veya olaylar",
+        "id": 472,
+        "question": "İki dağ arasındaki çukurca arazi veya geçit",
         "letter": "V",
-        "answer": "vukuat"
+        "answer": "vadi"
     },
     {
-        "id": 1237,
-        "question": "\"Veya, ya da\" eş anlamlısı",
+        "id": 486,
+        "question": "Hayvan yiyeceği",
         "letter": "Y",
-        "answer": "Yahut"
+        "answer": "yem"
     },
     {
-        "id": 1294,
-        "question": "Parasız, yoksul, meteliksiz olan",
+        "id": 511,
+        "question": "Saçma, saçma sapan, boş, anlamsız söz",
         "letter": "Z",
-        "answer": "Züğürt, züürt, zürt, zügürt"
+        "answer": "zırva"
     }
 ]

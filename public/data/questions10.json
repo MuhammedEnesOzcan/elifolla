@@ -1,158 +1,158 @@
 [
     {
-        "id": 1261,
-        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
+        "id": 126,
+        "question": "Eski dilde \"Dilekçe\"",
         "letter": "A",
-        "answer": "Aperatif, aparatif, aperetif, Aperitif"
+        "answer": "arzuhal, arzuhâl"
     },
     {
-        "id": 1356,
-        "question": "Bir şeyin gerçek sebebi gizlenerek ileri sürülen uydurma sebep",
+        "id": 1602,
+        "question": "Alım ve de satım işleri ile ilgilenmekte olan şirketlere aracılıklar yapan komisyoncu",
         "letter": "B",
-        "answer": "Bahane, bahane etme, bahane etmek, bahane sunma, bahane sunmak"
+        "answer": "Broker"
     },
     {
-        "id": 159,
-        "question": "Kazanmak, cebine indirmek, çalmak",
+        "id": 962,
+        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
         "letter": "C",
-        "answer": "ceplemek, cukkalamak"
+        "answer": "Cacık"
     },
     {
-        "id": 1087,
-        "question": "Herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor",
+        "id": 172,
+        "question": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
         "letter": "Ç",
-        "answer": "Çaba"
+        "answer": "çakı"
     },
     {
-        "id": 793,
-        "question": "Para basılan yer",
+        "id": 1089,
+        "question": "Kavga, gürültülü bağrışıp çağrışma",
         "letter": "D",
-        "answer": "Darphane"
+        "answer": "Dalaş, dalaşı"
     },
     {
-        "id": 562,
-        "question": "Çeşitli renk ve büyüklükteki karelerden oluşan (desen veya kumaş)",
+        "id": 1418,
+        "question": "Vücutta istenmeyen kılları alma",
         "letter": "E",
-        "answer": "Ekose, Ekoseli"
+        "answer": "Epilasyon"
     },
     {
-        "id": 1328,
-        "question": "Bir dansı veya oyunu oluşturan ölçülü adımlarla beliren zincirleme hareketlerden her biri",
+        "id": 1671,
+        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
         "letter": "F",
-        "answer": "Figür, figürler"
+        "answer": "Filiz"
     },
     {
-        "id": 1428,
-        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+        "id": 971,
+        "question": "Sonbahar",
         "letter": "G",
-        "answer": "Gard"
+        "answer": "Güz"
     },
     {
-        "id": 1866,
-        "question": "ZEVKİ İÇİN PARA HARCAMAKTAN KAÇINMAYAN KİMSE",
+        "id": 807,
+        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
         "letter": "H",
-        "answer": "Hovarda"
+        "answer": "Hüsran"
     },
     {
-        "id": 599,
-        "question": "Açıkça bildirme, açıkça duyurma",
+        "id": 1951,
+        "question": "HEM “EKONOMİ” HEM “TUTUM” ANLAMINA GELEN SÖZCÜK",
         "letter": "İ",
-        "answer": "İlan, ilan etme, ilan etmek, ilan verme, ilan vermek"
+        "answer": "İktisat, İktisad"
     },
     {
-        "id": 1811,
-        "question": "DENTAL TEMİZLİKTE KULLANILAN İNCE TAHTA ÇÖP",
+        "id": 612,
+        "question": "Isıtmada kullanılan yakıtı düzenli ve ayarlı biçimde yakan araç",
         "letter": "K",
-        "answer": "Kürdan"
+        "answer": "Kombi"
     },
     {
-        "id": 291,
-        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
+        "id": 617,
+        "question": "Çok dar bir ışık huzmesi üreten optik araç",
         "letter": "L",
-        "answer": "loş"
+        "answer": "Lazer"
     },
     {
-        "id": 1879,
-        "question": "İnsanoğlunun ilkçağlardan günümüze kadar kullanmayı sürdürdüğü doğal barınak",
+        "id": 1858,
+        "question": "ESKİ ZAMANLARDA OKUL YERİNE KULLANILAN KELİME",
         "letter": "M",
-        "answer": "Mağara"
+        "answer": "Mektep"
     },
     {
-        "id": 1275,
-        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "id": 949,
+        "question": "Nikel'in simgesi",
         "letter": "N",
-        "answer": "Nostalji, nostaliji"
+        "answer": "ni"
     },
     {
-        "id": 353,
-        "question": "Aşırı kilolu (kimse)",
+        "id": 999,
+        "question": "Klavyelilerden farklı ses ton ve modlarına sahip olabilen çalgı",
         "letter": "O",
-        "answer": "obez"
+        "answer": "org"
     },
     {
-        "id": 1481,
-        "question": "Bir sorunu çözmek üzere öne sürülen görüş, düşünce, teklif",
+        "id": 355,
+        "question": "Öğretmenin öğrencilere okul dışında yapmaları için verdiği çalışma",
         "letter": "Ö",
-        "answer": "Öneri"
+        "answer": "ödev"
     },
     {
-        "id": 673,
-        "question": "Söz dalaşı",
+        "id": 65,
+        "question": "Yalan söylediğinde burnu uzayan roman karakteri",
         "letter": "P",
-        "answer": "Polemik"
+        "answer": "pinokyo"
     },
     {
-        "id": 1122,
-        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
+        "id": 1032,
+        "question": "Pokerde, bir oyuncunun önündeki paranın tümü",
         "letter": "R",
-        "answer": "rapor"
+        "answer": "rest"
     },
     {
-        "id": 1045,
-        "question": "Toprağın kaymasını veya suyun akmasını önlemek için yapılan kalın duvar",
+        "id": 1813,
+        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
         "letter": "S",
-        "answer": "set"
+        "answer": "Solaryum"
     },
     {
-        "id": 426,
-        "question": "Açık ve ayrıntılı anlatma",
+        "id": 1057,
+        "question": "İçine mendil, gecelik vb. şeyleri koymaya yarayan, çeşitli büyüklükte, kumaştan koruncak",
         "letter": "Ş",
-        "answer": "şerh"
+        "answer": "Şase"
     },
     {
-        "id": 1650,
-        "question": "Lisans ve yüksek lisans yapan öğrencilerin bilimsel yöntemlere dayandırdıkları ve hazırladıkları makaleler",
+        "id": 56,
+        "question": "Kara tahtaya yazı yazmak için kullanılan kireçli çubuk",
         "letter": "T",
-        "answer": "Tez"
+        "answer": "Tebeşir"
     },
     {
-        "id": 1077,
-        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "id": 450,
+        "question": "Bilgiçlik taslayan (kimse)",
         "letter": "U",
-        "answer": "ucuz"
+        "answer": "ukala"
     },
     {
-        "id": 469,
-        "question": "Ayrıca, bir de, bundan başka",
+        "id": 1566,
+        "question": "Mecazen; Delirmek, aklını yitirmek",
         "letter": "Ü",
-        "answer": "üstelik"
+        "answer": "Üşütmek, üşütme"
     },
     {
-        "id": 484,
-        "question": "Eski dilde \"Anne\"",
+        "id": 890,
+        "question": "Giysilerde omuzların dik durması için konulan parça",
         "letter": "V",
-        "answer": "Valide"
+        "answer": "Vatka"
     },
     {
-        "id": 839,
-        "question": "Sayıyı yukarı ya da aşağı değiştirerek tüm sayı haline getirme",
+        "id": 40,
+        "question": "Günlük kazanç",
         "letter": "Y",
-        "answer": "Yuvarlama, Yuvarlamak"
+        "answer": "yevmiye"
     },
     {
-        "id": 1593,
-        "question": "Ard arda birden fazla aracın kazaya karışması durumu",
+        "id": 1588,
+        "question": "Bebeklere iç çamaşırı olarak giydirilen, ince pamukludan kısa ve kollu giysi",
         "letter": "Z",
-        "answer": "Zincirleme, zincirleme kaza"
+        "answer": "Zıbın"
     }
 ]

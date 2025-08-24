@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1261,
+        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
+        "letter": "A",
+        "answer": "Aperatif, aparatif, aperetif, Aperitif"
+    },
+    {
+        "id": 1920,
+        "question": "MİDENİN İSTİFRA SİNYALİ",
+        "letter": "B",
+        "answer": "Bulantı"
+    },
+    {
+        "id": 160,
+        "question": "Üzerinde savaşın sürdüğü bölge",
+        "letter": "C",
+        "answer": "cephe, cephe bölgesi"
+    },
+    {
+        "id": 1816,
+        "question": "MECAZEN; DİNÇLİĞİNİ KAYBETMEK, İHTİYARLAMAK",
+        "letter": "Ç",
+        "answer": "Çökme, Çökmek"
+    },
+    {
+        "id": 187,
+        "question": "İçi boş, her yanı kapalı, suyun üstünde yüzen bir tür büyük şamandıra",
+        "letter": "D",
+        "answer": "Duba"
+    },
+    {
+        "id": 209,
+        "question": "Çok gerekli, vazgeçilmez",
+        "letter": "E",
+        "answer": "elzem"
+    },
+    {
+        "id": 1324,
+        "question": "Gemilerde kürek çeken tutsak veya hükümlü kimse",
+        "letter": "F",
+        "answer": "Forsa"
+    },
+    {
+        "id": 1428,
+        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+        "letter": "G",
+        "answer": "Gard"
+    },
+    {
+        "id": 246,
+        "question": "Kıskançlık, çekememezlik",
+        "letter": "H",
+        "answer": "haset, hasetlik"
+    },
+    {
+        "id": 270,
+        "question": "Çözülmesi kolay düğüm, eğreti düğüm",
+        "letter": "İ",
+        "answer": "ilmek"
+    },
+    {
+        "id": 1818,
+        "question": "Alışverişte durgunluk",
+        "letter": "K",
+        "answer": "Kesat, kesatlık, kesat iş, kesat işler"
+    },
+    {
+        "id": 1457,
+        "question": "Elektronikte erime noktaları düşük metalleri tutturma işlemi",
+        "letter": "L",
+        "answer": "Lehim, lehimleme, lehimlemek, lehin yapma, lehim yapmak"
+    },
+    {
+        "id": 625,
+        "question": "Ayrı bir yeri olan, üstün, seçkin",
+        "letter": "M",
+        "answer": "Mümtaz"
+    },
+    {
+        "id": 54,
+        "question": "Afrika'nın en uzun nehri",
+        "letter": "N",
+        "answer": "Nil, Nil nehri"
+    },
+    {
+        "id": 349,
+        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
+        "letter": "O",
+        "answer": "onbaşı"
+    },
+    {
+        "id": 661,
+        "question": "Kötü bir durumun ya da olayın duyulmasını gizlemek",
+        "letter": "Ö",
+        "answer": "Örtbas, Örtbas etmek"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 1864,
+        "question": "YÜZEYDE KALMAYIP DERİNE İNEN, ASIL KONUYU DA İÇİNE ALAN, KÖKTEN",
+        "letter": "R",
+        "answer": "Radikal"
+    },
+    {
+        "id": 687,
+        "question": "Tarımsal yapay iklim alanı",
+        "letter": "S",
+        "answer": "Sera"
+    },
+    {
+        "id": 425,
+        "question": "Bilinç, akıl",
+        "letter": "Ş",
+        "answer": "şuur"
+    },
+    {
+        "id": 1875,
+        "question": "İÇİNDE BULUNMASI GEREKEN ŞEYLER BULUNMAYAN, BOMBOŞ",
+        "letter": "T",
+        "answer": "Tamtakır"
+    },
+    {
+        "id": 1512,
+        "question": "Bütün varlıkların içinde bulunduğu sonsuz boşluk, feza, mekân",
+        "letter": "U",
+        "answer": "Uzay"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 482,
+        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
+        "letter": "V",
+        "answer": "vezne"
+    },
+    {
+        "id": 716,
+        "question": "Gidilen yerde geceyi geçirme",
+        "letter": "Y",
+        "answer": "Yatı, Yatıya kalma, Yatıya kalmak"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

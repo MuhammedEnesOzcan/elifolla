@@ -1,0 +1,158 @@
+[
+    {
+        "id": 781,
+        "question": "Sembol niteliğindeki yapı",
+        "letter": "A",
+        "answer": "Abide, Anıt"
+    },
+    {
+        "id": 42,
+        "question": "Türk halk müziğinde en çok popüler telli çalgı",
+        "letter": "B",
+        "answer": "Bağlama"
+    },
+    {
+        "id": 915,
+        "question": "Sonu Olmayan, Sonsuz, Ebedi, Ölümsüz",
+        "letter": "C",
+        "answer": "Cavit"
+    },
+    {
+        "id": 179,
+        "question": "Çizilerek veya oyularak açılan kertik",
+        "letter": "Ç",
+        "answer": "çetele, çentik"
+    },
+    {
+        "id": 1399,
+        "question": "Büyük takımlar arasında oynanan maç",
+        "letter": "D",
+        "answer": "Derbi, derbi maçı"
+    },
+    {
+        "id": 1279,
+        "question": "Bitkilerden çıkarılan veya kimya yardımıyla çeşitli maddelerden elde edilen kokulu, uçucu sıvı",
+        "letter": "E",
+        "answer": "Esans, esansı"
+    },
+    {
+        "id": 571,
+        "question": "Bir girişimde başarısız sonuç",
+        "letter": "F",
+        "answer": "Fiyasko"
+    },
+    {
+        "id": 582,
+        "question": "Dikkatli ve planlı olarak ele alınıp incelenme durumu",
+        "letter": "G",
+        "answer": "Gözlem, Gözlem yapma, Gözlem yapmak"
+    },
+    {
+        "id": 1794,
+        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "letter": "H",
+        "answer": "Hasılat"
+    },
+    {
+        "id": 1204,
+        "question": "Kendi isteğiyle çalıştığı işi bırakmak",
+        "letter": "İ",
+        "answer": "İstifa, istifa etme, istifa etmek"
+    },
+    {
+        "id": 613,
+        "question": "Uygunsuz hareket, çirkin, yakışıksız davranış, suç",
+        "letter": "K",
+        "answer": "Kabahat"
+    },
+    {
+        "id": 1529,
+        "question": "Kişiye alay yollu takılan takma ad",
+        "letter": "L",
+        "answer": "Lakap, lakab"
+    },
+    {
+        "id": 632,
+        "question": "Ara, aralık, uzaklık",
+        "letter": "M",
+        "answer": "Mesafe"
+    },
+    {
+        "id": 987,
+        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
+        "letter": "N",
+        "answer": "Naz"
+    },
+    {
+        "id": 1739,
+        "question": "Kuruluşları ortak bir amaç için bir araya getirme, düzenleme",
+        "letter": "O",
+        "answer": "Organizasyon, Organize etme, Organize etmek"
+    },
+    {
+        "id": 1481,
+        "question": "Bir sorunu çözmek üzere öne sürülen görüş, düşünce, teklif",
+        "letter": "Ö",
+        "answer": "Öneri"
+    },
+    {
+        "id": 78,
+        "question": "Eski Yunan'da, kent devletlerine verilen isim",
+        "letter": "P",
+        "answer": "polis"
+    },
+    {
+        "id": 33,
+        "question": "Yüksek basınçtan, alçak basınca doğru olan hava akımları",
+        "letter": "R",
+        "answer": "Rüzgar"
+    },
+    {
+        "id": 417,
+        "question": "Buhar banyosu",
+        "letter": "S",
+        "answer": "sauna"
+    },
+    {
+        "id": 1678,
+        "question": "Almanya ve Avusturya'da hükûmet başkanı ünvanı",
+        "letter": "Ş",
+        "answer": "Şansölye"
+    },
+    {
+        "id": 1128,
+        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "letter": "T",
+        "answer": "tabak"
+    },
+    {
+        "id": 1561,
+        "question": "Merkezi sinir sistemine etki ederek farkındalığı, dikkati ve uyanıklığı artıran ilaçlar ya da maddeler",
+        "letter": "U",
+        "answer": "Uyarıcı, uyarıcı ilaçlar, uyarıcı maddeler"
+    },
+    {
+        "id": 868,
+        "question": "Bina eteği, etek duvarı veya subasman",
+        "letter": "Ü",
+        "answer": "Üstemel"
+    },
+    {
+        "id": 473,
+        "question": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi",
+        "letter": "V",
+        "answer": "vali"
+    },
+    {
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
+        "letter": "Y",
+        "answer": "Yassı"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

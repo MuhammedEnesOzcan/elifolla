@@ -1,158 +1,158 @@
 [
     {
-        "id": 780,
-        "question": "Öncelik tanımak, öndelik vermek",
+        "id": 1820,
+        "question": "Giysiyi bütünleyen çanta, kemer vb. gibi şeyler",
         "letter": "A",
-        "answer": "Avans, avans verme, avans vermek, avans tanıma, avans tanımak"
+        "answer": "Aksesuar, Aksessuar"
     },
     {
-        "id": 82,
-        "question": "Fenike uygarlığı'nın doğduğu Lübnan'ın başkenti",
+        "id": 147,
+        "question": "Daha kötü, çok kötü",
         "letter": "B",
-        "answer": "beyrut"
+        "answer": "beter"
     },
     {
-        "id": 1366,
-        "question": "Kümes hayvanlarının yumurtadan yeni çıkmış yavrusu",
+        "id": 1372,
+        "question": "İnce, yuvarlak kesilerek kızartılmış patates",
         "letter": "C",
-        "answer": "Civciv"
+        "answer": "Cips"
     },
     {
-        "id": 1447,
-        "question": "Çevresine göre aşağı çökmüş olan yer",
+        "id": 1859,
+        "question": "AYAKLA ÇİĞNENDİĞİNDE YA DA DUVARA SÜRTÜLDÜĞÜNDE PATLAYAN EĞLENCE FİŞEĞİ",
         "letter": "Ç",
-        "answer": "Çukur"
+        "answer": "Çatapat"
     },
     {
-        "id": 1152,
-        "question": "En son il olan şehrimiz",
+        "id": 1764,
+        "question": "ACI, ÜZÜNTÜ VEYA PİŞMANLIK SEBEBİYLE KENDİ KENDİNE VURMAK",
         "letter": "D",
-        "answer": "Düzce"
+        "answer": "Dövünme, Dövünmek"
     },
     {
-        "id": 207,
-        "question": "Benzer, eş, denk, daha önce benzeri görülen",
+        "id": 212,
+        "question": "Bütünleşmiş, dahili",
         "letter": "E",
-        "answer": "emsal"
+        "answer": "entegre"
     },
     {
-        "id": 1322,
-        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "id": 1713,
+        "question": "Karınca asidi olarak bilinen kimyadaki asit türü",
         "letter": "F",
-        "answer": "Freze"
+        "answer": "Formik, Formik asit, Formik asid"
     },
     {
-        "id": 1759,
-        "question": "Çevresiyle uyuşamayan, aksi tabiatlı, kavga çıkaran kimse",
+        "id": 801,
+        "question": "Kolları açarak, göğsü ileriye omuzları geriye doğru esnetmek",
         "letter": "G",
-        "answer": "Geçimsiz"
+        "answer": "Gerinmek, Gerinme, Gerilmek, Gerilme"
     },
     {
-        "id": 1445,
-        "question": "Sürekli hayal kuran, hep hayal peşinde koşan (kimse)",
+        "id": 58,
+        "question": "Sebze, meyve, bakliyat gibi ürünlerin toptan satıldığı yer",
         "letter": "H",
-        "answer": "Hayalperest, hayalperver"
+        "answer": "Hal, Hâl"
     },
     {
-        "id": 602,
-        "question": "Bir şeyin olabilmesi durumu, olabilirlik, olasılık",
+        "id": 1692,
+        "question": "“TRAFİĞİ ÇOK OLAN, CANLI, HAREKETLİ, YOĞUN VE KALABALIK” ANLAMLARINDA KULLANILAN BİR SÖZ",
         "letter": "İ",
-        "answer": "İhtimal"
+        "answer": "İşlek, işlek yol, işlek cadde"
     },
     {
-        "id": 1783,
-        "question": "KİTABIN, DERGİNİN İÇERİĞİNİ ÖZETLEYEN DIŞ YÜZÜ",
+        "id": 1190,
+        "question": "Üzerinde harfler, rakamlar, işaretler ve bazı işlevleri bulunan bilgisayar giriş ögesi",
         "letter": "K",
-        "answer": "Kapak"
+        "answer": "Klavye"
     },
     {
-        "id": 1203,
-        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
+        "id": 918,
+        "question": "Hiç tuzu olmayan yumuşak krem peynir",
         "letter": "L",
-        "answer": "Lens"
+        "answer": "Labne"
     },
     {
-        "id": 1892,
-        "question": "Bilgisayarın telefon hattına bağlanarak internete bağlanmasını sağlayan aygıt",
+        "id": 317,
+        "question": "Aşırı olmayan, uygun, elverişli",
         "letter": "M",
-        "answer": "Modem"
+        "answer": "makul, mâkul"
     },
     {
-        "id": 1676,
-        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "id": 1224,
+        "question": "Çaresi, çözümü olmayan, çaresiz olan",
         "letter": "N",
-        "answer": "Noter"
+        "answer": "Naçar, naçarlık, nafile"
     },
     {
-        "id": 996,
-        "question": "Özenli, düzgün, uygun",
+        "id": 1516,
+        "question": "Elle yapılan kalın, seyrek dikiş",
         "letter": "O",
-        "answer": "Onat"
+        "answer": "Oyulga"
     },
     {
-        "id": 1007,
-        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
         "letter": "Ö",
-        "answer": "Örk"
+        "answer": "Ödün, Ödün verme, Ödün vermek"
     },
     {
-        "id": 381,
-        "question": "Elektrik akımı almak için fişin sokulduğu yuva",
+        "id": 1019,
+        "question": "Telli sazları çalmaya yarayan ve kemik, boynuz vb. şeylerden yapılan çalma aracı, mızrap, çalgıç",
         "letter": "P",
-        "answer": "priz"
+        "answer": "pena"
     },
     {
-        "id": 680,
-        "question": "İzin belgesi",
+        "id": 1278,
+        "question": "Uyku sırasında görülen olaylar",
         "letter": "R",
-        "answer": "Ruhsat, Ruhsat belgesi"
+        "answer": "Rüya"
     },
     {
-        "id": 1276,
-        "question": "Elle tutulur, gerçek",
+        "id": 1756,
+        "question": "Alt anlamı kimse, insan, tip olan Farsça kökenli kelime",
         "letter": "S",
-        "answer": "Somut, sahi, sahici"
+        "answer": "Sima"
     },
     {
-        "id": 698,
-        "question": "Gizli haberleşmeye yarayan işaretlerin tümü, kod",
+        "id": 429,
+        "question": "Söyleyiş özelliği",
         "letter": "Ş",
-        "answer": "Şifre, şifreli mesaj"
+        "answer": "şive"
     },
     {
-        "id": 64,
-        "question": "Hava sıcaklığını ölçmeye yarayan alet",
+        "id": 713,
+        "question": "Büyük ölçüde, çok miktarda yapılan (alışveriş)",
         "letter": "T",
-        "answer": "termometre"
+        "answer": "Toptan, toptan alışveriş"
     },
     {
-        "id": 892,
-        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "id": 1131,
+        "question": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren",
         "letter": "U",
-        "answer": "Uzman"
+        "answer": "ufuk"
     },
     {
-        "id": 464,
-        "question": "Korkuya çabuk kapılan",
+        "id": 878,
+        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
         "letter": "Ü",
-        "answer": "ürkek"
+        "answer": "Ülkü"
     },
     {
-        "id": 1570,
-        "question": "Bir kimsenin ölümünden sonra yapılmasını istediği şey",
+        "id": 870,
+        "question": "Bir vadi ya da ırmak üzerine kurulan yüksek ve uzun köprü",
         "letter": "V",
-        "answer": "Vasiyet, vasiyeti, vasiyetname"
+        "answer": "Viyadük, vıyaduk"
     },
     {
-        "id": 1577,
-        "question": "Hacmine oranla ağırlığı çok olan",
+        "id": 884,
+        "question": "Soğanlı et yemeği",
         "letter": "Y",
-        "answer": "Yoğun"
+        "answer": "Yahni"
     },
     {
-        "id": 719,
-        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "id": 501,
+        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
         "letter": "Z",
-        "answer": "Zindan"
+        "answer": "zırh"
     }
 ]

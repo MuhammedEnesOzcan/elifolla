@@ -1,158 +1,158 @@
 [
     {
-        "id": 84,
-        "question": "Futbolda, bir takımın attığı gollerin yediği gollere oranı",
+        "id": 1549,
+        "question": "Kınamak, takbih etmek",
         "letter": "A",
-        "answer": "averaj"
+        "answer": "Ayıplamak"
     },
     {
-        "id": 1597,
-        "question": "Bilimsel bilgilerin veya nedenselliğin yanlış anlaşılmasından kaynaklanan inanç ya da uygulamalar",
+        "id": 1184,
+        "question": "Hisse, menkul kıymetler vb. alınıp satıldığı organize piyasa",
         "letter": "B",
-        "answer": "Batıl, batıl inanç, batıl inançlar"
+        "answer": "Borsa"
     },
     {
-        "id": 533,
-        "question": "Mecbur bırakma, zoraki",
+        "id": 154,
+        "question": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
         "letter": "C",
-        "answer": "Cebren, cebir"
+        "answer": "cila"
     },
     {
-        "id": 544,
-        "question": "Derme çatma çadır, göçebe çadırı",
+        "id": 965,
+        "question": "Zaman dilimi, vakit",
         "letter": "Ç",
-        "answer": "Çerge"
+        "answer": "Çağ"
     },
     {
-        "id": 749,
-        "question": "Dozu düzenleme, ayarlama",
+        "id": 77,
+        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
         "letter": "D",
-        "answer": "dozaj"
+        "answer": "daktilo"
     },
     {
-        "id": 796,
-        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
+        "id": 215,
+        "question": "Gündüz ile gecenin eşit olma durumu",
         "letter": "E",
-        "answer": "Elbette"
+        "answer": "ekinoks"
     },
     {
-        "id": 1672,
-        "question": "Birdenbire, düşünmeden yapan",
+        "id": 575,
+        "question": "Ses, akım vb. için birim zamandaki titreşim sayısı, titreşim sıklığı",
         "letter": "F",
-        "answer": "Fevri"
+        "answer": "Frekans"
     },
     {
-        "id": 971,
-        "question": "Sonbahar",
+        "id": 1260,
+        "question": "Bisiklet direksiyonu",
         "letter": "G",
-        "answer": "Güz"
+        "answer": "Gidon"
     },
     {
-        "id": 1175,
-        "question": "Görev ve yapı bakımından canlılığın bütün özelliklerini gösteren en küçük birim",
+        "id": 1444,
+        "question": "Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü",
         "letter": "H",
-        "answer": "Hücre"
+        "answer": "Hıfzıssıhha"
     },
     {
-        "id": 598,
-        "question": "Yapı kurma, yapı yapma, kurma",
+        "id": 596,
+        "question": "Aşırı güçlü istek, tutku",
         "letter": "İ",
-        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
+        "answer": "İhtiras"
     },
     {
-        "id": 1265,
-        "question": "Bir şeyin oyuk durumunda bulunan iç bölümü",
+        "id": 1153,
+        "question": "İki kümenin ortak elemanlarını ifade eder",
         "letter": "K",
-        "answer": "Kovuk, kovuğu"
+        "answer": "Kesişim, kesişim kümesi"
     },
     {
-        "id": 620,
-        "question": "Fazlalık, gereksiz, yersiz",
+        "id": 291,
+        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
         "letter": "L",
-        "answer": "Lüzumsuz, Luzumsuz"
+        "answer": "loş"
     },
     {
-        "id": 1630,
-        "question": "Güç, kuvvet, derman, takat",
+        "id": 815,
+        "question": "Bir şeyi iflah olmaz, onmaz hale getirmek",
         "letter": "M",
-        "answer": "Mecal"
+        "answer": "Mahvetmek, Mahvetme"
     },
     {
-        "id": 642,
-        "question": "Davranışı kaba, sert ve gönül kırıcı olan",
+        "id": 912,
+        "question": "Hristiyanların en büyük bayramı",
         "letter": "N",
-        "answer": "Nobran"
+        "answer": "Noel"
     },
     {
-        "id": 648,
-        "question": "İyimser, pesimist karşıtı",
+        "id": 997,
+        "question": "Silisin hidratlı ve jelatinli bütün türlerini kapsayan değerli bir mineral, panzehir taşı",
         "letter": "O",
-        "answer": "Optimist"
+        "answer": "opal"
     },
     {
-        "id": 663,
-        "question": "Bir işin ilerisini kestirme, tahmin etmek",
+        "id": 372,
+        "question": "Bir iş için ayrılan belli para, tahsisat",
         "letter": "Ö",
-        "answer": "Öngörü, Öngörmek"
+        "answer": "ödenek"
     },
     {
-        "id": 374,
-        "question": "Parça, kısım",
+        "id": 1178,
+        "question": "Sözsüz tiyatro oyunu, mim sanatı",
         "letter": "P",
-        "answer": "pare"
+        "answer": "Pandomim, pandomim sanatı"
     },
     {
-        "id": 680,
-        "question": "İzin belgesi",
+        "id": 1848,
+        "question": "\"BİRLİKTE BULUNMA\", \"EŞLİK ETME\" ANLAMINA GELEN BİR SÖZCÜK",
         "letter": "R",
-        "answer": "Ruhsat, Ruhsat belgesi"
+        "answer": "Refakat, Refakat etme, Refakat etmek"
     },
     {
-        "id": 1894,
-        "question": "Fotoğrafçı İşyeri",
+        "id": 1826,
+        "question": "EN AZ İKİ KİŞİ ARASINDA DÜZENLENEN, BİR TARAFIN ÖBÜRÜNE ÖDEME YAPMA YÜKÜMLÜLÜĞÜNÜ BEYAN ETTİĞİ KÂĞIT",
         "letter": "S",
-        "answer": "Stüdyo"
+        "answer": "Senet"
     },
     {
-        "id": 1465,
-        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "id": 421,
+        "question": "Güzel, zarif, modaya uygun",
         "letter": "Ş",
-        "answer": "Şema, şablon"
+        "answer": "şık"
     },
     {
-        "id": 1698,
-        "question": "Eski dilde tıp doktoru, hekim",
+        "id": 720,
+        "question": "Tutum, idareli tüketme",
         "letter": "T",
-        "answer": "Tabip"
+        "answer": "Tasarruf, Tasaruf"
     },
     {
-        "id": 1562,
-        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "id": 893,
+        "question": "Kaşındırıcı bir deri hastalığı",
         "letter": "U",
-        "answer": "Utangaç"
+        "answer": "Uyuz"
     },
     {
-        "id": 38,
-        "question": "Fakülteler topluluğu",
+        "id": 1471,
+        "question": "Havlamak",
         "letter": "Ü",
-        "answer": "ÜNİVERSİTE"
+        "answer": "Ürümek"
     },
     {
-        "id": 481,
-        "question": "Yabani, yırtıcı",
+        "id": 887,
+        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
         "letter": "V",
-        "answer": "vahşi"
+        "answer": "Veba"
     },
     {
-        "id": 1573,
-        "question": "Bir olayı belli bir görüşe göre açıklama, değerlendirme",
+        "id": 734,
+        "question": "Su kıyısında yapılmış büyük, görkemli ev",
         "letter": "Y",
-        "answer": "Yorum, yorum yapma, yorum yapmak, yorumlama, yorumlamak"
+        "answer": "Yalı"
     },
     {
-        "id": 1145,
-        "question": "Hor görülme, alçalma",
+        "id": 846,
+        "question": "Zorunluluk, gereklilik ya da yoksulluk anlamındaki söz",
         "letter": "Z",
-        "answer": "Zillet"
+        "answer": "Zaruret, Zaruri"
     }
 ]

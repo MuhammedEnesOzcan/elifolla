@@ -1,0 +1,158 @@
+[
+    {
+        "id": 124,
+        "question": "Bir kimseye veya bir topluluğa zorla, ücret vermeden yaptırılan iş, yüklenti",
+        "letter": "A",
+        "answer": "angarya"
+    },
+    {
+        "id": 42,
+        "question": "Türk halk müziğinde en çok popüler telli çalgı",
+        "letter": "B",
+        "answer": "Bağlama"
+    },
+    {
+        "id": 1357,
+        "question": "Elindeki parayı harcamaya kıyamayan",
+        "letter": "C",
+        "answer": "Cimri, cimrilik"
+    },
+    {
+        "id": 965,
+        "question": "Zaman dilimi, vakit",
+        "letter": "Ç",
+        "answer": "Çağ"
+    },
+    {
+        "id": 795,
+        "question": "Akan suyun hacmi",
+        "letter": "D",
+        "answer": "Debi, Debisi"
+    },
+    {
+        "id": 1092,
+        "question": "Yemiş koparırken dalları çekmeye veya kovandan bal almaya yarayan araç",
+        "letter": "E",
+        "answer": "Eğiç"
+    },
+    {
+        "id": 225,
+        "question": "Ancak, ama, lakin",
+        "letter": "F",
+        "answer": "fakat"
+    },
+    {
+        "id": 582,
+        "question": "Dikkatli ve planlı olarak ele alınıp incelenme durumu",
+        "letter": "G",
+        "answer": "Gözlem, Gözlem yapma, Gözlem yapmak"
+    },
+    {
+        "id": 1794,
+        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "letter": "H",
+        "answer": "Hasılat"
+    },
+    {
+        "id": 600,
+        "question": "Bir yeri ele geçirme",
+        "letter": "İ",
+        "answer": "İşgal, işgal etme, işgal etmek"
+    },
+    {
+        "id": 1922,
+        "question": "FRANSIZCA KÖKENLİ “KONTRAST” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Karşıtlık"
+    },
+    {
+        "id": 299,
+        "question": "Önder, şef",
+        "letter": "L",
+        "answer": "lider"
+    },
+    {
+        "id": 1108,
+        "question": "Miskete fiske vurarak oynanan zıpzıp oyunu",
+        "letter": "M",
+        "answer": "madık, Madik"
+    },
+    {
+        "id": 339,
+        "question": "Tavsiye, öğüt",
+        "letter": "N",
+        "answer": "nasihat"
+    },
+    {
+        "id": 349,
+        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
+        "letter": "O",
+        "answer": "onbaşı"
+    },
+    {
+        "id": 1535,
+        "question": "Bilimde bir düzenli görüşü oluşturan ilke ve dogmaların bütünü, meslek, doktrin",
+        "letter": "Ö",
+        "answer": "Öğreti"
+    },
+    {
+        "id": 823,
+        "question": "Bir balık ve bir meyve türünün ortak adı",
+        "letter": "P",
+        "answer": "Palamut"
+    },
+    {
+        "id": 679,
+        "question": "Bir mağazanın yalnız bir tür eşya satılan bölümü",
+        "letter": "R",
+        "answer": "Reyon, reyonu"
+    },
+    {
+        "id": 829,
+        "question": "Bütün geceyi uyumadan geçirmek",
+        "letter": "S",
+        "answer": "Sabahlama, Sabahlamak"
+    },
+    {
+        "id": 898,
+        "question": "Oda İçinde Tuğla Ya Da Taşdan Yapılmış Ocak",
+        "letter": "Ş",
+        "answer": "Şömine, somine"
+    },
+    {
+        "id": 1651,
+        "question": "Üç yaşına kadar olan at yavrusu",
+        "letter": "T",
+        "answer": "Tay"
+    },
+    {
+        "id": 1223,
+        "question": "Bir sonuca varmak üzere, ortadaki engelleri kaldırmak için tutulması gereken yol, çıkar yol, çözüm, çare",
+        "letter": "U",
+        "answer": "Umar"
+    },
+    {
+        "id": 466,
+        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
+        "letter": "Ü",
+        "answer": "üslup"
+    },
+    {
+        "id": 1571,
+        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
+        "letter": "V",
+        "answer": "Vasıfsız, vasıfsız eleman"
+    },
+    {
+        "id": 40,
+        "question": "Günlük kazanç",
+        "letter": "Y",
+        "answer": "yevmiye"
+    },
+    {
+        "id": 41,
+        "question": "Ses telleri olmayan hayvan",
+        "letter": "Z",
+        "answer": "Zürafa"
+    }
+]

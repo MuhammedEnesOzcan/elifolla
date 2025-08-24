@@ -1,0 +1,158 @@
+[
+    {
+        "id": 512,
+        "question": "Denizin kıyıdan uzakça olan yeri",
+        "letter": "A",
+        "answer": "Açık"
+    },
+    {
+        "id": 1195,
+        "question": "Çiçek demeti",
+        "letter": "B",
+        "answer": "Buket"
+    },
+    {
+        "id": 1888,
+        "question": "MECAZEN, “GELİŞTİRİLEBİLİR YETENEK, İYİ YETENEK” ANLAMLARINA GELEN SÖZCÜK",
+        "letter": "C",
+        "answer": "Cevher, Cevherli"
+    },
+    {
+        "id": 791,
+        "question": "Kim olduğunu hatırlamak, tanımak",
+        "letter": "Ç",
+        "answer": "Çıkarma, Çıkarmak"
+    },
+    {
+        "id": 1196,
+        "question": "Aynı cinsten olan bir nesnenin on ikisini içeren bir birim",
+        "letter": "D",
+        "answer": "Düzine"
+    },
+    {
+        "id": 1949,
+        "question": "İNSAN GELİŞİMİ İÇİN GEREKLİ BİLGİ VE BECERİYİ KAZANDIRAN, KİŞİLİĞİ GELİŞTİREN HER TÜR ETKİNLİK",
+        "letter": "E",
+        "answer": "Eğitim"
+    },
+    {
+        "id": 1913,
+        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
+        "letter": "F",
+        "answer": "Fasikül"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 807,
+        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
+        "letter": "H",
+        "answer": "Hüsran"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 1818,
+        "question": "Alışverişte durgunluk",
+        "letter": "K",
+        "answer": "Kesat, kesatlık, kesat iş, kesat işler"
+    },
+    {
+        "id": 303,
+        "question": "İnsanın davranışlarının temelini oluşturan cinsel içgüdü",
+        "letter": "L",
+        "answer": "libido"
+    },
+    {
+        "id": 320,
+        "question": "Korunmak için özel olarak yapılıp yüze geçirilen nesne",
+        "letter": "M",
+        "answer": "maske"
+    },
+    {
+        "id": 1110,
+        "question": "Az görülür, görülmedik, seyrek görülen, çok değerli",
+        "letter": "N",
+        "answer": "nadide, nadir"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "letter": "Ö",
+        "answer": "Önlem"
+    },
+    {
+        "id": 669,
+        "question": "İş merkezi",
+        "letter": "P",
+        "answer": "Plaza"
+    },
+    {
+        "id": 1864,
+        "question": "YÜZEYDE KALMAYIP DERİNE İNEN, ASIL KONUYU DA İÇİNE ALAN, KÖKTEN",
+        "letter": "R",
+        "answer": "Radikal"
+    },
+    {
+        "id": 1235,
+        "question": "Karaciğer tarafından üretilen sindirim sıvısı",
+        "letter": "S",
+        "answer": "Safra, safra sıvısı"
+    },
+    {
+        "id": 419,
+        "question": "Yetki ve sorumluluğu olan, yöneten kimse",
+        "letter": "Ş",
+        "answer": "şef"
+    },
+    {
+        "id": 436,
+        "question": "Bir taşınmazın üstündeki mülkiyet hakkını gösteren belge",
+        "letter": "T",
+        "answer": "tapu, tapu belgesi"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
+        "letter": "Ü",
+        "answer": "Ütülmek"
+    },
+    {
+        "id": 1567,
+        "question": "Miras bırakılan kimse, mirasçı",
+        "letter": "V",
+        "answer": "Varis"
+    },
+    {
+        "id": 839,
+        "question": "Sayıyı yukarı ya da aşağı değiştirerek tüm sayı haline getirme",
+        "letter": "Y",
+        "answer": "Yuvarlama, Yuvarlamak"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

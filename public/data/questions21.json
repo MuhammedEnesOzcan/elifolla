@@ -1,158 +1,158 @@
 [
     {
-        "id": 1378,
-        "question": "Bir şeye dikkati yönelterek o şeyin bilincine varma, idrak",
+        "id": 109,
+        "question": "Yaklaşık 68 santimetreye eşit olan uzunluk ölçüsü",
         "letter": "A",
-        "answer": "Algı, algılama, algılamak"
+        "answer": "arşın"
     },
     {
-        "id": 1287,
-        "question": "Verme, bağışlama",
+        "id": 959,
+        "question": "Egemenliğini tanıma",
         "letter": "B",
-        "answer": "Bahşetme, bahşetmek"
+        "answer": "biat, biat etme, biat etmek"
     },
     {
-        "id": 1361,
-        "question": "Çekici, Enteresan, Dikkat Çeken",
+        "id": 1369,
+        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
         "letter": "C",
-        "answer": "Cezbedici, cazip, cazibeli"
+        "answer": "Cemre, cemre düşmesi"
     },
     {
-        "id": 177,
-        "question": "Çiçek, dal ve yapraklarla yapılmış halka",
+        "id": 182,
+        "question": "Halı, kilim vb. şeyleri hızla ve kesik kesik silkelemek",
         "letter": "Ç",
-        "answer": "çelenk"
+        "answer": "çırpmak"
     },
     {
-        "id": 1388,
-        "question": "Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva",
+        "id": 1743,
+        "question": "Uluslararası ilişkileri düzenleyen antlaşmalar bütünü",
         "letter": "D",
-        "answer": "Dübel"
+        "answer": "Diplomasi"
     },
     {
-        "id": 560,
-        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "id": 1238,
+        "question": "Kimyasal tepkimelerin hızını arttıran, canlı hücrelerde üretilen özel proteinler",
         "letter": "E",
-        "answer": "Edip"
+        "answer": "Enzim, enzimler"
     },
     {
-        "id": 1226,
-        "question": "Herhangi bir konuda verilen kararın kısa bir özet haline getirilmesi, soruşturma evrakı",
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
         "letter": "F",
-        "answer": "Fezleke"
+        "answer": "Fidan"
     },
     {
-        "id": 240,
-        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "id": 1434,
+        "question": "Kamıştan yapılmış çift düdük ve tulumdan oluşan, tiz sesli, nefesli, İskoçların millî çalgısı",
         "letter": "G",
-        "answer": "gonca"
+        "answer": "Gayda"
     },
     {
-        "id": 593,
-        "question": "Uçan balonların içinde bulunan gaz",
+        "id": 253,
+        "question": "Çok güzel el yazısı yazan sanatçı",
         "letter": "H",
-        "answer": "Helyum, Helyum gazı"
+        "answer": "hattat"
     },
     {
-        "id": 266,
-        "question": "Bir kararı, bir yargıyı yerine getirme, uygulama, yürütüm",
+        "id": 262,
+        "question": "Yönetme, yönetim, çekip çevirme",
         "letter": "İ",
-        "answer": "infaz, infaz etme, infaz etmek"
+        "answer": "idare, idare etme, idare etmek"
     },
     {
-        "id": 1194,
-        "question": "Arabalarda da bulunan, yaz aylarında ortamı soğutmak için kullanılan cihaz",
+        "id": 1886,
+        "question": "KALABALIK HÂLİNDE YAŞANAN YERLERDE, İÇİNDE BİRÇOK KİMSENİN YATTIĞI VEYA BARINDIĞI BÜYÜK ODA",
         "letter": "K",
-        "answer": "Klima"
+        "answer": "Koğuş"
     },
     {
-        "id": 296,
-        "question": "Tadı güzel, lezzetli",
+        "id": 1704,
+        "question": "Meyve ve bazı bitkiler ile alkol, esans karışımından yapılan şekerli içki",
         "letter": "L",
-        "answer": "leziz"
+        "answer": "Likör"
     },
     {
-        "id": 1616,
-        "question": "Miras bırakan kimse",
+        "id": 1738,
+        "question": "Sesi yükseltip uzağa iletmeye yarayan koni biçimindeki alet",
         "letter": "M",
-        "answer": "Muris"
+        "answer": "Megafon, Megofon"
     },
     {
-        "id": 921,
-        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "id": 1758,
+        "question": "Bir olayın doğurduğu başka bir olay veya durum",
         "letter": "N",
-        "answer": "Nabza, nabız, nabız atması"
+        "answer": "Netice"
     },
     {
-        "id": 820,
-        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
+        "id": 653,
+        "question": "Yaş bakımından üç kardeşin büyüğü ile küçüğü arasında bulunan",
         "letter": "O",
-        "answer": "Otlak, otlak arazi, ova"
+        "answer": "Ortanca, ortanca çocuk, ortanca kardeş"
     },
     {
-        "id": 1478,
-        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "id": 31,
+        "question": "Yaşam, hayat",
         "letter": "Ö",
-        "answer": "Özerk"
+        "answer": "Ömür"
     },
     {
-        "id": 1156,
-        "question": "Tank tekeri, zorlu arazilerde gitmeye yarayan araç",
+        "id": 1728,
+        "question": "İlaç kutularının içinde bulunan ilaçla ilgili bilgileri içeren kağıt ",
         "letter": "P",
-        "answer": "Palet, paletli"
+        "answer": "Prospektüs"
     },
     {
-        "id": 1765,
-        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "id": 1244,
+        "question": "Kaynar suda kabuğu ile az pişirilmiş olan",
         "letter": "R",
-        "answer": "Reaksiyon"
+        "answer": "Rafadan"
     },
     {
-        "id": 1813,
-        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
+        "id": 694,
+        "question": "Sarmal biçiminde olan",
         "letter": "S",
-        "answer": "Solaryum"
+        "answer": "Spiral"
     },
     {
-        "id": 1686,
-        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
+        "id": 1680,
+        "question": "İnce yufkaların içine kaymak konulup üstüne dövülmüş fıstık serpilerek yapılan bir tür baklava",
         "letter": "Ş",
-        "answer": "Şapel"
+        "answer": "Şöbiyet"
     },
     {
-        "id": 1757,
-        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "id": 1214,
+        "question": "Bir duyguyu, bir düşünceyi birinin belleğine sokma, ona aşılama",
         "letter": "T",
-        "answer": "Taktik"
+        "answer": "Telkin, telkin etme, teklin etmek"
     },
     {
-        "id": 450,
-        "question": "Bilgiçlik taslayan (kimse)",
+        "id": 1070,
+        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
         "letter": "U",
-        "answer": "ukala"
+        "answer": "Uçkun"
     },
     {
-        "id": 854,
-        "question": "Isı azlığı nedeniyle soğuğun etkisini duymak",
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
         "letter": "Ü",
-        "answer": "Üşümek"
+        "answer": "ülke"
     },
     {
-        "id": 482,
-        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
+        "id": 890,
+        "question": "Giysilerde omuzların dik durması için konulan parça",
         "letter": "V",
-        "answer": "vezne"
+        "answer": "Vatka"
     },
     {
-        "id": 489,
-        "question": "Kişiye isnat edilen haksız suçlama",
+        "id": 1576,
+        "question": "\"Aksi takdirde\" anlamında kullanılan bir söz",
         "letter": "Y",
-        "answer": "yafta, yaftalama, yaftalamak"
+        "answer": "Yoksa"
     },
     {
-        "id": 1591,
-        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "id": 1143,
+        "question": "Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim",
         "letter": "Z",
-        "answer": "Zarar, ziyan"
+        "answer": "Zabıta"
     }
 ]

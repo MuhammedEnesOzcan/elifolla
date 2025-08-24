@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1183,
+        "question": "Yargı önünde kişiyi savunan kimse",
+        "letter": "A",
+        "answer": "Avukat"
+    },
+    {
+        "id": 145,
+        "question": "Kendine özgü nitelikleri yitirmeden bölünemeyen tek varlık, fert",
+        "letter": "B",
+        "answer": "birey"
+    },
+    {
+        "id": 1370,
+        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
+        "letter": "C",
+        "answer": "Cumhuriyet"
+    },
+    {
+        "id": 172,
+        "question": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
+        "letter": "Ç",
+        "answer": "çakı"
+    },
+    {
+        "id": 556,
+        "question": "Gereği kadar pişmemiş",
+        "letter": "D",
+        "answer": "Diri"
+    },
+    {
+        "id": 1238,
+        "question": "Kimyasal tepkimelerin hızını arttıran, canlı hücrelerde üretilen özel proteinler",
+        "letter": "E",
+        "answer": "Enzim, enzimler"
+    },
+    {
+        "id": 218,
+        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+        "letter": "F",
+        "answer": "file"
+    },
+    {
+        "id": 1964,
+        "question": "DİVAN EDEBİYATINDA 5-10 BEYİT ARASINDA DEĞİŞEN, UYAKLI, GENELLİKLE LİRİK KONULARDA YAZILAN NAZIM BİÇİMİ",
+        "letter": "G",
+        "answer": "GAZEL"
+    },
+    {
+        "id": 89,
+        "question": "Bir şirketin ortaklarından her biri",
+        "letter": "H",
+        "answer": "hissedar"
+    },
+    {
+        "id": 1951,
+        "question": "HEM “EKONOMİ” HEM “TUTUM” ANLAMINA GELEN SÖZCÜK",
+        "letter": "İ",
+        "answer": "İktisat, İktisad"
+    },
+    {
+        "id": 290,
+        "question": "Askeri birliği ve onunla ilgili işleri yönetme görevi, kumanda",
+        "letter": "K",
+        "answer": "komuta, komuta etme, komuta etmek"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 308,
+        "question": "Yasaklama, engel olma",
+        "letter": "M",
+        "answer": "men, men etme, men etmek"
+    },
+    {
+        "id": 912,
+        "question": "Hristiyanların en büyük bayramı",
+        "letter": "N",
+        "answer": "Noel"
+    },
+    {
+        "id": 648,
+        "question": "İyimser, pesimist karşıtı",
+        "letter": "O",
+        "answer": "Optimist"
+    },
+    {
+        "id": 361,
+        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
+        "letter": "Ö",
+        "answer": "önem"
+    },
+    {
+        "id": 383,
+        "question": "Birine saldırmak için saklanarak beklenilen yer",
+        "letter": "P",
+        "answer": "pusu"
+    },
+    {
+        "id": 1805,
+        "question": "OSMANLIDA MALİYE İŞLEMLERİNDE KULLANILAN, GÜNEŞ YILI ESASINA DAYALI BİR TAKVİM TÜRÜ",
+        "letter": "R",
+        "answer": "Rumi, Rumi Takvim"
+    },
+    {
+        "id": 686,
+        "question": "Bir şey öğrenmek için yöneltilen söz veya yazı",
+        "letter": "S",
+        "answer": "Soru"
+    },
+    {
+        "id": 67,
+        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "letter": "Ş",
+        "answer": "Şanlıurfa, Şanlı Urfa"
+    },
+    {
+        "id": 436,
+        "question": "Bir taşınmazın üstündeki mülkiyet hakkını gösteren belge",
+        "letter": "T",
+        "answer": "tapu, tapu belgesi"
+    },
+    {
+        "id": 1513,
+        "question": "Bir nesnenin uzayda kapladığı yer, vüsat",
+        "letter": "U",
+        "answer": "Uzam"
+    },
+    {
+        "id": 38,
+        "question": "Fakülteler topluluğu",
+        "letter": "Ü",
+        "answer": "ÜNİVERSİTE"
+    },
+    {
+        "id": 1251,
+        "question": "Orta, iki şeyin ortasında olan, ortalama",
+        "letter": "V",
+        "answer": "Vasat"
+    },
+    {
+        "id": 889,
+        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "letter": "Y",
+        "answer": "Yalak"
+    },
+    {
+        "id": 1747,
+        "question": "Sıkıntı veya güçlükle yapılma durumu",
+        "letter": "Z",
+        "answer": "Zahmet, zahmetli"
+    }
+]

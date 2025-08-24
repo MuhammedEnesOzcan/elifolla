@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1695,
+        "question": "Otobüs, tren gibi ulaşım araçlarında para yerine geçen sürekliliği olan bilet veya kart",
+        "letter": "A",
+        "answer": "Abonman"
+    },
+    {
+        "id": 529,
+        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
+        "letter": "B",
+        "answer": "Bulanık"
+    },
+    {
+        "id": 1319,
+        "question": "Mızrap ile çalınan iki veya üç teli olan halk sazı",
+        "letter": "C",
+        "answer": "Cura"
+    },
+    {
+        "id": 179,
+        "question": "Çizilerek veya oyularak açılan kertik",
+        "letter": "Ç",
+        "answer": "çetele, çentik"
+    },
+    {
+        "id": 1401,
+        "question": "Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama, beyanat",
+        "letter": "D",
+        "answer": "Demeç, demeç verme, demeç vermek, demeç vermesi"
+    },
+    {
+        "id": 206,
+        "question": "Gerçekleştirilmesi zamana bağlı istek",
+        "letter": "E",
+        "answer": "emel"
+    },
+    {
+        "id": 1968,
+        "question": "KURAL İHLALİ SONRASI, KALEYE DOĞRUDAN ŞUT ÇEKİLEN SERBEST VURUŞ",
+        "letter": "F",
+        "answer": "FRİKİK"
+    },
+    {
+        "id": 236,
+        "question": "Elde edilmesi gereken, ulaşılmak istenen şey, amaç, maksat",
+        "letter": "G",
+        "answer": "gaye"
+    },
+    {
+        "id": 754,
+        "question": "Hem et hem de otla beslenen canlılar",
+        "letter": "H",
+        "answer": "Hepçil, Hepobur"
+    },
+    {
+        "id": 1555,
+        "question": "Bir şeyi belirtecek biçimde hareket etmek, belirleyici şekilde vurgulamak",
+        "letter": "İ",
+        "answer": "İşaretleme, işaretlemek"
+    },
+    {
+        "id": 1925,
+        "question": "Kertenkelenin avcısından kurtulmak için geride bıraktığı uzvu",
+        "letter": "K",
+        "answer": "Kuyruk, Kuyruğu"
+    },
+    {
+        "id": 621,
+        "question": "Kelime, sözlük",
+        "letter": "L",
+        "answer": "Lügat, Lugat, Lûgat"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 913,
+        "question": "Kıskandırmak ya da inat olsun diye yapılan iş",
+        "letter": "N",
+        "answer": "Nispet, nıspet"
+    },
+    {
+        "id": 341,
+        "question": "Yüksek ve alçaktan mermi atabilen kısa namlulu top",
+        "letter": "O",
+        "answer": "obüs"
+    },
+    {
+        "id": 1538,
+        "question": "Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak",
+        "letter": "Ö",
+        "answer": "Örtmek"
+    },
+    {
+        "id": 668,
+        "question": "Bir ilacın telkine dayalı bir etki ortaya çıkarma hali",
+        "letter": "P",
+        "answer": "Plasebo, Plasebo etkisi"
+    },
+    {
+        "id": 398,
+        "question": "Havalimanında uçuşun gecikme durumu",
+        "letter": "R",
+        "answer": "rötar"
+    },
+    {
+        "id": 406,
+        "question": "Dik, çıkması ve geçilmesi güç (yer)",
+        "letter": "S",
+        "answer": "sarp"
+    },
+    {
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "letter": "Ş",
+        "answer": "Şakak"
+    },
+    {
+        "id": 709,
+        "question": "Bildiri, haber verme",
+        "letter": "T",
+        "answer": "Tebliğ, Tebliğ etme, Tebliğ etmek, Tebligat"
+    },
+    {
+        "id": 1073,
+        "question": "Akla uygun, yalnız akla dayanan, akli, rasyonel",
+        "letter": "U",
+        "answer": "Ussal"
+    },
+    {
+        "id": 868,
+        "question": "Bina eteği, etek duvarı veya subasman",
+        "letter": "Ü",
+        "answer": "Üstemel"
+    },
+    {
+        "id": 881,
+        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
+        "letter": "V",
+        "answer": "Vernik, vernık"
+    },
+    {
+        "id": 734,
+        "question": "Su kıyısında yapılmış büyük, görkemli ev",
+        "letter": "Y",
+        "answer": "Yalı"
+    },
+    {
+        "id": 511,
+        "question": "Saçma, saçma sapan, boş, anlamsız söz",
+        "letter": "Z",
+        "answer": "zırva"
+    }
+]

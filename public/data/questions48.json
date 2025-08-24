@@ -1,0 +1,158 @@
+[
+    {
+        "id": 518,
+        "question": "Boyanacak yerlere boyadan önce sürülen kat",
+        "letter": "A",
+        "answer": "Astar, Astarı"
+    },
+    {
+        "id": 1781,
+        "question": "Fransızca’da Marie’nin banyosu anlamına gelen 'sıcak suda eritme' işi olan gastronomi terimi",
+        "letter": "B",
+        "answer": "Benmari, Bain Marie"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 540,
+        "question": "Sözlerin veya davranışların birbirini tutmaması",
+        "letter": "Ç",
+        "answer": "Çelişki"
+    },
+    {
+        "id": 1963,
+        "question": "YUNAN ALFABESİNİN DÖRDÜNCÜ HARFİ",
+        "letter": "D",
+        "answer": "DELTA"
+    },
+    {
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "letter": "E",
+        "answer": "ezel"
+    },
+    {
+        "id": 1713,
+        "question": "Karınca asidi olarak bilinen kimyadaki asit türü",
+        "letter": "F",
+        "answer": "Formik, Formik asit, Formik asid"
+    },
+    {
+        "id": 579,
+        "question": "Su veya hava akıntısının dönerek ve çukurlaşarak yaptığı çevrinti",
+        "letter": "G",
+        "answer": "Girdap"
+    },
+    {
+        "id": 1247,
+        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
+        "letter": "H",
+        "answer": "Hegemonya, hegamonya, hegomonya"
+    },
+    {
+        "id": 604,
+        "question": "Gerçeğin gülünç yanını ortaya koyan ince alay",
+        "letter": "İ",
+        "answer": "İroni"
+    },
+    {
+        "id": 1922,
+        "question": "FRANSIZCA KÖKENLİ “KONTRAST” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Karşıtlık"
+    },
+    {
+        "id": 292,
+        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "letter": "L",
+        "answer": "lobi"
+    },
+    {
+        "id": 815,
+        "question": "Bir şeyi iflah olmaz, onmaz hale getirmek",
+        "letter": "M",
+        "answer": "Mahvetmek, Mahvetme"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 1000,
+        "question": "Keçi yavrusu",
+        "letter": "O",
+        "answer": "Oğlak"
+    },
+    {
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "letter": "Ö",
+        "answer": "ölmek, ölüm, ölme"
+    },
+    {
+        "id": 1016,
+        "question": "Posta parası karşılığı mektuplara, damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası",
+        "letter": "P",
+        "answer": "Pul"
+    },
+    {
+        "id": 390,
+        "question": "Üzerinde boks yapılan, çevresi kordonla çevrilmiş yer",
+        "letter": "R",
+        "answer": "ring"
+    },
+    {
+        "id": 1789,
+        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
+        "letter": "S",
+        "answer": "Sarsıntı"
+    },
+    {
+        "id": 1684,
+        "question": "Otomobil iç lastiği",
+        "letter": "Ş",
+        "answer": "Şambrel"
+    },
+    {
+        "id": 1831,
+        "question": "BİR AĞIZLIK VE KENDİ ÜSTÜNE KIVRILMIŞ SİLİNDİR BİR BORUDAN OLUŞAN NEFESLİ ÇALGI",
+        "letter": "T",
+        "answer": "Trompet"
+    },
+    {
+        "id": 1561,
+        "question": "Merkezi sinir sistemine etki ederek farkındalığı, dikkati ve uyanıklığı artıran ilaçlar ya da maddeler",
+        "letter": "U",
+        "answer": "Uyarıcı, uyarıcı ilaçlar, uyarıcı maddeler"
+    },
+    {
+        "id": 769,
+        "question": "Korkunun yarattığı serinlik",
+        "letter": "Ü",
+        "answer": "Ürperti, Ürpermek"
+    },
+    {
+        "id": 474,
+        "question": "Sevgiyi sürdürme, sevgi, dostluk bağlılığı",
+        "letter": "V",
+        "answer": "vefa"
+    },
+    {
+        "id": 733,
+        "question": "Alışamamak, yabancılık çekmek",
+        "letter": "Y",
+        "answer": "Yadırgama, Yadırgamak"
+    },
+    {
+        "id": 1589,
+        "question": "Çok küçük parçacık",
+        "letter": "Z",
+        "answer": "Zerre"
+    }
+]

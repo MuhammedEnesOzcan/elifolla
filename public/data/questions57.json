@@ -1,0 +1,158 @@
+[
+    {
+        "id": 96,
+        "question": "Vücudun bazı maddelere reaksiyon göstermesi sonucu oluşan duyarlılık",
+        "letter": "A",
+        "answer": "alerji"
+    },
+    {
+        "id": 744,
+        "question": "Bir cismin herhangi bir yöndeki uzanımı",
+        "letter": "B",
+        "answer": "Boyut, boyutu"
+    },
+    {
+        "id": 747,
+        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
+        "letter": "C",
+        "answer": "Cesaret, Cesaretlilik"
+    },
+    {
+        "id": 181,
+        "question": "Silahlı büyük kavga, arbede",
+        "letter": "Ç",
+        "answer": "çatışma"
+    },
+    {
+        "id": 1259,
+        "question": "Tahıl tanelerini öğütmeye yarayan alet",
+        "letter": "D",
+        "answer": "Değirmen, değirmen taşı"
+    },
+    {
+        "id": 209,
+        "question": "Çok gerekli, vazgeçilmez",
+        "letter": "E",
+        "answer": "elzem"
+    },
+    {
+        "id": 1489,
+        "question": "Etken, etmen",
+        "letter": "F",
+        "answer": "Faktör"
+    },
+    {
+        "id": 1423,
+        "question": "Gök gözlemleri yapan, gök cisimlerini ve olaylarını inceleyen yer, rasathane",
+        "letter": "G",
+        "answer": "Gözlemevi"
+    },
+    {
+        "id": 1496,
+        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "letter": "H",
+        "answer": "Hamak"
+    },
+    {
+        "id": 1804,
+        "question": "Dinlenme, rahat etme",
+        "letter": "İ",
+        "answer": "İstirahat, İstirahat etme, İstirahat etmek"
+    },
+    {
+        "id": 278,
+        "question": "Çocuk yuvası",
+        "letter": "K",
+        "answer": "kreş"
+    },
+    {
+        "id": 304,
+        "question": "Ara vermeden söylenilen saçma sapan söz dizisi, gevezelik",
+        "letter": "L",
+        "answer": "laklak, lakırdı"
+    },
+    {
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "letter": "M",
+        "answer": "Mimar"
+    },
+    {
+        "id": 643,
+        "question": "Örnek ya da göstermelik ürün",
+        "letter": "N",
+        "answer": "Numune"
+    },
+    {
+        "id": 1000,
+        "question": "Keçi yavrusu",
+        "letter": "O",
+        "answer": "Oğlak"
+    },
+    {
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "letter": "Ö",
+        "answer": "özel"
+    },
+    {
+        "id": 673,
+        "question": "Söz dalaşı",
+        "letter": "P",
+        "answer": "Polemik"
+    },
+    {
+        "id": 1805,
+        "question": "OSMANLIDA MALİYE İŞLEMLERİNDE KULLANILAN, GÜNEŞ YILI ESASINA DAYALI BİR TAKVİM TÜRÜ",
+        "letter": "R",
+        "answer": "Rumi, Rumi Takvim"
+    },
+    {
+        "id": 765,
+        "question": "İşlerine önem vermeyen, ihmalkâr",
+        "letter": "S",
+        "answer": "Savsak"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 1741,
+        "question": "Eski dilde saldırı",
+        "letter": "T",
+        "answer": "Taarruz"
+    },
+    {
+        "id": 1077,
+        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "letter": "U",
+        "answer": "ucuz"
+    },
+    {
+        "id": 458,
+        "question": "Herhangi bir topluluğu oluşturan bireylerden her biri",
+        "letter": "Ü",
+        "answer": "üye"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
+        "letter": "Z",
+        "answer": "Züğürt, züürt, zürt, zügürt"
+    }
+]

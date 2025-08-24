@@ -1,158 +1,158 @@
 [
     {
-        "id": 1483,
-        "question": "Canlının yaşam alanındaki çevre koşullarına uyumu",
+        "id": 102,
+        "question": "Bir işin yabancısı olan, eli işe alışmamış, bir işi beceremeyen",
         "letter": "A",
-        "answer": "Adaptasyon, adapte olma"
+        "answer": "acemi"
     },
     {
-        "id": 1600,
-        "question": "Kaybedilen bir şeyi yeniden ele geçirmek",
+        "id": 529,
+        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
         "letter": "B",
-        "answer": "Bulmak, bulma"
+        "answer": "Bulanık"
     },
     {
-        "id": 1377,
-        "question": "Mahkemede oturum, duruşma",
+        "id": 1369,
+        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
         "letter": "C",
-        "answer": "Celse"
+        "answer": "Cemre, cemre düşmesi"
     },
     {
-        "id": 1890,
-        "question": "“TORTU” KELİMESİNİN EŞ ANLAMLISI",
+        "id": 172,
+        "question": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
         "letter": "Ç",
-        "answer": "Çökelti"
+        "answer": "çakı"
     },
     {
-        "id": 1396,
-        "question": "Sıkıştırılmış hava içine püskürtülen mazotla çalışan motor",
+        "id": 557,
+        "question": "Doluluğunu, gücünü yitirme",
         "letter": "D",
-        "answer": "Dizel, dizel motor"
+        "answer": "Deşarj, deşarj olma, deşarj olmak"
     },
     {
-        "id": 560,
-        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "id": 1414,
+        "question": "Özellikle bilginin temellerini ve doğruluk durumunu inceleme, sınama, yargılama",
         "letter": "E",
-        "answer": "Edip"
+        "answer": "Eleştiri, eleştirme, eleştirmek"
     },
     {
-        "id": 218,
-        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+        "id": 55,
+        "question": "Yeşil bitkilerin ışık enerjisiyle besin üretmesi",
         "letter": "F",
-        "answer": "file"
+        "answer": "fotosentez"
     },
     {
-        "id": 1493,
-        "question": "Bazı saatlerde belirli zamanları bildiren zil düzeneği",
+        "id": 580,
+        "question": "Çökmüş, kaymış toprak, yıkıntı",
         "letter": "G",
-        "answer": "Gonk, gong"
+        "answer": "Göçük"
     },
     {
-        "id": 247,
-        "question": "Nişan alınacak yer, nişangah",
+        "id": 588,
+        "question": "İlgi ile karşılanabilecek haber",
         "letter": "H",
-        "answer": "hedef"
+        "answer": "Havadis"
     },
     {
-        "id": 1804,
-        "question": "Dinlenme, rahat etme",
+        "id": 272,
+        "question": "Barınma amacıyla bir yerde oturma",
         "letter": "İ",
-        "answer": "İstirahat, İstirahat etme, İstirahat etmek"
+        "answer": "ikamet, ikamet etme, ikamet etmek"
     },
     {
-        "id": 614,
-        "question": "Toplumsal etkinliklerde sıra halinde giden insan topluluğu",
+        "id": 1751,
+        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
         "letter": "K",
-        "answer": "Kortej"
+        "answer": "Kıta"
     },
     {
-        "id": 981,
-        "question": "Amerikan devesi de denilen geviş getirenlerden bir hayvan",
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
         "letter": "L",
-        "answer": "Lama"
+        "answer": "levha"
     },
     {
-        "id": 315,
-        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "id": 630,
+        "question": "Dayanaksız, delilsiz, arkası boş olan",
         "letter": "M",
-        "answer": "makam"
+        "answer": "Mesnetsiz, mesnetsiz iddia"
     },
     {
-        "id": 328,
-        "question": "Tarafsız, yansız, eşit ya da ortada",
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
         "letter": "N",
-        "answer": "nötr"
+        "answer": "Nostalji, nostaliji"
     },
     {
-        "id": 907,
-        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
+        "id": 1000,
+        "question": "Keçi yavrusu",
         "letter": "O",
-        "answer": "Obje"
+        "answer": "Oğlak"
     },
     {
-        "id": 362,
-        "question": "Bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz",
+        "id": 661,
+        "question": "Kötü bir durumun ya da olayın duyulmasını gizlemek",
         "letter": "Ö",
-        "answer": "özet"
+        "answer": "Örtbas, Örtbas etmek"
     },
     {
-        "id": 666,
-        "question": "Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha",
+        "id": 763,
+        "question": "Konum ya da duruş biçimi",
         "letter": "P",
-        "answer": "Palet"
+        "answer": "Pozisyon"
     },
     {
-        "id": 678,
-        "question": "Yapılması alışkanlık haline gelmiş iş",
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
         "letter": "R",
-        "answer": "Rutin, Rutin iş"
+        "answer": "Rivayet"
     },
     {
-        "id": 694,
-        "question": "Sarmal biçiminde olan",
+        "id": 1276,
+        "question": "Elle tutulur, gerçek",
         "letter": "S",
-        "answer": "Spiral"
+        "answer": "Somut, sahi, sahici"
     },
     {
-        "id": 1057,
-        "question": "İçine mendil, gecelik vb. şeyleri koymaya yarayan, çeşitli büyüklükte, kumaştan koruncak",
+        "id": 1683,
+        "question": "Çoğunlukla saç yıkamakta kullanılan, kokulu ve bol köpüklü bir tür sıvı sabun",
         "letter": "Ş",
-        "answer": "Şase"
+        "answer": "Şampuan"
     },
     {
-        "id": 436,
-        "question": "Bir taşınmazın üstündeki mülkiyet hakkını gösteren belge",
+        "id": 1927,
+        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
         "letter": "T",
-        "answer": "tapu, tapu belgesi"
+        "answer": "Takıntı, Takıntılık, Takma, Takmak"
     },
     {
-        "id": 1067,
-        "question": "Uğraşılan şey, iş güç, meşgale",
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
         "letter": "U",
-        "answer": "Uğraşı"
+        "answer": "Unutmak, unutma"
     },
     {
-        "id": 1509,
-        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "id": 1565,
+        "question": "Birlikçi, birlikten yana, birleştirici (siyaset)",
         "letter": "Ü",
-        "answer": "Üstübeç"
+        "answer": "Üniter, üniter devlet"
     },
     {
-        "id": 875,
-        "question": "Foseptik Kuyularındaki Pis Suları Çekmeye Yarayan Makine",
+        "id": 1571,
+        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
         "letter": "V",
-        "answer": "Vidanjör, vıdanjor"
+        "answer": "Vasıfsız, vasıfsız eleman"
     },
     {
-        "id": 493,
-        "question": "Kötülüklerini söylemek, zemmetmek",
+        "id": 901,
+        "question": "Özel gezinti gemisi",
         "letter": "Y",
-        "answer": "yermek"
+        "answer": "Yat"
     },
     {
-        "id": 508,
-        "question": "Çok koyu, karanlık",
+        "id": 774,
+        "question": "Şundan dolayı, şu sebeple, çünkü anlamlarındaki bağlaç",
         "letter": "Z",
-        "answer": "zifiri, zifir"
+        "answer": "Zira"
     }
 ]

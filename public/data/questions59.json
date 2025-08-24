@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1162,
+        "question": "Birden fazla sıralı halde iki tarafı ağaçlı yol",
+        "letter": "A",
+        "answer": "Alle, Alle yol"
+    },
+    {
+        "id": 151,
+        "question": "Küçük balon",
+        "letter": "B",
+        "answer": "baloncuk"
+    },
+    {
+        "id": 161,
+        "question": "Sözünden, kararından dönmek, vazgeçmek",
+        "letter": "C",
+        "answer": "caymak, cayma"
+    },
+    {
+        "id": 1873,
+        "question": "DOĞA KİRLİLİĞİ SORUNLARIYLA UĞRAŞAN KİMSE VEYA TOPLULUK",
+        "letter": "Ç",
+        "answer": "Çevreci"
+    },
+    {
+        "id": 1381,
+        "question": "Bir yüzeyin veya bir noktanın yüksekliğindeki yatay sınır, seviye",
+        "letter": "D",
+        "answer": "Düzey"
+    },
+    {
+        "id": 1279,
+        "question": "Bitkilerden çıkarılan veya kimya yardımıyla çeşitli maddelerden elde edilen kokulu, uçucu sıvı",
+        "letter": "E",
+        "answer": "Esans, esansı"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 1863,
+        "question": "YEMEK YENİLEN, GÖSTERİ İZLENEN, MÜZİK DİNLENEN, BAZEN OYUN SERGİLENEN EĞLENCE YERİ",
+        "letter": "G",
+        "answer": "Gazino"
+    },
+    {
+        "id": 591,
+        "question": "Merkezi vücut sıcaklığının 35°C altına düşmesi",
+        "letter": "H",
+        "answer": "Hipotermi"
+    },
+    {
+        "id": 1101,
+        "question": "Bir düşünceyi anlatan bir veya birkaç cümlelik söz",
+        "letter": "İ",
+        "answer": "İbare"
+    },
+    {
+        "id": 612,
+        "question": "Isıtmada kullanılan yakıtı düzenli ve ayarlı biçimde yakan araç",
+        "letter": "K",
+        "answer": "Kombi"
+    },
+    {
+        "id": 1457,
+        "question": "Elektronikte erime noktaları düşük metalleri tutturma işlemi",
+        "letter": "L",
+        "answer": "Lehim, lehimleme, lehimlemek, lehin yapma, lehim yapmak"
+    },
+    {
+        "id": 1166,
+        "question": "Küçük, ufak tefek, zarif",
+        "letter": "M",
+        "answer": "Minyon"
+    },
+    {
+        "id": 1521,
+        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "letter": "N",
+        "answer": "Nova"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 1537,
+        "question": "En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek",
+        "letter": "Ö",
+        "answer": "Ölçmek, ölçme, ölçüm"
+    },
+    {
+        "id": 380,
+        "question": "Tüylü hayvan derisi",
+        "letter": "P",
+        "answer": "post"
+    },
+    {
+        "id": 1643,
+        "question": "Tarımda bir yılda derlenen ürünlerin bütünü",
+        "letter": "R",
+        "answer": "Rekolte"
+    },
+    {
+        "id": 694,
+        "question": "Sarmal biçiminde olan",
+        "letter": "S",
+        "answer": "Spiral"
+    },
+    {
+        "id": 1686,
+        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
+        "letter": "Ş",
+        "answer": "Şapel"
+    },
+    {
+        "id": 437,
+        "question": "Güzel sanatlarda üslup, stil, konsept",
+        "letter": "T",
+        "answer": "tarz"
+    },
+    {
+        "id": 1071,
+        "question": "Yakışır, yaraşır, mutabık, mütenasip",
+        "letter": "U",
+        "answer": "uygun"
+    },
+    {
+        "id": 461,
+        "question": "Üretilen yararlı şey",
+        "letter": "Ü",
+        "answer": "ürün"
+    },
+    {
+        "id": 730,
+        "question": "Kişinin hiçbir gerçekliğe ve temele dayanmayan duygulara kapılması",
+        "letter": "V",
+        "answer": "Vesvese"
+    },
+    {
+        "id": 1577,
+        "question": "Hacmine oranla ağırlığı çok olan",
+        "letter": "Y",
+        "answer": "Yoğun"
+    },
+    {
+        "id": 1956,
+        "question": "Ağaçlardan elde edilen, eriyiği yapıştırıcı olarak kullanılan renksiz veya sarı kırmızımtırak renkte biçimsiz madde",
+        "letter": "Z",
+        "answer": "Zamk"
+    }
+]

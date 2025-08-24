@@ -1,158 +1,158 @@
 [
     {
-        "id": 1379,
-        "question": "Gümrüklere gelen ticari eşyanın konulduğu, korunduğu yer",
+        "id": 1918,
+        "question": "“SERBEST, HÜR, ÖZGÜR” ANLAMLARINDA FARSÇA KÖKENLİ BİR SÖZCÜK",
         "letter": "A",
-        "answer": "Antrepo, ardiye"
+        "answer": "Azat, Azad, Azade"
     },
     {
-        "id": 527,
-        "question": "Yanıltarak bir işten caydırmak",
+        "id": 1209,
+        "question": "Aynı zamanda Muğla'nın bir ilçesi de olan, apartmanların genellikle zeminin altında bulunan katı ",
         "letter": "B",
-        "answer": "Blöf, blöf yapma, blöf yapmak"
+        "answer": "Bodrum, bodrum kat, bodrum katı"
     },
     {
-        "id": 534,
-        "question": "Ameliyat yapan uzman hekim, operatör",
+        "id": 531,
+        "question": "Uygun, yerinde sayılan, yakışık alan",
         "letter": "C",
-        "answer": "Cerrah"
+        "answer": "Caiz"
     },
     {
-        "id": 176,
-        "question": "İnsan bedeninde bulunan enerjiyi tüm vücuda dağıttığına inanılan enerji noktaları",
+        "id": 180,
+        "question": "Kadro, kademe, basamak ve derecelerin yer aldığı liste",
         "letter": "Ç",
-        "answer": "çakra, çakralar"
+        "answer": "çizelge"
     },
     {
-        "id": 1395,
-        "question": "Basım için harfleri, kelimeleri, satırları, sayfalar oluşturacak biçimde düzenleme",
+        "id": 1402,
+        "question": "Üniversitelerde bir fakültenin yönetiminden sorumlu profesör",
         "letter": "D",
-        "answer": "Dizgi"
+        "answer": "Dekan"
     },
     {
-        "id": 1415,
-        "question": "Bir malın niteliğini belirtmek, özelliklerini göstermek amacıyla, o malın parasız verilen veya gönderilen parçası",
+        "id": 562,
+        "question": "Çeşitli renk ve büyüklükteki karelerden oluşan (desen veya kumaş)",
         "letter": "E",
-        "answer": "Eşantiyon"
+        "answer": "Ekose, Ekoseli"
     },
     {
-        "id": 1672,
-        "question": "Birdenbire, düşünmeden yapan",
+        "id": 1321,
+        "question": "Tütünleme suretiyle kurutulmuş ringa balığı",
         "letter": "F",
-        "answer": "Fevri"
+        "answer": "Frisa, firisa"
     },
     {
-        "id": 753,
-        "question": "Bitkilerin büyümesi için gerekli gıdayı ihtiva eden madde",
+        "id": 1821,
+        "question": "Sindirim sisteminden sıvı veya hava geçerken bir iç ses çıkarma olayı",
         "letter": "G",
-        "answer": "Gübre"
+        "answer": "Guruldama, Guruldamak"
     },
     {
-        "id": 1494,
-        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "id": 252,
+        "question": "Niteliği değişmemiş, aslına uygun olan",
         "letter": "H",
-        "answer": "Halef, halefi"
+        "answer": "hakiki"
     },
     {
-        "id": 263,
-        "question": "Anlama yeteneği, anlayış, akıl erdirme",
+        "id": 1607,
+        "question": "Üreticiden aldığı malları tezgah ve taşıma araçları ile cadde ve sokaklarda pazarlayan kimse ",
         "letter": "İ",
-        "answer": "idrak, idrak etme, idrak etmek, izan"
+        "answer": "İşportacı"
     },
     {
-        "id": 1795,
-        "question": "RUMCA KÖKENLİ “YIPRANMIŞ, ESKİ VE BAKIMSIZ” ANLAMLARINDA DAHA ÇOK ARAÇLAR, MAKİNELER İÇİN KULLANILAN SÖZCÜK",
+        "id": 605,
+        "question": "Garson kalfası",
         "letter": "K",
-        "answer": "Külüstür"
+        "answer": "Komi"
     },
     {
-        "id": 304,
-        "question": "Ara vermeden söylenilen saçma sapan söz dizisi, gevezelik",
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
         "letter": "L",
-        "answer": "laklak, lakırdı"
+        "answer": "Larva, larva dönemi"
     },
     {
-        "id": 633,
-        "question": "Virüslerin geçirdiği değişim",
+        "id": 1193,
+        "question": "Genellikle çocukların kullandığı üflemeli ve klavyeli çalgı",
         "letter": "M",
-        "answer": "Mutasyon"
+        "answer": "Melodika"
     },
     {
-        "id": 331,
-        "question": "Sona eren olay veya iş, son, sonuncu",
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
         "letter": "N",
-        "answer": "nihai"
+        "answer": "Nüve"
     },
     {
-        "id": 1736,
-        "question": "Elektrik sinyallerini görselleştirmek, ölçmek ve analiz etmek için kullanılan cihaz",
+        "id": 995,
+        "question": "Plastik, tahta, mika vb. maddelerden yapılmış taşlarla oynanan ve konkene benzeyen bir tür oyun",
         "letter": "O",
-        "answer": "Osiloskop"
+        "answer": "okey"
     },
     {
-        "id": 659,
-        "question": "Nesnelerin gerçeğine değil, bireyin düşünce ve duygularına dayanan",
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
         "letter": "Ö",
-        "answer": "Öznel"
+        "answer": "Önlem"
     },
     {
-        "id": 382,
-        "question": "Ezerek veya süzgeçten geçirilerek elde edilmiş gıda",
+        "id": 1761,
+        "question": "Çalışma saati bitiminde işi bırakma",
         "letter": "P",
-        "answer": "püre"
+        "answer": "Paydos, paydos etme, paydos etmek"
     },
     {
-        "id": 1637,
-        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "id": 680,
+        "question": "İzin belgesi",
         "letter": "R",
-        "answer": "Röntgen"
+        "answer": "Ruhsat, Ruhsat belgesi"
     },
     {
-        "id": 689,
-        "question": "İstemeden bir şeylere çarpan, deviren, kıran (kimse)",
+        "id": 405,
+        "question": "Gidilen yol üzerinde olmayan, sapılarak varılan",
         "letter": "S",
-        "answer": "Sakar"
+        "answer": "sapa"
     },
     {
-        "id": 1687,
-        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "id": 700,
+        "question": "Bir alanla ilgili olarak oluşturulan danışma kurulu",
         "letter": "Ş",
-        "answer": "Şakak"
+        "answer": "Şura"
     },
     {
-        "id": 1927,
-        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
+        "id": 708,
+        "question": "Bir diğer söylemle \"Doğa\"",
         "letter": "T",
-        "answer": "Takıntı, Takıntılık, Takma, Takmak"
+        "answer": "Tabiat"
     },
     {
-        "id": 1079,
-        "question": "Birinin yapmakla yükümlü olduğu iş, görev",
+        "id": 1557,
+        "question": "Erkek hizmetçi",
         "letter": "U",
-        "answer": "uhde"
+        "answer": "Uşak"
     },
     {
-        "id": 469,
-        "question": "Ayrıca, bir de, bundan başka",
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
         "letter": "Ü",
-        "answer": "üstelik"
+        "answer": "Ün"
     },
     {
-        "id": 883,
-        "question": "Evleri kuşatan üstü kapalı ve camlı teras",
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
         "letter": "V",
-        "answer": "Veranda"
+        "answer": "Virüs"
     },
     {
-        "id": 490,
-        "question": "İnsan yaşamayan ıssız yer",
+        "id": 901,
+        "question": "Özel gezinti gemisi",
         "letter": "Y",
-        "answer": "yaban"
+        "answer": "Yat"
     },
     {
-        "id": 1147,
-        "question": "Saf, tatlı su",
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
         "letter": "Z",
-        "answer": "zülal"
+        "answer": "Zonklama, zonklamak"
     }
 ]

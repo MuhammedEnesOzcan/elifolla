@@ -1,158 +1,158 @@
 [
     {
-        "id": 107,
-        "question": "Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri",
+        "id": 108,
+        "question": "İki şey arasında bağlantı kuran kimse, vasıta",
         "letter": "A",
-        "answer": "akran"
+        "answer": "aracı, ara bulucu"
     },
     {
-        "id": 526,
-        "question": "Geçidi kapamak için her türlü araçtan yararlanılarak yapılan engel",
+        "id": 525,
+        "question": "Kullanılması önlenmiş, el konulmuş",
         "letter": "B",
-        "answer": "Barikat"
+        "answer": "Bloke, bloke edilmiş, bloke olmuş"
     },
     {
-        "id": 155,
-        "question": "Topluluk, zümre",
+        "id": 530,
+        "question": "Gösterişli, şatafatlı",
         "letter": "C",
-        "answer": "Camia, cemiyet"
+        "answer": "Cafcaf, cafcaflı"
     },
     {
-        "id": 1450,
-        "question": "Karikatürcü",
+        "id": 1890,
+        "question": "“TORTU” KELİMESİNİN EŞ ANLAMLISI",
         "letter": "Ç",
-        "answer": "Çizer"
+        "answer": "Çökelti"
     },
     {
-        "id": 192,
-        "question": "Geri bildirim",
+        "id": 198,
+        "question": "Başkalarını çekiştirmek ve kınamak üzere yapılan konuşma, gıybet",
         "letter": "D",
-        "answer": "dönüt"
+        "answer": "dedikodu"
     },
     {
-        "id": 1418,
-        "question": "Vücutta istenmeyen kılları alma",
+        "id": 79,
+        "question": "Kırkpınar yağlı güreşlerinin yapıldığı ilimiz",
         "letter": "E",
-        "answer": "Epilasyon"
+        "answer": "edirne"
     },
     {
-        "id": 229,
-        "question": "Tanıtma filmi",
+        "id": 228,
+        "question": "Eski Mısır hükümdarlarına verilen unvan",
         "letter": "F",
-        "answer": "fragman"
+        "answer": "firavun"
     },
     {
-        "id": 579,
-        "question": "Su veya hava akıntısının dönerek ve çukurlaşarak yaptığı çevrinti",
+        "id": 753,
+        "question": "Bitkilerin büyümesi için gerekli gıdayı ihtiva eden madde",
         "letter": "G",
-        "answer": "Girdap"
+        "answer": "Gübre"
     },
     {
-        "id": 1494,
-        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "id": 1175,
+        "question": "Görev ve yapı bakımından canlılığın bütün özelliklerini gösteren en küçük birim",
         "letter": "H",
-        "answer": "Halef, halefi"
+        "answer": "Hücre"
     },
     {
-        "id": 1228,
-        "question": "İnsanları bir yere yerleştirme, yurtlandırma",
+        "id": 1726,
+        "question": "Birim zamandaki hız değişimi",
         "letter": "İ",
-        "answer": "İskan, iskan etme, iskan etmek"
+        "answer": "İvme"
     },
     {
-        "id": 278,
-        "question": "Çocuk yuvası",
+        "id": 1905,
+        "question": "Soğuk mevsim kıyafetlerinin tümü",
         "letter": "K",
-        "answer": "kreş"
+        "answer": "Kışlık"
     },
     {
-        "id": 1203,
-        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
+        "id": 618,
+        "question": "Bir kimsenin, kendisine iş verilmeye uygunluğu",
         "letter": "L",
-        "answer": "Lens"
+        "answer": "Liyakat, Liyakatli, Liyakatliliği"
     },
     {
-        "id": 1878,
-        "question": "Seçkin kişilerin yaşantılarını konu alan yayın",
+        "id": 28,
+        "question": "Doku ve organların yapısını inceleyen bilim dalı",
         "letter": "M",
-        "answer": "Magazin"
+        "answer": "morfoloji"
     },
     {
-        "id": 921,
-        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "id": 328,
+        "question": "Tarafsız, yansız, eşit ya da ortada",
         "letter": "N",
-        "answer": "Nabza, nabız, nabız atması"
+        "answer": "nötr"
     },
     {
-        "id": 341,
-        "question": "Yüksek ve alçaktan mermi atabilen kısa namlulu top",
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
         "letter": "O",
-        "answer": "obüs"
+        "answer": "otogar"
     },
     {
-        "id": 656,
-        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "id": 362,
+        "question": "Bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz",
         "letter": "Ö",
-        "answer": "Ödün, Ödün verme, Ödün vermek"
+        "answer": "özet"
     },
     {
-        "id": 376,
-        "question": "Bir başkasına bağımlılığı olan",
+        "id": 1181,
+        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
         "letter": "P",
-        "answer": "peyk"
+        "answer": "Peron"
     },
     {
-        "id": 1278,
-        "question": "Uyku sırasında görülen olaylar",
+        "id": 1122,
+        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
         "letter": "R",
-        "answer": "Rüya"
+        "answer": "rapor"
     },
     {
-        "id": 1887,
-        "question": "ROMAN JARGONUNDA “PARA” ANLAMINDA KULLANILAN SÖZCÜK",
+        "id": 693,
+        "question": "Bir bütün meydana getiren planlar dizisi",
         "letter": "S",
-        "answer": "Sipali"
+        "answer": "Sekans"
     },
     {
-        "id": 67,
-        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "id": 1686,
+        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
         "letter": "Ş",
-        "answer": "Şanlıurfa, Şanlı Urfa"
+        "answer": "Şapel"
     },
     {
-        "id": 1757,
-        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "id": 440,
+        "question": "Herhangi bir konuda verilen gizli bilgi",
         "letter": "T",
-        "answer": "Taktik"
+        "answer": "tüyo, tüyo verme, tüyo vermek"
     },
     {
-        "id": 1077,
-        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "id": 455,
+        "question": "Açıkgöz, kurnaz, cingöz",
         "letter": "U",
-        "answer": "ucuz"
+        "answer": "uyanık"
     },
     {
-        "id": 878,
-        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
         "letter": "Ü",
-        "answer": "Ülkü"
+        "answer": "üvey"
     },
     {
-        "id": 1568,
-        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
         "letter": "V",
-        "answer": "Vardiya"
+        "answer": "Vize, vize belgesi"
     },
     {
-        "id": 1572,
-        "question": "Bir yere bağlamak veya çekerek götürmek için hayvanın başlığına veya tasmasına bağlanan ip",
+        "id": 1577,
+        "question": "Hacmine oranla ağırlığı çok olan",
         "letter": "Y",
-        "answer": "Yular"
+        "answer": "Yoğun"
     },
     {
-        "id": 1592,
-        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "id": 511,
+        "question": "Saçma, saçma sapan, boş, anlamsız söz",
         "letter": "Z",
-        "answer": "Ziyadesiyle"
+        "answer": "zırva"
     }
 ]

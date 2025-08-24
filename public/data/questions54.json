@@ -1,0 +1,158 @@
+[
+    {
+        "id": 782,
+        "question": "Ruh biliminde karşıt duygu, sevimsizlik, soğukluk",
+        "letter": "A",
+        "answer": "Antipati"
+    },
+    {
+        "id": 1773,
+        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "letter": "B",
+        "answer": "Buluş"
+    },
+    {
+        "id": 158,
+        "question": "Çok yakın, sıkı fıkı, pek içten (arkadaş)",
+        "letter": "C",
+        "answer": "can ciğer"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1383,
+        "question": "Eşlerin baba ve analarının birbirlerine göre durumu",
+        "letter": "D",
+        "answer": "Dünür, dünürü, dünürlük"
+    },
+    {
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
+        "letter": "E",
+        "answer": "emare"
+    },
+    {
+        "id": 1321,
+        "question": "Tütünleme suretiyle kurutulmuş ringa balığı",
+        "letter": "F",
+        "answer": "Frisa, firisa"
+    },
+    {
+        "id": 802,
+        "question": "Pişirilerek kurutulmuş yuvarlak veya uzun biçimli peksimet",
+        "letter": "G",
+        "answer": "Galeta, Grisini, Gevrek"
+    },
+    {
+        "id": 1247,
+        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
+        "letter": "H",
+        "answer": "Hegemonya, hegamonya, hegomonya"
+    },
+    {
+        "id": 1842,
+        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "letter": "İ",
+        "answer": "İmtina, İmtina etme, İmtina etmek"
+    },
+    {
+        "id": 95,
+        "question": "Komutanı korgeneral olan askeri birlik",
+        "letter": "K",
+        "answer": "kolordu"
+    },
+    {
+        "id": 928,
+        "question": "Çıkış yeri kolaylıkla bulunamayacak kadar karışık koridorları olan yapı",
+        "letter": "L",
+        "answer": "Labirent"
+    },
+    {
+        "id": 313,
+        "question": "Ara verme, duraklama",
+        "letter": "M",
+        "answer": "mola"
+    },
+    {
+        "id": 329,
+        "question": "Bir yerden alıp başka bir yere iletme, aktarma, taşıma",
+        "letter": "N",
+        "answer": "nakil, nakil işlemi"
+    },
+    {
+        "id": 1516,
+        "question": "Elle yapılan kalın, seyrek dikiş",
+        "letter": "O",
+        "answer": "Oyulga"
+    },
+    {
+        "id": 1534,
+        "question": "Bir alışveriş ilişkisinde, borcu alacaklıya vermek, tediye etmek",
+        "letter": "Ö",
+        "answer": "Ödemek, Ödeme, ödeme yapma, ödeme yapmak"
+    },
+    {
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "letter": "P",
+        "answer": "plak"
+    },
+    {
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
+        "letter": "R",
+        "answer": "Rivayet"
+    },
+    {
+        "id": 1756,
+        "question": "Alt anlamı kimse, insan, tip olan Farsça kökenli kelime",
+        "letter": "S",
+        "answer": "Sima"
+    },
+    {
+        "id": 1459,
+        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "letter": "Ş",
+        "answer": "Şizofreni"
+    },
+    {
+        "id": 1154,
+        "question": "Diş taşı",
+        "letter": "T",
+        "answer": "tartar"
+    },
+    {
+        "id": 455,
+        "question": "Açıkgöz, kurnaz, cingöz",
+        "letter": "U",
+        "answer": "uyanık"
+    },
+    {
+        "id": 849,
+        "question": "Bilim yada sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "Üstad, üstat"
+    },
+    {
+        "id": 715,
+        "question": "Genellikle sıvı şeyleri koymakta kullanılan, silindir biçiminde ve üstü kapalı, metal kap",
+        "letter": "V",
+        "answer": "Varil"
+    },
+    {
+        "id": 718,
+        "question": "Üstünde yaşadığımız gök cismi",
+        "letter": "Y",
+        "answer": "Yer küre"
+    },
+    {
+        "id": 503,
+        "question": "Acımasız ve haksız davranan, zulmeden",
+        "letter": "Z",
+        "answer": "zalim, zorba"
+    }
+]

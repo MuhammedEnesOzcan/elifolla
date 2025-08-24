@@ -1,158 +1,158 @@
 [
     {
-        "id": 1335,
-        "question": "Havadaki duman, is, koku vb. yabancı maddeleri emerek dışarı atan aygıt",
+        "id": 1296,
+        "question": "Elektrik enerjisini kimyasal enerji olarak depolayıp ihtiyaç durumunda bu enerjiyi tekrar elektrik enerjisine çeviren cihaz",
         "letter": "A",
-        "answer": "Aspiratör, aspratör"
+        "answer": "Akü"
     },
     {
-        "id": 1348,
-        "question": "Kaldırımların kenarlarında bulunan taşlar",
+        "id": 784,
+        "question": "Yazı ya da sözle canlandırmak",
         "letter": "B",
-        "answer": "Bordür"
+        "answer": "Betimleme, Betimlemek"
     },
     {
-        "id": 531,
-        "question": "Uygun, yerinde sayılan, yakışık alan",
+        "id": 914,
+        "question": "At Alıp Satan Kimse",
         "letter": "C",
-        "answer": "Caiz"
+        "answer": "Cambaz, canbaz"
     },
     {
-        "id": 1542,
-        "question": "Değirmende buğday teknesi oluğu",
+        "id": 176,
+        "question": "İnsan bedeninde bulunan enerjiyi tüm vücuda dağıttığına inanılan enerji noktaları",
         "letter": "Ç",
-        "answer": "Çörtü"
+        "answer": "çakra, çakralar"
     },
     {
-        "id": 941,
-        "question": "Ermenistan’ın para birimi",
+        "id": 1764,
+        "question": "ACI, ÜZÜNTÜ VEYA PİŞMANLIK SEBEBİYLE KENDİ KENDİNE VURMAK",
         "letter": "D",
-        "answer": "dram"
+        "answer": "Dövünme, Dövünmek"
     },
     {
-        "id": 796,
-        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
+        "id": 1418,
+        "question": "Vücutta istenmeyen kılları alma",
         "letter": "E",
-        "answer": "Elbette"
+        "answer": "Epilasyon"
     },
     {
-        "id": 567,
-        "question": "Yanıcı bir maddeden aldığı itici güçle hareket eden düzenek",
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
         "letter": "F",
-        "answer": "Füze"
+        "answer": "Ferah"
     },
     {
-        "id": 1430,
-        "question": "Makine yağı",
+        "id": 241,
+        "question": "Öfke, kızgınlık, hiddet",
         "letter": "G",
-        "answer": "Gres, gres yağ, gres yağı"
+        "answer": "gazap"
     },
     {
-        "id": 1446,
-        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "id": 973,
+        "question": "Yere veya mobilya üstüne serilmek, duvara gerilmek için, genellikle yünden dokunan, kısa ve sık tüylü, nakışlı, kalın yaygı",
         "letter": "H",
-        "answer": "Hasbelkader"
+        "answer": "Halı"
     },
     {
-        "id": 1199,
-        "question": "Damıtma işinde kullanılan araç, damıtıcı",
+        "id": 273,
+        "question": "Anlaşma, uyuşma, uzlaşma",
         "letter": "İ",
-        "answer": "İmbik"
+        "answer": "itilaf, ittifak"
     },
     {
-        "id": 1751,
-        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
+        "id": 611,
+        "question": "Giyilen kıyafetlerin birbiriyle uyum içinde olması",
         "letter": "K",
-        "answer": "Kıta"
+        "answer": "Kombin, Kombin yapma, kombin yapmak"
     },
     {
-        "id": 291,
-        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
         "letter": "L",
-        "answer": "loş"
+        "answer": "Larva, larva dönemi"
     },
     {
-        "id": 313,
-        "question": "Ara verme, duraklama",
+        "id": 325,
+        "question": "Konu, beklenmedik olay",
         "letter": "M",
-        "answer": "mola"
+        "answer": "mevzu"
     },
     {
-        "id": 644,
-        "question": "Atomun çekirdeğinden elde edilen bir enerji türü",
+        "id": 1521,
+        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
         "letter": "N",
-        "answer": "Nükleer, Nükleer enerji"
+        "answer": "Nova"
     },
     {
-        "id": 911,
-        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
         "letter": "O",
-        "answer": "Odin"
+        "answer": "otogar"
     },
     {
-        "id": 1689,
-        "question": "AYIRT EDİCİ BİR NİTELİĞİ OLAN",
+        "id": 363,
+        "question": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye",
         "letter": "Ö",
-        "answer": "Özel, özellikli"
+        "answer": "övgü"
     },
     {
-        "id": 377,
-        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "id": 1013,
+        "question": "Yaşlı, koca, ihtiyar kimse",
         "letter": "P",
-        "answer": "plak"
+        "answer": "Pir"
     },
     {
-        "id": 388,
-        "question": "İkiyüzlülük",
+        "id": 395,
+        "question": "Orta kaldırım",
         "letter": "R",
-        "answer": "riya, riyakar, riyakarlık"
+        "answer": "refüj"
     },
     {
-        "id": 412,
-        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "id": 1948,
+        "question": "MECAZEN, “AKIL SAĞLIĞINI YİTİRMEK” ANLAMINA GELEN SÖZ",
         "letter": "S",
-        "answer": "statü, statüsü"
+        "answer": "Sıyırma, Sıyırmak"
     },
     {
-        "id": 433,
-        "question": "Art düşünce, hile",
+        "id": 432,
+        "question": "Belli bir amaçla düzenlenen eğlence",
         "letter": "Ş",
-        "answer": "şaibe, şike"
+        "answer": "şölen, şenlik"
     },
     {
-        "id": 1809,
-        "question": "TOPRAK ALTINDA YETİŞEN, TADI, KOKUSU VE YÜKSEK FİYATIYLA DA ÜNLÜ BİR MANTAR TÜRÜ",
+        "id": 36,
+        "question": "1500 km²'lik yüzeyi ile Türkiye'nin ikinci büyük gölü ",
         "letter": "T",
-        "answer": "Trüf, Trüf mantarı"
+        "answer": "Tuz Gölü, Tuz"
     },
     {
-        "id": 454,
-        "question": "Sessiz bir biçimde, yavaşça",
+        "id": 1512,
+        "question": "Bütün varlıkların içinde bulunduğu sonsuz boşluk, feza, mekân",
         "letter": "U",
-        "answer": "usulca"
+        "answer": "Uzay"
     },
     {
-        "id": 849,
-        "question": "Bilim yada sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "id": 868,
+        "question": "Bina eteği, etek duvarı veya subasman",
         "letter": "Ü",
-        "answer": "Üstad, üstat"
+        "answer": "Üstemel"
     },
     {
-        "id": 1504,
-        "question": "Açık, aydın, belli",
+        "id": 1304,
+        "question": "Şehrin mülki amiri",
         "letter": "V",
-        "answer": "Vazıh"
+        "answer": "Vali, valilik"
     },
     {
-        "id": 1573,
-        "question": "Bir olayı belli bir görüşe göre açıklama, değerlendirme",
+        "id": 496,
+        "question": "Enerji ve ısı ortaya çıkaran yanıcı madde",
         "letter": "Y",
-        "answer": "Yorum, yorum yapma, yorum yapmak, yorumlama, yorumlamak"
+        "answer": "yakıt"
     },
     {
-        "id": 737,
-        "question": "Hoşluk, güzellik, incelik, zarif olma",
+        "id": 1245,
+        "question": "Eski dilde deprem",
         "letter": "Z",
-        "answer": "Zarafet, Zerafet"
+        "answer": "Zelzele"
     }
 ]

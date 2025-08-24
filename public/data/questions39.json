@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1754,
+        "question": "Anlaşmazlık konusunda çözüm için araya giren üçünçü kimse ya da kurum",
+        "letter": "A",
+        "answer": "Arabulucu"
+    },
+    {
+        "id": 145,
+        "question": "Kendine özgü nitelikleri yitirmeden bölünemeyen tek varlık, fert",
+        "letter": "B",
+        "answer": "birey"
+    },
+    {
+        "id": 534,
+        "question": "Ameliyat yapan uzman hekim, operatör",
+        "letter": "C",
+        "answer": "Cerrah"
+    },
+    {
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
+        "letter": "Ç",
+        "answer": "Çapak"
+    },
+    {
+        "id": 185,
+        "question": "Evlerde çocuğa bakan kimse, daye",
+        "letter": "D",
+        "answer": "dadı"
+    },
+    {
+        "id": 204,
+        "question": "Tutsak, köle",
+        "letter": "E",
+        "answer": "esir"
+    },
+    {
+        "id": 1226,
+        "question": "Herhangi bir konuda verilen kararın kısa bir özet haline getirilmesi, soruşturma evrakı",
+        "letter": "F",
+        "answer": "Fezleke"
+    },
+    {
+        "id": 1865,
+        "question": "BİR TOPLUMUN, GEREKLİ KAYNAKLARI ELDE EDEBİLMEK ÜZERE DÜZENLİ OLARAK YER DEĞİŞTİRMESİ",
+        "letter": "G",
+        "answer": "Göçebelik, Göç, Göç etmesi"
+    },
+    {
+        "id": 592,
+        "question": "Sürtünme kuvvetinin yağ basıncı ile sağlandığı fren tipi",
+        "letter": "H",
+        "answer": "Hidrolik, hidrolik fren"
+    },
+    {
+        "id": 604,
+        "question": "Gerçeğin gülünç yanını ortaya koyan ince alay",
+        "letter": "İ",
+        "answer": "İroni"
+    },
+    {
+        "id": 1886,
+        "question": "KALABALIK HÂLİNDE YAŞANAN YERLERDE, İÇİNDE BİRÇOK KİMSENİN YATTIĞI VEYA BARINDIĞI BÜYÜK ODA",
+        "letter": "K",
+        "answer": "Koğuş"
+    },
+    {
+        "id": 982,
+        "question": "Bir dilin tarihi, yapısı, politik sebeplerden dolayı ses, yapı ve söz dizimiyle ayrılan bir kolu",
+        "letter": "L",
+        "answer": "Lehçe, lehçesi"
+    },
+    {
+        "id": 632,
+        "question": "Ara, aralık, uzaklık",
+        "letter": "M",
+        "answer": "Mesafe"
+    },
+    {
+        "id": 989,
+        "question": "Bir şeyi hatırlamak için yazılan kısa yazı",
+        "letter": "N",
+        "answer": "Not, not etme, not etmek"
+    },
+    {
+        "id": 653,
+        "question": "Yaş bakımından üç kardeşin büyüğü ile küçüğü arasında bulunan",
+        "letter": "O",
+        "answer": "Ortanca, ortanca çocuk, ortanca kardeş"
+    },
+    {
+        "id": 1009,
+        "question": "Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey, mavera",
+        "letter": "Ö",
+        "answer": "Öte"
+    },
+    {
+        "id": 1264,
+        "question": "Arıların besin kaynağı, bitkilerin üreme organlarının başlıklarında bulunan üreme hücreleri",
+        "letter": "P",
+        "answer": "Polen"
+    },
+    {
+        "id": 1864,
+        "question": "YÜZEYDE KALMAYIP DERİNE İNEN, ASIL KONUYU DA İÇİNE ALAN, KÖKTEN",
+        "letter": "R",
+        "answer": "Radikal"
+    },
+    {
+        "id": 1039,
+        "question": "Klasik Türk müziğinde bir birleşik makam",
+        "letter": "S",
+        "answer": "saba"
+    },
+    {
+        "id": 923,
+        "question": "Daha çok cami avlularında bulunan havuz",
+        "letter": "Ş",
+        "answer": "Şadırvan"
+    },
+    {
+        "id": 1910,
+        "question": "BİR YAZARIN, KONU VE FİKRİ YAPI OLARAK BİRBİRİNİ İZLEYEN ÜÇ ESERİ",
+        "letter": "T",
+        "answer": "Triloji"
+    },
+    {
+        "id": 1078,
+        "question": "Yufka açılırken hamurun tahtaya yapışmaması için serpilen kalın un",
+        "letter": "U",
+        "answer": "Uğra"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 887,
+        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "letter": "V",
+        "answer": "Veba"
+    },
+    {
+        "id": 1955,
+        "question": "ÇOĞU KİMSELERCE DUYULMUŞ, ÖĞRENİLMİŞ, KULLANILMIŞ VEYA BENİMSENMİŞ OLAN",
+        "letter": "Y",
+        "answer": "Yaygın"
+    },
+    {
+        "id": 858,
+        "question": "Üflemeli bir çalgı",
+        "letter": "Z",
+        "answer": "Zurna"
+    }
+]

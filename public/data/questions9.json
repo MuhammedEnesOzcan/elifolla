@@ -1,81 +1,81 @@
 [
     {
-        "id": 119,
-        "question": "Çok karışık ve dağınık",
+        "id": 1483,
+        "question": "Canlının yaşam alanındaki çevre koşullarına uyumu",
         "letter": "A",
-        "answer": "altüst"
+        "answer": "Adaptasyon, adapte olma"
     },
     {
-        "id": 1254,
-        "question": "Uzağı görme, seziş, sezgi, uyanıklık",
+        "id": 744,
+        "question": "Bir cismin herhangi bir yöndeki uzanımı",
         "letter": "B",
-        "answer": "Basiret, basiretli, basiretlilik"
+        "answer": "Boyut, boyutu"
     },
     {
-        "id": 1319,
-        "question": "Mızrap ile çalınan iki veya üç teli olan halk sazı",
+        "id": 747,
+        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
         "letter": "C",
-        "answer": "Cura"
+        "answer": "Cesaret, Cesaretlilik"
     },
     {
-        "id": 1087,
-        "question": "Herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor",
+        "id": 1451,
+        "question": "Bilgisayarda yazılan bir metnin kâğıda dökülmüş biçimi",
         "letter": "Ç",
-        "answer": "Çaba"
+        "answer": "Çıktı, çıktısı"
     },
     {
-        "id": 1398,
-        "question": "Aynı cinsten onluk bir küme",
+        "id": 1694,
+        "question": "ÇEŞİTLİ TONLARI BULUNAN KIZIL KAHVE AT RENGİ",
         "letter": "D",
-        "answer": "Deste"
+        "answer": "Doru"
     },
     {
-        "id": 205,
-        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "id": 209,
+        "question": "Çok gerekli, vazgeçilmez",
         "letter": "E",
-        "answer": "ezel"
+        "answer": "elzem"
     },
     {
-        "id": 1093,
-        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "id": 1292,
+        "question": "Bahçıvanlıkta, tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze ya da körpe çiçek",
         "letter": "F",
-        "answer": "Facia"
+        "answer": "Fide"
     },
     {
-        "id": 1432,
-        "question": "Bir yarışma, karşılaşma, çatışma vb. sonunda yenen, üstün gelen, başarı kazanan",
+        "id": 971,
+        "question": "Sonbahar",
         "letter": "G",
-        "answer": "Galip"
+        "answer": "Güz"
     },
     {
-        "id": 1494,
-        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "id": 589,
+        "question": "Bilinç, bellek",
         "letter": "H",
-        "answer": "Halef, halefi"
+        "answer": "Hafıza"
     },
     {
-        "id": 1160,
-        "question": "Anlaşma, bağlaşma, birlik",
+        "id": 1810,
+        "question": "BİR KURUM VEYA KURULUŞUN YÖNETİLDİĞİ YER VEYA MAKAM",
         "letter": "İ",
-        "answer": "İttifak"
+        "answer": "İdare, İdari işler, İdari daire"
     },
     {
-        "id": 977,
-        "question": "Başlık, sipersiz şapka",
+        "id": 757,
+        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
         "letter": "K",
-        "answer": "Kep"
+        "answer": "Komisyon, Kar, Kâr"
     },
     {
-        "id": 1787,
-        "question": "Greve çıkan işçileri işverenin topluca işten uzaklaştırması",
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
         "letter": "L",
-        "answer": "Lokavt"
+        "answer": "levha"
     },
     {
-        "id": 317,
-        "question": "Aşırı olmayan, uygun, elverişli",
+        "id": 323,
+        "question": "Kalıtım yoluyla gelen herhangi bir özellik",
         "letter": "M",
-        "answer": "makul, mâkul"
+        "answer": "miras, mizaç"
     },
     {
         "id": 637,
@@ -84,75 +84,75 @@
         "answer": "Nitelik, niteliği"
     },
     {
-        "id": 351,
-        "question": "Kişisel değer, şeref, itibar",
+        "id": 907,
+        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
         "letter": "O",
-        "answer": "onur"
+        "answer": "Obje"
     },
     {
-        "id": 1538,
-        "question": "Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak",
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
         "letter": "Ö",
-        "answer": "Örtmek"
+        "answer": "Örk"
     },
     {
-        "id": 1120,
-        "question": "İnce ve yarı saydam bir tür kâğıt",
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
         "letter": "P",
-        "answer": "Pelür"
+        "answer": "plaj"
     },
     {
-        "id": 390,
-        "question": "Üzerinde boks yapılan, çevresi kordonla çevrilmiş yer",
+        "id": 682,
+        "question": "Saçı yer yer değişik tonlarda boyama işlemi",
         "letter": "R",
-        "answer": "ring"
+        "answer": "Röfle, Röfle yapma, Röfle yaptırma, Röfle yaptırmak"
     },
     {
-        "id": 831,
-        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "id": 415,
+        "question": "Bir şey bildirmek için verilen işaret",
         "letter": "S",
-        "answer": "Seküler"
+        "answer": "sinyal"
     },
     {
-        "id": 1055,
-        "question": "Şiir söyleyen veya yazan kimse",
+        "id": 1458,
+        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
         "letter": "Ş",
-        "answer": "Şair"
+        "answer": "Şurup"
     },
     {
-        "id": 91,
-        "question": "Eski dilde öğrenci",
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
         "letter": "T",
-        "answer": "talebe"
+        "answer": "telaş, telaşlanma, telaşlanmak"
     },
     {
-        "id": 1074,
-        "question": "Türk müziğinde ana makamlardan biri",
+        "id": 1132,
+        "question": "Şalvarı bele bağlamak veya torba, kese vb. şeylerin ağzını büzmek için bunlara geçirilen bağ",
         "letter": "U",
-        "answer": "Uşşak"
+        "answer": "uçkur"
     },
     {
-        "id": 467,
-        "question": "Dersin bölümlerinden her biri",
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
         "letter": "Ü",
-        "answer": "ünite"
+        "answer": "ücret"
     },
     {
-        "id": 887,
-        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "id": 1136,
+        "question": "Değer, kıymet",
         "letter": "V",
-        "answer": "Veba"
+        "answer": "valör"
     },
     {
-        "id": 1476,
-        "question": "Su parkı gösterilerinde zekasıyla öne çıkan memeli su hayvanı",
+        "id": 837,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
         "letter": "Y",
-        "answer": "Yunus, yunus balığı"
+        "answer": "Yürürlük, Yürürlükte, Yürürlükteki"
     },
     {
-        "id": 858,
-        "question": "Üflemeli bir çalgı",
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
         "letter": "Z",
-        "answer": "Zurna"
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
     }
 ]

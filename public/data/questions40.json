@@ -1,0 +1,158 @@
+[
+    {
+        "id": 108,
+        "question": "İki şey arasında bağlantı kuran kimse, vasıta",
+        "letter": "A",
+        "answer": "aracı, ara bulucu"
+    },
+    {
+        "id": 786,
+        "question": "Deneme ve günce yazılarıyla doldurulan sanal platform",
+        "letter": "B",
+        "answer": "Blog"
+    },
+    {
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
+        "letter": "C",
+        "answer": "Cenah"
+    },
+    {
+        "id": 790,
+        "question": "Düşman kıyılarına asker indirme işi",
+        "letter": "Ç",
+        "answer": "Çıkarma, çıkarma yapmak, çıkarma yapma"
+    },
+    {
+        "id": 1381,
+        "question": "Bir yüzeyin veya bir noktanın yüksekliğindeki yatay sınır, seviye",
+        "letter": "D",
+        "answer": "Düzey"
+    },
+    {
+        "id": 1488,
+        "question": "Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı",
+        "letter": "E",
+        "answer": "Engizisyon, engizisyon mahkemesi, engizisyon mahkemeleri"
+    },
+    {
+        "id": 1673,
+        "question": "Verilmiş bir yargıyı kaldırma, bozma",
+        "letter": "F",
+        "answer": "Fesih, fesh etme, fesh etmek"
+    },
+    {
+        "id": 1427,
+        "question": "Amaç, hedef",
+        "letter": "G",
+        "answer": "Gaye"
+    },
+    {
+        "id": 1866,
+        "question": "ZEVKİ İÇİN PARA HARCAMAKTAN KAÇINMAYAN KİMSE",
+        "letter": "H",
+        "answer": "Hovarda"
+    },
+    {
+        "id": 258,
+        "question": "Bir konuda birinin inanmasını sağlama, inandırma, kandırma",
+        "letter": "İ",
+        "answer": "ikna"
+    },
+    {
+        "id": 1282,
+        "question": "İş bakımından üstün tecrübeye sahip olan",
+        "letter": "K",
+        "answer": "Kıdemli, kıdem sahibi, kalifiye, kalifiye eleman"
+    },
+    {
+        "id": 1280,
+        "question": "Bir şeyi yemek için ağza götürülen parça",
+        "letter": "L",
+        "answer": "Lokma"
+    },
+    {
+        "id": 1633,
+        "question": "Toprak altına, üstüne veya suyun içine yerleştirilen patlayıcı madde",
+        "letter": "M",
+        "answer": "Mayın"
+    },
+    {
+        "id": 960,
+        "question": "Az şey, az",
+        "letter": "N",
+        "answer": "nebze"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 1537,
+        "question": "En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek",
+        "letter": "Ö",
+        "answer": "Ölçmek, ölçme, ölçüm"
+    },
+    {
+        "id": 674,
+        "question": "Suyu alınmış her tür yiyecek maddesinin artığı",
+        "letter": "P",
+        "answer": "Posa, posası"
+    },
+    {
+        "id": 1172,
+        "question": "Adet haline gelen şey, geleneksel tören",
+        "letter": "R",
+        "answer": "Ritüel"
+    },
+    {
+        "id": 1050,
+        "question": "Sebze, meyve vb. satmak için kurulmuş, eğreti, derme çatma dükkân",
+        "letter": "S",
+        "answer": "Salaş"
+    },
+    {
+        "id": 1686,
+        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
+        "letter": "Ş",
+        "answer": "Şapel"
+    },
+    {
+        "id": 712,
+        "question": "Sıcak kaplıca suyu",
+        "letter": "T",
+        "answer": "Termal, termal su, termal kaynak suyu"
+    },
+    {
+        "id": 1559,
+        "question": "Mecazen; Her hangi bir işi yapmak istemeyen, tembel, miskin",
+        "letter": "U",
+        "answer": "Uyuşuk"
+    },
+    {
+        "id": 880,
+        "question": "Hastalıkları iyileştirdiğine inanılan soluk",
+        "letter": "Ü",
+        "answer": "Üfürük, üfürme"
+    },
+    {
+        "id": 1570,
+        "question": "Bir kimsenin ölümünden sonra yapılmasını istediği şey",
+        "letter": "V",
+        "answer": "Vasiyet, vasiyeti, vasiyetname"
+    },
+    {
+        "id": 40,
+        "question": "Günlük kazanç",
+        "letter": "Y",
+        "answer": "yevmiye"
+    },
+    {
+        "id": 41,
+        "question": "Ses telleri olmayan hayvan",
+        "letter": "Z",
+        "answer": "Zürafa"
+    }
+]

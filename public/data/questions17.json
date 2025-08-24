@@ -1,9 +1,9 @@
 [
     {
-        "id": 1754,
-        "question": "Anlaşmazlık konusunda çözüm için araya giren üçünçü kimse ya da kurum",
+        "id": 1378,
+        "question": "Bir şeye dikkati yönelterek o şeyin bilincine varma, idrak",
         "letter": "A",
-        "answer": "Arabulucu"
+        "answer": "Algı, algılama, algılamak"
     },
     {
         "id": 1230,
@@ -12,147 +12,147 @@
         "answer": "Badire, badire atlatma, badire atlatmak"
     },
     {
-        "id": 1308,
-        "question": "Küçük ve tatlı bir tür karpuz",
+        "id": 964,
+        "question": "Cam ticaretini veya cam takmayı meslek edinmiş kimse",
         "letter": "C",
-        "answer": "Cimcime"
+        "answer": "Camcı"
     },
     {
-        "id": 1541,
-        "question": "Şundan dolayı, şu sebeple, zira",
+        "id": 1450,
+        "question": "Karikatürcü",
         "letter": "Ç",
-        "answer": "Çünkü"
+        "answer": "Çizer"
     },
     {
-        "id": 1171,
-        "question": "Hareketsiz, sabit, akışında",
+        "id": 198,
+        "question": "Başkalarını çekiştirmek ve kınamak üzere yapılan konuşma, gıybet",
         "letter": "D",
-        "answer": "Durağan"
+        "answer": "dedikodu"
     },
     {
-        "id": 563,
-        "question": "Öğrenci yurt dışı değişim programı",
+        "id": 1267,
+        "question": "Rüzgarın bir yönden diğer yöne akması durumu",
         "letter": "E",
-        "answer": "Erasmus"
+        "answer": "Esmek, esmesi, esme, esinti"
     },
     {
-        "id": 223,
-        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
+        "id": 1094,
+        "question": "Süslü, ayaklı fener",
         "letter": "F",
-        "answer": "fünye"
+        "answer": "Fanus"
     },
     {
-        "id": 1790,
-        "question": "BENZERLERİ ARASINDA NİTELİKLERİ SEBEBİYLE ÜSTÜN TUTULAN, BEĞENİLEN, ÖNEM VERİLEN KİMSE VEYA ŞEY",
+        "id": 1745,
+        "question": "Zengin maden yatakları sebebiyle bir zamanlar \"altın sahili\" ismiyle anılan Afrika ülkesi",
         "letter": "G",
-        "answer": "Gözde"
+        "answer": "Gana, Ghana"
     },
     {
-        "id": 60,
-        "question": "Güney yarım küre'de en uzun gecenin yaşandığı ay",
+        "id": 1248,
+        "question": "Pandemiyle hayatımıza girmiş, eğitimin hem çevrimiçi hem de yüzyüze yapılması durumu",
         "letter": "H",
-        "answer": "haziran"
+        "answer": "Hibrit, hibrit eğitim"
     },
     {
-        "id": 1198,
-        "question": "Sığınma, sığınma hakkı",
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
         "letter": "İ",
-        "answer": "İltica, iltica hakkı"
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
     },
     {
-        "id": 1697,
-        "question": "GERÇEĞİN NE OLDUĞUNU TAM OLARAK KESTİREMEMEKTEN DOĞAN KARARSIZLIK, İŞKİL",
+        "id": 283,
+        "question": "Mısırın taneleri atıldıktan sonra kalan sert bölüm",
         "letter": "K",
-        "answer": "Kuşku, kuşkulanma, kuşkulanmak"
+        "answer": "koçan"
     },
     {
-        "id": 294,
-        "question": "Gösterişli, şatafatlı olan",
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
         "letter": "L",
-        "answer": "lüks"
+        "answer": "losyon"
     },
     {
-        "id": 1893,
-        "question": "“BİLEREK, İSTEYEREK, KASTEN” ANLAMLARINA GELEN SÖZCÜK",
+        "id": 1193,
+        "question": "Genellikle çocukların kullandığı üflemeli ve klavyeli çalgı",
         "letter": "M",
-        "answer": "Mahsus"
+        "answer": "Melodika"
     },
     {
-        "id": 990,
-        "question": "Güzel, uyumlu ses, ezgi, melodi",
+        "id": 1111,
+        "question": "At nalı yapan demirci",
         "letter": "N",
-        "answer": "Nağme"
+        "answer": "Nalbant"
     },
     {
-        "id": 1898,
-        "question": "GÖZETİLEN AMACA VEYA BEKLENİLENE UYGUN OLMAYAN, MENFİ",
+        "id": 345,
+        "question": "Yenecek duruma gelmiş (meyve)",
         "letter": "O",
-        "answer": "Olumsuz"
+        "answer": "olgun, olgunlaşmış, olgun meyve"
     },
     {
-        "id": 1689,
-        "question": "AYIRT EDİCİ BİR NİTELİĞİ OLAN",
+        "id": 899,
+        "question": "Serbest, Hiçbir Koşula Bağlı Olmayan",
         "letter": "Ö",
-        "answer": "Özel, özellikli"
+        "answer": "Özgür, ozgur"
     },
     {
-        "id": 1937,
-        "question": "Hastalıkla ilgili hücrelerdeki, dokulardaki ve organlardaki yapısal ve işlevsel değişikliklerin tanınması, araştırılması ve incelenmesiyle ilgilenen bilim dalı",
+        "id": 376,
+        "question": "Bir başkasına bağımlılığı olan",
         "letter": "P",
-        "answer": "Patoloji, Pataloji"
+        "answer": "peyk"
     },
     {
-        "id": 1637,
-        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "id": 1122,
+        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
         "letter": "R",
-        "answer": "Röntgen"
+        "answer": "rapor"
     },
     {
-        "id": 692,
-        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "id": 690,
+        "question": "Kısa mesaj servisi kısaltması",
         "letter": "S",
-        "answer": "Sahaf"
+        "answer": "SMS"
     },
     {
-        "id": 1460,
-        "question": "Peynir, zeytin, salam, sucuk vb. yiyeceklerin satıldığı market bölümü",
+        "id": 1458,
+        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
         "letter": "Ş",
-        "answer": "Şarküteri"
+        "answer": "Şurup"
     },
     {
-        "id": 705,
-        "question": "Güneş’in doğuşundan önceki alacakaranlık zaman",
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
         "letter": "T",
-        "answer": "Tan, Tan vakti"
+        "answer": "tezat, tezatlık"
     },
     {
-        "id": 1560,
-        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
+        "id": 723,
+        "question": "Uyuşma, mutabakat, konsensüs",
         "letter": "U",
-        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
+        "answer": "Uzlaşı, uzlaşma, uzlaşmak"
     },
     {
-        "id": 725,
-        "question": "Birci, birlikten yana olan, tekil, birimsel",
+        "id": 729,
+        "question": "Özen göstermeden, gelişigüzel, baştan savma yapılan",
         "letter": "Ü",
-        "answer": "Üniter"
+        "answer": "Üstünkörü"
     },
     {
-        "id": 1567,
-        "question": "Miras bırakılan kimse, mirasçı",
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
         "letter": "V",
-        "answer": "Varis"
+        "answer": "Virüs"
     },
     {
-        "id": 947,
-        "question": "Köpek ve ineklere yedirilmek üzere un ve kepekle hazırlanan yiyecek",
+        "id": 1237,
+        "question": "\"Veya, ya da\" eş anlamlısı",
         "letter": "Y",
-        "answer": "yal, yem"
+        "answer": "Yahut"
     },
     {
-        "id": 511,
-        "question": "Saçma, saçma sapan, boş, anlamsız söz",
+        "id": 1593,
+        "question": "Ard arda birden fazla aracın kazaya karışması durumu",
         "letter": "Z",
-        "answer": "zırva"
+        "answer": "Zincirleme, zincirleme kaza"
     }
 ]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 118,
+        "question": "Genellikle üzeri siperli masa lambası veya ayaklı lamba",
+        "letter": "A",
+        "answer": "abajur"
+    },
+    {
+        "id": 959,
+        "question": "Egemenliğini tanıma",
+        "letter": "B",
+        "answer": "biat, biat etme, biat etmek"
+    },
+    {
+        "id": 157,
+        "question": "Alımlı, uygun",
+        "letter": "C",
+        "answer": "cazip"
+    },
+    {
+        "id": 167,
+        "question": "Kumluk, susuz ve ıssız geniş arazi, sahra, badiye",
+        "letter": "Ç",
+        "answer": "çöl"
+    },
+    {
+        "id": 77,
+        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
+        "letter": "D",
+        "answer": "daktilo"
+    },
+    {
+        "id": 1409,
+        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
+        "letter": "E",
+        "answer": "Ergonomik"
+    },
+    {
+        "id": 570,
+        "question": "Olağandan bol, aşırı çoklukta bulunma durumu",
+        "letter": "F",
+        "answer": "Furya, fazla, fazlaca, fazlalık"
+    },
+    {
+        "id": 1174,
+        "question": "Biçim, desen ya da çizgilerle gösterme, anlatma",
+        "letter": "G",
+        "answer": "Grafik"
+    },
+    {
+        "id": 594,
+        "question": "Sınır, uç noktası",
+        "letter": "H",
+        "answer": "Hudut"
+    },
+    {
+        "id": 1842,
+        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "letter": "İ",
+        "answer": "İmtina, İmtina etme, İmtina etmek"
+    },
+    {
+        "id": 1818,
+        "question": "Alışverişte durgunluk",
+        "letter": "K",
+        "answer": "Kesat, kesatlık, kesat iş, kesat işler"
+    },
+    {
+        "id": 615,
+        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
+        "letter": "L",
+        "answer": "Lümpen"
+    },
+    {
+        "id": 625,
+        "question": "Ayrı bir yeri olan, üstün, seçkin",
+        "letter": "M",
+        "answer": "Mümtaz"
+    },
+    {
+        "id": 327,
+        "question": "Haykırma, bağırma",
+        "letter": "N",
+        "answer": "nara, nara atma, nara atmak"
+    },
+    {
+        "id": 653,
+        "question": "Yaş bakımından üç kardeşin büyüğü ile küçüğü arasında bulunan",
+        "letter": "O",
+        "answer": "Ortanca, ortanca çocuk, ortanca kardeş"
+    },
+    {
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "letter": "Ö",
+        "answer": "Örk"
+    },
+    {
+        "id": 1740,
+        "question": "İnsanın yüzünün yandan görünüşü",
+        "letter": "P",
+        "answer": "Profil"
+    },
+    {
+        "id": 397,
+        "question": "Okul, kışla vb. yerlerde hastalar için ayrılmış bölüm",
+        "letter": "R",
+        "answer": "revir"
+    },
+    {
+        "id": 1039,
+        "question": "Klasik Türk müziğinde bir birleşik makam",
+        "letter": "S",
+        "answer": "saba"
+    },
+    {
+        "id": 703,
+        "question": "Oturduğu yerde hafif ve kısa süreli uyuma",
+        "letter": "Ş",
+        "answer": "Şekerleme"
+    },
+    {
+        "id": 1882,
+        "question": "PİYASALARDA, BELİRLİ BİR MAL VE HİZMETE YÖNELEN SATIN ALMA İSTEĞİ",
+        "letter": "T",
+        "answer": "Talep"
+    },
+    {
+        "id": 1070,
+        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
+        "letter": "U",
+        "answer": "Uçkun"
+    },
+    {
+        "id": 729,
+        "question": "Özen göstermeden, gelişigüzel, baştan savma yapılan",
+        "letter": "Ü",
+        "answer": "Üstünkörü"
+    },
+    {
+        "id": 1708,
+        "question": "Kökeni fransızca olup evlerin giriş kısmında ve ayakkabı, mont vb. şeylerin konulduğu yer",
+        "letter": "V",
+        "answer": "Vestiyer"
+    },
+    {
+        "id": 1584,
+        "question": "Bir işten elde edilen iyi sonuç, fayda",
+        "letter": "Y",
+        "answer": "Yarar"
+    },
+    {
+        "id": 1594,
+        "question": "Şiddetli bir şekilde titremek veya sallanmak",
+        "letter": "Z",
+        "answer": "Zangırdamak, zangırdama"
+    }
+]

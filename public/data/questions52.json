@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1657,
+        "question": "Belli bir süre sonra inilip başka bir taşıta binilmesini gerektiren seyahat",
+        "letter": "A",
+        "answer": "Aktarmalı, aktarmalı seyahat"
+    },
+    {
+        "id": 1709,
+        "question": "Karaoğlan lakaplı eski türk siyasetçi",
+        "letter": "B",
+        "answer": "Bülent Ecevit"
+    },
+    {
+        "id": 1360,
+        "question": "Kuşların ötüşürken çıkardıkları ses",
+        "letter": "C",
+        "answer": "Cıvıltı, cıvıldama, cıvıldamak"
+    },
+    {
+        "id": 748,
+        "question": "Araçların trafikte üstünlük sağlamak için kullandığı kırmızı-mavi ışıklar",
+        "letter": "Ç",
+        "answer": "Çakar, çakar lamba, çakar lambası"
+    },
+    {
+        "id": 794,
+        "question": "Belli bir esasa göre verilen buyruk, talimat, yönerge",
+        "letter": "D",
+        "answer": "Direktif"
+    },
+    {
+        "id": 201,
+        "question": "Bir işte yetkili olan, bir işi yapan, erbap",
+        "letter": "E",
+        "answer": "ehil, ehli"
+    },
+    {
+        "id": 1699,
+        "question": "Sık rastlanan bir tür boğaz enfeksiyonu",
+        "letter": "F",
+        "answer": "Farenjit, faranjit"
+    },
+    {
+        "id": 1434,
+        "question": "Kamıştan yapılmış çift düdük ve tulumdan oluşan, tiz sesli, nefesli, İskoçların millî çalgısı",
+        "letter": "G",
+        "answer": "Gayda"
+    },
+    {
+        "id": 594,
+        "question": "Sınır, uç noktası",
+        "letter": "H",
+        "answer": "Hudut"
+    },
+    {
+        "id": 958,
+        "question": "Uyarma",
+        "letter": "İ",
+        "answer": "ikaz, ikaz etme, ikaz etmek"
+    },
+    {
+        "id": 605,
+        "question": "Garson kalfası",
+        "letter": "K",
+        "answer": "Komi"
+    },
+    {
+        "id": 616,
+        "question": "Şişkinlik yaptığıyla bilinen süt şekeri",
+        "letter": "L",
+        "answer": "Laktoz"
+    },
+    {
+        "id": 1775,
+        "question": "ÇOK KÜÇÜK NESNELERİ VEYA ÇIPLAK GÖZLE GÖRÜLMEYENLERİ DAHA BELİRGİN DURUMA GETİRMEYE YARAYAN OPTİK ALET",
+        "letter": "M",
+        "answer": "Mikroskop"
+    },
+    {
+        "id": 1521,
+        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "letter": "N",
+        "answer": "Nova"
+    },
+    {
+        "id": 30,
+        "question": "Düz ve geniş arazi",
+        "letter": "O",
+        "answer": "Ova"
+    },
+    {
+        "id": 658,
+        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
+        "letter": "Ö",
+        "answer": "Özenti, Özentilik, Özenme, Özenmek"
+    },
+    {
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
+        "letter": "P",
+        "answer": "plaj"
+    },
+    {
+        "id": 682,
+        "question": "Saçı yer yer değişik tonlarda boyama işlemi",
+        "letter": "R",
+        "answer": "Röfle, Röfle yapma, Röfle yaptırma, Röfle yaptırmak"
+    },
+    {
+        "id": 412,
+        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "letter": "S",
+        "answer": "statü, statüsü"
+    },
+    {
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
+        "letter": "Ş",
+        "answer": "şakrak"
+    },
+    {
+        "id": 836,
+        "question": "Bulunduğu kaba sığmayıp kenarları aşmak",
+        "letter": "T",
+        "answer": "Taşma, Taşmak, Taşması"
+    },
+    {
+        "id": 456,
+        "question": "Gökyüzünde tanımlanamayan cisim",
+        "letter": "U",
+        "answer": "ufo"
+    },
+    {
+        "id": 1472,
+        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
+        "letter": "Ü",
+        "answer": "Ürkmek"
+    },
+    {
+        "id": 475,
+        "question": "Gözlem ve deneye dayalı araştırmanın sonuçları",
+        "letter": "V",
+        "answer": "veri, veri seti"
+    },
+    {
+        "id": 772,
+        "question": "Genellikle eylemin çekiciliğini arttıran engelleyici kural",
+        "letter": "Y",
+        "answer": "Yasak"
+    },
+    {
+        "id": 719,
+        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "letter": "Z",
+        "answer": "Zindan"
+    }
+]

@@ -1,158 +1,158 @@
 [
     {
-        "id": 1331,
-        "question": "Başkalarından ayrı ve üstün tutulma durumu, imtiyaz",
+        "id": 782,
+        "question": "Ruh biliminde karşıt duygu, sevimsizlik, soğukluk",
         "letter": "A",
-        "answer": "Ayrıcalık, ayrıcalıklı olma, ayrıcalıklı olmak"
+        "answer": "Antipati"
     },
     {
-        "id": 1770,
-        "question": "DEVLET ADINA DAVALAR AÇAN KAMU GÖREVLİLERİNİN EN ÜST DÜZEYDE OLANI",
+        "id": 1781,
+        "question": "Fransızca’da Marie’nin banyosu anlamına gelen 'sıcak suda eritme' işi olan gastronomi terimi",
         "letter": "B",
-        "answer": "Başsavcı"
+        "answer": "Benmari, Bain Marie"
     },
     {
-        "id": 154,
-        "question": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
+        "id": 1888,
+        "question": "MECAZEN, “GELİŞTİRİLEBİLİR YETENEK, İYİ YETENEK” ANLAMLARINA GELEN SÖZCÜK",
         "letter": "C",
-        "answer": "cila"
+        "answer": "Cevher, Cevherli"
     },
     {
-        "id": 540,
-        "question": "Sözlerin veya davranışların birbirini tutmaması",
+        "id": 183,
+        "question": "Oy vermekten, eğilim göstermekten veya bir şey yapmaktan kaçınan, kararsız kimse",
         "letter": "Ç",
-        "answer": "Çelişki"
+        "answer": "çekimser"
     },
     {
-        "id": 1196,
-        "question": "Aynı cinsten olan bir nesnenin on ikisini içeren bir birim",
+        "id": 112,
+        "question": "Müzik, ürün, hizmet gibi alanlarda kısa ön sunum",
         "letter": "D",
-        "answer": "Düzine"
+        "answer": "demo"
     },
     {
-        "id": 1405,
-        "question": "Yalnızca ahlak üzerine kurulu yönetim biçimi",
+        "id": 1416,
+        "question": "Araçlarla koruma işi",
         "letter": "E",
-        "answer": "Etokrasi"
+        "answer": "Eskortluk, eskort"
     },
     {
-        "id": 1328,
-        "question": "Bir dansı veya oyunu oluşturan ölçülü adımlarla beliren zincirleme hareketlerden her biri",
+        "id": 752,
+        "question": "Anlayış, seziş, sezgi",
         "letter": "F",
-        "answer": "Figür, figürler"
+        "answer": "Feraset"
     },
     {
-        "id": 1260,
-        "question": "Bisiklet direksiyonu",
+        "id": 1430,
+        "question": "Makine yağı",
         "letter": "G",
-        "answer": "Gidon"
+        "answer": "Gres, gres yağ, gres yağı"
     },
     {
-        "id": 1794,
-        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "id": 253,
+        "question": "Çok güzel el yazısı yazan sanatçı",
         "letter": "H",
-        "answer": "Hasılat"
+        "answer": "hattat"
     },
     {
-        "id": 1804,
-        "question": "Dinlenme, rahat etme",
+        "id": 1725,
+        "question": "Hainlik etme, yarı yolda bırakma",
         "letter": "İ",
-        "answer": "İstirahat, İstirahat etme, İstirahat etmek"
+        "answer": "İhanet, ihanet etme, ihanet etmek"
     },
     {
-        "id": 608,
-        "question": "Büyük taarruzda karargah olarak kullanılan tepe",
+        "id": 287,
+        "question": "Posta, kargo, mektup vb. gönderileri alıcıya ulaştıran kimse",
         "letter": "K",
-        "answer": "Kocatepe, Koca"
+        "answer": "kurye"
     },
     {
-        "id": 983,
-        "question": "Deniz kulağı",
+        "id": 918,
+        "question": "Hiç tuzu olmayan yumuşak krem peynir",
         "letter": "L",
-        "answer": "Lagün"
+        "answer": "Labne"
     },
     {
-        "id": 324,
-        "question": "Özdeyiş, slogan",
+        "id": 1947,
+        "question": "Yıldızların durumundan ve devinimlerinden anlam çıkarmak suretiyle, falcılık yapan kişi",
         "letter": "M",
-        "answer": "motto"
+        "answer": "Müneccim"
     },
     {
-        "id": 337,
-        "question": "Benzer, aynı, kopya",
+        "id": 949,
+        "question": "Nikel'in simgesi",
         "letter": "N",
-        "answer": "nüsha"
+        "answer": "ni"
     },
     {
-        "id": 1000,
-        "question": "Keçi yavrusu",
+        "id": 652,
+        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
         "letter": "O",
-        "answer": "Oğlak"
+        "answer": "Odeon"
     },
     {
-        "id": 663,
-        "question": "Bir işin ilerisini kestirme, tahmin etmek",
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
         "letter": "Ö",
-        "answer": "Öngörü, Öngörmek"
+        "answer": "ödünç, ödünç alma, ödünç almak"
     },
     {
-        "id": 823,
-        "question": "Bir balık ve bir meyve türünün ortak adı",
+        "id": 673,
+        "question": "Söz dalaşı",
         "letter": "P",
-        "answer": "Palamut"
+        "answer": "Polemik"
     },
     {
-        "id": 1644,
-        "question": "Medya sektöründe bir yayını yöneten ekip",
+        "id": 1244,
+        "question": "Kaynar suda kabuğu ile az pişirilmiş olan",
         "letter": "R",
-        "answer": "Reji, reji ekibi"
+        "answer": "Rafadan"
     },
     {
-        "id": 1039,
-        "question": "Klasik Türk müziğinde bir birleşik makam",
+        "id": 1690,
+        "question": "GENELLİKLE MEYVE VEYA MEYVE SULARINDAN YAPILAN, FRANSA MENŞELİ DONDURULMUŞ BİR TATLI",
         "letter": "S",
-        "answer": "saba"
+        "answer": "SORBE"
     },
     {
-        "id": 1056,
-        "question": "Karaları çevreleyen ve karalardan sayılan, 200 m derinliğe kadar olan sığ deniz dipleri",
+        "id": 1461,
+        "question": "Mecazen \"Kovmak, kapı dışarı etmek\"",
         "letter": "Ş",
-        "answer": "Şelf"
+        "answer": "Şutlama, Şutlamak"
     },
     {
-        "id": 767,
-        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
         "letter": "T",
-        "answer": "Takılmak"
+        "answer": "tezat, tezatlık"
     },
     {
-        "id": 1512,
-        "question": "Bütün varlıkların içinde bulunduğu sonsuz boşluk, feza, mekân",
+        "id": 1223,
+        "question": "Bir sonuca varmak üzere, ortadaki engelleri kaldırmak için tutulması gereken yol, çıkar yol, çözüm, çare",
         "letter": "U",
-        "answer": "Uzay"
+        "answer": "Umar"
     },
     {
-        "id": 460,
-        "question": "Kan bağı bulunmayan, öz olmayan",
+        "id": 1468,
+        "question": "Güvercinlerden, korularda yaşayan, eti için avlanan, boz renkli bir kuş (Streptopelia turtur)",
         "letter": "Ü",
-        "answer": "üvey"
+        "answer": "Üveyik"
     },
     {
-        "id": 770,
-        "question": "Durum, tavır, hâl",
+        "id": 475,
+        "question": "Gözlem ve deneye dayalı araştırmanın sonuçları",
         "letter": "V",
-        "answer": "Vaziyet"
+        "answer": "veri, veri seti"
     },
     {
-        "id": 489,
-        "question": "Kişiye isnat edilen haksız suçlama",
+        "id": 1577,
+        "question": "Hacmine oranla ağırlığı çok olan",
         "letter": "Y",
-        "answer": "yafta, yaftalama, yaftalamak"
+        "answer": "Yoğun"
     },
     {
-        "id": 503,
-        "question": "Acımasız ve haksız davranan, zulmeden",
+        "id": 1589,
+        "question": "Çok küçük parçacık",
         "letter": "Z",
-        "answer": "zalim, zorba"
+        "answer": "Zerre"
     }
 ]

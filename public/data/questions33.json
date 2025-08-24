@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1926,
+        "question": "BOKSTA, BÜKÜK KOLLA AŞAĞIDAN YUKARIYA DOĞRU ÇENEYE ATILAN YUMRUK",
+        "letter": "A",
+        "answer": "Aparkat"
+    },
+    {
+        "id": 1343,
+        "question": "Bükülmüş, kıvrılmış şeylerin oluşturduğu kat, kıvrım",
+        "letter": "B",
+        "answer": "Büklüm, büklümler"
+    },
+    {
+        "id": 1377,
+        "question": "Mahkemede oturum, duruşma",
+        "letter": "C",
+        "answer": "Celse"
+    },
+    {
+        "id": 1859,
+        "question": "AYAKLA ÇİĞNENDİĞİNDE YA DA DUVARA SÜRTÜLDÜĞÜNDE PATLAYAN EĞLENCE FİŞEĞİ",
+        "letter": "Ç",
+        "answer": "Çatapat"
+    },
+    {
+        "id": 1382,
+        "question": "Bedensel veya ruhsal dengenin değişmesi sonucu ortaya çıkan ve canlıyı türlü tepkilere sürükleyebilen içten gelen gerilim",
+        "letter": "D",
+        "answer": "Dürtü"
+    },
+    {
+        "id": 20,
+        "question": "Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli",
+        "letter": "E",
+        "answer": "Etalon"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 1896,
+        "question": "DÜZENSİZ, RAHATSIZ EDİCİ YÜKSEK SES VEYA SESLER BÜTÜNÜ",
+        "letter": "G",
+        "answer": "Gürültü"
+    },
+    {
+        "id": 805,
+        "question": "Atak tabiatlı küçük savaş gemisi",
+        "letter": "H",
+        "answer": "Hücumbot, Hücumbotu"
+    },
+    {
+        "id": 257,
+        "question": "Örnek alınan, en çok hayranlık duyulan kimse",
+        "letter": "İ",
+        "answer": "idol"
+    },
+    {
+        "id": 1793,
+        "question": "İlgi uyandıran kişisel bir mevcudiyet veya çekicilik kalitesi",
+        "letter": "K",
+        "answer": "Karizma"
+    },
+    {
+        "id": 615,
+        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
+        "letter": "L",
+        "answer": "Lümpen"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 912,
+        "question": "Hristiyanların en büyük bayramı",
+        "letter": "N",
+        "answer": "Noel"
+    },
+    {
+        "id": 907,
+        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
+        "letter": "O",
+        "answer": "Obje"
+    },
+    {
+        "id": 664,
+        "question": "Bir işi ileri tarihe atma, ertelemek",
+        "letter": "Ö",
+        "answer": "Öteleme, ötelemek"
+    },
+    {
+        "id": 1271,
+        "question": "\"Sokrates'in Savunması\" adlı eseri yazan ünlü filozof",
+        "letter": "P",
+        "answer": "Platon"
+    },
+    {
+        "id": 1644,
+        "question": "Medya sektöründe bir yayını yöneten ekip",
+        "letter": "R",
+        "answer": "Reji, reji ekibi"
+    },
+    {
+        "id": 1159,
+        "question": "Uygulamalı öğrenme, iş öncesi öğrenme",
+        "letter": "S",
+        "answer": "Staj, stajyerlik, staj yapma, staj yapmak"
+    },
+    {
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
+        "letter": "Ş",
+        "answer": "Şahsiyet"
+    },
+    {
+        "id": 720,
+        "question": "Tutum, idareli tüketme",
+        "letter": "T",
+        "answer": "Tasarruf, Tasaruf"
+    },
+    {
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "letter": "U",
+        "answer": "Uydu, uydusu"
+    },
+    {
+        "id": 769,
+        "question": "Korkunun yarattığı serinlik",
+        "letter": "Ü",
+        "answer": "Ürperti, Ürpermek"
+    },
+    {
+        "id": 1208,
+        "question": "Manşet, smaç, pas gibi terimlerin bulunduğu spor dalı",
+        "letter": "V",
+        "answer": "Voleybol"
+    },
+    {
+        "id": 773,
+        "question": "Japon mafyası",
+        "letter": "Y",
+        "answer": "Yakuza"
+    },
+    {
+        "id": 1591,
+        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "letter": "Z",
+        "answer": "Zarar, ziyan"
+    }
+]

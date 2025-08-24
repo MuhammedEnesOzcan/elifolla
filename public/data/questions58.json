@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1665,
+        "question": "Bir müzik programında genellikle en son sahneye çıkan, alanında çok ünlü olan sanatçı",
+        "letter": "A",
+        "answer": "Assolist"
+    },
+    {
+        "id": 527,
+        "question": "Yanıltarak bir işten caydırmak",
+        "letter": "B",
+        "answer": "Blöf, blöf yapma, blöf yapmak"
+    },
+    {
+        "id": 962,
+        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "letter": "C",
+        "answer": "Cacık"
+    },
+    {
+        "id": 176,
+        "question": "İnsan bedeninde bulunan enerjiyi tüm vücuda dağıttığına inanılan enerji noktaları",
+        "letter": "Ç",
+        "answer": "çakra, çakralar"
+    },
+    {
+        "id": 1394,
+        "question": "Doldurularak yapılan yemek",
+        "letter": "D",
+        "answer": "Dolma"
+    },
+    {
+        "id": 566,
+        "question": "Bilirkişi tarafından yapılan inceleme",
+        "letter": "E",
+        "answer": "Ekspertiz, Ekspertiz raporu"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 1850,
+        "question": "PASLANMAKTAN KORUMAK İÇİN ERİMİŞ ÇİNKOYA BATIRILARAK KAPLANMIŞ OLAN",
+        "letter": "G",
+        "answer": "Galvanize, Galvanizli"
+    },
+    {
+        "id": 250,
+        "question": "Hırsız, haydut, eşkıya",
+        "letter": "H",
+        "answer": "harami, haramiler"
+    },
+    {
+        "id": 1199,
+        "question": "Damıtma işinde kullanılan araç, damıtıcı",
+        "letter": "İ",
+        "answer": "İmbik"
+    },
+    {
+        "id": 1795,
+        "question": "RUMCA KÖKENLİ “YIPRANMIŞ, ESKİ VE BAKIMSIZ” ANLAMLARINDA DAHA ÇOK ARAÇLAR, MAKİNELER İÇİN KULLANILAN SÖZCÜK",
+        "letter": "K",
+        "answer": "Külüstür"
+    },
+    {
+        "id": 623,
+        "question": "Eğlence yerlerinde veya parlamento salonlarında özel bölme",
+        "letter": "L",
+        "answer": "Loca"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 993,
+        "question": "Hoş olmayan, hoşa gitmeyen, kötü, çirkin",
+        "letter": "N",
+        "answer": "Nahoş"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 1169,
+        "question": "Perdeayaklılardan evcil ve yabanisi de bulunan su kuşu",
+        "letter": "Ö",
+        "answer": "Ördek"
+    },
+    {
+        "id": 1916,
+        "question": "MATEMATİKTE, BAYAĞI KESİRLERDEKİ ÇİZGİ ALTI SAYISI",
+        "letter": "P",
+        "answer": "Payda"
+    },
+    {
+        "id": 678,
+        "question": "Yapılması alışkanlık haline gelmiş iş",
+        "letter": "R",
+        "answer": "Rutin, Rutin iş"
+    },
+    {
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "letter": "S",
+        "answer": "Sahaf"
+    },
+    {
+        "id": 766,
+        "question": "Haşlanmış gıdayı hızlıca buz ile soğutmak",
+        "letter": "Ş",
+        "answer": "Şoklama, Şoklamak, Şoklama işlemi"
+    },
+    {
+        "id": 1064,
+        "question": "Şişe gibi dar delikleri tıkamaya yarayan mantar, cam, tahta veya plastikten tıkaç",
+        "letter": "T",
+        "answer": "tapa, tıpa"
+    },
+    {
+        "id": 1069,
+        "question": "ele avuca sığmaz (kimse)",
+        "letter": "U",
+        "answer": "Uçarı"
+    },
+    {
+        "id": 1316,
+        "question": "Derinleştirmeden, yüzeysel olarak",
+        "letter": "Ü",
+        "answer": "Üstten"
+    },
+    {
+        "id": 482,
+        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
+        "letter": "V",
+        "answer": "vezne"
+    },
+    {
+        "id": 717,
+        "question": "Yüksek mahkeme, yüksek yargı kurulu",
+        "letter": "Y",
+        "answer": "Yargıtay"
+    },
+    {
+        "id": 841,
+        "question": "Kimse, kişi",
+        "letter": "Z",
+        "answer": "Zat"
+    }
+]

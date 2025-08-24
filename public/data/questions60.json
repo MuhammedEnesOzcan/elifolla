@@ -1,0 +1,158 @@
+[
+    {
+        "id": 107,
+        "question": "Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri",
+        "letter": "A",
+        "answer": "akran"
+    },
+    {
+        "id": 1773,
+        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "letter": "B",
+        "answer": "Buluş"
+    },
+    {
+        "id": 915,
+        "question": "Sonu Olmayan, Sonsuz, Ebedi, Ölümsüz",
+        "letter": "C",
+        "answer": "Cavit"
+    },
+    {
+        "id": 1545,
+        "question": "Yüzü çiçek hastalığından kalma küçük yara izleri taşıyan, aşırı çiçek bozuğu olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çopur"
+    },
+    {
+        "id": 1385,
+        "question": "Evlenme veya sünnet dolayısıyla yapılan tören, eğlence",
+        "letter": "D",
+        "answer": "Düğün"
+    },
+    {
+        "id": 209,
+        "question": "Çok gerekli, vazgeçilmez",
+        "letter": "E",
+        "answer": "elzem"
+    },
+    {
+        "id": 224,
+        "question": "Talih, baht, şans",
+        "letter": "F",
+        "answer": "felek"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 1437,
+        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "letter": "H",
+        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+    },
+    {
+        "id": 597,
+        "question": "Değerli, küçük, sert, sedef renginde süs tanesi",
+        "letter": "İ",
+        "answer": "İnci, inci tanesi"
+    },
+    {
+        "id": 1751,
+        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
+        "letter": "K",
+        "answer": "Kıta"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 1753,
+        "question": "Bir işin yapılması veya bir borcun ödenmesi için tanınan süre",
+        "letter": "M",
+        "answer": "Mühlet"
+    },
+    {
+        "id": 1242,
+        "question": "Düzyazı sanatı",
+        "letter": "N",
+        "answer": "Nesir, nesir sanatı"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 1181,
+        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "letter": "P",
+        "answer": "Peron"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 1317,
+        "question": "Bir şeye ayrılan, uygun görülen veya rastlayan zaman",
+        "letter": "S",
+        "answer": "Sıra"
+    },
+    {
+        "id": 1685,
+        "question": "İsrail para birimi",
+        "letter": "Ş",
+        "answer": "Şekel"
+    },
+    {
+        "id": 706,
+        "question": "Bağırıp çağırarak, alkışlayıp tempo tutarak yapılan destek",
+        "letter": "T",
+        "answer": "Tezahürat, Tezzahürat"
+    },
+    {
+        "id": 455,
+        "question": "Açıkgöz, kurnaz, cingöz",
+        "letter": "U",
+        "answer": "uyanık"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 886,
+        "question": "Çiçek Koymak İçin Kullanılan Kap",
+        "letter": "V",
+        "answer": "Vazo"
+    },
+    {
+        "id": 735,
+        "question": "Balıklarda sırt yüzgeci",
+        "letter": "Y",
+        "answer": "Yele"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]
