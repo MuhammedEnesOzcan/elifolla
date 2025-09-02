@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1654,
+        "question": "Bir şeyin umulduğundan az olduğu yargısına varmak, az görmek, az bulmak",
+        "letter": "A",
+        "answer": "Azımsamak, azımsama"
+    },
+    {
+        "id": 1345,
+        "question": "Kum ve çimentonun birleştirilmesiyle elde edilen yapı malzemesi",
+        "letter": "B",
+        "answer": "Briket"
+    },
+    {
+        "id": 158,
+        "question": "Çok yakın, sıkı fıkı, pek içten (arkadaş)",
+        "letter": "C",
+        "answer": "can ciğer"
+    },
+    {
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
+        "letter": "Ç",
+        "answer": "çakar"
+    },
+    {
+        "id": 77,
+        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
+        "letter": "D",
+        "answer": "daktilo"
+    },
+    {
+        "id": 563,
+        "question": "Öğrenci yurt dışı değişim programı",
+        "letter": "E",
+        "answer": "Erasmus"
+    },
+    {
+        "id": 1093,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "Facia"
+    },
+    {
+        "id": 971,
+        "question": "Sonbahar",
+        "letter": "G",
+        "answer": "Güz"
+    },
+    {
+        "id": 1443,
+        "question": "Mecazen; Yasa dışı yollarla zimmetine para veya mal geçirmek",
+        "letter": "H",
+        "answer": "Hortumlama, hortumlamak"
+    },
+    {
+        "id": 1605,
+        "question": "Birinin iyi niyetini kötüye kullanma",
+        "letter": "İ",
+        "answer": "İstismar, istismar etme, istismar etmek"
+    },
+    {
+        "id": 976,
+        "question": "Gözlerin üzerinde kemerli birer çizgi oluşturan kısa kıllar",
+        "letter": "K",
+        "answer": "Kaş"
+    },
+    {
+        "id": 624,
+        "question": "Çok sulu ve fazla pişmiş pilav/pirinç",
+        "letter": "L",
+        "answer": "Lapa, Lapa pilav, Lapa pirinç"
+    },
+    {
+        "id": 1625,
+        "question": "Bir şeyi anlamak veya öğrenmek için duyulan istek",
+        "letter": "M",
+        "answer": "Merak"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 654,
+        "question": "Kendini kontrol edebilen sürücüsüz araç",
+        "letter": "O",
+        "answer": "Otonom, Otonom araç, Otonom araba"
+    },
+    {
+        "id": 664,
+        "question": "Bir işi ileri tarihe atma, ertelemek",
+        "letter": "Ö",
+        "answer": "Öteleme, ötelemek"
+    },
+    {
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
+        "letter": "P",
+        "answer": "plaj"
+    },
+    {
+        "id": 1025,
+        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
+        "letter": "R",
+        "answer": "run"
+    },
+    {
+        "id": 1779,
+        "question": "NESNE ÖZELLİKLERİ BULUNMAYAN, DUYULARLA ALGILANMAYAN",
+        "letter": "S",
+        "answer": "Soyut"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 1831,
+        "question": "BİR AĞIZLIK VE KENDİ ÜSTÜNE KIVRILMIŞ SİLİNDİR BİR BORUDAN OLUŞAN NEFESLİ ÇALGI",
+        "letter": "T",
+        "answer": "Trompet"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 771,
+        "question": "Araç, taşıt anlamlarındaki söz",
+        "letter": "V",
+        "answer": "Vasıta"
+    },
+    {
+        "id": 1955,
+        "question": "ÇOĞU KİMSELERCE DUYULMUŞ, ÖĞRENİLMİŞ, KULLANILMIŞ VEYA BENİMSENMİŞ OLAN",
+        "letter": "Y",
+        "answer": "Yaygın"
+    },
+    {
+        "id": 1594,
+        "question": "Şiddetli bir şekilde titremek veya sallanmak",
+        "letter": "Z",
+        "answer": "Zangırdamak, zangırdama"
+    }
+]

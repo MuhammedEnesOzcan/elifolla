@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1155,
+        "question": "Gözleri görmeyen, eski dilde kör",
+        "letter": "A",
+        "answer": "Ama, Âmâ, Amâ"
+    },
+    {
+        "id": 1347,
+        "question": "Kavun, karpuz tarlası",
+        "letter": "B",
+        "answer": "Bostan, bostanlık"
+    },
+    {
+        "id": 1653,
+        "question": "Yeryüzünü fiziksel, ekonomik, beşerî, siyasal yönlerden inceleyen bilim",
+        "letter": "C",
+        "answer": "Coğrafya"
+    },
+    {
+        "id": 1540,
+        "question": "Sağlam ve dayanıklı olmayan",
+        "letter": "Ç",
+        "answer": "Çürük"
+    },
+    {
+        "id": 795,
+        "question": "Akan suyun hacmi",
+        "letter": "D",
+        "answer": "Debi, Debisi"
+    },
+    {
+        "id": 558,
+        "question": "Nağme ve melodi sözlerinin Türkçe kökenli karşılığı",
+        "letter": "E",
+        "answer": "Ezgi"
+    },
+    {
+        "id": 573,
+        "question": "Tek tip sporcu ya da öğrenci kıyafeti",
+        "letter": "F",
+        "answer": "Forma"
+    },
+    {
+        "id": 235,
+        "question": "Sözde, sanki",
+        "letter": "G",
+        "answer": "güya, gûya"
+    },
+    {
+        "id": 252,
+        "question": "Niteliği değişmemiş, aslına uygun olan",
+        "letter": "H",
+        "answer": "hakiki"
+    },
+    {
+        "id": 273,
+        "question": "Anlaşma, uyuşma, uzlaşma",
+        "letter": "İ",
+        "answer": "itilaf, ittifak"
+    },
+    {
+        "id": 278,
+        "question": "Çocuk yuvası",
+        "letter": "K",
+        "answer": "kreş"
+    },
+    {
+        "id": 1106,
+        "question": "Üzerinde su muslukları bulunan, el, yüz, bulaşık yıkamaya yarar, çukur yer veya eşya",
+        "letter": "L",
+        "answer": "Lavabo, lavobo"
+    },
+    {
+        "id": 1851,
+        "question": "RESTORANLARDA SOFRAYA ÇIKARILACAK YEMEKLERİN HEPSİ",
+        "letter": "M",
+        "answer": "Menü"
+    },
+    {
+        "id": 334,
+        "question": "Korkak, alçak, mert olmayan",
+        "letter": "N",
+        "answer": "namert"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 366,
+        "question": "Bir kusurun hoş görülmesini gerektiren sebep, mazeret",
+        "letter": "Ö",
+        "answer": "özür"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 1638,
+        "question": "Motorlu taşıtlarda motorun en az yakıtla çalışma ayarı",
+        "letter": "R",
+        "answer": "Rölanti"
+    },
+    {
+        "id": 1789,
+        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
+        "letter": "S",
+        "answer": "Sarsıntı"
+    },
+    {
+        "id": 832,
+        "question": "Sesi tanımlayan sözlerden oluşmuş “çabucak” anlamında kullanılan bir kelime",
+        "letter": "Ş",
+        "answer": "Şipşak"
+    },
+    {
+        "id": 1749,
+        "question": "Demokratik hak ve özgürlüklerin baskı altında tutulduğu devlet düzeni",
+        "letter": "T",
+        "answer": "Totaliter, Totaliter Rejim, Totalitarizm, Totalirite"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
+        "letter": "Ü",
+        "answer": "ücret"
+    },
+    {
+        "id": 39,
+        "question": "Güneş sistemindeki en sıcak gezegen",
+        "letter": "V",
+        "answer": "venüs"
+    },
+    {
+        "id": 1880,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte"
+    },
+    {
+        "id": 1868,
+        "question": "ÇİÇEKLERİ BEYAZ VEYA PEMBE RENKLİ, KIŞIN YAPRAKLARINI DÖKMEYEN BİR TÜR ZEHİRLİ AĞAÇÇIK",
+        "letter": "Z",
+        "answer": "Zakkum"
+    }
+]

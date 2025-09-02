@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1341,
+        "question": "Virüsün çoğalmasını engelleyen",
+        "letter": "A",
+        "answer": "Antiviral"
+    },
+    {
+        "id": 1770,
+        "question": "DEVLET ADINA DAVALAR AÇAN KAMU GÖREVLİLERİNİN EN ÜST DÜZEYDE OLANI",
+        "letter": "B",
+        "answer": "Başsavcı"
+    },
+    {
+        "id": 537,
+        "question": "Öfke, kızgınlık",
+        "letter": "C",
+        "answer": "Celal, celallenme, celallenmek"
+    },
+    {
+        "id": 1547,
+        "question": "Balık kılçığı",
+        "letter": "Ç",
+        "answer": "Çopra"
+    },
+    {
+        "id": 198,
+        "question": "Başkalarını çekiştirmek ve kınamak üzere yapılan konuşma, gıybet",
+        "letter": "D",
+        "answer": "dedikodu"
+    },
+    {
+        "id": 1406,
+        "question": "Toprak, kül gibi toz durumunda bulunan şeyleri hafifçe kazıp karıştırmak",
+        "letter": "E",
+        "answer": "Eşelemek, eşeleme"
+    },
+    {
+        "id": 217,
+        "question": "Çalışır durumda olan, etkin",
+        "letter": "F",
+        "answer": "faal"
+    },
+    {
+        "id": 237,
+        "question": "Her zaman gülümseyen, mütebessim",
+        "letter": "G",
+        "answer": "güleç"
+    },
+    {
+        "id": 805,
+        "question": "Atak tabiatlı küçük savaş gemisi",
+        "letter": "H",
+        "answer": "Hücumbot, Hücumbotu"
+    },
+    {
+        "id": 266,
+        "question": "Bir kararı, bir yargıyı yerine getirme, uygulama, yürütüm",
+        "letter": "İ",
+        "answer": "infaz, infaz etme, infaz etmek"
+    },
+    {
+        "id": 1885,
+        "question": "BİR DÜŞÜNCEYİ EKSİKSİZ OLARAK ANLATAN KELİME DİZİSİ, SÖZ",
+        "letter": "K",
+        "answer": "Kelam"
+    },
+    {
+        "id": 1280,
+        "question": "Bir şeyi yemek için ağza götürülen parça",
+        "letter": "L",
+        "answer": "Lokma"
+    },
+    {
+        "id": 1620,
+        "question": "Taş, toprak vb. değersiz yapı döküntüsü",
+        "letter": "M",
+        "answer": "Moloz"
+    },
+    {
+        "id": 1785,
+        "question": "Ney üfleyen sanatçı",
+        "letter": "N",
+        "answer": "Neyzen"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 763,
+        "question": "Konum ya da duruş biçimi",
+        "letter": "P",
+        "answer": "Pozisyon"
+    },
+    {
+        "id": 1034,
+        "question": "Demir, tahta yüzeylerdeki boya, pas vb.ni çıkarma, pürüzleri gidermek amacıyla kullanılan iri dişli bir törpü",
+        "letter": "R",
+        "answer": "raspa"
+    },
+    {
+        "id": 407,
+        "question": "Güldürü niteliğinde kısa oyun",
+        "letter": "S",
+        "answer": "skeç"
+    },
+    {
+        "id": 1679,
+        "question": "Ulusal ve uluslararası bir yarışmada ilk dereceyi alan, birinci olan kimse veya takım",
+        "letter": "Ş",
+        "answer": "Şampiyon"
+    },
+    {
+        "id": 720,
+        "question": "Tutum, idareli tüketme",
+        "letter": "T",
+        "answer": "Tasarruf, Tasaruf"
+    },
+    {
+        "id": 1132,
+        "question": "Şalvarı bele bağlamak veya torba, kese vb. şeylerin ağzını büzmek için bunlara geçirilen bağ",
+        "letter": "U",
+        "answer": "uçkur"
+    },
+    {
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
+        "letter": "Ü",
+        "answer": "Ütülmek"
+    },
+    {
+        "id": 875,
+        "question": "Foseptik Kuyularındaki Pis Suları Çekmeye Yarayan Makine",
+        "letter": "V",
+        "answer": "Vidanjör, vıdanjor"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

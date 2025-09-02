@@ -1,0 +1,158 @@
+[
+    {
+        "id": 743,
+        "question": "Eski çağlardan kalma yapıt",
+        "letter": "A",
+        "answer": "Antik, Antika"
+    },
+    {
+        "id": 1597,
+        "question": "Bilimsel bilgilerin veya nedenselliğin yanlış anlaşılmasından kaynaklanan inanç ya da uygulamalar",
+        "letter": "B",
+        "answer": "Batıl, batıl inanç, batıl inançlar"
+    },
+    {
+        "id": 747,
+        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
+        "letter": "C",
+        "answer": "Cesaret, Cesaretlilik"
+    },
+    {
+        "id": 790,
+        "question": "Düşman kıyılarına asker indirme işi",
+        "letter": "Ç",
+        "answer": "Çıkarma, çıkarma yapmak, çıkarma yapma"
+    },
+    {
+        "id": 1268,
+        "question": "Bütün siyasi yetkileri kendinde toplamış bulunan kimse, zorba",
+        "letter": "D",
+        "answer": "Diktatör, dikta"
+    },
+    {
+        "id": 1091,
+        "question": "Bireyler, fertler",
+        "letter": "E",
+        "answer": "Efrat"
+    },
+    {
+        "id": 222,
+        "question": "Genellikle boyuna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "fular"
+    },
+    {
+        "id": 1745,
+        "question": "Zengin maden yatakları sebebiyle bir zamanlar \"altın sahili\" ismiyle anılan Afrika ülkesi",
+        "letter": "G",
+        "answer": "Gana, Ghana"
+    },
+    {
+        "id": 804,
+        "question": "Taht sahibi olan devlet başkanı",
+        "letter": "H",
+        "answer": "Hükümdür, Hükümdar"
+    },
+    {
+        "id": 1197,
+        "question": "Gerçeğine benzetilerek yapılmış olan süs eşyası",
+        "letter": "İ",
+        "answer": "İmitasyon"
+    },
+    {
+        "id": 76,
+        "question": "Para biriktirmek için kullanılan deliği olan kutu",
+        "letter": "K",
+        "answer": "kumbara"
+    },
+    {
+        "id": 1203,
+        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
+        "letter": "L",
+        "answer": "Lens"
+    },
+    {
+        "id": 760,
+        "question": "Bir toplumun düşünce ve sanatına has niteliklerinin tümü",
+        "letter": "M",
+        "answer": "Medeniyet, Medeniyeti"
+    },
+    {
+        "id": 638,
+        "question": "Sıklığı az olan, seyrek",
+        "letter": "N",
+        "answer": "Nadir"
+    },
+    {
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
+        "letter": "O",
+        "answer": "Ozalit"
+    },
+    {
+        "id": 1116,
+        "question": "Birim kabul edilen herhangi bir şeyin alabildiği kadar ölçü",
+        "letter": "Ö",
+        "answer": "Ölçek"
+    },
+    {
+        "id": 1177,
+        "question": "Eskimiş bez veya kumaş parçası, çaput",
+        "letter": "P",
+        "answer": "Paçavra"
+    },
+    {
+        "id": 1030,
+        "question": "Bir mal veya paranın, belirli bir süre içinde emek verilmeksizin sağladığı gelir",
+        "letter": "R",
+        "answer": "Rant"
+    },
+    {
+        "id": 1940,
+        "question": "Öğretmenin diyaloğa dayalı yaptığı sınav biçimi",
+        "letter": "S",
+        "answer": "Sözlü"
+    },
+    {
+        "id": 1055,
+        "question": "Şiir söyleyen veya yazan kimse",
+        "letter": "Ş",
+        "answer": "Şair"
+    },
+    {
+        "id": 1154,
+        "question": "Diş taşı",
+        "letter": "T",
+        "answer": "tartar"
+    },
+    {
+        "id": 776,
+        "question": "Yağmur Getirmeyen Fırtına",
+        "letter": "U",
+        "answer": "Urağan, uragan"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 482,
+        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
+        "letter": "V",
+        "answer": "vezne"
+    },
+    {
+        "id": 1573,
+        "question": "Bir olayı belli bir görüşe göre açıklama, değerlendirme",
+        "letter": "Y",
+        "answer": "Yorum, yorum yapma, yorum yapmak, yorumlama, yorumlamak"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

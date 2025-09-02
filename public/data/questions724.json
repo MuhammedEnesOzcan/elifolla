@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1666,
+        "question": "Soylu, asil bir soydan gelen (kimse)",
+        "letter": "A",
+        "answer": "Asilzade"
+    },
+    {
+        "id": 746,
+        "question": "Çeşitli sebeplerle zihin gücünü yitirmek",
+        "letter": "B",
+        "answer": "Bunama, Bunamak"
+    },
+    {
+        "id": 789,
+        "question": "Bir maddenin özü, değerli taş",
+        "letter": "C",
+        "answer": "Cevher"
+    },
+    {
+        "id": 1547,
+        "question": "Balık kılçığı",
+        "letter": "Ç",
+        "answer": "Çopra"
+    },
+    {
+        "id": 1388,
+        "question": "Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva",
+        "letter": "D",
+        "answer": "Dübel"
+    },
+    {
+        "id": 1414,
+        "question": "Özellikle bilginin temellerini ve doğruluk durumunu inceleme, sınama, yargılama",
+        "letter": "E",
+        "answer": "Eleştiri, eleştirme, eleştirmek"
+    },
+    {
+        "id": 1093,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "Facia"
+    },
+    {
+        "id": 239,
+        "question": "Alabildiğine, çokça",
+        "letter": "G",
+        "answer": "gırla"
+    },
+    {
+        "id": 248,
+        "question": "Dışta kalmak üzere, dışında sayılmak üzere, müstesna",
+        "letter": "H",
+        "answer": "hariç"
+    },
+    {
+        "id": 1497,
+        "question": "Ülke adına makamlara sunulmak üzere toplanmış taktik içerikli bilgiler",
+        "letter": "İ",
+        "answer": "İstihbarat"
+    },
+    {
+        "id": 1104,
+        "question": "Çadır, baraka vb. eğreti araçlardan oluşturulan konak yeri",
+        "letter": "K",
+        "answer": "kamp"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 1715,
+        "question": "Savurgan, tutumsuz, israf yapan ",
+        "letter": "M",
+        "answer": "Müsrif"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "letter": "O",
+        "answer": "Ofris"
+    },
+    {
+        "id": 1536,
+        "question": "Tatlı sularda yaşayan, kamçı biçimindeki uzantısı ile hareket eden mekik biçimindeki bir hücreli",
+        "letter": "Ö",
+        "answer": "Öglena"
+    },
+    {
+        "id": 763,
+        "question": "Konum ya da duruş biçimi",
+        "letter": "P",
+        "answer": "Pozisyon"
+    },
+    {
+        "id": 1637,
+        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "letter": "R",
+        "answer": "Röntgen"
+    },
+    {
+        "id": 1894,
+        "question": "Fotoğrafçı İşyeri",
+        "letter": "S",
+        "answer": "Stüdyo"
+    },
+    {
+        "id": 1688,
+        "question": "Güneş doğmadan az önce beliren aydınlık",
+        "letter": "Ş",
+        "answer": "Şafak"
+    },
+    {
+        "id": 1847,
+        "question": "İRİ İRİ DOĞRANMIŞ İŞKEMBEDEN YAPILAN BİR TÜR ÇORBA",
+        "letter": "T",
+        "answer": "Tuzlama, Tuzlama çorba, Tuzlama çorbası"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 727,
+        "question": "Her yandan çokça bir araya gelmek, toplanmak, birikmek",
+        "letter": "Ü",
+        "answer": "Üşüşme, Üşüşmek"
+    },
+    {
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "letter": "V",
+        "answer": "Vizyoner, Vizyonlu"
+    },
+    {
+        "id": 733,
+        "question": "Alışamamak, yabancılık çekmek",
+        "letter": "Y",
+        "answer": "Yadırgama, Yadırgamak"
+    },
+    {
+        "id": 843,
+        "question": "Telli Bir Çalgıyı Acemice Çalarak Çıkarılan Çirkin Sesin Adı",
+        "letter": "Z",
+        "answer": "Zımbırtı, zimbirti"
+    }
+]

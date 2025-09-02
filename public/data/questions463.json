@@ -1,0 +1,158 @@
+[
+    {
+        "id": 117,
+        "question": "Sayı boncuğu",
+        "letter": "A",
+        "answer": "abaküs"
+    },
+    {
+        "id": 1597,
+        "question": "Bilimsel bilgilerin veya nedenselliğin yanlış anlaşılmasından kaynaklanan inanç ya da uygulamalar",
+        "letter": "B",
+        "answer": "Batıl, batıl inanç, batıl inançlar"
+    },
+    {
+        "id": 536,
+        "question": "Kaçma, savuşma",
+        "letter": "C",
+        "answer": "Cızlam"
+    },
+    {
+        "id": 1543,
+        "question": "Tahta kepçe, çemçe",
+        "letter": "Ç",
+        "answer": "Çömçe"
+    },
+    {
+        "id": 1737,
+        "question": "Okuma güçlüğü hastalığı",
+        "letter": "D",
+        "answer": "Disleksi"
+    },
+    {
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
+        "letter": "E",
+        "answer": "emare"
+    },
+    {
+        "id": 218,
+        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+        "letter": "F",
+        "answer": "file"
+    },
+    {
+        "id": 231,
+        "question": "Yersiz, zamansız söz veya davranış, patavatsızlık, pot",
+        "letter": "G",
+        "answer": "gaf"
+    },
+    {
+        "id": 1100,
+        "question": "Din buyruklarını yerine getirmek için hacca gitmiş Müslüman",
+        "letter": "H",
+        "answer": "hacı"
+    },
+    {
+        "id": 1197,
+        "question": "Gerçeğine benzetilerek yapılmış olan süs eşyası",
+        "letter": "İ",
+        "answer": "İmitasyon"
+    },
+    {
+        "id": 979,
+        "question": "Damızlık erkek koyun",
+        "letter": "K",
+        "answer": "Koç"
+    },
+    {
+        "id": 1280,
+        "question": "Bir şeyi yemek için ağza götürülen parça",
+        "letter": "L",
+        "answer": "Lokma"
+    },
+    {
+        "id": 319,
+        "question": "Bir olayın, bir durumun etkisinde veya karşısında bulunan",
+        "letter": "M",
+        "answer": "maruz, maruz kalan"
+    },
+    {
+        "id": 1256,
+        "question": "Müzik seslerinin yazıya dökülmüş hali",
+        "letter": "N",
+        "answer": "Nota, notalandırma, notalandırmak, notalar"
+    },
+    {
+        "id": 341,
+        "question": "Yüksek ve alçaktan mermi atabilen kısa namlulu top",
+        "letter": "O",
+        "answer": "obüs"
+    },
+    {
+        "id": 365,
+        "question": "Gösterilen çaba, itina",
+        "letter": "Ö",
+        "answer": "özen, özenme, özenmek"
+    },
+    {
+        "id": 667,
+        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
+        "letter": "P",
+        "answer": "Paraf, paraf atma, paraf atmak"
+    },
+    {
+        "id": 1906,
+        "question": "BASKETBOLDA, SAYI OLMAYAN BİR ATIŞTAN SONRA POTADAN SEKEN TOPUN HAVADAYKEN YAKALANMASI",
+        "letter": "R",
+        "answer": "Ribaund"
+    },
+    {
+        "id": 1813,
+        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
+        "letter": "S",
+        "answer": "Solaryum"
+    },
+    {
+        "id": 1312,
+        "question": "Kuşku",
+        "letter": "Ş",
+        "answer": "Şüphe"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 458,
+        "question": "Herhangi bir topluluğu oluşturan bireylerden her biri",
+        "letter": "Ü",
+        "answer": "üye"
+    },
+    {
+        "id": 1504,
+        "question": "Açık, aydın, belli",
+        "letter": "V",
+        "answer": "Vazıh"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 1590,
+        "question": "Taban, döşeme, yer",
+        "letter": "Z",
+        "answer": "Zemin"
+    }
+]

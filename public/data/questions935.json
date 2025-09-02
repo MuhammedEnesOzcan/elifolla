@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1665,
+        "question": "Bir müzik programında genellikle en son sahneye çıkan, alanında çok ünlü olan sanatçı",
+        "letter": "A",
+        "answer": "Assolist"
+    },
+    {
+        "id": 1744,
+        "question": "Geminin rüzgar almayan yanı",
+        "letter": "B",
+        "answer": "Boca"
+    },
+    {
+        "id": 1305,
+        "question": "Yurt, baba ocağı gibi çok sevilen şeylerden ayrılmış olan, uzak kalmış olan",
+        "letter": "C",
+        "answer": "Cüda"
+    },
+    {
+        "id": 1452,
+        "question": "Yenilen yaş veya kuru yemiş vb. şeyler",
+        "letter": "Ç",
+        "answer": "Çerez, çerezler"
+    },
+    {
+        "id": 1090,
+        "question": "\"Bir olay sebebiyle birden ayılmak, doğruyu anlamak\"",
+        "letter": "D",
+        "answer": "dank, dank etme, dank etmek, dank etmesi"
+    },
+    {
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "letter": "E",
+        "answer": "ezel"
+    },
+    {
+        "id": 218,
+        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+        "letter": "F",
+        "answer": "file"
+    },
+    {
+        "id": 584,
+        "question": "Seçkin, seçilmiş, seçme",
+        "letter": "G",
+        "answer": "Güzide, Gûzide"
+    },
+    {
+        "id": 1229,
+        "question": "Yakını görememe kusuru",
+        "letter": "H",
+        "answer": "Hipermetrop, hipermetropluk"
+    },
+    {
+        "id": 1712,
+        "question": "Bilgisayarların veri işleyen ve yazılım komutlarını gerçekleştiren devre elemanı",
+        "letter": "İ",
+        "answer": "İşlemci"
+    },
+    {
+        "id": 1282,
+        "question": "İş bakımından üstün tecrübeye sahip olan",
+        "letter": "K",
+        "answer": "Kıdemli, kıdem sahibi, kalifiye, kalifiye eleman"
+    },
+    {
+        "id": 1705,
+        "question": "Sıvıları ölçmede kullanılan, bir desimetreküp hacminde ölçü birimi ",
+        "letter": "L",
+        "answer": "Litre"
+    },
+    {
+        "id": 1193,
+        "question": "Genellikle çocukların kullandığı üflemeli ve klavyeli çalgı",
+        "letter": "M",
+        "answer": "Melodika"
+    },
+    {
+        "id": 330,
+        "question": "Kullanılması hemen mümkün olan para, likit",
+        "letter": "N",
+        "answer": "nakit, nakit para"
+    },
+    {
+        "id": 652,
+        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
+        "letter": "O",
+        "answer": "Odeon"
+    },
+    {
+        "id": 932,
+        "question": "Eleman, unsur",
+        "letter": "Ö",
+        "answer": "öge, öğe"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 401,
+        "question": "Su düzeyindeki sıra kayalar",
+        "letter": "R",
+        "answer": "resif, resifler"
+    },
+    {
+        "id": 1042,
+        "question": "Sen zamirinin yönelme durumu",
+        "letter": "S",
+        "answer": "sana"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 711,
+        "question": "Verilen onayı gösteren belge",
+        "letter": "T",
+        "answer": "Tasdikname"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 484,
+        "question": "Eski dilde \"Anne\"",
+        "letter": "V",
+        "answer": "Valide"
+    },
+    {
+        "id": 1584,
+        "question": "Bir işten elde edilen iyi sonuç, fayda",
+        "letter": "Y",
+        "answer": "Yarar"
+    },
+    {
+        "id": 502,
+        "question": "Aldatıcı şey, tuzak, hile",
+        "letter": "Z",
+        "answer": "zoka"
+    }
+]

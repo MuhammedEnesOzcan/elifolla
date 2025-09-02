@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1330,
+        "question": "Kılçıksız, lezzetli bir tür taze fasulye",
+        "letter": "A",
+        "answer": "Ayşekadın"
+    },
+    {
+        "id": 1770,
+        "question": "DEVLET ADINA DAVALAR AÇAN KAMU GÖREVLİLERİNİN EN ÜST DÜZEYDE OLANI",
+        "letter": "B",
+        "answer": "Başsavcı"
+    },
+    {
+        "id": 158,
+        "question": "Çok yakın, sıkı fıkı, pek içten (arkadaş)",
+        "letter": "C",
+        "answer": "can ciğer"
+    },
+    {
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
+        "letter": "Ç",
+        "answer": "Çapak"
+    },
+    {
+        "id": 554,
+        "question": "Bir işi en iyi yapan, işin ustası",
+        "letter": "D",
+        "answer": "Duayen"
+    },
+    {
+        "id": 1408,
+        "question": "hastalığın nedeni, kökeni. Hastalık nedenleri ile uğraşan bilim dalı",
+        "letter": "E",
+        "answer": "Etiyoloji"
+    },
+    {
+        "id": 218,
+        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+        "letter": "F",
+        "answer": "file"
+    },
+    {
+        "id": 801,
+        "question": "Kolları açarak, göğsü ileriye omuzları geriye doğru esnetmek",
+        "letter": "G",
+        "answer": "Gerinmek, Gerinme, Gerilmek, Gerilme"
+    },
+    {
+        "id": 593,
+        "question": "Uçan balonların içinde bulunan gaz",
+        "letter": "H",
+        "answer": "Helyum, Helyum gazı"
+    },
+    {
+        "id": 1204,
+        "question": "Kendi isteğiyle çalıştığı işi bırakmak",
+        "letter": "İ",
+        "answer": "İstifa, istifa etme, istifa etmek"
+    },
+    {
+        "id": 1834,
+        "question": "İNSANLARIN RAHATÇA OTURUP DİNLENMESİ İÇİN TASARLANMIŞ OTURMA EŞYASI",
+        "letter": "K",
+        "answer": "Koltuk"
+    },
+    {
+        "id": 622,
+        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
+        "letter": "L",
+        "answer": "Liste"
+    },
+    {
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "letter": "M",
+        "answer": "Mimar"
+    },
+    {
+        "id": 643,
+        "question": "Örnek ya da göstermelik ürün",
+        "letter": "N",
+        "answer": "Numune"
+    },
+    {
+        "id": 1760,
+        "question": "Beklenilen zaman gelinceye kadar zaman geçirmek",
+        "letter": "O",
+        "answer": "Oyalanma, Oyalanmak"
+    },
+    {
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
+        "letter": "Ö",
+        "answer": "Öbür, Öbürü"
+    },
+    {
+        "id": 384,
+        "question": "Çeşitli sporlarda kullanılan ölçüsü ve değeri değişken birim",
+        "letter": "P",
+        "answer": "puan"
+    },
+    {
+        "id": 33,
+        "question": "Yüksek basınçtan, alçak basınca doğru olan hava akımları",
+        "letter": "R",
+        "answer": "Rüzgar"
+    },
+    {
+        "id": 827,
+        "question": "Futbolda hem orta yuvarlak hem başlama vuruşu anlamlarına gelen söz",
+        "letter": "S",
+        "answer": "Santra"
+    },
+    {
+        "id": 1912,
+        "question": "ÜLKE ÇAPINDA YAYGINLAŞTIRILMIŞ ULAŞIM VE İLETİŞİM ÖRGÜSÜ, AĞ",
+        "letter": "Ş",
+        "answer": "Şebeke, Şebeke ağı"
+    },
+    {
+        "id": 1782,
+        "question": "İşe girişmek veya kalkışmak",
+        "letter": "T",
+        "answer": "Teşebbüs, Teşebbüs etme, Teşebbüs etmek"
+    },
+    {
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "letter": "U",
+        "answer": "uyruk"
+    },
+    {
+        "id": 876,
+        "question": "Türlü Duyguları Anlatan Veya Bir Doğa Sesini Yansıtan Kelime",
+        "letter": "Ü",
+        "answer": "Ünlem"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 716,
+        "question": "Gidilen yerde geceyi geçirme",
+        "letter": "Y",
+        "answer": "Yatı, Yatıya kalma, Yatıya kalmak"
+    },
+    {
+        "id": 736,
+        "question": "\"Kara Kekik\" olarak bilinen yabani ot çeşidi, baharat",
+        "letter": "Z",
+        "answer": "Zahter, zahter otu"
+    }
+]

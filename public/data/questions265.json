@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1971,
+        "question": "BİR KİŞİYİ GÖREVİNDEN ALMAK, UZAKLAŞTIRMAK",
+        "letter": "A",
+        "answer": "AZLETME, AZLETMEK"
+    },
+    {
+        "id": 1837,
+        "question": "ARAPÇA KÖKENLİ \"MATBAA\" SÖZCÜĞÜNÜN TÜRKÇE EŞ ANLAMLISI",
+        "letter": "B",
+        "answer": "Basımevi"
+    },
+    {
+        "id": 788,
+        "question": "Az, azıcık, pek az",
+        "letter": "C",
+        "answer": "Cüzi, cüzzi, cüzi miktar"
+    },
+    {
+        "id": 169,
+        "question": "Çam vb. reçineli ağaçların yağlı ve çabuk yanmaya elverişli bölümü",
+        "letter": "Ç",
+        "answer": "çıra"
+    },
+    {
+        "id": 184,
+        "question": "Zihinde beliren olayların, düşüncelerin bütünü, rüya",
+        "letter": "D",
+        "answer": "düş"
+    },
+    {
+        "id": 215,
+        "question": "Gündüz ile gecenin eşit olma durumu",
+        "letter": "E",
+        "answer": "ekinoks"
+    },
+    {
+        "id": 1189,
+        "question": "Yenen, fetheden kimse",
+        "letter": "F",
+        "answer": "Fatih"
+    },
+    {
+        "id": 237,
+        "question": "Her zaman gülümseyen, mütebessim",
+        "letter": "G",
+        "answer": "güleç"
+    },
+    {
+        "id": 1444,
+        "question": "Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü",
+        "letter": "H",
+        "answer": "Hıfzıssıhha"
+    },
+    {
+        "id": 1962,
+        "question": "BİR KONU HAKKINDA KARŞI TARAFTAN ALINAN NEZAKET GÖSTERGESİ İZİN, DESTUR",
+        "letter": "İ",
+        "answer": "İCAZET"
+    },
+    {
+        "id": 282,
+        "question": "Başlangıcı olmayan, eski, ezeli",
+        "letter": "K",
+        "answer": "kadim"
+    },
+    {
+        "id": 620,
+        "question": "Fazlalık, gereksiz, yersiz",
+        "letter": "L",
+        "answer": "Lüzumsuz, Luzumsuz"
+    },
+    {
+        "id": 310,
+        "question": "Bir emek karşılığında aylık, haftalık gibi verilen ödenek",
+        "letter": "M",
+        "answer": "maaş"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 660,
+        "question": "Bir kuruluşa bağlı alt bölümlerin bütünü, teşkilat",
+        "letter": "Ö",
+        "answer": "Örgüt"
+    },
+    {
+        "id": 1734,
+        "question": "Engebeli yerlerden gelip geçenlerin ayak izlerinden oluşan, tekerlekli araç işlemeyen dar yol",
+        "letter": "P",
+        "answer": "Patika, patika yol"
+    },
+    {
+        "id": 1635,
+        "question": "Evin duvarlarının suyu çekmesi ve ısı farkından dolayı su buharı oluşması",
+        "letter": "R",
+        "answer": "Rutubet"
+    },
+    {
+        "id": 1291,
+        "question": "Görev, yetki vb.ni kötüye kullanma",
+        "letter": "S",
+        "answer": "Suistimal, suistimal etme, suistimal etmek"
+    },
+    {
+        "id": 428,
+        "question": "Gürültü patırtı",
+        "letter": "Ş",
+        "answer": "şamata"
+    },
+    {
+        "id": 1755,
+        "question": "Kariyerinde seviye atlamak",
+        "letter": "T",
+        "answer": "Terfi, Terfi etme, Terfi etmek"
+    },
+    {
+        "id": 1561,
+        "question": "Merkezi sinir sistemine etki ederek farkındalığı, dikkati ve uyanıklığı artıran ilaçlar ya da maddeler",
+        "letter": "U",
+        "answer": "Uyarıcı, uyarıcı ilaçlar, uyarıcı maddeler"
+    },
+    {
+        "id": 849,
+        "question": "Bilim yada sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "Üstad, üstat"
+    },
+    {
+        "id": 887,
+        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "letter": "V",
+        "answer": "Veba"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 737,
+        "question": "Hoşluk, güzellik, incelik, zarif olma",
+        "letter": "Z",
+        "answer": "Zarafet, Zerafet"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1662,
+        "question": "Şaşkınlıktan sersemleşmek",
+        "letter": "A",
+        "answer": "Afallamak, afallama"
+    },
+    {
+        "id": 526,
+        "question": "Geçidi kapamak için her türlü araçtan yararlanılarak yapılan engel",
+        "letter": "B",
+        "answer": "Barikat"
+    },
+    {
+        "id": 962,
+        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "letter": "C",
+        "answer": "Cacık"
+    },
+    {
+        "id": 168,
+        "question": "Yasa dışı işler yapmak veya etrafındakileri korkutmak amacıyla bir araya gelmiş topluluk",
+        "letter": "Ç",
+        "answer": "çete"
+    },
+    {
+        "id": 1967,
+        "question": "BOZUK VE KUSURLU GİYSİLER VEYA EŞYALARIN GENEL ADI",
+        "letter": "D",
+        "answer": "DEFOLU"
+    },
+    {
+        "id": 200,
+        "question": "Boyut, ölçü",
+        "letter": "E",
+        "answer": "ebat"
+    },
+    {
+        "id": 1780,
+        "question": "Sahneyi destekleyecek rol alan dekoratif oyuncu",
+        "letter": "F",
+        "answer": "Figüran, Figüran Oyuncu"
+    },
+    {
+        "id": 231,
+        "question": "Yersiz, zamansız söz veya davranış, patavatsızlık, pot",
+        "letter": "G",
+        "answer": "gaf"
+    },
+    {
+        "id": 1866,
+        "question": "ZEVKİ İÇİN PARA HARCAMAKTAN KAÇINMAYAN KİMSE",
+        "letter": "H",
+        "answer": "Hovarda"
+    },
+    {
+        "id": 274,
+        "question": "Toplum hayatından kaçıp tek başına yaşama",
+        "letter": "İ",
+        "answer": "inziva, inzivaya çekilme, inzivaya çekilmek"
+    },
+    {
+        "id": 286,
+        "question": "Var olan ancak bilinmeyen bir şeyi bulan, ortaya çıkaran kimse, bulucu",
+        "letter": "K",
+        "answer": "kaşif, kâşif"
+    },
+    {
+        "id": 306,
+        "question": "Deniz veya ırmaklarda birdenbire derinleşen yer",
+        "letter": "L",
+        "answer": "longoz, longuz"
+    },
+    {
+        "id": 313,
+        "question": "Ara verme, duraklama",
+        "letter": "M",
+        "answer": "mola"
+    },
+    {
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "letter": "N",
+        "answer": "Nostalji, nostaliji"
+    },
+    {
+        "id": 30,
+        "question": "Düz ve geniş arazi",
+        "letter": "O",
+        "answer": "Ova"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 822,
+        "question": "Haftanın belli günleri seyyar satıcıların sergi açtıkları sokak veya alan",
+        "letter": "P",
+        "answer": "Pazar, Pazaryeri"
+    },
+    {
+        "id": 1025,
+        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
+        "letter": "R",
+        "answer": "run"
+    },
+    {
+        "id": 1779,
+        "question": "NESNE ÖZELLİKLERİ BULUNMAYAN, DUYULARLA ALGILANMAYAN",
+        "letter": "S",
+        "answer": "Soyut"
+    },
+    {
+        "id": 1462,
+        "question": "Etkisi çok olan, zorlu, aşırı",
+        "letter": "Ş",
+        "answer": "Şiddetli"
+    },
+    {
+        "id": 1907,
+        "question": "YER ÇEKİMİ ETKİSİNDEN YARARLANAN ÖLÇÜM ALETİ",
+        "letter": "T",
+        "answer": "Terazi"
+    },
+    {
+        "id": 1558,
+        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "letter": "U",
+        "answer": "Ulus"
+    },
+    {
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
+        "letter": "Ü",
+        "answer": "üvey"
+    },
+    {
+        "id": 715,
+        "question": "Genellikle sıvı şeyleri koymakta kullanılan, silindir biçiminde ve üstü kapalı, metal kap",
+        "letter": "V",
+        "answer": "Varil"
+    },
+    {
+        "id": 1577,
+        "question": "Hacmine oranla ağırlığı çok olan",
+        "letter": "Y",
+        "answer": "Yoğun"
+    },
+    {
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
+        "letter": "Z",
+        "answer": "Züğürt, züürt, zürt, zügürt"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1667,
+        "question": "Renksiz, sarımsak kokulu, güçlü ve beyaz bir ışık vererek yanan hidrokarbonlu bir gaz",
+        "letter": "A",
+        "answer": "Asetilen"
+    },
+    {
+        "id": 1344,
+        "question": "İhtiyarlık yüzünden sağlıklı düşünememe durumuna gelme",
+        "letter": "B",
+        "answer": "Bunama, bunamak, bunaklık, bunak olma, bunak olmak"
+    },
+    {
+        "id": 1530,
+        "question": "Adam öldürme",
+        "letter": "C",
+        "answer": "Cinayet"
+    },
+    {
+        "id": 177,
+        "question": "Çiçek, dal ve yapraklarla yapılmış halka",
+        "letter": "Ç",
+        "answer": "çelenk"
+    },
+    {
+        "id": 1399,
+        "question": "Büyük takımlar arasında oynanan maç",
+        "letter": "D",
+        "answer": "Derbi, derbi maçı"
+    },
+    {
+        "id": 1405,
+        "question": "Yalnızca ahlak üzerine kurulu yönetim biçimi",
+        "letter": "E",
+        "answer": "Etokrasi"
+    },
+    {
+        "id": 570,
+        "question": "Olağandan bol, aşırı çoklukta bulunma durumu",
+        "letter": "F",
+        "answer": "Furya, fazla, fazlaca, fazlalık"
+    },
+    {
+        "id": 1493,
+        "question": "Bazı saatlerde belirli zamanları bildiren zil düzeneği",
+        "letter": "G",
+        "answer": "Gonk, gong"
+    },
+    {
+        "id": 1216,
+        "question": "Arma bilimi ve mühür biliminin diğer adı",
+        "letter": "H",
+        "answer": "Heraldik"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 1255,
+        "question": "Başparmak piyanosu da denen müzik aleti",
+        "letter": "K",
+        "answer": "Kalimba"
+    },
+    {
+        "id": 622,
+        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
+        "letter": "L",
+        "answer": "Liste"
+    },
+    {
+        "id": 1274,
+        "question": "Uzay araçlarında özel bir göreve sahip olan ve ana gövdeden ayrılıp gerekli durumlarda birleşebilen kısım",
+        "letter": "M",
+        "answer": "Modül"
+    },
+    {
+        "id": 1521,
+        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "letter": "N",
+        "answer": "Nova"
+    },
+    {
+        "id": 347,
+        "question": "Yiyecek, içecek gibi şeylerin alınabildiği mekanik veya elektrikli araç",
+        "letter": "O",
+        "answer": "otomat"
+    },
+    {
+        "id": 357,
+        "question": "Kızgınlık, hışım, hiddet, gazap",
+        "letter": "Ö",
+        "answer": "öfke"
+    },
+    {
+        "id": 65,
+        "question": "Yalan söylediğinde burnu uzayan roman karakteri",
+        "letter": "P",
+        "answer": "pinokyo"
+    },
+    {
+        "id": 1642,
+        "question": "Tek bir sanatçının tek bir çalgı ile verdiği konser",
+        "letter": "R",
+        "answer": "Resital"
+    },
+    {
+        "id": 687,
+        "question": "Tarımsal yapay iklim alanı",
+        "letter": "S",
+        "answer": "Sera"
+    },
+    {
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
+        "letter": "Ş",
+        "answer": "şakrak"
+    },
+    {
+        "id": 836,
+        "question": "Bulunduğu kaba sığmayıp kenarları aşmak",
+        "letter": "T",
+        "answer": "Taşma, Taşmak, Taşması"
+    },
+    {
+        "id": 445,
+        "question": "Boyutları normalden küçük",
+        "letter": "U",
+        "answer": "ufak"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 883,
+        "question": "Evleri kuşatan üstü kapalı ve camlı teras",
+        "letter": "V",
+        "answer": "Veranda"
+    },
+    {
+        "id": 489,
+        "question": "Kişiye isnat edilen haksız suçlama",
+        "letter": "Y",
+        "answer": "yafta, yaftalama, yaftalamak"
+    },
+    {
+        "id": 737,
+        "question": "Hoşluk, güzellik, incelik, zarif olma",
+        "letter": "Z",
+        "answer": "Zarafet, Zerafet"
+    }
+]

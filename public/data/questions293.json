@@ -1,0 +1,158 @@
+[
+    {
+        "id": 118,
+        "question": "Genellikle üzeri siperli masa lambası veya ayaklı lamba",
+        "letter": "A",
+        "answer": "abajur"
+    },
+    {
+        "id": 1556,
+        "question": "Bir yapının genellikle dışarıya doğru çıkmış, çevresi duvar veya parmaklıkla çevrili bölümü, ayazlık",
+        "letter": "B",
+        "answer": "Balkon"
+    },
+    {
+        "id": 1357,
+        "question": "Elindeki parayı harcamaya kıyamayan",
+        "letter": "C",
+        "answer": "Cimri, cimrilik"
+    },
+    {
+        "id": 542,
+        "question": "Ucu yassı ve eğri, büyük iğne",
+        "letter": "Ç",
+        "answer": "Çuvaldız"
+    },
+    {
+        "id": 194,
+        "question": "Açık sözlü",
+        "letter": "D",
+        "answer": "dobra"
+    },
+    {
+        "id": 566,
+        "question": "Bilirkişi tarafından yapılan inceleme",
+        "letter": "E",
+        "answer": "Ekspertiz, Ekspertiz raporu"
+    },
+    {
+        "id": 1489,
+        "question": "Etken, etmen",
+        "letter": "F",
+        "answer": "Faktör"
+    },
+    {
+        "id": 971,
+        "question": "Sonbahar",
+        "letter": "G",
+        "answer": "Güz"
+    },
+    {
+        "id": 246,
+        "question": "Kıskançlık, çekememezlik",
+        "letter": "H",
+        "answer": "haset, hasetlik"
+    },
+    {
+        "id": 1197,
+        "question": "Gerçeğine benzetilerek yapılmış olan süs eşyası",
+        "letter": "İ",
+        "answer": "İmitasyon"
+    },
+    {
+        "id": 1857,
+        "question": "GEMİLERDE BULUNAN ODALARA VERİLEN İSİM",
+        "letter": "K",
+        "answer": "Kamara"
+    },
+    {
+        "id": 621,
+        "question": "Kelime, sözlük",
+        "letter": "L",
+        "answer": "Lügat, Lugat, Lûgat"
+    },
+    {
+        "id": 316,
+        "question": "Büyük, geniş, mikro karşıtı",
+        "letter": "M",
+        "answer": "makro"
+    },
+    {
+        "id": 641,
+        "question": "Sinir sisteminin uyarıyı iletmekle görevli anatomik ve işlevsel birimi",
+        "letter": "N",
+        "answer": "Nöron, nöronlar"
+    },
+    {
+        "id": 931,
+        "question": "Kışı geçirmek için yapılan çoban kulübesi",
+        "letter": "O",
+        "answer": "Odak"
+    },
+    {
+        "id": 367,
+        "question": "Bir maddenin herhangi bir yolla elde edilmiş olan özü",
+        "letter": "Ö",
+        "answer": "özüt, özütü"
+    },
+    {
+        "id": 1181,
+        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "letter": "P",
+        "answer": "Peron"
+    },
+    {
+        "id": 396,
+        "question": "Yönetme, düzenleme biçimi, düzen",
+        "letter": "R",
+        "answer": "rejim"
+    },
+    {
+        "id": 405,
+        "question": "Gidilen yol üzerinde olmayan, sapılarak varılan",
+        "letter": "S",
+        "answer": "sapa"
+    },
+    {
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
+        "letter": "Ş",
+        "answer": "şakrak"
+    },
+    {
+        "id": 706,
+        "question": "Bağırıp çağırarak, alkışlayıp tempo tutarak yapılan destek",
+        "letter": "T",
+        "answer": "Tezahürat, Tezzahürat"
+    },
+    {
+        "id": 1068,
+        "question": "Çok uzun",
+        "letter": "U",
+        "answer": "upuzun"
+    },
+    {
+        "id": 874,
+        "question": "İnsanların ihtiyaçlarını karşılamak için yeni ürünler ortaya koyması",
+        "letter": "Ü",
+        "answer": "Üretim, üretme, üretmek"
+    },
+    {
+        "id": 730,
+        "question": "Kişinin hiçbir gerçekliğe ve temele dayanmayan duygulara kapılması",
+        "letter": "V",
+        "answer": "Vesvese"
+    },
+    {
+        "id": 1239,
+        "question": "Bir parçadan oluşan, tek parça, bütün",
+        "letter": "Y",
+        "answer": "Yekpare"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

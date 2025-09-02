@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1668,
+        "question": "Eş zamanlı olmayan, başlama ve bitme anları başka olan (olaylar)",
+        "letter": "A",
+        "answer": "Asenkron"
+    },
+    {
+        "id": 1352,
+        "question": "Ağırlıkları tartmaya yarayan alet, kantar",
+        "letter": "B",
+        "answer": "Baskül"
+    },
+    {
+        "id": 1923,
+        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "letter": "C",
+        "answer": "Cıvık"
+    },
+    {
+        "id": 790,
+        "question": "Düşman kıyılarına asker indirme işi",
+        "letter": "Ç",
+        "answer": "Çıkarma, çıkarma yapmak, çıkarma yapma"
+    },
+    {
+        "id": 552,
+        "question": "Her şeyi zamanında yapmaya özen gösteren",
+        "letter": "D",
+        "answer": "Dakik"
+    },
+    {
+        "id": 206,
+        "question": "Gerçekleştirilmesi zamana bağlı istek",
+        "letter": "E",
+        "answer": "emel"
+    },
+    {
+        "id": 1226,
+        "question": "Herhangi bir konuda verilen kararın kısa bir özet haline getirilmesi, soruşturma evrakı",
+        "letter": "F",
+        "answer": "Fezleke"
+    },
+    {
+        "id": 243,
+        "question": "Sonradan verilecek bir ceza ile korkutma, yıldırma, tehdit",
+        "letter": "G",
+        "answer": "gözdağı"
+    },
+    {
+        "id": 1794,
+        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "letter": "H",
+        "answer": "Hasılat"
+    },
+    {
+        "id": 1606,
+        "question": "Birine güler yüz gösterme, hatırını sorma, tatlı davranma",
+        "letter": "İ",
+        "answer": "İltifat, iltifat etme, iltifat etmek"
+    },
+    {
+        "id": 1265,
+        "question": "Bir şeyin oyuk durumunda bulunan iç bölümü",
+        "letter": "K",
+        "answer": "Kovuk, kovuğu"
+    },
+    {
+        "id": 1704,
+        "question": "Meyve ve bazı bitkiler ile alkol, esans karışımından yapılan şekerli içki",
+        "letter": "L",
+        "answer": "Likör"
+    },
+    {
+        "id": 628,
+        "question": "Ruh hali, mizaç, hal, anlık hal durumu",
+        "letter": "M",
+        "answer": "Mod, moral"
+    },
+    {
+        "id": 1785,
+        "question": "Ney üfleyen sanatçı",
+        "letter": "N",
+        "answer": "Neyzen"
+    },
+    {
+        "id": 1889,
+        "question": "KAVİMLER GÖÇÜYLE BAŞLAYAN TARİHİ DÖNEM",
+        "letter": "O",
+        "answer": "Ortaçağ"
+    },
+    {
+        "id": 365,
+        "question": "Gösterilen çaba, itina",
+        "letter": "Ö",
+        "answer": "özen, özenme, özenmek"
+    },
+    {
+        "id": 1018,
+        "question": "Pantolon, don, şalvar vb. giyeceklerde bacakların çıktığı aşağı bölüm",
+        "letter": "P",
+        "answer": "Paça"
+    },
+    {
+        "id": 1872,
+        "question": "BİR DAİREDE YARIÇAP UZUNLUĞUNDAKİ YAY PARÇASINI GÖREN MERKEZ AÇIYA, EŞİT AÇI ÖLÇME BİRİMİ",
+        "letter": "R",
+        "answer": "Radyan"
+    },
+    {
+        "id": 1163,
+        "question": "Söylenmemesi gereken, giz",
+        "letter": "S",
+        "answer": "Sır"
+    },
+    {
+        "id": 697,
+        "question": "Bir diğer adı \"Enjektör\" olan nesne",
+        "letter": "Ş",
+        "answer": "Şırınga"
+    },
+    {
+        "id": 64,
+        "question": "Hava sıcaklığını ölçmeye yarayan alet",
+        "letter": "T",
+        "answer": "termometre"
+    },
+    {
+        "id": 1557,
+        "question": "Erkek hizmetçi",
+        "letter": "U",
+        "answer": "Uşak"
+    },
+    {
+        "id": 38,
+        "question": "Fakülteler topluluğu",
+        "letter": "Ü",
+        "answer": "ÜNİVERSİTE"
+    },
+    {
+        "id": 476,
+        "question": "Karşı çıkma, engelleme, reddetme",
+        "letter": "V",
+        "answer": "veto, veto etme, veto etmek"
+    },
+    {
+        "id": 904,
+        "question": "Yeni doğmuş hayvan",
+        "letter": "Y",
+        "answer": "Yavru"
+    },
+    {
+        "id": 942,
+        "question": "Zirkonyum'un simgesi",
+        "letter": "Z",
+        "answer": "zr"
+    }
+]

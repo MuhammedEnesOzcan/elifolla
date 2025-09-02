@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1695,
+        "question": "Otobüs, tren gibi ulaşım araçlarında para yerine geçen sürekliliği olan bilet veya kart",
+        "letter": "A",
+        "answer": "Abonman"
+    },
+    {
+        "id": 131,
+        "question": "Başıboş, serseri kimse",
+        "letter": "B",
+        "answer": "berduş"
+    },
+    {
+        "id": 159,
+        "question": "Kazanmak, cebine indirmek, çalmak",
+        "letter": "C",
+        "answer": "ceplemek, cukkalamak"
+    },
+    {
+        "id": 539,
+        "question": "Adı çözen kişilerce konulmuş olan iplik demeti",
+        "letter": "Ç",
+        "answer": "Çile"
+    },
+    {
+        "id": 1187,
+        "question": "Bir yeri daha önce görmüş olma veya bir olayı daha önce yaşamış olma hissi",
+        "letter": "D",
+        "answer": "Dejavu"
+    },
+    {
+        "id": 68,
+        "question": "Malta, papaz, mürdüm gibi çeşitleri olan meyve",
+        "letter": "E",
+        "answer": "erik"
+    },
+    {
+        "id": 222,
+        "question": "Genellikle boyuna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "fular"
+    },
+    {
+        "id": 1427,
+        "question": "Amaç, hedef",
+        "letter": "G",
+        "answer": "Gaye"
+    },
+    {
+        "id": 1440,
+        "question": "Dildeki bir sesi gösteren ve alfabeyi oluşturan işaretlerden her biri",
+        "letter": "H",
+        "answer": "Harf"
+    },
+    {
+        "id": 602,
+        "question": "Bir şeyin olabilmesi durumu, olabilirlik, olasılık",
+        "letter": "İ",
+        "answer": "İhtimal"
+    },
+    {
+        "id": 1914,
+        "question": "TERSANELERDE ÜZERİNDE GEMİ YAPILAN, ONARILAN VEYA GEMİYİ SUYA İNDİRİP SUDAN ÇIKARMAYA YARAYAN IZGARA",
+        "letter": "K",
+        "answer": "Kızak"
+    },
+    {
+        "id": 1528,
+        "question": "Üzeri toprak veya otla örtülmüş saman yığını",
+        "letter": "L",
+        "answer": "Loda"
+    },
+    {
+        "id": 625,
+        "question": "Ayrı bir yeri olan, üstün, seçkin",
+        "letter": "M",
+        "answer": "Mümtaz"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 909,
+        "question": "Taş ya da maden çıkarılan yer",
+        "letter": "O",
+        "answer": "Ocak"
+    },
+    {
+        "id": 658,
+        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
+        "letter": "Ö",
+        "answer": "Özenti, Özentilik, Özenme, Özenmek"
+    },
+    {
+        "id": 1942,
+        "question": "Hipodromda yarış atlarının yedekte gezdirildikleri yer",
+        "letter": "P",
+        "answer": "Padok"
+    },
+    {
+        "id": 394,
+        "question": "Bir para biriminin veya malın satış ve sürüm değeri",
+        "letter": "R",
+        "answer": "rayiç, rayiç bedel, rayiç bedeli"
+    },
+    {
+        "id": 1940,
+        "question": "Öğretmenin diyaloğa dayalı yaptığı sınav biçimi",
+        "letter": "S",
+        "answer": "Sözlü"
+    },
+    {
+        "id": 1912,
+        "question": "ÜLKE ÇAPINDA YAYGINLAŞTIRILMIŞ ULAŞIM VE İLETİŞİM ÖRGÜSÜ, AĞ",
+        "letter": "Ş",
+        "answer": "Şebeke, Şebeke ağı"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 1557,
+        "question": "Erkek hizmetçi",
+        "letter": "U",
+        "answer": "Uşak"
+    },
+    {
+        "id": 1471,
+        "question": "Havlamak",
+        "letter": "Ü",
+        "answer": "Ürümek"
+    },
+    {
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "letter": "V",
+        "answer": "Vize, vize belgesi"
+    },
+    {
+        "id": 906,
+        "question": "Kısa kollu ceket, mont",
+        "letter": "Y",
+        "answer": "Yelek"
+    },
+    {
+        "id": 1593,
+        "question": "Ard arda birden fazla aracın kazaya karışması durumu",
+        "letter": "Z",
+        "answer": "Zincirleme, zincirleme kaza"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1331,
+        "question": "Başkalarından ayrı ve üstün tutulma durumu, imtiyaz",
+        "letter": "A",
+        "answer": "Ayrıcalık, ayrıcalıklı olma, ayrıcalıklı olmak"
+    },
+    {
+        "id": 959,
+        "question": "Egemenliğini tanıma",
+        "letter": "B",
+        "answer": "biat, biat etme, biat etmek"
+    },
+    {
+        "id": 160,
+        "question": "Üzerinde savaşın sürdüğü bölge",
+        "letter": "C",
+        "answer": "cephe, cephe bölgesi"
+    },
+    {
+        "id": 171,
+        "question": "Bir sonuca varmak, ortadaki engelleri kaldırmak için tutulması gereken yol, çıkar yol, çözüm yolu",
+        "letter": "Ç",
+        "answer": "çare"
+    },
+    {
+        "id": 1395,
+        "question": "Basım için harfleri, kelimeleri, satırları, sayfalar oluşturacak biçimde düzenleme",
+        "letter": "D",
+        "answer": "Dizgi"
+    },
+    {
+        "id": 215,
+        "question": "Gündüz ile gecenin eşit olma durumu",
+        "letter": "E",
+        "answer": "ekinoks"
+    },
+    {
+        "id": 1189,
+        "question": "Yenen, fetheden kimse",
+        "letter": "F",
+        "answer": "Fatih"
+    },
+    {
+        "id": 94,
+        "question": "Günlük çıkarılan haber kaynağı, yazılı yayın",
+        "letter": "G",
+        "answer": "gazete"
+    },
+    {
+        "id": 1853,
+        "question": "METAL, PLASTİK VEYA AHŞAPTAN YAPILMIŞ ÇEŞİTLİ KULLANIM ALANLARI OLAN ÇEMBER",
+        "letter": "H",
+        "answer": "Halka"
+    },
+    {
+        "id": 1101,
+        "question": "Bir düşünceyi anlatan bir veya birkaç cümlelik söz",
+        "letter": "İ",
+        "answer": "İbare"
+    },
+    {
+        "id": 284,
+        "question": "Davranış, düşünce, duygu bakımından ince, nazik olan (kimse)",
+        "letter": "K",
+        "answer": "kibar"
+    },
+    {
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
+        "letter": "L",
+        "answer": "Lift"
+    },
+    {
+        "id": 1622,
+        "question": "Hayatın güldürücü yönünü ortaya çıkaran sanat türü",
+        "letter": "M",
+        "answer": "Mizah"
+    },
+    {
+        "id": 638,
+        "question": "Sıklığı az olan, seyrek",
+        "letter": "N",
+        "answer": "Nadir"
+    },
+    {
+        "id": 646,
+        "question": "Kağıt katlama sanatı",
+        "letter": "O",
+        "answer": "Origami"
+    },
+    {
+        "id": 1009,
+        "question": "Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey, mavera",
+        "letter": "Ö",
+        "answer": "Öte"
+    },
+    {
+        "id": 384,
+        "question": "Çeşitli sporlarda kullanılan ölçüsü ve değeri değişken birim",
+        "letter": "P",
+        "answer": "puan"
+    },
+    {
+        "id": 394,
+        "question": "Bir para biriminin veya malın satış ve sürüm değeri",
+        "letter": "R",
+        "answer": "rayiç, rayiç bedel, rayiç bedeli"
+    },
+    {
+        "id": 1934,
+        "question": "KENDİ GERÇEKLİĞİNİ YARATAN SANAT AKIMI, GERÇEKÜSTÜCÜLÜK",
+        "letter": "S",
+        "answer": "Sürrealizm"
+    },
+    {
+        "id": 832,
+        "question": "Sesi tanımlayan sözlerden oluşmuş “çabucak” anlamında kullanılan bir kelime",
+        "letter": "Ş",
+        "answer": "Şipşak"
+    },
+    {
+        "id": 1927,
+        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
+        "letter": "T",
+        "answer": "Takıntı, Takıntılık, Takma, Takmak"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 465,
+        "question": "Bilim veya sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "üstat, üstad"
+    },
+    {
+        "id": 480,
+        "question": "Yapılması gerekli olan",
+        "letter": "V",
+        "answer": "vacip"
+    },
+    {
+        "id": 901,
+        "question": "Özel gezinti gemisi",
+        "letter": "Y",
+        "answer": "Yat"
+    },
+    {
+        "id": 1836,
+        "question": "HAYVANLARI İNCELEYEN BİLİM DALI",
+        "letter": "Z",
+        "answer": "Zooloji"
+    }
+]

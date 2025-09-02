@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1971,
+        "question": "BİR KİŞİYİ GÖREVİNDEN ALMAK, UZAKLAŞTIRMAK",
+        "letter": "A",
+        "answer": "AZLETME, AZLETMEK"
+    },
+    {
+        "id": 1799,
+        "question": "YÖRESEL AĞIZLARDA “KAZ VE ÖRDEK YAVRULARI” İÇİN KULLANILAN BİR SÖZCÜK",
+        "letter": "B",
+        "answer": "Badi"
+    },
+    {
+        "id": 1368,
+        "question": "Şaka olmayan, gerçek",
+        "letter": "C",
+        "answer": "Ciddi"
+    },
+    {
+        "id": 100,
+        "question": "Gayret, herhangi bir işi yapmak için harcanan güç ",
+        "letter": "Ç",
+        "answer": "çaba, çabalamak"
+    },
+    {
+        "id": 1812,
+        "question": "“YANLIŞ VEYA KUSURLU SESLER” İÇİN KULLANILAN MÜZİK TERİMİ",
+        "letter": "D",
+        "answer": "Detone"
+    },
+    {
+        "id": 797,
+        "question": "Canlıların birbirleri ve çevreleriyle ilişkilerini inceleyen bilim dalı",
+        "letter": "E",
+        "answer": "Ekoloji"
+    },
+    {
+        "id": 1674,
+        "question": "Malzemesi marka sahibi tarafından karşılanarak başka bir firmaya yaptırılan mal",
+        "letter": "F",
+        "answer": "Fason"
+    },
+    {
+        "id": 1421,
+        "question": "İzmir yöresinde simitin diğer adı",
+        "letter": "G",
+        "answer": "Gevrek"
+    },
+    {
+        "id": 58,
+        "question": "Sebze, meyve, bakliyat gibi ürünlerin toptan satıldığı yer",
+        "letter": "H",
+        "answer": "Hal, Hâl"
+    },
+    {
+        "id": 599,
+        "question": "Açıkça bildirme, açıkça duyurma",
+        "letter": "İ",
+        "answer": "İlan, ilan etme, ilan etmek, ilan verme, ilan vermek"
+    },
+    {
+        "id": 286,
+        "question": "Var olan ancak bilinmeyen bir şeyi bulan, ortaya çıkaran kimse, bulucu",
+        "letter": "K",
+        "answer": "kaşif, kâşif"
+    },
+    {
+        "id": 292,
+        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "letter": "L",
+        "answer": "lobi"
+    },
+    {
+        "id": 1633,
+        "question": "Toprak altına, üstüne veya suyun içine yerleştirilen patlayıcı madde",
+        "letter": "M",
+        "answer": "Mayın"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 1000,
+        "question": "Keçi yavrusu",
+        "letter": "O",
+        "answer": "Oğlak"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 78,
+        "question": "Eski Yunan'da, kent devletlerine verilen isim",
+        "letter": "P",
+        "answer": "polis"
+    },
+    {
+        "id": 397,
+        "question": "Okul, kışla vb. yerlerde hastalar için ayrılmış bölüm",
+        "letter": "R",
+        "answer": "revir"
+    },
+    {
+        "id": 1124,
+        "question": "Acı, yoksulluk, haksızlık vb. üzücü durumlar karşısında ses çıkarmadan onların geçmesini bekleme erdemi, dayanç",
+        "letter": "S",
+        "answer": "sabır"
+    },
+    {
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
+        "letter": "Ş",
+        "answer": "Şahsiyet"
+    },
+    {
+        "id": 1650,
+        "question": "Lisans ve yüksek lisans yapan öğrencilerin bilimsel yöntemlere dayandırdıkları ve hazırladıkları makaleler",
+        "letter": "T",
+        "answer": "Tez"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 1315,
+        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "letter": "Ü",
+        "answer": "Ütopik"
+    },
+    {
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "letter": "V",
+        "answer": "Vize, vize belgesi"
+    },
+    {
+        "id": 1580,
+        "question": "Sınırlı bir yerle ilgili olan, bölgesel, lokal",
+        "letter": "Y",
+        "answer": "Yerel, yöresel"
+    },
+    {
+        "id": 1588,
+        "question": "Bebeklere iç çamaşırı olarak giydirilen, ince pamukludan kısa ve kollu giysi",
+        "letter": "Z",
+        "answer": "Zıbın"
+    }
+]

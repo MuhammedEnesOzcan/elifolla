@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1656,
+        "question": "Alfabe sırasına göre dizilmiş",
+        "letter": "A",
+        "answer": "Alfabetik"
+    },
+    {
+        "id": 1350,
+        "question": "Acı çikolata",
+        "letter": "B",
+        "answer": "Bitter, bitter çikolata"
+    },
+    {
+        "id": 787,
+        "question": "“Öfke, kızgınlık” anlamındaki bir erkek ismi",
+        "letter": "C",
+        "answer": "Celal"
+    },
+    {
+        "id": 1548,
+        "question": "Eli veya kolu sakat olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çolak"
+    },
+    {
+        "id": 1401,
+        "question": "Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama, beyanat",
+        "letter": "D",
+        "answer": "Demeç, demeç verme, demeç vermek, demeç vermesi"
+    },
+    {
+        "id": 1404,
+        "question": "Kanunlar yönünden insanlar arasında ayrım bulunmaması durumu",
+        "letter": "E",
+        "answer": "Eşitlik, eşitlik hakkı"
+    },
+    {
+        "id": 799,
+        "question": "Yürekler acısı, trajik anlamındaki söz",
+        "letter": "F",
+        "answer": "Feci, facia"
+    },
+    {
+        "id": 1776,
+        "question": "SON BİLGİ VE DEĞİŞİKLİKLERİ DE EKLEYEREK YENİLEME",
+        "letter": "G",
+        "answer": "Güncelleme, Güncellemek"
+    },
+    {
+        "id": 15,
+        "question": "Hristiyan ve İslam inançlarına göre dünyada var olan ilk kadın",
+        "letter": "H",
+        "answer": "havva"
+    },
+    {
+        "id": 258,
+        "question": "Bir konuda birinin inanmasını sağlama, inandırma, kandırma",
+        "letter": "İ",
+        "answer": "ikna"
+    },
+    {
+        "id": 927,
+        "question": "Elektrik Akımı İletiminde Kullanılan Ve Yalıtkan Bir Madde İle Sarılı Bulunan Metal Tel",
+        "letter": "K",
+        "answer": "Kablo"
+    },
+    {
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "letter": "L",
+        "answer": "Logo"
+    },
+    {
+        "id": 1108,
+        "question": "Miskete fiske vurarak oynanan zıpzıp oyunu",
+        "letter": "M",
+        "answer": "madık, Madik"
+    },
+    {
+        "id": 329,
+        "question": "Bir yerden alıp başka bir yere iletme, aktarma, taşıma",
+        "letter": "N",
+        "answer": "nakil, nakil işlemi"
+    },
+    {
+        "id": 93,
+        "question": "Bir ülkenin askeri kuvvetlerinin tümü",
+        "letter": "O",
+        "answer": "ordu"
+    },
+    {
+        "id": 662,
+        "question": "Yıpratmak, eskitmek, hırpalamak, zedelemek",
+        "letter": "Ö",
+        "answer": "Örselemek, örseleme"
+    },
+    {
+        "id": 673,
+        "question": "Söz dalaşı",
+        "letter": "P",
+        "answer": "Polemik"
+    },
+    {
+        "id": 390,
+        "question": "Üzerinde boks yapılan, çevresi kordonla çevrilmiş yer",
+        "letter": "R",
+        "answer": "ring"
+    },
+    {
+        "id": 1263,
+        "question": "Kadın veya çocuklarda en ince ses, sesi böyle olan sanatçı",
+        "letter": "S",
+        "answer": "Soprano"
+    },
+    {
+        "id": 432,
+        "question": "Belli bir amaçla düzenlenen eğlence",
+        "letter": "Ş",
+        "answer": "şölen, şenlik"
+    },
+    {
+        "id": 36,
+        "question": "1500 km²'lik yüzeyi ile Türkiye'nin ikinci büyük gölü ",
+        "letter": "T",
+        "answer": "Tuz Gölü, Tuz"
+    },
+    {
+        "id": 778,
+        "question": "Zafer, Üstünlük Sağlama, Yenme",
+        "letter": "U",
+        "answer": "utku"
+    },
+    {
+        "id": 854,
+        "question": "Isı azlığı nedeniyle soğuğun etkisini duymak",
+        "letter": "Ü",
+        "answer": "Üşümek"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 1589,
+        "question": "Çok küçük parçacık",
+        "letter": "Z",
+        "answer": "Zerre"
+    }
+]

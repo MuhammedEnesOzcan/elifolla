@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1081,
+        "question": "Masa başında uydurulup gerçekmiş gibi yayımlanan yalan haber",
+        "letter": "A",
+        "answer": "Asparagas, asparagas haber"
+    },
+    {
+        "id": 62,
+        "question": "Bale yapan erkek dansçılara verilen isim",
+        "letter": "B",
+        "answer": "balet"
+    },
+    {
+        "id": 1364,
+        "question": "Bilgisizlik, cahil olma durumu",
+        "letter": "C",
+        "answer": "Cehalet"
+    },
+    {
+        "id": 1545,
+        "question": "Yüzü çiçek hastalığından kalma küçük yara izleri taşıyan, aşırı çiçek bozuğu olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çopur"
+    },
+    {
+        "id": 553,
+        "question": "Sınır dışı etme, uzaklaştırma",
+        "letter": "D",
+        "answer": "Deport, deport etme, deport etmek"
+    },
+    {
+        "id": 1487,
+        "question": "Organizmada hastalığa yol açan bir mikrobun genel veya yerel gelişmesi, yayılması",
+        "letter": "E",
+        "answer": "Enfeksiyon, enfekte olma, enfekte olma"
+    },
+    {
+        "id": 71,
+        "question": "Satrançta sadece çapraz hareket edebilen taş",
+        "letter": "F",
+        "answer": "fil"
+    },
+    {
+        "id": 1426,
+        "question": "İspiyonlamak",
+        "letter": "G",
+        "answer": "Gammazlamak"
+    },
+    {
+        "id": 1098,
+        "question": "Kur'an'ı bütünüyle ezbere bilen kimse",
+        "letter": "H",
+        "answer": "Hafız"
+    },
+    {
+        "id": 1712,
+        "question": "Bilgisayarların veri işleyen ve yazılım komutlarını gerçekleştiren devre elemanı",
+        "letter": "İ",
+        "answer": "İşlemci"
+    },
+    {
+        "id": 811,
+        "question": "Üflemeli çoban çalgısı",
+        "letter": "K",
+        "answer": "Kaval"
+    },
+    {
+        "id": 1787,
+        "question": "Greve çıkan işçileri işverenin topluca işten uzaklaştırması",
+        "letter": "L",
+        "answer": "Lokavt"
+    },
+    {
+        "id": 1249,
+        "question": "Hapiste olan, hakkında hüküm kesilmiş kimse",
+        "letter": "M",
+        "answer": "Mahkum"
+    },
+    {
+        "id": 332,
+        "question": "Sıra ile belirli süre bir yeri bekleme işi",
+        "letter": "N",
+        "answer": "nöbet, nöbet tutma, nöbet tutmak"
+    },
+    {
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
+        "letter": "O",
+        "answer": "Ozalit"
+    },
+    {
+        "id": 366,
+        "question": "Bir kusurun hoş görülmesini gerektiren sebep, mazeret",
+        "letter": "Ö",
+        "answer": "özür"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 394,
+        "question": "Bir para biriminin veya malın satış ve sürüm değeri",
+        "letter": "R",
+        "answer": "rayiç, rayiç bedel, rayiç bedeli"
+    },
+    {
+        "id": 412,
+        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "letter": "S",
+        "answer": "statü, statüsü"
+    },
+    {
+        "id": 429,
+        "question": "Söyleyiş özelliği",
+        "letter": "Ş",
+        "answer": "şive"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 1558,
+        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "letter": "U",
+        "answer": "Ulus"
+    },
+    {
+        "id": 714,
+        "question": "En fazla çeşide sahip olan meyve türü",
+        "letter": "Ü",
+        "answer": "Üzüm"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 487,
+        "question": "Delik ve yırtığı uygun bir parça ile onarma, kapatma",
+        "letter": "Y",
+        "answer": "yama, yama yapma, yama yapmak, yamalama, yamalamak"
+    },
+    {
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "letter": "Z",
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
+    }
+]

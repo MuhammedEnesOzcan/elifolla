@@ -1,0 +1,158 @@
+[
+    {
+        "id": 85,
+        "question": "Şubatın 29 çektiği yıla ne denir",
+        "letter": "A",
+        "answer": "Artık yıl, Artık"
+    },
+    {
+        "id": 140,
+        "question": "Yaşama veya iş görme isteğini yitirmiş",
+        "letter": "B",
+        "answer": "Bezgin, bezmiş, bitap"
+    },
+    {
+        "id": 532,
+        "question": "Heyecanlı, coşkulu ve atik kimse",
+        "letter": "C",
+        "answer": "Cevval"
+    },
+    {
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
+        "letter": "Ç",
+        "answer": "Çapak"
+    },
+    {
+        "id": 112,
+        "question": "Müzik, ürün, hizmet gibi alanlarda kısa ön sunum",
+        "letter": "D",
+        "answer": "demo"
+    },
+    {
+        "id": 79,
+        "question": "Kırkpınar yağlı güreşlerinin yapıldığı ilimiz",
+        "letter": "E",
+        "answer": "edirne"
+    },
+    {
+        "id": 567,
+        "question": "Yanıcı bir maddeden aldığı itici güçle hareket eden düzenek",
+        "letter": "F",
+        "answer": "Füze"
+    },
+    {
+        "id": 577,
+        "question": "Çenede veya yanakta olan küçük çukur",
+        "letter": "G",
+        "answer": "Gamze"
+    },
+    {
+        "id": 587,
+        "question": "Hem ev, konut hem de ev halkı anlamında kullanılan bir söz",
+        "letter": "H",
+        "answer": "Hane"
+    },
+    {
+        "id": 958,
+        "question": "Uyarma",
+        "letter": "İ",
+        "answer": "ikaz, ikaz etme, ikaz etmek"
+    },
+    {
+        "id": 1104,
+        "question": "Çadır, baraka vb. eğreti araçlardan oluşturulan konak yeri",
+        "letter": "K",
+        "answer": "kamp"
+    },
+    {
+        "id": 1612,
+        "question": "Yanardağların ağzından fışkırıp akan, soğuyunca donan erimiş madde",
+        "letter": "L",
+        "answer": "Lav"
+    },
+    {
+        "id": 1930,
+        "question": "BİR İYİLİĞE KARŞI KENDİNİ BORÇLU SAYMA, ŞÜKRAN",
+        "letter": "M",
+        "answer": "Minnet, Minnettarlık"
+    },
+    {
+        "id": 913,
+        "question": "Kıskandırmak ya da inat olsun diye yapılan iş",
+        "letter": "N",
+        "answer": "Nispet, nıspet"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 361,
+        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
+        "letter": "Ö",
+        "answer": "önem"
+    },
+    {
+        "id": 667,
+        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
+        "letter": "P",
+        "answer": "Paraf, paraf atma, paraf atmak"
+    },
+    {
+        "id": 1634,
+        "question": "Hindistan, Nepal, Pakistan'da kullanılan para birimi",
+        "letter": "R",
+        "answer": "Rupi"
+    },
+    {
+        "id": 688,
+        "question": "Ölçüm aletlerinde gösterge çizelgesi",
+        "letter": "S",
+        "answer": "Skala"
+    },
+    {
+        "id": 1466,
+        "question": "Birbirine paralel görme ekseni olmayan (göz veya kimse)",
+        "letter": "Ş",
+        "answer": "Şaşı"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 894,
+        "question": "Türlü Amaçlarla Yer'den Fırlatılan Ve Genellikle Kapalı Bir Yörünge Çizerek Yer Çevresinde Dolanan Aygıt",
+        "letter": "U",
+        "answer": "Uydu"
+    },
+    {
+        "id": 873,
+        "question": "İdrarın dışarıya atılmasını sağlayan ve idrar torbasından sonraki idrar yol",
+        "letter": "Ü",
+        "answer": "Üretra"
+    },
+    {
+        "id": 1251,
+        "question": "Orta, iki şeyin ortasında olan, ortalama",
+        "letter": "V",
+        "answer": "Vasat"
+    },
+    {
+        "id": 1955,
+        "question": "ÇOĞU KİMSELERCE DUYULMUŞ, ÖĞRENİLMİŞ, KULLANILMIŞ VEYA BENİMSENMİŞ OLAN",
+        "letter": "Y",
+        "answer": "Yaygın"
+    },
+    {
+        "id": 1590,
+        "question": "Taban, döşeme, yer",
+        "letter": "Z",
+        "answer": "Zemin"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1301,
+        "question": "Dalları çardak üzerine yayılan üzüm vb. bitkiler",
+        "letter": "A",
+        "answer": "Asma, asma ağacı"
+    },
+    {
+        "id": 1348,
+        "question": "Kaldırımların kenarlarında bulunan taşlar",
+        "letter": "B",
+        "answer": "Bordür"
+    },
+    {
+        "id": 538,
+        "question": "Sayılar teorisini, geometriyi ve analizi içine alan bir matematik dalı",
+        "letter": "C",
+        "answer": "Cebir"
+    },
+    {
+        "id": 1762,
+        "question": "Her zaman menfaati doğrultusunda hareket eden kişi",
+        "letter": "Ç",
+        "answer": "Çıkarcı"
+    },
+    {
+        "id": 1387,
+        "question": "Oyunda, atılan zarlardan ikisinin de beş benekli yüzünün üste gelmesi",
+        "letter": "D",
+        "answer": "Dübeş"
+    },
+    {
+        "id": 559,
+        "question": "\"Şayet\" ile eş anlamlı bir söz",
+        "letter": "E",
+        "answer": "Eğer"
+    },
+    {
+        "id": 1672,
+        "question": "Birdenbire, düşünmeden yapan",
+        "letter": "F",
+        "answer": "Fevri"
+    },
+    {
+        "id": 1821,
+        "question": "Sindirim sisteminden sıvı veya hava geçerken bir iç ses çıkarma olayı",
+        "letter": "G",
+        "answer": "Guruldama, Guruldamak"
+    },
+    {
+        "id": 1440,
+        "question": "Dildeki bir sesi gösteren ve alfabeyi oluşturan işaretlerden her biri",
+        "letter": "H",
+        "answer": "Harf"
+    },
+    {
+        "id": 270,
+        "question": "Çözülmesi kolay düğüm, eğreti düğüm",
+        "letter": "İ",
+        "answer": "ilmek"
+    },
+    {
+        "id": 1288,
+        "question": "Mukayese etmek, karşılaştırmak",
+        "letter": "K",
+        "answer": "Kıyaslamak, kıyaslama, kıyas yapma, kıyas yapmak"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 322,
+        "question": "Başvurulacak yer veya makam",
+        "letter": "M",
+        "answer": "merci"
+    },
+    {
+        "id": 1110,
+        "question": "Az görülür, görülmedik, seyrek görülen, çok değerli",
+        "letter": "N",
+        "answer": "nadide, nadir"
+    },
+    {
+        "id": 820,
+        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
+        "letter": "O",
+        "answer": "Otlak, otlak arazi, ova"
+    },
+    {
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "letter": "Ö",
+        "answer": "Önlem"
+    },
+    {
+        "id": 1264,
+        "question": "Arıların besin kaynağı, bitkilerin üreme organlarının başlıklarında bulunan üreme hücreleri",
+        "letter": "P",
+        "answer": "Polen"
+    },
+    {
+        "id": 1645,
+        "question": "Aynı amacı güden kimseler arasındaki çekişme, yarış",
+        "letter": "R",
+        "answer": "Rekabet"
+    },
+    {
+        "id": 1185,
+        "question": "Odun talaşının preslenmesi sonucu oluşan yonga levha",
+        "letter": "S",
+        "answer": "Sunta, suntalam"
+    },
+    {
+        "id": 898,
+        "question": "Oda İçinde Tuğla Ya Da Taşdan Yapılmış Ocak",
+        "letter": "Ş",
+        "answer": "Şömine, somine"
+    },
+    {
+        "id": 713,
+        "question": "Büyük ölçüde, çok miktarda yapılan (alışveriş)",
+        "letter": "T",
+        "answer": "Toptan, toptan alışveriş"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 1133,
+        "question": "Çoğunlukla ayın neden olduğu, yerin dönme ekseninin yaptığı koni hareketindeki dönemsel salınım, nütasyon",
+        "letter": "Ü",
+        "answer": "Üğrüm"
+    },
+    {
+        "id": 475,
+        "question": "Gözlem ve deneye dayalı araştırmanın sonuçları",
+        "letter": "V",
+        "answer": "veri, veri seti"
+    },
+    {
+        "id": 497,
+        "question": "Yıkılmış olan, harap, viran",
+        "letter": "Y",
+        "answer": "yıkık"
+    },
+    {
+        "id": 842,
+        "question": "Zeki, anlayış sahibi",
+        "letter": "Z",
+        "answer": "Zeren"
+    }
+]

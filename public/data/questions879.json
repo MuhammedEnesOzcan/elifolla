@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1380,
+        "question": "Tehlikeli oyunlar yapan gösteri sanatçısı",
+        "letter": "A",
+        "answer": "Akrobat, akrobasi sanatçısı"
+    },
+    {
+        "id": 1602,
+        "question": "Alım ve de satım işleri ile ilgilenmekte olan şirketlere aracılıklar yapan komisyoncu",
+        "letter": "B",
+        "answer": "Broker"
+    },
+    {
+        "id": 534,
+        "question": "Ameliyat yapan uzman hekim, operatör",
+        "letter": "C",
+        "answer": "Cerrah"
+    },
+    {
+        "id": 182,
+        "question": "Halı, kilim vb. şeyleri hızla ve kesik kesik silkelemek",
+        "letter": "Ç",
+        "answer": "çırpmak"
+    },
+    {
+        "id": 1259,
+        "question": "Tahıl tanelerini öğütmeye yarayan alet",
+        "letter": "D",
+        "answer": "Değirmen, değirmen taşı"
+    },
+    {
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "letter": "E",
+        "answer": "ezel"
+    },
+    {
+        "id": 55,
+        "question": "Yeşil bitkilerin ışık enerjisiyle besin üretmesi",
+        "letter": "F",
+        "answer": "fotosentez"
+    },
+    {
+        "id": 803,
+        "question": "Ağız ve burun boşluğunun arka bölümü",
+        "letter": "G",
+        "answer": "Geniz"
+    },
+    {
+        "id": 1444,
+        "question": "Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü",
+        "letter": "H",
+        "answer": "Hıfzıssıhha"
+    },
+    {
+        "id": 602,
+        "question": "Bir şeyin olabilmesi durumu, olabilirlik, olasılık",
+        "letter": "İ",
+        "answer": "İhtimal"
+    },
+    {
+        "id": 1222,
+        "question": "Damla, damlayan şey",
+        "letter": "K",
+        "answer": "Katre"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 318,
+        "question": "On kişilik asker birliği",
+        "letter": "M",
+        "answer": "manga"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 1519,
+        "question": "İşitme taşı",
+        "letter": "O",
+        "answer": "Otolit"
+    },
+    {
+        "id": 922,
+        "question": "Korkak, Tabansız, Yüreksiz",
+        "letter": "Ö",
+        "answer": "ödlek"
+    },
+    {
+        "id": 376,
+        "question": "Bir başkasına bağımlılığı olan",
+        "letter": "P",
+        "answer": "peyk"
+    },
+    {
+        "id": 399,
+        "question": "Mertebe, derece",
+        "letter": "R",
+        "answer": "rütbe"
+    },
+    {
+        "id": 686,
+        "question": "Bir şey öğrenmek için yöneltilen söz veya yazı",
+        "letter": "S",
+        "answer": "Soru"
+    },
+    {
+        "id": 700,
+        "question": "Bir alanla ilgili olarak oluşturulan danışma kurulu",
+        "letter": "Ş",
+        "answer": "Şura"
+    },
+    {
+        "id": 1778,
+        "question": "POSTU SİYAH ÇUBUKLARLA VE BENEKLERLE SÜSLÜ, KÜL RENGİNDE VEYA BOZ OLAN KEDİ",
+        "letter": "T",
+        "answer": "Tekir"
+    },
+    {
+        "id": 892,
+        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "letter": "U",
+        "answer": "Uzman"
+    },
+    {
+        "id": 729,
+        "question": "Özen göstermeden, gelişigüzel, baştan savma yapılan",
+        "letter": "Ü",
+        "answer": "Üstünkörü"
+    },
+    {
+        "id": 715,
+        "question": "Genellikle sıvı şeyleri koymakta kullanılan, silindir biçiminde ve üstü kapalı, metal kap",
+        "letter": "V",
+        "answer": "Varil"
+    },
+    {
+        "id": 488,
+        "question": "Yürüyerek giden kimse",
+        "letter": "Y",
+        "answer": "yaya"
+    },
+    {
+        "id": 504,
+        "question": "Savaşta kazanılan başarı",
+        "letter": "Z",
+        "answer": "zafer"
+    }
+]

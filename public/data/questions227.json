@@ -1,0 +1,158 @@
+[
+    {
+        "id": 520,
+        "question": "Kana al rengini veren hücre",
+        "letter": "A",
+        "answer": "Alyuvar, Alyuvarlar, Alyuvar hücre"
+    },
+    {
+        "id": 1920,
+        "question": "MİDENİN İSTİFRA SİNYALİ",
+        "letter": "B",
+        "answer": "Bulantı"
+    },
+    {
+        "id": 1148,
+        "question": "Yerde ve tel, at, bisiklet, ip vb. üzerinde dengeye dayanan, tehlikeli, heyecan verici gösteriler yapan kimse, akrobat",
+        "letter": "C",
+        "answer": "cambaz"
+    },
+    {
+        "id": 99,
+        "question": "Bulunulan çağın anlayışına, şartlarına uygun olan, modern, muasır",
+        "letter": "Ç",
+        "answer": "çağdaş"
+    },
+    {
+        "id": 749,
+        "question": "Dozu düzenleme, ayarlama",
+        "letter": "D",
+        "answer": "dozaj"
+    },
+    {
+        "id": 1211,
+        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
+        "letter": "E",
+        "answer": "Emekleme, emeklemek"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 1430,
+        "question": "Makine yağı",
+        "letter": "G",
+        "answer": "Gres, gres yağ, gres yağı"
+    },
+    {
+        "id": 1733,
+        "question": "Normalin üstünde bir hareketliliğe ve aktifliğe sahip olma durumu",
+        "letter": "H",
+        "answer": "Hiperaktivite, hiperaktiflik"
+    },
+    {
+        "id": 597,
+        "question": "Değerli, küçük, sert, sedef renginde süs tanesi",
+        "letter": "İ",
+        "answer": "İnci, inci tanesi"
+    },
+    {
+        "id": 281,
+        "question": "Silah, kılıç vb. şeylerde tutulacak yer, tutak, sap",
+        "letter": "K",
+        "answer": "kabza"
+    },
+    {
+        "id": 1705,
+        "question": "Sıvıları ölçmede kullanılan, bir desimetreküp hacminde ölçü birimi ",
+        "letter": "L",
+        "answer": "Litre"
+    },
+    {
+        "id": 323,
+        "question": "Kalıtım yoluyla gelen herhangi bir özellik",
+        "letter": "M",
+        "answer": "miras, mizaç"
+    },
+    {
+        "id": 326,
+        "question": "Açık seçik olan, anlaşılmaz yanı bulunmayan",
+        "letter": "N",
+        "answer": "net"
+    },
+    {
+        "id": 340,
+        "question": "Göçebelerin konak yeri",
+        "letter": "O",
+        "answer": "oba"
+    },
+    {
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "letter": "Ö",
+        "answer": "özel"
+    },
+    {
+        "id": 1019,
+        "question": "Telli sazları çalmaya yarayan ve kemik, boynuz vb. şeylerden yapılan çalma aracı, mızrap, çalgıç",
+        "letter": "P",
+        "answer": "pena"
+    },
+    {
+        "id": 1273,
+        "question": "Yedi renkli yüzeyi olan zeka geliştirici küp oyuncak",
+        "letter": "R",
+        "answer": "Rubik, rubik küp, rubik küpü, rubik kübü"
+    },
+    {
+        "id": 1797,
+        "question": "BULUNDUĞU YERDEN ACELEYLE, GİZLİCE VEYA DİKKATİ ÇEKMEDEN AYRILMAK, KAÇMAK",
+        "letter": "S",
+        "answer": "Savuşmak, Sıvışmak"
+    },
+    {
+        "id": 699,
+        "question": "Ev, fabrika, baraj vb.nin yapımının sürdüğü yer",
+        "letter": "Ş",
+        "answer": "Şantiye, şantiye alanı"
+    },
+    {
+        "id": 1065,
+        "question": "Ayağın alt yüzü, aya",
+        "letter": "T",
+        "answer": "taban"
+    },
+    {
+        "id": 1131,
+        "question": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren",
+        "letter": "U",
+        "answer": "ufuk"
+    },
+    {
+        "id": 462,
+        "question": "Tanınmış, şöhretli, meşhur",
+        "letter": "Ü",
+        "answer": "ünlü"
+    },
+    {
+        "id": 1506,
+        "question": "Geliş, gelme",
+        "letter": "V",
+        "answer": "Vürut"
+    },
+    {
+        "id": 1578,
+        "question": "Bir düşünceye, bir inanca aşırı ölçüde bağlı olan baskıcı kimse",
+        "letter": "Y",
+        "answer": "Yobaz"
+    },
+    {
+        "id": 41,
+        "question": "Ses telleri olmayan hayvan",
+        "letter": "Z",
+        "answer": "Zürafa"
+    }
+]

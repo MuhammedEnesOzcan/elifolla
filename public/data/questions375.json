@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1261,
+        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
+        "letter": "A",
+        "answer": "Aperatif, aparatif, aperetif, Aperitif"
+    },
+    {
+        "id": 525,
+        "question": "Kullanılması önlenmiş, el konulmuş",
+        "letter": "B",
+        "answer": "Bloke, bloke edilmiş, bloke olmuş"
+    },
+    {
+        "id": 14,
+        "question": "Ülkemizde de sık görülen bir tür köpek balığı?",
+        "letter": "C",
+        "answer": "camgöz"
+    },
+    {
+        "id": 547,
+        "question": "Atomda proton ve nötronun bulunduğu merkezi kısım",
+        "letter": "Ç",
+        "answer": "Çekirdek"
+    },
+    {
+        "id": 195,
+        "question": "Bir şeyin üzerine bir nişan, bir işaret basmaya yarayan araç",
+        "letter": "D",
+        "answer": "damga"
+    },
+    {
+        "id": 1488,
+        "question": "Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı",
+        "letter": "E",
+        "answer": "Engizisyon, engizisyon mahkemesi, engizisyon mahkemeleri"
+    },
+    {
+        "id": 229,
+        "question": "Tanıtma filmi",
+        "letter": "F",
+        "answer": "fragman"
+    },
+    {
+        "id": 1961,
+        "question": "SANAT ESERLERİNİN SERGİLENDİĞİ BÜYÜK SALON",
+        "letter": "G",
+        "answer": "Galeri"
+    },
+    {
+        "id": 1794,
+        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "letter": "H",
+        "answer": "Hasılat"
+    },
+    {
+        "id": 601,
+        "question": "Gerçek yönünü ortaya çıkarma, kanıtlama",
+        "letter": "İ",
+        "answer": "İspat, ispatlama, ispatlamak, ispat etme, ispat etmek"
+    },
+    {
+        "id": 1885,
+        "question": "BİR DÜŞÜNCEYİ EKSİKSİZ OLARAK ANLATAN KELİME DİZİSİ, SÖZ",
+        "letter": "K",
+        "answer": "Kelam"
+    },
+    {
+        "id": 1528,
+        "question": "Üzeri toprak veya otla örtülmüş saman yığını",
+        "letter": "L",
+        "answer": "Loda"
+    },
+    {
+        "id": 1615,
+        "question": "Bir diğer söylemle; Önemli, gerekli",
+        "letter": "M",
+        "answer": "Mühim"
+    },
+    {
+        "id": 987,
+        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
+        "letter": "N",
+        "answer": "Naz"
+    },
+    {
+        "id": 1113,
+        "question": "Büyük ve süslü çadır, çerge",
+        "letter": "O",
+        "answer": "Otağ"
+    },
+    {
+        "id": 659,
+        "question": "Nesnelerin gerçeğine değil, bireyin düşünce ve duygularına dayanan",
+        "letter": "Ö",
+        "answer": "Öznel"
+    },
+    {
+        "id": 1271,
+        "question": "\"Sokrates'in Savunması\" adlı eseri yazan ünlü filozof",
+        "letter": "P",
+        "answer": "Platon"
+    },
+    {
+        "id": 1031,
+        "question": "Yakışır, yerinde, uygun",
+        "letter": "R",
+        "answer": "Reva"
+    },
+    {
+        "id": 1192,
+        "question": "Yalnız bir türe özgü olan",
+        "letter": "S",
+        "answer": "Spesifik"
+    },
+    {
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "letter": "Ş",
+        "answer": "Şakak"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 896,
+        "question": "Orta Asya'da Büyük Devlet Ve Uygarlık Kurmuş, Yazılı Anıtlarla Sanat Yapıtları Bırakmış Olan Bir Türk Ulusu",
+        "letter": "U",
+        "answer": "Uygur, uygurlar"
+    },
+    {
+        "id": 461,
+        "question": "Üretilen yararlı şey",
+        "letter": "Ü",
+        "answer": "ürün"
+    },
+    {
+        "id": 1138,
+        "question": "Tehlikeli durum",
+        "letter": "V",
+        "answer": "varta, vuku, vukuat"
+    },
+    {
+        "id": 1577,
+        "question": "Hacmine oranla ağırlığı çok olan",
+        "letter": "Y",
+        "answer": "Yoğun"
+    },
+    {
+        "id": 1587,
+        "question": "İç içe geçen sehpa",
+        "letter": "Z",
+        "answer": "Zigon, zigon sehpa"
+    }
+]

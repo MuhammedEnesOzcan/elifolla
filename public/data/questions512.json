@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1162,
+        "question": "Birden fazla sıralı halde iki tarafı ağaçlı yol",
+        "letter": "A",
+        "answer": "Alle, Alle yol"
+    },
+    {
+        "id": 134,
+        "question": "Banyodan çıkarken kurulanmak için kullanılan, önden açık, havludan yapılmış giysi",
+        "letter": "B",
+        "answer": "bornoz"
+    },
+    {
+        "id": 1363,
+        "question": "Ateşli silahlarla atılmak için hazırlanan her türlü patlayıcı madde, mühimmat",
+        "letter": "C",
+        "answer": "Cephane"
+    },
+    {
+        "id": 1816,
+        "question": "MECAZEN; DİNÇLİĞİNİ KAYBETMEK, İHTİYARLAMAK",
+        "letter": "Ç",
+        "answer": "Çökme, Çökmek"
+    },
+    {
+        "id": 548,
+        "question": "Şeker hastalığı",
+        "letter": "D",
+        "answer": "Diyabet"
+    },
+    {
+        "id": 200,
+        "question": "Boyut, ölçü",
+        "letter": "E",
+        "answer": "ebat"
+    },
+    {
+        "id": 572,
+        "question": "Bir kimseyi veya bir yeri koruyan kimse",
+        "letter": "F",
+        "answer": "Fedai"
+    },
+    {
+        "id": 237,
+        "question": "Her zaman gülümseyen, mütebessim",
+        "letter": "G",
+        "answer": "güleç"
+    },
+    {
+        "id": 245,
+        "question": "Karşılıksız vermek, bağış",
+        "letter": "H",
+        "answer": "hibe, hibe etmek"
+    },
+    {
+        "id": 1962,
+        "question": "BİR KONU HAKKINDA KARŞI TARAFTAN ALINAN NEZAKET GÖSTERGESİ İZİN, DESTUR",
+        "letter": "İ",
+        "answer": "İCAZET"
+    },
+    {
+        "id": 70,
+        "question": "Ünlü masala göre tavşanı yarışta geçen hayvan",
+        "letter": "K",
+        "answer": "kaplumbağa"
+    },
+    {
+        "id": 1703,
+        "question": "Yıkanmak için kullanılan bitki telleri demeti veya türlü ipliklerden yapılmış örgü",
+        "letter": "L",
+        "answer": "Lif"
+    },
+    {
+        "id": 1930,
+        "question": "BİR İYİLİĞE KARŞI KENDİNİ BORÇLU SAYMA, ŞÜKRAN",
+        "letter": "M",
+        "answer": "Minnet, Minnettarlık"
+    },
+    {
+        "id": 1224,
+        "question": "Çaresi, çözümü olmayan, çaresiz olan",
+        "letter": "N",
+        "answer": "Naçar, naçarlık, nafile"
+    },
+    {
+        "id": 1736,
+        "question": "Elektrik sinyallerini görselleştirmek, ölçmek ve analiz etmek için kullanılan cihaz",
+        "letter": "O",
+        "answer": "Osiloskop"
+    },
+    {
+        "id": 356,
+        "question": "Bir başarı karşılığında verilen armağan, mükâfat",
+        "letter": "Ö",
+        "answer": "ödül"
+    },
+    {
+        "id": 1156,
+        "question": "Tank tekeri, zorlu arazilerde gitmeye yarayan araç",
+        "letter": "P",
+        "answer": "Palet, paletli"
+    },
+    {
+        "id": 1121,
+        "question": "Herhangi bir işte, bir yarışta, birbirini geçmeye çalışan, aynı şeyi elde etmeye uğraşan",
+        "letter": "R",
+        "answer": "Rakip"
+    },
+    {
+        "id": 1042,
+        "question": "Sen zamirinin yönelme durumu",
+        "letter": "S",
+        "answer": "sana"
+    },
+    {
+        "id": 424,
+        "question": "Okullarda aynı düzeydeki sınıflardan her biri",
+        "letter": "Ş",
+        "answer": "şube"
+    },
+    {
+        "id": 833,
+        "question": "Kompleks yapıdaki sebze yemeği",
+        "letter": "T",
+        "answer": "Türlü"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 728,
+        "question": "Bir düşünce veya istek üzerinde durmak, direnmek, ısrar etmek",
+        "letter": "Ü",
+        "answer": "Üsteleme, Üstelemek"
+    },
+    {
+        "id": 1208,
+        "question": "Manşet, smaç, pas gibi terimlerin bulunduğu spor dalı",
+        "letter": "V",
+        "answer": "Voleybol"
+    },
+    {
+        "id": 492,
+        "question": "Gösterişsiz, süssüz, sade, net",
+        "letter": "Y",
+        "answer": "yalın"
+    },
+    {
+        "id": 775,
+        "question": "Kışın en şiddetli zamanı, karakış",
+        "letter": "Z",
+        "answer": "Zemheri, Zemheri vakti"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 75,
+        "question": "Dünya'nın en güneyinde yer alan kıta",
+        "letter": "A",
+        "answer": "Antarktika, Antartika"
+    },
+    {
+        "id": 140,
+        "question": "Yaşama veya iş görme isteğini yitirmiş",
+        "letter": "B",
+        "answer": "Bezgin, bezmiş, bitap"
+    },
+    {
+        "id": 1373,
+        "question": "Bir ülkede yönetime el koyan kimselerden oluşan kurul",
+        "letter": "C",
+        "answer": "Cunta, cuntacılar, cunta kurulu"
+    },
+    {
+        "id": 1447,
+        "question": "Çevresine göre aşağı çökmüş olan yer",
+        "letter": "Ç",
+        "answer": "Çukur"
+    },
+    {
+        "id": 795,
+        "question": "Akan suyun hacmi",
+        "letter": "D",
+        "answer": "Debi, Debisi"
+    },
+    {
+        "id": 1173,
+        "question": "Mental ve vücutça sağlıklı, sağlık içinde olan",
+        "letter": "E",
+        "answer": "Esen"
+    },
+    {
+        "id": 55,
+        "question": "Yeşil bitkilerin ışık enerjisiyle besin üretmesi",
+        "letter": "F",
+        "answer": "fotosentez"
+    },
+    {
+        "id": 230,
+        "question": "Tasa, kaygı, üzüntü",
+        "letter": "G",
+        "answer": "gam"
+    },
+    {
+        "id": 593,
+        "question": "Uçan balonların içinde bulunan gaz",
+        "letter": "H",
+        "answer": "Helyum, Helyum gazı"
+    },
+    {
+        "id": 267,
+        "question": "Gereksiz yere para, zaman, emek vb.ni harcama, savurganlık",
+        "letter": "İ",
+        "answer": "israf, israf etme, israf etmek"
+    },
+    {
+        "id": 1834,
+        "question": "İNSANLARIN RAHATÇA OTURUP DİNLENMESİ İÇİN TASARLANMIŞ OTURMA EŞYASI",
+        "letter": "K",
+        "answer": "Koltuk"
+    },
+    {
+        "id": 1527,
+        "question": "Sükseli, kalantor, gösterişli kimse",
+        "letter": "L",
+        "answer": "Lort"
+    },
+    {
+        "id": 1945,
+        "question": "HALAYBAŞI AKSESUARI",
+        "letter": "M",
+        "answer": "Mendil"
+    },
+    {
+        "id": 640,
+        "question": "Söz, konuşma, söylev",
+        "letter": "N",
+        "answer": "Nutuk, Nutuk okuma, Nutuk okumak"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 1271,
+        "question": "\"Sokrates'in Savunması\" adlı eseri yazan ünlü filozof",
+        "letter": "P",
+        "answer": "Platon"
+    },
+    {
+        "id": 394,
+        "question": "Bir para biriminin veya malın satış ve sürüm değeri",
+        "letter": "R",
+        "answer": "rayiç, rayiç bedel, rayiç bedeli"
+    },
+    {
+        "id": 406,
+        "question": "Dik, çıkması ve geçilmesi güç (yer)",
+        "letter": "S",
+        "answer": "sarp"
+    },
+    {
+        "id": 425,
+        "question": "Bilinç, akıl",
+        "letter": "Ş",
+        "answer": "şuur"
+    },
+    {
+        "id": 1128,
+        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "letter": "T",
+        "answer": "tabak"
+    },
+    {
+        "id": 1513,
+        "question": "Bir nesnenin uzayda kapladığı yer, vüsat",
+        "letter": "U",
+        "answer": "Uzam"
+    },
+    {
+        "id": 458,
+        "question": "Herhangi bir topluluğu oluşturan bireylerden her biri",
+        "letter": "Ü",
+        "answer": "üye"
+    },
+    {
+        "id": 1867,
+        "question": "Tramvay Sürücüsü",
+        "letter": "V",
+        "answer": "Vatman"
+    },
+    {
+        "id": 1578,
+        "question": "Bir düşünceye, bir inanca aşırı ölçüde bağlı olan baskıcı kimse",
+        "letter": "Y",
+        "answer": "Yobaz"
+    },
+    {
+        "id": 775,
+        "question": "Kışın en şiddetli zamanı, karakış",
+        "letter": "Z",
+        "answer": "Zemheri, Zemheri vakti"
+    }
+]

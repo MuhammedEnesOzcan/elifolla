@@ -1,0 +1,158 @@
+[
+    {
+        "id": 782,
+        "question": "Ruh biliminde karşıt duygu, sevimsizlik, soğukluk",
+        "letter": "A",
+        "answer": "Antipati"
+    },
+    {
+        "id": 744,
+        "question": "Bir cismin herhangi bir yöndeki uzanımı",
+        "letter": "B",
+        "answer": "Boyut, boyutu"
+    },
+    {
+        "id": 164,
+        "question": "Gürültülü, karışık durum",
+        "letter": "C",
+        "answer": "curcuna"
+    },
+    {
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
+        "letter": "Ç",
+        "answer": "çakar"
+    },
+    {
+        "id": 793,
+        "question": "Para basılan yer",
+        "letter": "D",
+        "answer": "Darphane"
+    },
+    {
+        "id": 1416,
+        "question": "Araçlarla koruma işi",
+        "letter": "E",
+        "answer": "Eskortluk, eskort"
+    },
+    {
+        "id": 1327,
+        "question": "Bir sanık, tutuklu veya hükümlünün gözcülerin elinden kurtulması",
+        "letter": "F",
+        "answer": "Firar, firari, firar etme, firar etmek, firar etmesi"
+    },
+    {
+        "id": 239,
+        "question": "Alabildiğine, çokça",
+        "letter": "G",
+        "answer": "gırla"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 1204,
+        "question": "Kendi isteğiyle çalıştığı işi bırakmak",
+        "letter": "İ",
+        "answer": "İstifa, istifa etme, istifa etmek"
+    },
+    {
+        "id": 282,
+        "question": "Başlangıcı olmayan, eski, ezeli",
+        "letter": "K",
+        "answer": "kadim"
+    },
+    {
+        "id": 1612,
+        "question": "Yanardağların ağzından fışkırıp akan, soğuyunca donan erimiş madde",
+        "letter": "L",
+        "answer": "Lav"
+    },
+    {
+        "id": 956,
+        "question": "Mendelevyum'un simgesi",
+        "letter": "M",
+        "answer": "md"
+    },
+    {
+        "id": 1521,
+        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "letter": "N",
+        "answer": "Nova"
+    },
+    {
+        "id": 348,
+        "question": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+        "letter": "O",
+        "answer": "obur"
+    },
+    {
+        "id": 660,
+        "question": "Bir kuruluşa bağlı alt bölümlerin bütünü, teşkilat",
+        "letter": "Ö",
+        "answer": "Örgüt"
+    },
+    {
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
+        "letter": "P",
+        "answer": "plaj"
+    },
+    {
+        "id": 1640,
+        "question": "Müzikte durakların düzenli bir biçimde tekrarlanmasından doğan ses uygunluğu",
+        "letter": "R",
+        "answer": "Ritim, ritm"
+    },
+    {
+        "id": 1270,
+        "question": "Tarihte ilk yazılı metinlere sahip olan medeniyet",
+        "letter": "S",
+        "answer": "Sümer, Sümerler"
+    },
+    {
+        "id": 1912,
+        "question": "ÜLKE ÇAPINDA YAYGINLAŞTIRILMIŞ ULAŞIM VE İLETİŞİM ÖRGÜSÜ, AĞ",
+        "letter": "Ş",
+        "answer": "Şebeke, Şebeke ağı"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "letter": "U",
+        "answer": "uyruk"
+    },
+    {
+        "id": 868,
+        "question": "Bina eteği, etek duvarı veya subasman",
+        "letter": "Ü",
+        "answer": "Üstemel"
+    },
+    {
+        "id": 478,
+        "question": "Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç",
+        "letter": "V",
+        "answer": "vinç"
+    },
+    {
+        "id": 1584,
+        "question": "Bir işten elde edilen iyi sonuç, fayda",
+        "letter": "Y",
+        "answer": "Yarar"
+    },
+    {
+        "id": 511,
+        "question": "Saçma, saçma sapan, boş, anlamsız söz",
+        "letter": "Z",
+        "answer": "zırva"
+    }
+]

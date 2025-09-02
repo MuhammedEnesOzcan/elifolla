@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1667,
+        "question": "Renksiz, sarımsak kokulu, güçlü ve beyaz bir ışık vererek yanan hidrokarbonlu bir gaz",
+        "letter": "A",
+        "answer": "Asetilen"
+    },
+    {
+        "id": 129,
+        "question": "Veteriner hekim",
+        "letter": "B",
+        "answer": "baytar"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 791,
+        "question": "Kim olduğunu hatırlamak, tanımak",
+        "letter": "Ç",
+        "answer": "Çıkarma, Çıkarmak"
+    },
+    {
+        "id": 1385,
+        "question": "Evlenme veya sünnet dolayısıyla yapılan tören, eğlence",
+        "letter": "D",
+        "answer": "Düğün"
+    },
+    {
+        "id": 558,
+        "question": "Nağme ve melodi sözlerinin Türkçe kökenli karşılığı",
+        "letter": "E",
+        "answer": "Ezgi"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 1425,
+        "question": "Eksikliği duyulan şey, ihtiyaç",
+        "letter": "G",
+        "answer": "Gereksinim, gerekli"
+    },
+    {
+        "id": 974,
+        "question": "Hiçbir işe yaramadan yok olma, boşa gitme",
+        "letter": "H",
+        "answer": "Heba, heba olma, heba olmak, heba olması"
+    },
+    {
+        "id": 1610,
+        "question": "Bir bedelin ödenmesi sırasında yapılan indirim",
+        "letter": "İ",
+        "answer": "İskonto, iskonto uygulama, iskonto uygulamak"
+    },
+    {
+        "id": 1206,
+        "question": "Güzel yazı yazma sanatı",
+        "letter": "K",
+        "answer": "Kaligrafi"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 818,
+        "question": "Eski zamanların tek kişilik komedi gösterisi ustası",
+        "letter": "M",
+        "answer": "Meddah"
+    },
+    {
+        "id": 916,
+        "question": "Durgun sularda ya da havuzlarda yetişen, geniş yapraklı su bitkisi",
+        "letter": "N",
+        "answer": "Nilüfer, nılufer"
+    },
+    {
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
+        "letter": "O",
+        "answer": "Opak"
+    },
+    {
+        "id": 361,
+        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
+        "letter": "Ö",
+        "answer": "önem"
+    },
+    {
+        "id": 1017,
+        "question": "Üzerine bildiri, açıklama veya tanıtma kâğıtları tutturmak için hazırlanmış levha",
+        "letter": "P",
+        "answer": "pano"
+    },
+    {
+        "id": 388,
+        "question": "İkiyüzlülük",
+        "letter": "R",
+        "answer": "riya, riyakar, riyakarlık"
+    },
+    {
+        "id": 1270,
+        "question": "Tarihte ilk yazılı metinlere sahip olan medeniyet",
+        "letter": "S",
+        "answer": "Sümer, Sümerler"
+    },
+    {
+        "id": 1055,
+        "question": "Şiir söyleyen veya yazan kimse",
+        "letter": "Ş",
+        "answer": "Şair"
+    },
+    {
+        "id": 704,
+        "question": "Kaynak aracılığıyla doğrulama, kontrol etme",
+        "letter": "T",
+        "answer": "Teyit, teyit etme, teyit etmek"
+    },
+    {
+        "id": 455,
+        "question": "Açıkgöz, kurnaz, cingöz",
+        "letter": "U",
+        "answer": "uyanık"
+    },
+    {
+        "id": 729,
+        "question": "Özen göstermeden, gelişigüzel, baştan savma yapılan",
+        "letter": "Ü",
+        "answer": "Üstünkörü"
+    },
+    {
+        "id": 471,
+        "question": "Bir işi yerine getirmek için verilen söz",
+        "letter": "V",
+        "answer": "vaat"
+    },
+    {
+        "id": 493,
+        "question": "Kötülüklerini söylemek, zemmetmek",
+        "letter": "Y",
+        "answer": "yermek"
+    },
+    {
+        "id": 1290,
+        "question": "Keyifli, eğlenceli olan",
+        "letter": "Z",
+        "answer": "Zevkli, zevk"
+    }
+]

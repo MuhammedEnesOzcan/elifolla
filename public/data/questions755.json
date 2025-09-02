@@ -1,0 +1,158 @@
+[
+    {
+        "id": 118,
+        "question": "Genellikle üzeri siperli masa lambası veya ayaklı lamba",
+        "letter": "A",
+        "answer": "abajur"
+    },
+    {
+        "id": 1297,
+        "question": "Bir şeyin iyi gelişmesi, iyi bir durumda kalması için verilen emek",
+        "letter": "B",
+        "answer": "Bakım, bakım yapma, bakım yapmak"
+    },
+    {
+        "id": 534,
+        "question": "Ameliyat yapan uzman hekim, operatör",
+        "letter": "C",
+        "answer": "Cerrah"
+    },
+    {
+        "id": 168,
+        "question": "Yasa dışı işler yapmak veya etrafındakileri korkutmak amacıyla bir araya gelmiş topluluk",
+        "letter": "Ç",
+        "answer": "çete"
+    },
+    {
+        "id": 1694,
+        "question": "ÇEŞİTLİ TONLARI BULUNAN KIZIL KAHVE AT RENGİ",
+        "letter": "D",
+        "answer": "Doru"
+    },
+    {
+        "id": 1798,
+        "question": "İSLAM'DA İBADET ÇAĞRISI",
+        "letter": "E",
+        "answer": "Ezan"
+    },
+    {
+        "id": 1326,
+        "question": "Tüzel kişiliği olsun olmasın bir ekonomik etkinlik birimi",
+        "letter": "F",
+        "answer": "Firma"
+    },
+    {
+        "id": 1212,
+        "question": "Maddenin uçucu hali",
+        "letter": "G",
+        "answer": "Gaz, gaz hali"
+    },
+    {
+        "id": 1866,
+        "question": "ZEVKİ İÇİN PARA HARCAMAKTAN KAÇINMAYAN KİMSE",
+        "letter": "H",
+        "answer": "Hovarda"
+    },
+    {
+        "id": 755,
+        "question": "Ticari hezimet",
+        "letter": "İ",
+        "answer": "İflas, iflas etme, iflas etmek"
+    },
+    {
+        "id": 1818,
+        "question": "Alışverişte durgunluk",
+        "letter": "K",
+        "answer": "Kesat, kesatlık, kesat iş, kesat işler"
+    },
+    {
+        "id": 297,
+        "question": "Nilüfer cinsinden birçok bitkiye verilen genel ad",
+        "letter": "L",
+        "answer": "lotus"
+    },
+    {
+        "id": 1892,
+        "question": "Bilgisayarın telefon hattına bağlanarak internete bağlanmasını sağlayan aygıt",
+        "letter": "M",
+        "answer": "Modem"
+    },
+    {
+        "id": 327,
+        "question": "Haykırma, bağırma",
+        "letter": "N",
+        "answer": "nara, nara atma, nara atmak"
+    },
+    {
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "letter": "O",
+        "answer": "OLGU"
+    },
+    {
+        "id": 657,
+        "question": "Mecliste bir konuda oylamaya sunularak karar verilmesi istenen yazılı kâğıt",
+        "letter": "Ö",
+        "answer": "Önerge"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 1634,
+        "question": "Hindistan, Nepal, Pakistan'da kullanılan para birimi",
+        "letter": "R",
+        "answer": "Rupi"
+    },
+    {
+        "id": 694,
+        "question": "Sarmal biçiminde olan",
+        "letter": "S",
+        "answer": "Spiral"
+    },
+    {
+        "id": 1458,
+        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
+        "letter": "Ş",
+        "answer": "Şurup"
+    },
+    {
+        "id": 1554,
+        "question": "Laboratuvarlarda türlü işlerde kullanılan, bir ucu kapalı cam boru",
+        "letter": "T",
+        "answer": "Tüp"
+    },
+    {
+        "id": 893,
+        "question": "Kaşındırıcı bir deri hastalığı",
+        "letter": "U",
+        "answer": "Uyuz"
+    },
+    {
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
+        "letter": "Ü",
+        "answer": "Üzenti"
+    },
+    {
+        "id": 1506,
+        "question": "Geliş, gelme",
+        "letter": "V",
+        "answer": "Vürut"
+    },
+    {
+        "id": 953,
+        "question": "Tibet öküzü",
+        "letter": "Y",
+        "answer": "yak, yak sığırı"
+    },
+    {
+        "id": 719,
+        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "letter": "Z",
+        "answer": "Zindan"
+    }
+]

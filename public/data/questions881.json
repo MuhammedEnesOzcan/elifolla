@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1549,
+        "question": "Kınamak, takbih etmek",
+        "letter": "A",
+        "answer": "Ayıplamak"
+    },
+    {
+        "id": 1230,
+        "question": "Birdenbire ortaya çıkan tehlikeli durum",
+        "letter": "B",
+        "answer": "Badire, badire atlatma, badire atlatmak"
+    },
+    {
+        "id": 1360,
+        "question": "Kuşların ötüşürken çıkardıkları ses",
+        "letter": "C",
+        "answer": "Cıvıltı, cıvıldama, cıvıldamak"
+    },
+    {
+        "id": 748,
+        "question": "Araçların trafikte üstünlük sağlamak için kullandığı kırmızı-mavi ışıklar",
+        "letter": "Ç",
+        "answer": "Çakar, çakar lamba, çakar lambası"
+    },
+    {
+        "id": 1391,
+        "question": "Yabancı ülke parası",
+        "letter": "D",
+        "answer": "Döviz"
+    },
+    {
+        "id": 216,
+        "question": "Damar tıkanıklığı",
+        "letter": "E",
+        "answer": "emboli"
+    },
+    {
+        "id": 220,
+        "question": "Belirli nesneler veya durumlar karşısında duyulan olağan dışı güçlü korku",
+        "letter": "F",
+        "answer": "fobi"
+    },
+    {
+        "id": 241,
+        "question": "Öfke, kızgınlık, hiddet",
+        "letter": "G",
+        "answer": "gazap"
+    },
+    {
+        "id": 754,
+        "question": "Hem et hem de otla beslenen canlılar",
+        "letter": "H",
+        "answer": "Hepçil, Hepobur"
+    },
+    {
+        "id": 604,
+        "question": "Gerçeğin gülünç yanını ortaya koyan ince alay",
+        "letter": "İ",
+        "answer": "İroni"
+    },
+    {
+        "id": 1288,
+        "question": "Mukayese etmek, karşılaştırmak",
+        "letter": "K",
+        "answer": "Kıyaslamak, kıyaslama, kıyas yapma, kıyas yapmak"
+    },
+    {
+        "id": 623,
+        "question": "Eğlence yerlerinde veya parlamento salonlarında özel bölme",
+        "letter": "L",
+        "answer": "Loca"
+    },
+    {
+        "id": 1893,
+        "question": "“BİLEREK, İSTEYEREK, KASTEN” ANLAMLARINA GELEN SÖZCÜK",
+        "letter": "M",
+        "answer": "Mahsus"
+    },
+    {
+        "id": 1224,
+        "question": "Çaresi, çözümü olmayan, çaresiz olan",
+        "letter": "N",
+        "answer": "Naçar, naçarlık, nafile"
+    },
+    {
+        "id": 1113,
+        "question": "Büyük ve süslü çadır, çerge",
+        "letter": "O",
+        "answer": "Otağ"
+    },
+    {
+        "id": 1006,
+        "question": "Küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı",
+        "letter": "Ö",
+        "answer": "Öcü"
+    },
+    {
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "letter": "P",
+        "answer": "plak"
+    },
+    {
+        "id": 1122,
+        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
+        "letter": "R",
+        "answer": "rapor"
+    },
+    {
+        "id": 415,
+        "question": "Bir şey bildirmek için verilen işaret",
+        "letter": "S",
+        "answer": "sinyal"
+    },
+    {
+        "id": 1684,
+        "question": "Otomobil iç lastiği",
+        "letter": "Ş",
+        "answer": "Şambrel"
+    },
+    {
+        "id": 1750,
+        "question": "Dini referanslar dikkate alınarak yönetilen hükümet sistemi",
+        "letter": "T",
+        "answer": "Teokrasi"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 464,
+        "question": "Korkuya çabuk kapılan",
+        "letter": "Ü",
+        "answer": "ürkek"
+    },
+    {
+        "id": 1208,
+        "question": "Manşet, smaç, pas gibi terimlerin bulunduğu spor dalı",
+        "letter": "V",
+        "answer": "Voleybol"
+    },
+    {
+        "id": 718,
+        "question": "Üstünde yaşadığımız gök cismi",
+        "letter": "Y",
+        "answer": "Yer küre"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

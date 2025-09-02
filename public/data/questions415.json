@@ -1,0 +1,158 @@
+[
+    {
+        "id": 125,
+        "question": "Eşyayı sarmaya yarayan mukavva, kâğıt, tahta, plastik vb. malzeme",
+        "letter": "A",
+        "answer": "ambalaj"
+    },
+    {
+        "id": 149,
+        "question": "`Aferin, yaşa` anlamlarında beğeni bildiren bir söz",
+        "letter": "B",
+        "answer": "bravo"
+    },
+    {
+        "id": 1362,
+        "question": "Aynı eğilimde olan, aynı görüşü paylaşan kimselerin oluşturduğu hareket",
+        "letter": "C",
+        "answer": "Cereyan, cereyan etme, cereyan etmek"
+    },
+    {
+        "id": 166,
+        "question": "Dağın bir noktasından kopup yuvarlanan ve yuvarlandıkça büyüyen kar kümesi",
+        "letter": "Ç",
+        "answer": "çığ"
+    },
+    {
+        "id": 1217,
+        "question": "Bir devletin resmi para biriminin diğer ülke dövizleri karşısında değer kaybettirilmesi ",
+        "letter": "D",
+        "answer": "Devaülasyon, develasyon, devalasyon, devolasyon, devalüasyon"
+    },
+    {
+        "id": 202,
+        "question": "Bir devleti başka bir devlet katında temsil eden kimse, sefir",
+        "letter": "E",
+        "answer": "elçi"
+    },
+    {
+        "id": 1093,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "Facia"
+    },
+    {
+        "id": 1260,
+        "question": "Bisiklet direksiyonu",
+        "letter": "G",
+        "answer": "Gidon"
+    },
+    {
+        "id": 1733,
+        "question": "Normalin üstünde bir hareketliliğe ve aktifliğe sahip olma durumu",
+        "letter": "H",
+        "answer": "Hiperaktivite, hiperaktiflik"
+    },
+    {
+        "id": 1973,
+        "question": "Bir şeyi saklamadan direkt olarak söylemek",
+        "letter": "İ",
+        "answer": "İkrar"
+    },
+    {
+        "id": 1897,
+        "question": "TENİ VE SAÇLARI SARIYA ÇALAN AÇIK BUĞDAY RENGİ OLAN KİMSE",
+        "letter": "K",
+        "answer": "Kumral"
+    },
+    {
+        "id": 1959,
+        "question": "İçinde her türlü donanım bulunan lüks, uzun ve geniş otomobil türü",
+        "letter": "L",
+        "answer": "Limuzin"
+    },
+    {
+        "id": 1620,
+        "question": "Taş, toprak vb. değersiz yapı döküntüsü",
+        "letter": "M",
+        "answer": "Moloz"
+    },
+    {
+        "id": 54,
+        "question": "Afrika'nın en uzun nehri",
+        "letter": "N",
+        "answer": "Nil, Nil nehri"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 932,
+        "question": "Eleman, unsur",
+        "letter": "Ö",
+        "answer": "öge, öğe"
+    },
+    {
+        "id": 1742,
+        "question": "Yerden kaynayarak çıkan su kaynağı",
+        "letter": "P",
+        "answer": "Pınar"
+    },
+    {
+        "id": 1037,
+        "question": "Aruz ölçülerinden biri",
+        "letter": "R",
+        "answer": "Remel"
+    },
+    {
+        "id": 828,
+        "question": "Dokuz karenin belirli bir şekilde geçilmesine dayanan çocuk oyunu",
+        "letter": "S",
+        "answer": "Seksek"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 1698,
+        "question": "Eski dilde tıp doktoru, hekim",
+        "letter": "T",
+        "answer": "Tabip"
+    },
+    {
+        "id": 768,
+        "question": "Sıkıntı duyumsamak, bezmek, bıkmak",
+        "letter": "U",
+        "answer": "Usanma, Usanmak"
+    },
+    {
+        "id": 38,
+        "question": "Fakülteler topluluğu",
+        "letter": "Ü",
+        "answer": "ÜNİVERSİTE"
+    },
+    {
+        "id": 1138,
+        "question": "Tehlikeli durum",
+        "letter": "V",
+        "answer": "varta, vuku, vukuat"
+    },
+    {
+        "id": 718,
+        "question": "Üstünde yaşadığımız gök cismi",
+        "letter": "Y",
+        "answer": "Yer küre"
+    },
+    {
+        "id": 1167,
+        "question": "En yüksek nokta, tepe",
+        "letter": "Z",
+        "answer": "Zirve"
+    }
+]

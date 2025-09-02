@@ -1,0 +1,158 @@
+[
+    {
+        "id": 519,
+        "question": "Tatar yayı veya kurmalı yay denen uzak mesafe silahı",
+        "letter": "A",
+        "answer": "Arbalet"
+    },
+    {
+        "id": 1601,
+        "question": "Genellikle bir şeyi tanıtmayı amaçlayan, sayfa sayısı az, küçük kitap",
+        "letter": "B",
+        "answer": "Broşür"
+    },
+    {
+        "id": 1370,
+        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
+        "letter": "C",
+        "answer": "Cumhuriyet"
+    },
+    {
+        "id": 1541,
+        "question": "Şundan dolayı, şu sebeple, zira",
+        "letter": "Ç",
+        "answer": "Çünkü"
+    },
+    {
+        "id": 1402,
+        "question": "Üniversitelerde bir fakültenin yönetiminden sorumlu profesör",
+        "letter": "D",
+        "answer": "Dekan"
+    },
+    {
+        "id": 1798,
+        "question": "İSLAM'DA İBADET ÇAĞRISI",
+        "letter": "E",
+        "answer": "Ezan"
+    },
+    {
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
+        "letter": "F",
+        "answer": "fünye"
+    },
+    {
+        "id": 1428,
+        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+        "letter": "G",
+        "answer": "Gard"
+    },
+    {
+        "id": 253,
+        "question": "Çok güzel el yazısı yazan sanatçı",
+        "letter": "H",
+        "answer": "hattat"
+    },
+    {
+        "id": 1498,
+        "question": "Alınacak tedbirleri uygulamama, savsaklama",
+        "letter": "İ",
+        "answer": "İhmal, ihmalkarlık, ihmal etme, ihmal etmek"
+    },
+    {
+        "id": 606,
+        "question": "Kara ile suyun birleştiği yer",
+        "letter": "K",
+        "answer": "Kıyı"
+    },
+    {
+        "id": 294,
+        "question": "Gösterişli, şatafatlı olan",
+        "letter": "L",
+        "answer": "lüks"
+    },
+    {
+        "id": 1619,
+        "question": "Bir eserde sık sık tekrarlanan süsleyici öge",
+        "letter": "M",
+        "answer": "Motif"
+    },
+    {
+        "id": 642,
+        "question": "Davranışı kaba, sert ve gönül kırıcı olan",
+        "letter": "N",
+        "answer": "Nobran"
+    },
+    {
+        "id": 345,
+        "question": "Yenecek duruma gelmiş (meyve)",
+        "letter": "O",
+        "answer": "olgun, olgunlaşmış, olgun meyve"
+    },
+    {
+        "id": 1535,
+        "question": "Bilimde bir düzenli görüşü oluşturan ilke ve dogmaların bütünü, meslek, doktrin",
+        "letter": "Ö",
+        "answer": "Öğreti"
+    },
+    {
+        "id": 1016,
+        "question": "Posta parası karşılığı mektuplara, damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası",
+        "letter": "P",
+        "answer": "Pul"
+    },
+    {
+        "id": 1037,
+        "question": "Aruz ölçülerinden biri",
+        "letter": "R",
+        "answer": "Remel"
+    },
+    {
+        "id": 1124,
+        "question": "Acı, yoksulluk, haksızlık vb. üzücü durumlar karşısında ses çıkarmadan onların geçmesini bekleme erdemi, dayanç",
+        "letter": "S",
+        "answer": "sabır"
+    },
+    {
+        "id": 432,
+        "question": "Belli bir amaçla düzenlenen eğlence",
+        "letter": "Ş",
+        "answer": "şölen, şenlik"
+    },
+    {
+        "id": 835,
+        "question": "Sabaha doğru çıkan hafif rüzgar",
+        "letter": "T",
+        "answer": "Tanyeli, tan, tan rüzgarı"
+    },
+    {
+        "id": 456,
+        "question": "Gökyüzünde tanımlanamayan cisim",
+        "letter": "U",
+        "answer": "ufo"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 1569,
+        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "letter": "V",
+        "answer": "Varyete"
+    },
+    {
+        "id": 906,
+        "question": "Kısa kollu ceket, mont",
+        "letter": "Y",
+        "answer": "Yelek"
+    },
+    {
+        "id": 504,
+        "question": "Savaşta kazanılan başarı",
+        "letter": "Z",
+        "answer": "zafer"
+    }
+]

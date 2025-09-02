@@ -1,0 +1,158 @@
+[
+    {
+        "id": 743,
+        "question": "Eski çağlardan kalma yapıt",
+        "letter": "A",
+        "answer": "Antik, Antika"
+    },
+    {
+        "id": 144,
+        "question": "Mecazi anlamda \"Şanslı\"",
+        "letter": "B",
+        "answer": "ballı"
+    },
+    {
+        "id": 914,
+        "question": "At Alıp Satan Kimse",
+        "letter": "C",
+        "answer": "Cambaz, canbaz"
+    },
+    {
+        "id": 1890,
+        "question": "“TORTU” KELİMESİNİN EŞ ANLAMLISI",
+        "letter": "Ç",
+        "answer": "Çökelti"
+    },
+    {
+        "id": 1716,
+        "question": "Zor koşullarda asıl oyuncu yerine aynı rol için oynatılan yedek oyuncu",
+        "letter": "D",
+        "answer": "Dublör"
+    },
+    {
+        "id": 750,
+        "question": "Kazalara alınmış tedbirler",
+        "letter": "E",
+        "answer": "Emniyet"
+    },
+    {
+        "id": 1326,
+        "question": "Tüzel kişiliği olsun olmasın bir ekonomik etkinlik birimi",
+        "letter": "F",
+        "answer": "Firma"
+    },
+    {
+        "id": 22,
+        "question": "Ahmaklık, anlayışsızlık, kalın kafalılık, bönlük",
+        "letter": "G",
+        "answer": "gabavet"
+    },
+    {
+        "id": 591,
+        "question": "Merkezi vücut sıcaklığının 35°C altına düşmesi",
+        "letter": "H",
+        "answer": "Hipotermi"
+    },
+    {
+        "id": 265,
+        "question": "Eksik bir şeyi tamamlama, daha iyi duruma getirme, bütünleme",
+        "letter": "İ",
+        "answer": "ikmal, ikmâl"
+    },
+    {
+        "id": 1206,
+        "question": "Güzel yazı yazma sanatı",
+        "letter": "K",
+        "answer": "Kaligrafi"
+    },
+    {
+        "id": 918,
+        "question": "Hiç tuzu olmayan yumuşak krem peynir",
+        "letter": "L",
+        "answer": "Labne"
+    },
+    {
+        "id": 1892,
+        "question": "Bilgisayarın telefon hattına bağlanarak internete bağlanmasını sağlayan aygıt",
+        "letter": "M",
+        "answer": "Modem"
+    },
+    {
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "letter": "N",
+        "answer": "Noter"
+    },
+    {
+        "id": 348,
+        "question": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+        "letter": "O",
+        "answer": "obur"
+    },
+    {
+        "id": 354,
+        "question": "Dokularda, hücreler arası boşluklarda aşırı miktarda sıvı birikmesi",
+        "letter": "Ö",
+        "answer": "ödem"
+    },
+    {
+        "id": 671,
+        "question": "Aynı düzlem içinde bulunan ve birbiriyle kesişmeyen",
+        "letter": "P",
+        "answer": "Paralel"
+    },
+    {
+        "id": 679,
+        "question": "Bir mağazanın yalnız bir tür eşya satılan bölümü",
+        "letter": "R",
+        "answer": "Reyon, reyonu"
+    },
+    {
+        "id": 1270,
+        "question": "Tarihte ilk yazılı metinlere sahip olan medeniyet",
+        "letter": "S",
+        "answer": "Sümer, Sümerler"
+    },
+    {
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
+        "letter": "Ş",
+        "answer": "şakrak"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 1079,
+        "question": "Birinin yapmakla yükümlü olduğu iş, görev",
+        "letter": "U",
+        "answer": "uhde"
+    },
+    {
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
+        "letter": "Ü",
+        "answer": "Üzenti"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 1581,
+        "question": "Kitapların, dergilerin, gazetelerin yayınlanıp hazırlandığı yer",
+        "letter": "Y",
+        "answer": "Yayınevi"
+    },
+    {
+        "id": 509,
+        "question": "İrade zayıflığı, eksiklik",
+        "letter": "Z",
+        "answer": "zaaf"
+    }
+]

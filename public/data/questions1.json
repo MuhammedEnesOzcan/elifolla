@@ -1,75 +1,75 @@
 [
     {
-        "id": 1820,
-        "question": "Giysiyi bütünleyen çanta, kemer vb. gibi şeyler",
+        "id": 1727,
+        "question": "Ay yüzeyine yapılan ilk insanlı uzay uçuşu projesi",
         "letter": "A",
-        "answer": "Aksesuar, Aksessuar"
+        "answer": "Apollo, apollo 11"
     },
     {
-        "id": 147,
-        "question": "Daha kötü, çok kötü",
+        "id": 1286,
+        "question": "Dolu olmayan alan, aralık",
         "letter": "B",
-        "answer": "beter"
+        "answer": "Boşluk, boş, boş alan"
     },
     {
-        "id": 1372,
-        "question": "İnce, yuvarlak kesilerek kızartılmış patates",
+        "id": 915,
+        "question": "Sonu Olmayan, Sonsuz, Ebedi, Ölümsüz",
         "letter": "C",
-        "answer": "Cips"
+        "answer": "Cavit"
     },
     {
-        "id": 1859,
-        "question": "AYAKLA ÇİĞNENDİĞİNDE YA DA DUVARA SÜRTÜLDÜĞÜNDE PATLAYAN EĞLENCE FİŞEĞİ",
+        "id": 169,
+        "question": "Çam vb. reçineli ağaçların yağlı ve çabuk yanmaya elverişli bölümü",
         "letter": "Ç",
-        "answer": "Çatapat"
+        "answer": "çıra"
     },
     {
-        "id": 1764,
-        "question": "ACI, ÜZÜNTÜ VEYA PİŞMANLIK SEBEBİYLE KENDİ KENDİNE VURMAK",
+        "id": 1967,
+        "question": "BOZUK VE KUSURLU GİYSİLER VEYA EŞYALARIN GENEL ADI",
         "letter": "D",
-        "answer": "Dövünme, Dövünmek"
+        "answer": "DEFOLU"
     },
     {
-        "id": 212,
-        "question": "Bütünleşmiş, dahili",
+        "id": 1406,
+        "question": "Toprak, kül gibi toz durumunda bulunan şeyleri hafifçe kazıp karıştırmak",
         "letter": "E",
-        "answer": "entegre"
+        "answer": "Eşelemek, eşeleme"
     },
     {
-        "id": 1713,
-        "question": "Karınca asidi olarak bilinen kimyadaki asit türü",
+        "id": 567,
+        "question": "Yanıcı bir maddeden aldığı itici güçle hareket eden düzenek",
         "letter": "F",
-        "answer": "Formik, Formik asit, Formik asid"
+        "answer": "Füze"
     },
     {
-        "id": 801,
-        "question": "Kolları açarak, göğsü ileriye omuzları geriye doğru esnetmek",
+        "id": 1421,
+        "question": "İzmir yöresinde simitin diğer adı",
         "letter": "G",
-        "answer": "Gerinmek, Gerinme, Gerilmek, Gerilme"
+        "answer": "Gevrek"
     },
     {
-        "id": 58,
-        "question": "Sebze, meyve, bakliyat gibi ürünlerin toptan satıldığı yer",
+        "id": 805,
+        "question": "Atak tabiatlı küçük savaş gemisi",
         "letter": "H",
-        "answer": "Hal, Hâl"
+        "answer": "Hücumbot, Hücumbotu"
     },
     {
-        "id": 1692,
-        "question": "“TRAFİĞİ ÇOK OLAN, CANLI, HAREKETLİ, YOĞUN VE KALABALIK” ANLAMLARINDA KULLANILAN BİR SÖZ",
+        "id": 1160,
+        "question": "Anlaşma, bağlaşma, birlik",
         "letter": "İ",
-        "answer": "İşlek, işlek yol, işlek cadde"
+        "answer": "İttifak"
     },
     {
-        "id": 1190,
-        "question": "Üzerinde harfler, rakamlar, işaretler ve bazı işlevleri bulunan bilgisayar giriş ögesi",
+        "id": 1206,
+        "question": "Güzel yazı yazma sanatı",
         "letter": "K",
-        "answer": "Klavye"
+        "answer": "Kaligrafi"
     },
     {
-        "id": 918,
-        "question": "Hiç tuzu olmayan yumuşak krem peynir",
+        "id": 617,
+        "question": "Çok dar bir ışık huzmesi üreten optik araç",
         "letter": "L",
-        "answer": "Labne"
+        "answer": "Lazer"
     },
     {
         "id": 317,
@@ -84,28 +84,28 @@
         "answer": "Naçar, naçarlık, nafile"
     },
     {
-        "id": 1516,
-        "question": "Elle yapılan kalın, seyrek dikiş",
+        "id": 1517,
+        "question": "Alçak iskemle",
         "letter": "O",
-        "answer": "Oyulga"
+        "answer": "Oturak"
     },
     {
-        "id": 656,
-        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "id": 1005,
+        "question": "Örme işi veya biçimi",
         "letter": "Ö",
-        "answer": "Ödün, Ödün verme, Ödün vermek"
+        "answer": "Örgü"
     },
     {
-        "id": 1019,
-        "question": "Telli sazları çalmaya yarayan ve kemik, boynuz vb. şeylerden yapılan çalma aracı, mızrap, çalgıç",
+        "id": 823,
+        "question": "Bir balık ve bir meyve türünün ortak adı",
         "letter": "P",
-        "answer": "pena"
+        "answer": "Palamut"
     },
     {
-        "id": 1278,
-        "question": "Uyku sırasında görülen olaylar",
+        "id": 1864,
+        "question": "YÜZEYDE KALMAYIP DERİNE İNEN, ASIL KONUYU DA İÇİNE ALAN, KÖKTEN",
         "letter": "R",
-        "answer": "Rüya"
+        "answer": "Radikal"
     },
     {
         "id": 1756,
@@ -114,45 +114,45 @@
         "answer": "Sima"
     },
     {
-        "id": 429,
-        "question": "Söyleyiş özelliği",
+        "id": 419,
+        "question": "Yetki ve sorumluluğu olan, yöneten kimse",
         "letter": "Ş",
-        "answer": "şive"
+        "answer": "şef"
     },
     {
-        "id": 713,
-        "question": "Büyük ölçüde, çok miktarda yapılan (alışveriş)",
+        "id": 710,
+        "question": "Cep telefonu operatörlerinin belirledikleri fiyatlandırma sistemi",
         "letter": "T",
-        "answer": "Toptan, toptan alışveriş"
+        "answer": "Tarife"
     },
     {
-        "id": 1131,
-        "question": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren",
+        "id": 1074,
+        "question": "Türk müziğinde ana makamlardan biri",
         "letter": "U",
-        "answer": "ufuk"
+        "answer": "Uşşak"
     },
     {
-        "id": 878,
-        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
+        "id": 459,
+        "question": "Çok uçta, kenarda veya kıyıda köşede olan",
         "letter": "Ü",
-        "answer": "Ülkü"
+        "answer": "ücra"
     },
     {
-        "id": 870,
-        "question": "Bir vadi ya da ırmak üzerine kurulan yüksek ve uzun köprü",
+        "id": 1708,
+        "question": "Kökeni fransızca olup evlerin giriş kısmında ve ayakkabı, mont vb. şeylerin konulduğu yer",
         "letter": "V",
-        "answer": "Viyadük, vıyaduk"
+        "answer": "Vestiyer"
     },
     {
-        "id": 884,
-        "question": "Soğanlı et yemeği",
+        "id": 1719,
+        "question": "Öğrencilerin topluca kaldıkları geçici ikametgah ",
         "letter": "Y",
-        "answer": "Yahni"
+        "answer": "Yurt"
     },
     {
-        "id": 501,
-        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
+        "id": 857,
+        "question": "Çiçek Açan - Çoban Yıldızı (Venüs)",
         "letter": "Z",
-        "answer": "zırh"
+        "answer": "Zühre, zuhre"
     }
 ]

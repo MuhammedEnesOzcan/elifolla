@@ -1,0 +1,158 @@
+[
+    {
+        "id": 101,
+        "question": "Tasavvufta manevi üst bir rütbe",
+        "letter": "A",
+        "answer": "abdal"
+    },
+    {
+        "id": 148,
+        "question": "Bir müzik eserini oluşturan ezgilerin bütünü",
+        "letter": "B",
+        "answer": "beste"
+    },
+    {
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
+        "letter": "C",
+        "answer": "Cenah"
+    },
+    {
+        "id": 1762,
+        "question": "Her zaman menfaati doğrultusunda hareket eden kişi",
+        "letter": "Ç",
+        "answer": "Çıkarcı"
+    },
+    {
+        "id": 794,
+        "question": "Belli bir esasa göre verilen buyruk, talimat, yönerge",
+        "letter": "D",
+        "answer": "Direktif"
+    },
+    {
+        "id": 1407,
+        "question": "Kaynatılarak koyu kıvamlı duruma getirilen sert İtalyan kahvesi",
+        "letter": "E",
+        "answer": "Espresso"
+    },
+    {
+        "id": 229,
+        "question": "Tanıtma filmi",
+        "letter": "F",
+        "answer": "fragman"
+    },
+    {
+        "id": 577,
+        "question": "Çenede veya yanakta olan küçük çukur",
+        "letter": "G",
+        "answer": "Gamze"
+    },
+    {
+        "id": 586,
+        "question": "Tek seferde söylenen ses birliği",
+        "letter": "H",
+        "answer": "Hece, Heceleme, Hecelemek"
+    },
+    {
+        "id": 595,
+        "question": "Futbolda \"Üç Büyükler\"in bulunduğu ilimiz",
+        "letter": "İ",
+        "answer": "İstanbul"
+    },
+    {
+        "id": 1897,
+        "question": "TENİ VE SAÇLARI SARIYA ÇALAN AÇIK BUĞDAY RENGİ OLAN KİMSE",
+        "letter": "K",
+        "answer": "Kumral"
+    },
+    {
+        "id": 302,
+        "question": "Bazı bitkilerin genellikle süt görünüşünde olan öz suyu",
+        "letter": "L",
+        "answer": "lateks"
+    },
+    {
+        "id": 319,
+        "question": "Bir olayın, bir durumun etkisinde veya karşısında bulunan",
+        "letter": "M",
+        "answer": "maruz, maruz kalan"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 1001,
+        "question": "Erkek çocuk",
+        "letter": "O",
+        "answer": "Oğlan"
+    },
+    {
+        "id": 663,
+        "question": "Bir işin ilerisini kestirme, tahmin etmek",
+        "letter": "Ö",
+        "answer": "Öngörü, Öngörmek"
+    },
+    {
+        "id": 822,
+        "question": "Haftanın belli günleri seyyar satıcıların sergi açtıkları sokak veya alan",
+        "letter": "P",
+        "answer": "Pazar, Pazaryeri"
+    },
+    {
+        "id": 398,
+        "question": "Havalimanında uçuşun gecikme durumu",
+        "letter": "R",
+        "answer": "rötar"
+    },
+    {
+        "id": 1800,
+        "question": "Hareketlinin birim zamanda aldığı yol",
+        "letter": "S",
+        "answer": "Sürat"
+    },
+    {
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
+        "letter": "Ş",
+        "answer": "Şahsi"
+    },
+    {
+        "id": 1970,
+        "question": "BİR ŞEYİ RESMİ OLARAK KAYDETME, KÜTÜĞE GEÇİRME",
+        "letter": "T",
+        "answer": "TESCİL, TESCİLLEME, TESCİLLEMEK"
+    },
+    {
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "letter": "U",
+        "answer": "Uydu, uydusu"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 865,
+        "question": "Kelimeler yerine, sadece sesli harfler kullanarak, insan sesiyle müzik icra etmek",
+        "letter": "V",
+        "answer": "Vokaliz, vokalız"
+    },
+    {
+        "id": 488,
+        "question": "Yürüyerek giden kimse",
+        "letter": "Y",
+        "answer": "yaya"
+    },
+    {
+        "id": 1167,
+        "question": "En yüksek nokta, tepe",
+        "letter": "Z",
+        "answer": "Zirve"
+    }
+]

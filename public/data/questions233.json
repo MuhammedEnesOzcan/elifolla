@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1695,
+        "question": "Otobüs, tren gibi ulaşım araçlarında para yerine geçen sürekliliği olan bilet veya kart",
+        "letter": "A",
+        "answer": "Abonman"
+    },
+    {
+        "id": 1833,
+        "question": "İNSANIN KENDİSİNİ VE ÇEVRESİNİ TANIMA YETENEĞİ, ŞUUR",
+        "letter": "B",
+        "answer": "Bilinç"
+    },
+    {
+        "id": 1923,
+        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "letter": "C",
+        "answer": "Cıvık"
+    },
+    {
+        "id": 1816,
+        "question": "MECAZEN; DİNÇLİĞİNİ KAYBETMEK, İHTİYARLAMAK",
+        "letter": "Ç",
+        "answer": "Çökme, Çökmek"
+    },
+    {
+        "id": 190,
+        "question": "Bir yere süsleme amacıyla verilen düzen",
+        "letter": "D",
+        "answer": "dekor, dekorasyon"
+    },
+    {
+        "id": 1420,
+        "question": "Esneklik barındıran ve esneme kabiliyeti yüksek olan",
+        "letter": "E",
+        "answer": "Elastik, Elastiki"
+    },
+    {
+        "id": 1285,
+        "question": "Uygun zaman, uygun durum veya şart, vesile, imkan, şans",
+        "letter": "F",
+        "answer": "Fırsat"
+    },
+    {
+        "id": 1759,
+        "question": "Çevresiyle uyuşamayan, aksi tabiatlı, kavga çıkaran kimse",
+        "letter": "G",
+        "answer": "Geçimsiz"
+    },
+    {
+        "id": 60,
+        "question": "Güney yarım küre'de en uzun gecenin yaşandığı ay",
+        "letter": "H",
+        "answer": "haziran"
+    },
+    {
+        "id": 275,
+        "question": "İçine alma, içinde bulundurma, içerme",
+        "letter": "İ",
+        "answer": "ihtiva"
+    },
+    {
+        "id": 979,
+        "question": "Damızlık erkek koyun",
+        "letter": "K",
+        "answer": "Koç"
+    },
+    {
+        "id": 983,
+        "question": "Deniz kulağı",
+        "letter": "L",
+        "answer": "Lagün"
+    },
+    {
+        "id": 1878,
+        "question": "Seçkin kişilerin yaşantılarını konu alan yayın",
+        "letter": "M",
+        "answer": "Magazin"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 1533,
+        "question": "Tazminat",
+        "letter": "Ö",
+        "answer": "Ödence"
+    },
+    {
+        "id": 666,
+        "question": "Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha",
+        "letter": "P",
+        "answer": "Palet"
+    },
+    {
+        "id": 1640,
+        "question": "Müzikte durakların düzenli bir biçimde tekrarlanmasından doğan ses uygunluğu",
+        "letter": "R",
+        "answer": "Ritim, ritm"
+    },
+    {
+        "id": 1824,
+        "question": "Bir şeyin yalnız kenar çizgileriyle tek renk olarak beliren görüntüsü, gölge",
+        "letter": "S",
+        "answer": "Silüet"
+    },
+    {
+        "id": 1312,
+        "question": "Kuşku",
+        "letter": "Ş",
+        "answer": "Şüphe"
+    },
+    {
+        "id": 437,
+        "question": "Güzel sanatlarda üslup, stil, konsept",
+        "letter": "T",
+        "answer": "tarz"
+    },
+    {
+        "id": 1066,
+        "question": "Dik ve derin yamaç",
+        "letter": "U",
+        "answer": "Uçurum"
+    },
+    {
+        "id": 464,
+        "question": "Korkuya çabuk kapılan",
+        "letter": "Ü",
+        "answer": "ürkek"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 493,
+        "question": "Kötülüklerini söylemek, zemmetmek",
+        "letter": "Y",
+        "answer": "yermek"
+    },
+    {
+        "id": 855,
+        "question": "Değerli Bir Taş",
+        "letter": "Z",
+        "answer": "Zümrüt, zumrut"
+    }
+]

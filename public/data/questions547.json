@@ -1,0 +1,158 @@
+[
+    {
+        "id": 512,
+        "question": "Denizin kıyıdan uzakça olan yeri",
+        "letter": "A",
+        "answer": "Açık"
+    },
+    {
+        "id": 1696,
+        "question": "YUMURTA AKI VE PUDRA ŞEKERİ İLE YAPILAN BİR ÇEŞİT KURU PASTA",
+        "letter": "B",
+        "answer": "Beze"
+    },
+    {
+        "id": 1257,
+        "question": "İşletmelere gün sonu giren para, kazanç",
+        "letter": "C",
+        "answer": "Ciro, cirosu"
+    },
+    {
+        "id": 168,
+        "question": "Yasa dışı işler yapmak veya etrafındakileri korkutmak amacıyla bir araya gelmiş topluluk",
+        "letter": "Ç",
+        "answer": "çete"
+    },
+    {
+        "id": 555,
+        "question": "Uluslararası ilişkilerde ülkesini temsil etmekle görevlendirilmiş kimse",
+        "letter": "D",
+        "answer": "Diplomat, Dış işleri bakanı"
+    },
+    {
+        "id": 215,
+        "question": "Gündüz ile gecenin eşit olma durumu",
+        "letter": "E",
+        "answer": "ekinoks"
+    },
+    {
+        "id": 1915,
+        "question": "DUYGUSAL İLİŞKİLERDE SINAMA VE SINANMA EVRESİ",
+        "letter": "F",
+        "answer": "Flört"
+    },
+    {
+        "id": 1691,
+        "question": "\"GÖSTERİŞ, HEYBET\" ANLAMLARINA GELEN SÖZCÜK",
+        "letter": "G",
+        "answer": "Görkem, görkemli"
+    },
+    {
+        "id": 1445,
+        "question": "Sürekli hayal kuran, hep hayal peşinde koşan (kimse)",
+        "letter": "H",
+        "answer": "Hayalperest, hayalperver"
+    },
+    {
+        "id": 604,
+        "question": "Gerçeğin gülünç yanını ortaya koyan ince alay",
+        "letter": "İ",
+        "answer": "İroni"
+    },
+    {
+        "id": 278,
+        "question": "Çocuk yuvası",
+        "letter": "K",
+        "answer": "kreş"
+    },
+    {
+        "id": 622,
+        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
+        "letter": "L",
+        "answer": "Liste"
+    },
+    {
+        "id": 1753,
+        "question": "Bir işin yapılması veya bir borcun ödenmesi için tanınan süre",
+        "letter": "M",
+        "answer": "Mühlet"
+    },
+    {
+        "id": 636,
+        "question": "Boks maçında yumruk etkisiyle yere düşme ve devam edememek",
+        "letter": "N",
+        "answer": "Nakavt, nakavt olma, nakavt olmak"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 1179,
+        "question": "Zehrin etkisini ortadan kaldırabilme özelliği olan madde ",
+        "letter": "P",
+        "answer": "Panzehir"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 81,
+        "question": "Çatal biçiminde, taş atmaya yarayan ilkel alet",
+        "letter": "S",
+        "answer": "sapan"
+    },
+    {
+        "id": 1459,
+        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "letter": "Ş",
+        "answer": "Şizofreni"
+    },
+    {
+        "id": 720,
+        "question": "Tutum, idareli tüketme",
+        "letter": "T",
+        "answer": "Tasarruf, Tasaruf"
+    },
+    {
+        "id": 1131,
+        "question": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren",
+        "letter": "U",
+        "answer": "ufuk"
+    },
+    {
+        "id": 1316,
+        "question": "Derinleştirmeden, yüzeysel olarak",
+        "letter": "Ü",
+        "answer": "Üstten"
+    },
+    {
+        "id": 881,
+        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
+        "letter": "V",
+        "answer": "Vernik, vernık"
+    },
+    {
+        "id": 1581,
+        "question": "Kitapların, dergilerin, gazetelerin yayınlanıp hazırlandığı yer",
+        "letter": "Y",
+        "answer": "Yayınevi"
+    },
+    {
+        "id": 501,
+        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
+        "letter": "Z",
+        "answer": "zırh"
+    }
+]

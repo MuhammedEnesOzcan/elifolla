@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1330,
+        "question": "Kılçıksız, lezzetli bir tür taze fasulye",
+        "letter": "A",
+        "answer": "Ayşekadın"
+    },
+    {
+        "id": 1556,
+        "question": "Bir yapının genellikle dışarıya doğru çıkmış, çevresi duvar veya parmaklıkla çevrili bölümü, ayazlık",
+        "letter": "B",
+        "answer": "Balkon"
+    },
+    {
+        "id": 1364,
+        "question": "Bilgisizlik, cahil olma durumu",
+        "letter": "C",
+        "answer": "Cehalet"
+    },
+    {
+        "id": 171,
+        "question": "Bir sonuca varmak, ortadaki engelleri kaldırmak için tutulması gereken yol, çıkar yol, çözüm yolu",
+        "letter": "Ç",
+        "answer": "çare"
+    },
+    {
+        "id": 1904,
+        "question": "SADECE SOYAĞACINI GENİŞLETMEK İÇİN KULLANILAN HAYVAN",
+        "letter": "D",
+        "answer": "Damızlık"
+    },
+    {
+        "id": 1406,
+        "question": "Toprak, kül gibi toz durumunda bulunan şeyleri hafifçe kazıp karıştırmak",
+        "letter": "E",
+        "answer": "Eşelemek, eşeleme"
+    },
+    {
+        "id": 1323,
+        "question": "Buzlu veya dondurulmuş olarak sunulan içki, meşrubat",
+        "letter": "F",
+        "answer": "Frape, frappe, frozen"
+    },
+    {
+        "id": 242,
+        "question": "Yaşanan günlük olaylar",
+        "letter": "G",
+        "answer": "gündem"
+    },
+    {
+        "id": 974,
+        "question": "Hiçbir işe yaramadan yok olma, boşa gitme",
+        "letter": "H",
+        "answer": "Heba, heba olma, heba olmak, heba olması"
+    },
+    {
+        "id": 952,
+        "question": "Bir köleyi özgürlüğüne kavuşturma",
+        "letter": "İ",
+        "answer": "itak"
+    },
+    {
+        "id": 609,
+        "question": "Kutu şeklindeki büyük eşya paketi",
+        "letter": "K",
+        "answer": "Koli"
+    },
+    {
+        "id": 928,
+        "question": "Çıkış yeri kolaylıkla bulunamayacak kadar karışık koridorları olan yapı",
+        "letter": "L",
+        "answer": "Labirent"
+    },
+    {
+        "id": 320,
+        "question": "Korunmak için özel olarak yapılıp yüze geçirilen nesne",
+        "letter": "M",
+        "answer": "maske"
+    },
+    {
+        "id": 949,
+        "question": "Nikel'in simgesi",
+        "letter": "N",
+        "answer": "ni"
+    },
+    {
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "letter": "O",
+        "answer": "OLGU"
+    },
+    {
+        "id": 1478,
+        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "letter": "Ö",
+        "answer": "Özerk"
+    },
+    {
+        "id": 1854,
+        "question": "YAYA OLARAK SAVAŞAN ASKERLERİN OLUŞTURDUĞU SINIF",
+        "letter": "P",
+        "answer": "Piyade"
+    },
+    {
+        "id": 676,
+        "question": "Emek harcamadan elde edilen kazanım",
+        "letter": "R",
+        "answer": "Rant, Rantçılık"
+    },
+    {
+        "id": 1050,
+        "question": "Sebze, meyve vb. satmak için kurulmuş, eğreti, derme çatma dükkân",
+        "letter": "S",
+        "answer": "Salaş"
+    },
+    {
+        "id": 1459,
+        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "letter": "Ş",
+        "answer": "Şizofreni"
+    },
+    {
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "letter": "T",
+        "answer": "Taktik"
+    },
+    {
+        "id": 892,
+        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "letter": "U",
+        "answer": "Uzman"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 863,
+        "question": "Tahıl tanelerinin damıtılmasıyla elde edilen alkollü içki",
+        "letter": "V",
+        "answer": "Votka, vodka"
+    },
+    {
+        "id": 487,
+        "question": "Delik ve yırtığı uygun bir parça ile onarma, kapatma",
+        "letter": "Y",
+        "answer": "yama, yama yapma, yama yapmak, yamalama, yamalamak"
+    },
+    {
+        "id": 1142,
+        "question": "Aşırı deli, çılgın",
+        "letter": "Z",
+        "answer": "Zırdeli, zırzop"
+    }
+]

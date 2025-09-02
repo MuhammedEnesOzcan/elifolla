@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1221,
+        "question": "Negatif elektrikle yüklü iyon",
+        "letter": "A",
+        "answer": "Anyon"
+    },
+    {
+        "id": 1344,
+        "question": "İhtiyarlık yüzünden sağlıklı düşünememe durumuna gelme",
+        "letter": "B",
+        "answer": "Bunama, bunamak, bunaklık, bunak olma, bunak olmak"
+    },
+    {
+        "id": 1370,
+        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
+        "letter": "C",
+        "answer": "Cumhuriyet"
+    },
+    {
+        "id": 180,
+        "question": "Kadro, kademe, basamak ve derecelerin yer aldığı liste",
+        "letter": "Ç",
+        "answer": "çizelge"
+    },
+    {
+        "id": 1391,
+        "question": "Yabancı ülke parası",
+        "letter": "D",
+        "answer": "Döviz"
+    },
+    {
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
+        "letter": "E",
+        "answer": "Endoskop"
+    },
+    {
+        "id": 1189,
+        "question": "Yenen, fetheden kimse",
+        "letter": "F",
+        "answer": "Fatih"
+    },
+    {
+        "id": 232,
+        "question": "Resmi bir törenden sonra yapılan büyük ve gösterişli şölen",
+        "letter": "G",
+        "answer": "gala"
+    },
+    {
+        "id": 806,
+        "question": "Monarşik aile",
+        "letter": "H",
+        "answer": "Hanedan, Hanedanlık"
+    },
+    {
+        "id": 1951,
+        "question": "HEM “EKONOMİ” HEM “TUTUM” ANLAMINA GELEN SÖZCÜK",
+        "letter": "İ",
+        "answer": "İktisat, İktisad"
+    },
+    {
+        "id": 1792,
+        "question": "Genellikle Türklere özgü, ters döndürülmüş kesik koni şeklinde, kürk, kumaş veya deriden şapka türü",
+        "letter": "K",
+        "answer": "Kalpak"
+    },
+    {
+        "id": 1832,
+        "question": "PORTATİF KÜÇÜK ÇOCUK TUVALETİ",
+        "letter": "L",
+        "answer": "Lazımlık"
+    },
+    {
+        "id": 322,
+        "question": "Başvurulacak yer veya makam",
+        "letter": "M",
+        "answer": "merci"
+    },
+    {
+        "id": 329,
+        "question": "Bir yerden alıp başka bir yere iletme, aktarma, taşıma",
+        "letter": "N",
+        "answer": "nakil, nakil işlemi"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 363,
+        "question": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye",
+        "letter": "Ö",
+        "answer": "övgü"
+    },
+    {
+        "id": 88,
+        "question": "Üstüne mumlar konan doğum günü tatlısı",
+        "letter": "P",
+        "answer": "pasta"
+    },
+    {
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "letter": "R",
+        "answer": "rekor"
+    },
+    {
+        "id": 1050,
+        "question": "Sebze, meyve vb. satmak için kurulmuş, eğreti, derme çatma dükkân",
+        "letter": "S",
+        "answer": "Salaş"
+    },
+    {
+        "id": 935,
+        "question": "Kesme veya oyma kalıbı",
+        "letter": "Ş",
+        "answer": "şablon"
+    },
+    {
+        "id": 1154,
+        "question": "Diş taşı",
+        "letter": "T",
+        "answer": "tartar"
+    },
+    {
+        "id": 1909,
+        "question": "“MEYMENETSİZ, MUSİBET” ANLAMLARINA GELEN BİR SÖZ",
+        "letter": "U",
+        "answer": "Uğursuz"
+    },
+    {
+        "id": 728,
+        "question": "Bir düşünce veya istek üzerinde durmak, direnmek, ısrar etmek",
+        "letter": "Ü",
+        "answer": "Üsteleme, Üstelemek"
+    },
+    {
+        "id": 1251,
+        "question": "Orta, iki şeyin ortasında olan, ortalama",
+        "letter": "V",
+        "answer": "Vasat"
+    },
+    {
+        "id": 1501,
+        "question": "Parmağa geçirilen genellikle metal halka",
+        "letter": "Y",
+        "answer": "Yüzük"
+    },
+    {
+        "id": 1147,
+        "question": "Saf, tatlı su",
+        "letter": "Z",
+        "answer": "zülal"
+    }
+]

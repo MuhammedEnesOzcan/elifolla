@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1695,
+        "question": "Otobüs, tren gibi ulaşım araçlarında para yerine geçen sürekliliği olan bilet veya kart",
+        "letter": "A",
+        "answer": "Abonman"
+    },
+    {
+        "id": 525,
+        "question": "Kullanılması önlenmiş, el konulmuş",
+        "letter": "B",
+        "answer": "Bloke, bloke edilmiş, bloke olmuş"
+    },
+    {
+        "id": 1365,
+        "question": "Hep birden, hep birlikte anlamlarındaki söz",
+        "letter": "C",
+        "answer": "Cümleten"
+    },
+    {
+        "id": 1859,
+        "question": "AYAKLA ÇİĞNENDİĞİNDE YA DA DUVARA SÜRTÜLDÜĞÜNDE PATLAYAN EĞLENCE FİŞEĞİ",
+        "letter": "Ç",
+        "answer": "Çatapat"
+    },
+    {
+        "id": 1829,
+        "question": "\"DOĞRU\", \"BİÇİMLİ\", \"MUNTAZAM\" ANLAMINA GELEN BİR SÖZCÜK",
+        "letter": "D",
+        "answer": "Düzgün, Düzenli"
+    },
+    {
+        "id": 1723,
+        "question": "Enfeksiyon sonucu hasta olan kişi, enfenksiyon bulaşmış",
+        "letter": "E",
+        "answer": "Enfekte"
+    },
+    {
+        "id": 567,
+        "question": "Yanıcı bir maddeden aldığı itici güçle hareket eden düzenek",
+        "letter": "F",
+        "answer": "Füze"
+    },
+    {
+        "id": 233,
+        "question": "Suya batma, boğulma",
+        "letter": "G",
+        "answer": "gark, gark etme"
+    },
+    {
+        "id": 588,
+        "question": "İlgi ile karşılanabilecek haber",
+        "letter": "H",
+        "answer": "Havadis"
+    },
+    {
+        "id": 262,
+        "question": "Yönetme, yönetim, çekip çevirme",
+        "letter": "İ",
+        "answer": "idare, idare etme, idare etmek"
+    },
+    {
+        "id": 1857,
+        "question": "GEMİLERDE BULUNAN ODALARA VERİLEN İSİM",
+        "letter": "K",
+        "answer": "Kamara"
+    },
+    {
+        "id": 1787,
+        "question": "Greve çıkan işçileri işverenin topluca işten uzaklaştırması",
+        "letter": "L",
+        "answer": "Lokavt"
+    },
+    {
+        "id": 1616,
+        "question": "Miras bırakan kimse",
+        "letter": "M",
+        "answer": "Muris"
+    },
+    {
+        "id": 993,
+        "question": "Hoş olmayan, hoşa gitmeyen, kötü, çirkin",
+        "letter": "N",
+        "answer": "Nahoş"
+    },
+    {
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "letter": "O",
+        "answer": "Orada, orda"
+    },
+    {
+        "id": 372,
+        "question": "Bir iş için ayrılan belli para, tahsisat",
+        "letter": "Ö",
+        "answer": "ödenek"
+    },
+    {
+        "id": 1016,
+        "question": "Posta parası karşılığı mektuplara, damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası",
+        "letter": "P",
+        "answer": "Pul"
+    },
+    {
+        "id": 1635,
+        "question": "Evin duvarlarının suyu çekmesi ve ısı farkından dolayı su buharı oluşması",
+        "letter": "R",
+        "answer": "Rutubet"
+    },
+    {
+        "id": 1789,
+        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
+        "letter": "S",
+        "answer": "Sarsıntı"
+    },
+    {
+        "id": 1054,
+        "question": "Bir makinenin dönme hareketini öteki parçalara aktaran ve ucuna dişli çarklar, tekerlekler veya pervane bağlanan demir mil",
+        "letter": "Ş",
+        "answer": "Şaft"
+    },
+    {
+        "id": 1063,
+        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
+        "letter": "T",
+        "answer": "Takı"
+    },
+    {
+        "id": 1131,
+        "question": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren",
+        "letter": "U",
+        "answer": "ufuk"
+    },
+    {
+        "id": 876,
+        "question": "Türlü Duyguları Anlatan Veya Bir Doğa Sesini Yansıtan Kelime",
+        "letter": "Ü",
+        "answer": "Ünlem"
+    },
+    {
+        "id": 1137,
+        "question": "Kent veya kasabada dış mahalle",
+        "letter": "V",
+        "answer": "varoş"
+    },
+    {
+        "id": 947,
+        "question": "Köpek ve ineklere yedirilmek üzere un ve kepekle hazırlanan yiyecek",
+        "letter": "Y",
+        "answer": "yal, yem"
+    },
+    {
+        "id": 736,
+        "question": "\"Kara Kekik\" olarak bilinen yabani ot çeşidi, baharat",
+        "letter": "Z",
+        "answer": "Zahter, zahter otu"
+    }
+]

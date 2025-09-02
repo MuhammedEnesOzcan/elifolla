@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1695,
+        "question": "Otobüs, tren gibi ulaşım araçlarında para yerine geçen sürekliliği olan bilet veya kart",
+        "letter": "A",
+        "answer": "Abonman"
+    },
+    {
+        "id": 127,
+        "question": "Bağlama işinde kullanılan şerit biçiminde bağ",
+        "letter": "B",
+        "answer": "bağcık"
+    },
+    {
+        "id": 531,
+        "question": "Uygun, yerinde sayılan, yakışık alan",
+        "letter": "C",
+        "answer": "Caiz"
+    },
+    {
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
+        "letter": "Ç",
+        "answer": "Çapak"
+    },
+    {
+        "id": 550,
+        "question": "Gregor Samsa karakterinin yer aldığı Franz Kafka romanı",
+        "letter": "D",
+        "answer": "Dönüşüm"
+    },
+    {
+        "id": 20,
+        "question": "Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli",
+        "letter": "E",
+        "answer": "Etalon"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 1966,
+        "question": "Tavla oyununda elinde kırık taşı bulunan oyuncunun attığı, uygun olmayan zar",
+        "letter": "G",
+        "answer": "GELE"
+    },
+    {
+        "id": 974,
+        "question": "Hiçbir işe yaramadan yok olma, boşa gitme",
+        "letter": "H",
+        "answer": "Heba, heba olma, heba olmak, heba olması"
+    },
+    {
+        "id": 275,
+        "question": "İçine alma, içinde bulundurma, içerme",
+        "letter": "İ",
+        "answer": "ihtiva"
+    },
+    {
+        "id": 612,
+        "question": "Isıtmada kullanılan yakıtı düzenli ve ayarlı biçimde yakan araç",
+        "letter": "K",
+        "answer": "Kombi"
+    },
+    {
+        "id": 1527,
+        "question": "Sükseli, kalantor, gösterişli kimse",
+        "letter": "L",
+        "answer": "Lort"
+    },
+    {
+        "id": 322,
+        "question": "Başvurulacak yer veya makam",
+        "letter": "M",
+        "answer": "merci"
+    },
+    {
+        "id": 1242,
+        "question": "Düzyazı sanatı",
+        "letter": "N",
+        "answer": "Nesir, nesir sanatı"
+    },
+    {
+        "id": 646,
+        "question": "Kağıt katlama sanatı",
+        "letter": "O",
+        "answer": "Origami"
+    },
+    {
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "letter": "Ö",
+        "answer": "ölmek, ölüm, ölme"
+    },
+    {
+        "id": 1298,
+        "question": "Yolun kaygan olması nedeniyle tekerlekler dönse de taşıtın ilerleyememesi durumu",
+        "letter": "P",
+        "answer": "Patinaj, patinaj çekme, patinaj çekmek"
+    },
+    {
+        "id": 1191,
+        "question": "Atın ritmik yürüşü",
+        "letter": "R",
+        "answer": "Rahvan"
+    },
+    {
+        "id": 1806,
+        "question": "At Bakıcısı",
+        "letter": "S",
+        "answer": "Seyis"
+    },
+    {
+        "id": 1312,
+        "question": "Kuşku",
+        "letter": "Ş",
+        "answer": "Şüphe"
+    },
+    {
+        "id": 1927,
+        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
+        "letter": "T",
+        "answer": "Takıntı, Takıntılık, Takma, Takmak"
+    },
+    {
+        "id": 1131,
+        "question": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren",
+        "letter": "U",
+        "answer": "ufuk"
+    },
+    {
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
+        "letter": "Ü",
+        "answer": "ülke"
+    },
+    {
+        "id": 475,
+        "question": "Gözlem ve deneye dayalı araştırmanın sonuçları",
+        "letter": "V",
+        "answer": "veri, veri seti"
+    },
+    {
+        "id": 884,
+        "question": "Soğanlı et yemeği",
+        "letter": "Y",
+        "answer": "Yahni"
+    },
+    {
+        "id": 739,
+        "question": "Gerçekleşeceği düşünülmeyen, hesapta olmayan, umulmadık",
+        "letter": "Z",
+        "answer": "Zuhurat, Zuhurât"
+    }
+]

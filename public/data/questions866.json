@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1662,
+        "question": "Şaşkınlıktan sersemleşmek",
+        "letter": "A",
+        "answer": "Afallamak, afallama"
+    },
+    {
+        "id": 147,
+        "question": "Daha kötü, çok kötü",
+        "letter": "B",
+        "answer": "beter"
+    },
+    {
+        "id": 1365,
+        "question": "Hep birden, hep birlikte anlamlarındaki söz",
+        "letter": "C",
+        "answer": "Cümleten"
+    },
+    {
+        "id": 168,
+        "question": "Yasa dışı işler yapmak veya etrafındakileri korkutmak amacıyla bir araya gelmiş topluluk",
+        "letter": "Ç",
+        "answer": "çete"
+    },
+    {
+        "id": 74,
+        "question": "Kabıyla birlikte tartılan nesnelerin kabının ağırlığı",
+        "letter": "D",
+        "answer": "dara, darası"
+    },
+    {
+        "id": 216,
+        "question": "Damar tıkanıklığı",
+        "letter": "E",
+        "answer": "emboli"
+    },
+    {
+        "id": 569,
+        "question": "Bir kişiyi ya da kurumu finanse etmek",
+        "letter": "F",
+        "answer": "Fon, Fonlama, Fonlamak"
+    },
+    {
+        "id": 1431,
+        "question": "Otomobil vb. taşıtların konulduğu üstü örtülü yer",
+        "letter": "G",
+        "answer": "Garaj"
+    },
+    {
+        "id": 975,
+        "question": "Birini aldatmak, yanıltmak için yapılan düzen, dolap, oyun, desise, entrika",
+        "letter": "H",
+        "answer": "Hile"
+    },
+    {
+        "id": 265,
+        "question": "Eksik bir şeyi tamamlama, daha iyi duruma getirme, bütünleme",
+        "letter": "İ",
+        "answer": "ikmal, ikmâl"
+    },
+    {
+        "id": 1828,
+        "question": "ARAPÇA KÖKENLİSİ \"HÜVİYET\" OLAN KELİMENİN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Kimlik"
+    },
+    {
+        "id": 304,
+        "question": "Ara vermeden söylenilen saçma sapan söz dizisi, gevezelik",
+        "letter": "L",
+        "answer": "laklak, lakırdı"
+    },
+    {
+        "id": 314,
+        "question": "Ayrı tutulmuş, ayrıcalık tanınmış",
+        "letter": "M",
+        "answer": "muaf"
+    },
+    {
+        "id": 1675,
+        "question": "Etki altına alma, söz geçirme, güçlü olma",
+        "letter": "N",
+        "answer": "Nüfuz, nüfuz etme, nüfuz etmek"
+    },
+    {
+        "id": 652,
+        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
+        "letter": "O",
+        "answer": "Odeon"
+    },
+    {
+        "id": 899,
+        "question": "Serbest, Hiçbir Koşula Bağlı Olmayan",
+        "letter": "Ö",
+        "answer": "Özgür, ozgur"
+    },
+    {
+        "id": 1017,
+        "question": "Üzerine bildiri, açıklama veya tanıtma kâğıtları tutturmak için hazırlanmış levha",
+        "letter": "P",
+        "answer": "pano"
+    },
+    {
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "letter": "R",
+        "answer": "rekor"
+    },
+    {
+        "id": 406,
+        "question": "Dik, çıkması ve geçilmesi güç (yer)",
+        "letter": "S",
+        "answer": "sarp"
+    },
+    {
+        "id": 832,
+        "question": "Sesi tanımlayan sözlerden oluşmuş “çabucak” anlamında kullanılan bir kelime",
+        "letter": "Ş",
+        "answer": "Şipşak"
+    },
+    {
+        "id": 835,
+        "question": "Sabaha doğru çıkan hafif rüzgar",
+        "letter": "T",
+        "answer": "Tanyeli, tan, tan rüzgarı"
+    },
+    {
+        "id": 445,
+        "question": "Boyutları normalden küçük",
+        "letter": "U",
+        "answer": "ufak"
+    },
+    {
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
+        "letter": "Ü",
+        "answer": "üvey"
+    },
+    {
+        "id": 1136,
+        "question": "Değer, kıymet",
+        "letter": "V",
+        "answer": "valör"
+    },
+    {
+        "id": 1501,
+        "question": "Parmağa geçirilen genellikle metal halka",
+        "letter": "Y",
+        "answer": "Yüzük"
+    },
+    {
+        "id": 1843,
+        "question": "RENKSİZ YA DA SARI, YEŞİL VE KAHVERENGİ RENKLERDE OLABİLEN DOĞAL, SAYDAM DEĞERLİ BİR TAŞ",
+        "letter": "Z",
+        "answer": "Zirkon"
+    }
+]

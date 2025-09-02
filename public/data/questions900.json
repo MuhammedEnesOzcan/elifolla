@@ -1,0 +1,158 @@
+[
+    {
+        "id": 108,
+        "question": "İki şey arasında bağlantı kuran kimse, vasıta",
+        "letter": "A",
+        "answer": "aracı, ara bulucu"
+    },
+    {
+        "id": 139,
+        "question": "Aracısız, kendisi olarak",
+        "letter": "B",
+        "answer": "bizzat"
+    },
+    {
+        "id": 1150,
+        "question": "Kudret sahibi Tanrı",
+        "letter": "C",
+        "answer": "cebbar"
+    },
+    {
+        "id": 165,
+        "question": "Bir eksenin döndürdüğü tekerlek biçimindeki makine parçası",
+        "letter": "Ç",
+        "answer": "çark"
+    },
+    {
+        "id": 1231,
+        "question": "Otomobilin vites geçirmek için en sol tarafta ayak ile basılan pedalı",
+        "letter": "D",
+        "answer": "Debriyaj, debriaj, debriyaj pedalı, debriaj pedalı"
+    },
+    {
+        "id": 20,
+        "question": "Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli",
+        "letter": "E",
+        "answer": "Etalon"
+    },
+    {
+        "id": 575,
+        "question": "Ses, akım vb. için birim zamandaki titreşim sayısı, titreşim sıklığı",
+        "letter": "F",
+        "answer": "Frekans"
+    },
+    {
+        "id": 1434,
+        "question": "Kamıştan yapılmış çift düdük ve tulumdan oluşan, tiz sesli, nefesli, İskoçların millî çalgısı",
+        "letter": "G",
+        "answer": "Gayda"
+    },
+    {
+        "id": 587,
+        "question": "Hem ev, konut hem de ev halkı anlamında kullanılan bir söz",
+        "letter": "H",
+        "answer": "Hane"
+    },
+    {
+        "id": 1555,
+        "question": "Bir şeyi belirtecek biçimde hareket etmek, belirleyici şekilde vurgulamak",
+        "letter": "İ",
+        "answer": "İşaretleme, işaretlemek"
+    },
+    {
+        "id": 1697,
+        "question": "GERÇEĞİN NE OLDUĞUNU TAM OLARAK KESTİREMEMEKTEN DOĞAN KARARSIZLIK, İŞKİL",
+        "letter": "K",
+        "answer": "Kuşku, kuşkulanma, kuşkulanmak"
+    },
+    {
+        "id": 1454,
+        "question": "Kirliliği gösteren iz",
+        "letter": "L",
+        "answer": "Leke"
+    },
+    {
+        "id": 816,
+        "question": "Yapılan iyiliğe karşı gönül borcu olan kişi",
+        "letter": "M",
+        "answer": "Minnettar"
+    },
+    {
+        "id": 339,
+        "question": "Tavsiye, öğüt",
+        "letter": "N",
+        "answer": "nasihat"
+    },
+    {
+        "id": 998,
+        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
+        "letter": "O",
+        "answer": "oya"
+    },
+    {
+        "id": 664,
+        "question": "Bir işi ileri tarihe atma, ertelemek",
+        "letter": "Ö",
+        "answer": "Öteleme, ötelemek"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 1031,
+        "question": "Yakışır, yerinde, uygun",
+        "letter": "R",
+        "answer": "Reva"
+    },
+    {
+        "id": 831,
+        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "letter": "S",
+        "answer": "Seküler"
+    },
+    {
+        "id": 1055,
+        "question": "Şiir söyleyen veya yazan kimse",
+        "letter": "Ş",
+        "answer": "Şair"
+    },
+    {
+        "id": 1648,
+        "question": "Gençliği sebebiyle görgüsüz ve beceriksiz olan, çaylak",
+        "letter": "T",
+        "answer": "Toy"
+    },
+    {
+        "id": 451,
+        "question": "Genel, halka açık",
+        "letter": "U",
+        "answer": "umumi"
+    },
+    {
+        "id": 464,
+        "question": "Korkuya çabuk kapılan",
+        "letter": "Ü",
+        "answer": "ürkek"
+    },
+    {
+        "id": 730,
+        "question": "Kişinin hiçbir gerçekliğe ve temele dayanmayan duygulara kapılması",
+        "letter": "V",
+        "answer": "Vesvese"
+    },
+    {
+        "id": 904,
+        "question": "Yeni doğmuş hayvan",
+        "letter": "Y",
+        "answer": "Yavru"
+    },
+    {
+        "id": 506,
+        "question": "Zorunlu, gerekli",
+        "letter": "Z",
+        "answer": "zaruri"
+    }
+]

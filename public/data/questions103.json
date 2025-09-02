@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1667,
+        "question": "Renksiz, sarımsak kokulu, güçlü ve beyaz bir ışık vererek yanan hidrokarbonlu bir gaz",
+        "letter": "A",
+        "answer": "Asetilen"
+    },
+    {
+        "id": 133,
+        "question": "Belirli bir davranışta bulunmaya zorlayıcı söz, buyuru, emir, ferman",
+        "letter": "B",
+        "answer": "buyruk"
+    },
+    {
+        "id": 1148,
+        "question": "Yerde ve tel, at, bisiklet, ip vb. üzerinde dengeye dayanan, tehlikeli, heyecan verici gösteriler yapan kimse, akrobat",
+        "letter": "C",
+        "answer": "cambaz"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1384,
+        "question": "Hava ve deniz taşıtlarında, taşıta istenilen yönü vermeye ve belirli bir doğrultuda götürmeye yarayan hareketli parça",
+        "letter": "D",
+        "answer": "Dümen"
+    },
+    {
+        "id": 798,
+        "question": "Yazıtları ve tarihi yapıtlardaki yazıları inceleyen bilim dalı",
+        "letter": "E",
+        "answer": "Epigrafi"
+    },
+    {
+        "id": 218,
+        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+        "letter": "F",
+        "answer": "file"
+    },
+    {
+        "id": 236,
+        "question": "Elde edilmesi gereken, ulaşılmak istenen şey, amaç, maksat",
+        "letter": "G",
+        "answer": "gaye"
+    },
+    {
+        "id": 1100,
+        "question": "Din buyruklarını yerine getirmek için hacca gitmiş Müslüman",
+        "letter": "H",
+        "answer": "hacı"
+    },
+    {
+        "id": 1604,
+        "question": "Bir kimsenin ya da bir şeyin benzerlerinden ayrı tutulması durumu",
+        "letter": "İ",
+        "answer": "İstisna, istisnai"
+    },
+    {
+        "id": 757,
+        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "letter": "K",
+        "answer": "Komisyon, Kar, Kâr"
+    },
+    {
+        "id": 620,
+        "question": "Fazlalık, gereksiz, yersiz",
+        "letter": "L",
+        "answer": "Lüzumsuz, Luzumsuz"
+    },
+    {
+        "id": 627,
+        "question": "Vapur hatlarında yolculuk yapanların genellikle simitle beslediği kuş",
+        "letter": "M",
+        "answer": "Martı"
+    },
+    {
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "letter": "N",
+        "answer": "Nostalji, nostaliji"
+    },
+    {
+        "id": 996,
+        "question": "Özenli, düzgün, uygun",
+        "letter": "O",
+        "answer": "Onat"
+    },
+    {
+        "id": 365,
+        "question": "Gösterilen çaba, itina",
+        "letter": "Ö",
+        "answer": "özen, özenme, özenmek"
+    },
+    {
+        "id": 670,
+        "question": "Kişiye onur nişanesi olarak verilen küçük levha",
+        "letter": "P",
+        "answer": "Plaket"
+    },
+    {
+        "id": 681,
+        "question": "Sporda veya oyunda yenilmiş olanın aynı rakiple oynadığı ikinci oyun",
+        "letter": "R",
+        "answer": "Rövanş, Rövanş maçı, Rovanş, Rovanş maçı"
+    },
+    {
+        "id": 694,
+        "question": "Sarmal biçiminde olan",
+        "letter": "S",
+        "answer": "Spiral"
+    },
+    {
+        "id": 1912,
+        "question": "ÜLKE ÇAPINDA YAYGINLAŞTIRILMIŞ ULAŞIM VE İLETİŞİM ÖRGÜSÜ, AĞ",
+        "letter": "Ş",
+        "answer": "Şebeke, Şebeke ağı"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
+        "letter": "Ü",
+        "answer": "ülke"
+    },
+    {
+        "id": 1571,
+        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
+        "letter": "V",
+        "answer": "Vasıfsız, vasıfsız eleman"
+    },
+    {
+        "id": 1772,
+        "question": "Bazı bitki türlerinde besinler için depolama organı olarak kullanılan genişlemiş yapılar",
+        "letter": "Y",
+        "answer": "Yumru, Yumrular"
+    },
+    {
+        "id": 738,
+        "question": "Boşuna harcama, zarar",
+        "letter": "Z",
+        "answer": "Ziyan, ziyan etme, ziyan etmek"
+    }
+]

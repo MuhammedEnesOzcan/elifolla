@@ -1,158 +1,158 @@
 [
     {
-        "id": 1657,
-        "question": "Belli bir süre sonra inilip başka bir taşıta binilmesini gerektiren seyahat",
+        "id": 1714,
+        "question": "Mecazen; Gerekmediği hâlde başkasını savunan, onun adına konuşan kimse",
         "letter": "A",
-        "answer": "Aktarmalı, aktarmalı seyahat"
+        "answer": "Avukat, avukatı olma"
     },
     {
-        "id": 1709,
-        "question": "Karaoğlan lakaplı eski türk siyasetçi",
+        "id": 135,
+        "question": "Yapılan bir hizmete ödenen ücretten ayrı olarak fazladan verilen para",
         "letter": "B",
-        "answer": "Bülent Ecevit"
+        "answer": "bahşiş"
     },
     {
-        "id": 1360,
-        "question": "Kuşların ötüşürken çıkardıkları ses",
+        "id": 1367,
+        "question": "Bireye, üreme işinde ayrı bir rol veren ve erkekle dişiyi ayırt ettiren özellik",
         "letter": "C",
-        "answer": "Cıvıltı, cıvıldama, cıvıldamak"
+        "answer": "Cinsiyet"
     },
     {
-        "id": 748,
-        "question": "Araçların trafikte üstünlük sağlamak için kullandığı kırmızı-mavi ışıklar",
+        "id": 1547,
+        "question": "Balık kılçığı",
         "letter": "Ç",
-        "answer": "Çakar, çakar lamba, çakar lambası"
+        "answer": "Çopra"
     },
     {
-        "id": 794,
-        "question": "Belli bir esasa göre verilen buyruk, talimat, yönerge",
+        "id": 112,
+        "question": "Müzik, ürün, hizmet gibi alanlarda kısa ön sunum",
         "letter": "D",
-        "answer": "Direktif"
+        "answer": "demo"
     },
     {
-        "id": 201,
-        "question": "Bir işte yetkili olan, bir işi yapan, erbap",
+        "id": 561,
+        "question": "Resim için çizimlerle yapılan ön çalışma, taslak",
         "letter": "E",
-        "answer": "ehil, ehli"
+        "answer": "Eskiz"
     },
     {
-        "id": 1699,
-        "question": "Sık rastlanan bir tür boğaz enfeksiyonu",
+        "id": 221,
+        "question": "Ölçüyü aşan, aşırı, çok fazla",
         "letter": "F",
-        "answer": "Farenjit, faranjit"
+        "answer": "fahiş"
     },
     {
-        "id": 1434,
-        "question": "Kamıştan yapılmış çift düdük ve tulumdan oluşan, tiz sesli, nefesli, İskoçların millî çalgısı",
+        "id": 583,
+        "question": "At yarışlarında birinciliği kazanan at",
         "letter": "G",
-        "answer": "Gayda"
+        "answer": "Ganyan"
     },
     {
-        "id": 594,
-        "question": "Sınır, uç noktası",
+        "id": 246,
+        "question": "Kıskançlık, çekememezlik",
         "letter": "H",
-        "answer": "Hudut"
+        "answer": "haset, hasetlik"
     },
     {
-        "id": 958,
-        "question": "Uyarma",
+        "id": 1609,
+        "question": "Bir sonuç çıkarmak için verileri yöntemli bir biçimde toplayıp sayı olarak belirtme",
         "letter": "İ",
-        "answer": "ikaz, ikaz etme, ikaz etmek"
+        "answer": "İstatistik, istatistik bilimi, istatistik çıkarma, istatistik çıkarmak"
     },
     {
-        "id": 605,
-        "question": "Garson kalfası",
+        "id": 1233,
+        "question": "Bir düzlemdeki konum, coğrafik konum",
         "letter": "K",
-        "answer": "Komi"
+        "answer": "Koordinat, kordinat"
     },
     {
-        "id": 616,
-        "question": "Şişkinlik yaptığıyla bilinen süt şekeri",
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
         "letter": "L",
-        "answer": "Laktoz"
+        "answer": "Lunapark"
     },
     {
-        "id": 1775,
-        "question": "ÇOK KÜÇÜK NESNELERİ VEYA ÇIPLAK GÖZLE GÖRÜLMEYENLERİ DAHA BELİRGİN DURUMA GETİRMEYE YARAYAN OPTİK ALET",
+        "id": 1613,
+        "question": "Kaçınması ve öngörülmesi söz konusu olmayan neden",
         "letter": "M",
-        "answer": "Mikroskop"
+        "answer": "Mücbir, mücbir sebep, mücbir sebepler"
     },
     {
-        "id": 1521,
-        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "id": 1767,
+        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
         "letter": "N",
-        "answer": "Nova"
+        "answer": "Numara, Numara yapma, Numara yapmak"
     },
     {
-        "id": 30,
-        "question": "Düz ve geniş arazi",
+        "id": 1516,
+        "question": "Elle yapılan kalın, seyrek dikiş",
         "letter": "O",
-        "answer": "Ova"
+        "answer": "Oyulga"
     },
     {
-        "id": 658,
-        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
         "letter": "Ö",
-        "answer": "Özenti, Özentilik, Özenme, Özenmek"
+        "answer": "Örk"
     },
     {
-        "id": 378,
-        "question": "Kumsal deniz kıyısı",
+        "id": 671,
+        "question": "Aynı düzlem içinde bulunan ve birbiriyle kesişmeyen",
         "letter": "P",
-        "answer": "plaj"
+        "answer": "Paralel"
     },
     {
-        "id": 682,
-        "question": "Saçı yer yer değişik tonlarda boyama işlemi",
+        "id": 389,
+        "question": "Bir gemi veya uçağın gidiş yönü, izleyeceği yol",
         "letter": "R",
-        "answer": "Röfle, Röfle yapma, Röfle yaptırma, Röfle yaptırmak"
+        "answer": "rota"
     },
     {
-        "id": 412,
-        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "id": 1038,
+        "question": "Bir günlük sürenin yirmi dörtte birine eşit, altmış dakikalık zaman dilimi, zaman parçası",
         "letter": "S",
-        "answer": "statü, statüsü"
+        "answer": "saat"
     },
     {
-        "id": 1127,
-        "question": "Şen, neşeli (ses)",
+        "id": 420,
+        "question": "Kötülük, fenalık",
         "letter": "Ş",
-        "answer": "şakrak"
+        "answer": "şer"
     },
     {
-        "id": 836,
-        "question": "Bulunduğu kaba sığmayıp kenarları aşmak",
+        "id": 1882,
+        "question": "PİYASALARDA, BELİRLİ BİR MAL VE HİZMETE YÖNELEN SATIN ALMA İSTEĞİ",
         "letter": "T",
-        "answer": "Taşma, Taşmak, Taşması"
+        "answer": "Talep"
     },
     {
-        "id": 456,
-        "question": "Gökyüzünde tanımlanamayan cisim",
+        "id": 1079,
+        "question": "Birinin yapmakla yükümlü olduğu iş, görev",
         "letter": "U",
-        "answer": "ufo"
+        "answer": "uhde"
     },
     {
-        "id": 1472,
-        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
+        "id": 1468,
+        "question": "Güvercinlerden, korularda yaşayan, eti için avlanan, boz renkli bir kuş (Streptopelia turtur)",
         "letter": "Ü",
-        "answer": "Ürkmek"
+        "answer": "Üveyik"
     },
     {
-        "id": 475,
-        "question": "Gözlem ve deneye dayalı araştırmanın sonuçları",
+        "id": 1300,
+        "question": "Para dalgalanmalarından yararlanarak kolay yoldan kazanç elde eden, spekülatör",
         "letter": "V",
-        "answer": "veri, veri seti"
+        "answer": "Vurguncu"
     },
     {
-        "id": 772,
-        "question": "Genellikle eylemin çekiciliğini arttıran engelleyici kural",
+        "id": 1572,
+        "question": "Bir yere bağlamak veya çekerek götürmek için hayvanın başlığına veya tasmasına bağlanan ip",
         "letter": "Y",
-        "answer": "Yasak"
+        "answer": "Yular"
     },
     {
-        "id": 719,
-        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
         "letter": "Z",
-        "answer": "Zindan"
+        "answer": "Züğürt, züürt, zürt, zügürt"
     }
 ]

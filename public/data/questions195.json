@@ -1,0 +1,158 @@
+[
+    {
+        "id": 119,
+        "question": "Çok karışık ve dağınık",
+        "letter": "A",
+        "answer": "altüst"
+    },
+    {
+        "id": 148,
+        "question": "Bir müzik eserini oluşturan ezgilerin bütünü",
+        "letter": "B",
+        "answer": "beste"
+    },
+    {
+        "id": 154,
+        "question": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
+        "letter": "C",
+        "answer": "cila"
+    },
+    {
+        "id": 167,
+        "question": "Kumluk, susuz ve ıssız geniş arazi, sahra, badiye",
+        "letter": "Ç",
+        "answer": "çöl"
+    },
+    {
+        "id": 74,
+        "question": "Kabıyla birlikte tartılan nesnelerin kabının ağırlığı",
+        "letter": "D",
+        "answer": "dara, darası"
+    },
+    {
+        "id": 1406,
+        "question": "Toprak, kül gibi toz durumunda bulunan şeyleri hafifçe kazıp karıştırmak",
+        "letter": "E",
+        "answer": "Eşelemek, eşeleme"
+    },
+    {
+        "id": 220,
+        "question": "Belirli nesneler veya durumlar karşısında duyulan olağan dışı güçlü korku",
+        "letter": "F",
+        "answer": "fobi"
+    },
+    {
+        "id": 1966,
+        "question": "Tavla oyununda elinde kırık taşı bulunan oyuncunun attığı, uygun olmayan zar",
+        "letter": "G",
+        "answer": "GELE"
+    },
+    {
+        "id": 754,
+        "question": "Hem et hem de otla beslenen canlılar",
+        "letter": "H",
+        "answer": "Hepçil, Hepobur"
+    },
+    {
+        "id": 595,
+        "question": "Futbolda \"Üç Büyükler\"in bulunduğu ilimiz",
+        "letter": "İ",
+        "answer": "İstanbul"
+    },
+    {
+        "id": 1938,
+        "question": "Yüzme ve atletizm yarışmaları içerisinde her yarışmacıya ayrılan bölüm ya da şerit",
+        "letter": "K",
+        "answer": "Kulvar"
+    },
+    {
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "letter": "L",
+        "answer": "Logo"
+    },
+    {
+        "id": 627,
+        "question": "Vapur hatlarında yolculuk yapanların genellikle simitle beslediği kuş",
+        "letter": "M",
+        "answer": "Martı"
+    },
+    {
+        "id": 54,
+        "question": "Afrika'nın en uzun nehri",
+        "letter": "N",
+        "answer": "Nil, Nil nehri"
+    },
+    {
+        "id": 1711,
+        "question": "Norveç'in Başkenti",
+        "letter": "O",
+        "answer": "Oslo"
+    },
+    {
+        "id": 356,
+        "question": "Bir başarı karşılığında verilen armağan, mükâfat",
+        "letter": "Ö",
+        "answer": "ödül"
+    },
+    {
+        "id": 379,
+        "question": "Bir işin gerçekleştirilmesi için uyulması tasarlanan düzen",
+        "letter": "P",
+        "answer": "plan"
+    },
+    {
+        "id": 1906,
+        "question": "BASKETBOLDA, SAYI OLMAYAN BİR ATIŞTAN SONRA POTADAN SEKEN TOPUN HAVADAYKEN YAKALANMASI",
+        "letter": "R",
+        "answer": "Ribaund"
+    },
+    {
+        "id": 1797,
+        "question": "BULUNDUĞU YERDEN ACELEYLE, GİZLİCE VEYA DİKKATİ ÇEKMEDEN AYRILMAK, KAÇMAK",
+        "letter": "S",
+        "answer": "Savuşmak, Sıvışmak"
+    },
+    {
+        "id": 1688,
+        "question": "Güneş doğmadan az önce beliren aydınlık",
+        "letter": "Ş",
+        "answer": "Şafak"
+    },
+    {
+        "id": 1970,
+        "question": "BİR ŞEYİ RESMİ OLARAK KAYDETME, KÜTÜĞE GEÇİRME",
+        "letter": "T",
+        "answer": "TESCİL, TESCİLLEME, TESCİLLEMEK"
+    },
+    {
+        "id": 1068,
+        "question": "Çok uzun",
+        "letter": "U",
+        "answer": "upuzun"
+    },
+    {
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
+        "letter": "Ü",
+        "answer": "ücret"
+    },
+    {
+        "id": 870,
+        "question": "Bir vadi ya da ırmak üzerine kurulan yüksek ve uzun köprü",
+        "letter": "V",
+        "answer": "Viyadük, vıyaduk"
+    },
+    {
+        "id": 1880,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte"
+    },
+    {
+        "id": 1747,
+        "question": "Sıkıntı veya güçlükle yapılma durumu",
+        "letter": "Z",
+        "answer": "Zahmet, zahmetli"
+    }
+]

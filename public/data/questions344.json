@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1900,
+        "question": "“ÇOK BİLEN KİMSE” ANLAMINDA ARAPÇA KÖKENLİ BİR SIFAT",
+        "letter": "A",
+        "answer": "Alim"
+    },
+    {
+        "id": 1195,
+        "question": "Çiçek demeti",
+        "letter": "B",
+        "answer": "Buket"
+    },
+    {
+        "id": 1653,
+        "question": "Yeryüzünü fiziksel, ekonomik, beşerî, siyasal yönlerden inceleyen bilim",
+        "letter": "C",
+        "answer": "Coğrafya"
+    },
+    {
+        "id": 542,
+        "question": "Ucu yassı ve eğri, büyük iğne",
+        "letter": "Ç",
+        "answer": "Çuvaldız"
+    },
+    {
+        "id": 1385,
+        "question": "Evlenme veya sünnet dolayısıyla yapılan tören, eğlence",
+        "letter": "D",
+        "answer": "Düğün"
+    },
+    {
+        "id": 207,
+        "question": "Benzer, eş, denk, daha önce benzeri görülen",
+        "letter": "E",
+        "answer": "emsal"
+    },
+    {
+        "id": 1323,
+        "question": "Buzlu veya dondurulmuş olarak sunulan içki, meşrubat",
+        "letter": "F",
+        "answer": "Frape, frappe, frozen"
+    },
+    {
+        "id": 1436,
+        "question": "Yerkürenin geometrik olmayan gerçek biçimi",
+        "letter": "G",
+        "answer": "Geoit"
+    },
+    {
+        "id": 806,
+        "question": "Monarşik aile",
+        "letter": "H",
+        "answer": "Hanedan, Hanedanlık"
+    },
+    {
+        "id": 273,
+        "question": "Anlaşma, uyuşma, uzlaşma",
+        "letter": "İ",
+        "answer": "itilaf, ittifak"
+    },
+    {
+        "id": 756,
+        "question": "Saygısızlığı meziyet olarak kabul eden kişi",
+        "letter": "K",
+        "answer": "Küstah"
+    },
+    {
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
+        "letter": "L",
+        "answer": "Lunapark"
+    },
+    {
+        "id": 1933,
+        "question": "SOMUT YASALARIN ÖTESİNDE OLAN BİR FELSEFE DALI",
+        "letter": "M",
+        "answer": "Metafizik"
+    },
+    {
+        "id": 333,
+        "question": "İstenilen düzende olan, düzene uygun olan",
+        "letter": "N",
+        "answer": "nizami"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 1537,
+        "question": "En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek",
+        "letter": "Ö",
+        "answer": "Ölçmek, ölçme, ölçüm"
+    },
+    {
+        "id": 88,
+        "question": "Üstüne mumlar konan doğum günü tatlısı",
+        "letter": "P",
+        "answer": "pasta"
+    },
+    {
+        "id": 1121,
+        "question": "Herhangi bir işte, bir yarışta, birbirini geçmeye çalışan, aynı şeyi elde etmeye uğraşan",
+        "letter": "R",
+        "answer": "Rakip"
+    },
+    {
+        "id": 409,
+        "question": "Depolanmış, yığın",
+        "letter": "S",
+        "answer": "stok, stoklanmış"
+    },
+    {
+        "id": 832,
+        "question": "Sesi tanımlayan sözlerden oluşmuş “çabucak” anlamında kullanılan bir kelime",
+        "letter": "Ş",
+        "answer": "Şipşak"
+    },
+    {
+        "id": 439,
+        "question": "Manyetik bir bant üzerine sesleri kaydeden ve okuyan aygıt",
+        "letter": "T",
+        "answer": "teyp"
+    },
+    {
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "letter": "U",
+        "answer": "uyruk"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 1504,
+        "question": "Açık, aydın, belli",
+        "letter": "V",
+        "answer": "Vazıh"
+    },
+    {
+        "id": 953,
+        "question": "Tibet öküzü",
+        "letter": "Y",
+        "answer": "yak, yak sığırı"
+    },
+    {
+        "id": 855,
+        "question": "Değerli Bir Taş",
+        "letter": "Z",
+        "answer": "Zümrüt, zumrut"
+    }
+]

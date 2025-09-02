@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1670,
+        "question": "Bir ülkede ayrı soydan veya inançtan olan ve sayıca az bulunan topluluk",
+        "letter": "A",
+        "answer": "Azınlık"
+    },
+    {
+        "id": 1342,
+        "question": "Kuruluş veya yetkili kişilerce herhangi bir durumla ilgili olarak süreli veya süresiz yayımlanan duyuru",
+        "letter": "B",
+        "answer": "Bülten"
+    },
+    {
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
+        "letter": "C",
+        "answer": "Cenah"
+    },
+    {
+        "id": 1859,
+        "question": "AYAKLA ÇİĞNENDİĞİNDE YA DA DUVARA SÜRTÜLDÜĞÜNDE PATLAYAN EĞLENCE FİŞEĞİ",
+        "letter": "Ç",
+        "answer": "Çatapat"
+    },
+    {
+        "id": 194,
+        "question": "Açık sözlü",
+        "letter": "D",
+        "answer": "dobra"
+    },
+    {
+        "id": 1954,
+        "question": "İnsanın davranışlarını etkileyecek kadar güçlü olan tılsım, büyü",
+        "letter": "E",
+        "answer": "Efsun"
+    },
+    {
+        "id": 567,
+        "question": "Yanıcı bir maddeden aldığı itici güçle hareket eden düzenek",
+        "letter": "F",
+        "answer": "Füze"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 247,
+        "question": "Nişan alınacak yer, nişangah",
+        "letter": "H",
+        "answer": "hedef"
+    },
+    {
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
+        "letter": "İ",
+        "answer": "İşletme"
+    },
+    {
+        "id": 1814,
+        "question": "KAFA DERİSİNDE OLUŞAN KÜÇÜK, BEYAZ PULCUKLAR",
+        "letter": "K",
+        "answer": "Kepek"
+    },
+    {
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
+        "letter": "L",
+        "answer": "leziz"
+    },
+    {
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "letter": "M",
+        "answer": "Mimar"
+    },
+    {
+        "id": 989,
+        "question": "Bir şeyi hatırlamak için yazılan kısa yazı",
+        "letter": "N",
+        "answer": "Not, not etme, not etmek"
+    },
+    {
+        "id": 349,
+        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
+        "letter": "O",
+        "answer": "onbaşı"
+    },
+    {
+        "id": 659,
+        "question": "Nesnelerin gerçeğine değil, bireyin düşünce ve duygularına dayanan",
+        "letter": "Ö",
+        "answer": "Öznel"
+    },
+    {
+        "id": 823,
+        "question": "Bir balık ve bir meyve türünün ortak adı",
+        "letter": "P",
+        "answer": "Palamut"
+    },
+    {
+        "id": 387,
+        "question": "Zarara uğrama tehlikesi",
+        "letter": "R",
+        "answer": "risk"
+    },
+    {
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "letter": "S",
+        "answer": "Sahaf"
+    },
+    {
+        "id": 703,
+        "question": "Oturduğu yerde hafif ve kısa süreli uyuma",
+        "letter": "Ş",
+        "answer": "Şekerleme"
+    },
+    {
+        "id": 1774,
+        "question": "KEYFİ ALIŞKANLIĞA DÖNÜŞTÜRMÜŞ OLAN KİŞİ",
+        "letter": "T",
+        "answer": "Tiryaki"
+    },
+    {
+        "id": 451,
+        "question": "Genel, halka açık",
+        "letter": "U",
+        "answer": "umumi"
+    },
+    {
+        "id": 878,
+        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
+        "letter": "Ü",
+        "answer": "Ülkü"
+    },
+    {
+        "id": 39,
+        "question": "Güneş sistemindeki en sıcak gezegen",
+        "letter": "V",
+        "answer": "venüs"
+    },
+    {
+        "id": 494,
+        "question": "Eni boyundan ve derinliğinden çok olan, basık ve geniş",
+        "letter": "Y",
+        "answer": "yayvan"
+    },
+    {
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "letter": "Z",
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
+    }
+]

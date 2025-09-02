@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1666,
+        "question": "Soylu, asil bir soydan gelen (kimse)",
+        "letter": "A",
+        "answer": "Asilzade"
+    },
+    {
+        "id": 524,
+        "question": "Sargı ile yarayı sarma işlemi",
+        "letter": "B",
+        "answer": "Bandaj, bandajlama, bandajlamak"
+    },
+    {
+        "id": 162,
+        "question": "İri yapılı, iri gövdeli, iri yarı (kimse)",
+        "letter": "C",
+        "answer": "Cüsseli"
+    },
+    {
+        "id": 183,
+        "question": "Oy vermekten, eğilim göstermekten veya bir şey yapmaktan kaçınan, kararsız kimse",
+        "letter": "Ç",
+        "answer": "çekimser"
+    },
+    {
+        "id": 1392,
+        "question": "Aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü",
+        "letter": "D",
+        "answer": "Dosya, doküman"
+    },
+    {
+        "id": 1869,
+        "question": "GERİLDİĞİNDE ESKİ HALİNE GELEBİLEN, ESNEK VE DAYANIKLI YAPIYA SAHİP MADDEYİ TANIMLAYAN SÖZCÜK",
+        "letter": "E",
+        "answer": "Elastik"
+    },
+    {
+        "id": 1226,
+        "question": "Herhangi bir konuda verilen kararın kısa bir özet haline getirilmesi, soruşturma evrakı",
+        "letter": "F",
+        "answer": "Fezleke"
+    },
+    {
+        "id": 585,
+        "question": "Boya sanayisinde kullanılan beş litrelik ambalaj",
+        "letter": "G",
+        "answer": "Galon"
+    },
+    {
+        "id": 1099,
+        "question": "Adalete uygun bir biçimde, doğrulukla, adilane",
+        "letter": "H",
+        "answer": "Hakça"
+    },
+    {
+        "id": 269,
+        "question": "Yararlanılan uygun şart veya durum, olanak",
+        "letter": "İ",
+        "answer": "imkan"
+    },
+    {
+        "id": 1925,
+        "question": "Kertenkelenin avcısından kurtulmak için geride bıraktığı uzvu",
+        "letter": "K",
+        "answer": "Kuyruk, Kuyruğu"
+    },
+    {
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "letter": "L",
+        "answer": "Logo"
+    },
+    {
+        "id": 1249,
+        "question": "Hapiste olan, hakkında hüküm kesilmiş kimse",
+        "letter": "M",
+        "answer": "Mahkum"
+    },
+    {
+        "id": 643,
+        "question": "Örnek ya da göstermelik ürün",
+        "letter": "N",
+        "answer": "Numune"
+    },
+    {
+        "id": 909,
+        "question": "Taş ya da maden çıkarılan yer",
+        "letter": "O",
+        "answer": "Ocak"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 674,
+        "question": "Suyu alınmış her tür yiyecek maddesinin artığı",
+        "letter": "P",
+        "answer": "Posa, posası"
+    },
+    {
+        "id": 683,
+        "question": "Yanlış, yozlaşmış, vb. şeylerin iyileştirilmesi veya köklü değiştirilmesi",
+        "letter": "R",
+        "answer": "Reform, Reform yapma, Reform yapmak"
+    },
+    {
+        "id": 414,
+        "question": "Bazı tedavi yöntemlerinin uygulanması için ayrılan süre",
+        "letter": "S",
+        "answer": "seans"
+    },
+    {
+        "id": 697,
+        "question": "Bir diğer adı \"Enjektör\" olan nesne",
+        "letter": "Ş",
+        "answer": "Şırınga"
+    },
+    {
+        "id": 1735,
+        "question": "Bir dildeki ifadeleri baska bir dile aktaran kimse",
+        "letter": "T",
+        "answer": "Tercüman"
+    },
+    {
+        "id": 723,
+        "question": "Uyuşma, mutabakat, konsensüs",
+        "letter": "U",
+        "answer": "Uzlaşı, uzlaşma, uzlaşmak"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 888,
+        "question": "Kedigillerden, kürkünden yararlanılan çok yırtıcı hayvan",
+        "letter": "V",
+        "answer": "Vaşak, vasak"
+    },
+    {
+        "id": 889,
+        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "letter": "Y",
+        "answer": "Yalak"
+    },
+    {
+        "id": 1747,
+        "question": "Sıkıntı veya güçlükle yapılma durumu",
+        "letter": "Z",
+        "answer": "Zahmet, zahmetli"
+    }
+]

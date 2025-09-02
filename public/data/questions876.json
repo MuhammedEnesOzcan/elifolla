@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1082,
+        "question": "Anıtsal",
+        "letter": "A",
+        "answer": "Abidevi"
+    },
+    {
+        "id": 1709,
+        "question": "Karaoğlan lakaplı eski türk siyasetçi",
+        "letter": "B",
+        "answer": "Bülent Ecevit"
+    },
+    {
+        "id": 1149,
+        "question": "Dokumacılıkta, çözgü makinesinde çözgü ipliği bobinlerinin desen ve renk sırasına göre yerleştirildiği sehpa",
+        "letter": "C",
+        "answer": "cağlık"
+    },
+    {
+        "id": 1545,
+        "question": "Yüzü çiçek hastalığından kalma küçük yara izleri taşıyan, aşırı çiçek bozuğu olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çopur"
+    },
+    {
+        "id": 1486,
+        "question": "Yarar, çıkar amacıyla veya alışkanlıkla bir yere sık uğramak",
+        "letter": "D",
+        "answer": "Dadanmak"
+    },
+    {
+        "id": 1211,
+        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
+        "letter": "E",
+        "answer": "Emekleme, emeklemek"
+    },
+    {
+        "id": 1321,
+        "question": "Tütünleme suretiyle kurutulmuş ringa balığı",
+        "letter": "F",
+        "answer": "Frisa, firisa"
+    },
+    {
+        "id": 1436,
+        "question": "Yerkürenin geometrik olmayan gerçek biçimi",
+        "letter": "G",
+        "answer": "Geoit"
+    },
+    {
+        "id": 1243,
+        "question": "Kilit, menteşe, tel, çivi, vida gibi metal eşya, nalbur malzemeleri",
+        "letter": "H",
+        "answer": "Hırdavat, hirdavat, hırdavatçı, hirdavatci"
+    },
+    {
+        "id": 1608,
+        "question": "Şüphe etmek, kuşkulanmak",
+        "letter": "İ",
+        "answer": "İşkillenme, işkillenmek"
+    },
+    {
+        "id": 282,
+        "question": "Başlangıcı olmayan, eski, ezeli",
+        "letter": "K",
+        "answer": "kadim"
+    },
+    {
+        "id": 1528,
+        "question": "Üzeri toprak veya otla örtülmüş saman yığını",
+        "letter": "L",
+        "answer": "Loda"
+    },
+    {
+        "id": 816,
+        "question": "Yapılan iyiliğe karşı gönül borcu olan kişi",
+        "letter": "M",
+        "answer": "Minnettar"
+    },
+    {
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "letter": "N",
+        "answer": "Noter"
+    },
+    {
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
+        "letter": "O",
+        "answer": "Ozalit"
+    },
+    {
+        "id": 762,
+        "question": "Belli bir kurala göre devam eden sayı ya da şekil dizisi",
+        "letter": "Ö",
+        "answer": "Örüntü"
+    },
+    {
+        "id": 380,
+        "question": "Tüylü hayvan derisi",
+        "letter": "P",
+        "answer": "post"
+    },
+    {
+        "id": 1191,
+        "question": "Atın ritmik yürüşü",
+        "letter": "R",
+        "answer": "Rahvan"
+    },
+    {
+        "id": 408,
+        "question": "Bir müzik parçasının bir kişi tarafından söylenmesi veya çalınması",
+        "letter": "S",
+        "answer": "solo"
+    },
+    {
+        "id": 67,
+        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "letter": "Ş",
+        "answer": "Şanlıurfa, Şanlı Urfa"
+    },
+    {
+        "id": 1065,
+        "question": "Ayağın alt yüzü, aya",
+        "letter": "T",
+        "answer": "taban"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 1251,
+        "question": "Orta, iki şeyin ortasında olan, ortalama",
+        "letter": "V",
+        "answer": "Vasat"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 1146,
+        "question": "Güçsüz, zayıf, âciz",
+        "letter": "Z",
+        "answer": "zebun"
+    }
+]

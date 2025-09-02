@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1338,
+        "question": "Kazı bilimi",
+        "letter": "A",
+        "answer": "Arkeoloji"
+    },
+    {
+        "id": 1919,
+        "question": "FRANSIZCA KÖKENLİ “TÜRBÜLANS” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "letter": "B",
+        "answer": "Burgaç"
+    },
+    {
+        "id": 156,
+        "question": "Bir devlet veya kuruluşun gizli amaçları için çalışan kimse, ajan",
+        "letter": "C",
+        "answer": "casus"
+    },
+    {
+        "id": 1448,
+        "question": "İri köpek, çoban köpeği",
+        "letter": "Ç",
+        "answer": "Çomar"
+    },
+    {
+        "id": 194,
+        "question": "Açık sözlü",
+        "letter": "D",
+        "answer": "dobra"
+    },
+    {
+        "id": 1417,
+        "question": "Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku",
+        "letter": "E",
+        "answer": "Epitelyum"
+    },
+    {
+        "id": 1968,
+        "question": "KURAL İHLALİ SONRASI, KALEYE DOĞRUDAN ŞUT ÇEKİLEN SERBEST VURUŞ",
+        "letter": "F",
+        "answer": "FRİKİK"
+    },
+    {
+        "id": 1212,
+        "question": "Maddenin uçucu hali",
+        "letter": "G",
+        "answer": "Gaz, gaz hali"
+    },
+    {
+        "id": 250,
+        "question": "Hırsız, haydut, eşkıya",
+        "letter": "H",
+        "answer": "harami, haramiler"
+    },
+    {
+        "id": 1606,
+        "question": "Birine güler yüz gösterme, hatırını sorma, tatlı davranma",
+        "letter": "İ",
+        "answer": "İltifat, iltifat etme, iltifat etmek"
+    },
+    {
+        "id": 608,
+        "question": "Büyük taarruzda karargah olarak kullanılan tepe",
+        "letter": "K",
+        "answer": "Kocatepe, Koca"
+    },
+    {
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
+        "letter": "L",
+        "answer": "Lanse, lanse etme, lanse etmek"
+    },
+    {
+        "id": 1626,
+        "question": "Devlet hizmetinde aylıkla çalışan kimse, görevli",
+        "letter": "M",
+        "answer": "Memur"
+    },
+    {
+        "id": 644,
+        "question": "Atomun çekirdeğinden elde edilen bir enerji türü",
+        "letter": "N",
+        "answer": "Nükleer, Nükleer enerji"
+    },
+    {
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
+        "letter": "O",
+        "answer": "Ozalit"
+    },
+    {
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "letter": "Ö",
+        "answer": "özel"
+    },
+    {
+        "id": 821,
+        "question": "Birden ortaya çıkan, aşırı ve normalin dışına taşmış korku hali",
+        "letter": "P",
+        "answer": "panik"
+    },
+    {
+        "id": 398,
+        "question": "Havalimanında uçuşun gecikme durumu",
+        "letter": "R",
+        "answer": "rötar"
+    },
+    {
+        "id": 1270,
+        "question": "Tarihte ilk yazılı metinlere sahip olan medeniyet",
+        "letter": "S",
+        "answer": "Sümer, Sümerler"
+    },
+    {
+        "id": 703,
+        "question": "Oturduğu yerde hafif ve kısa süreli uyuma",
+        "letter": "Ş",
+        "answer": "Şekerleme"
+    },
+    {
+        "id": 1266,
+        "question": "Rastgelme, rastlantı sonucu",
+        "letter": "T",
+        "answer": "Tesadüf, tesadüfi, tesadüf eseri, tesadüfen"
+    },
+    {
+        "id": 722,
+        "question": "İnsana iyilik getirdiğine inanılan belirti",
+        "letter": "U",
+        "answer": "Uğur"
+    },
+    {
+        "id": 459,
+        "question": "Çok uçta, kenarda veya kıyıda köşede olan",
+        "letter": "Ü",
+        "answer": "ücra"
+    },
+    {
+        "id": 863,
+        "question": "Tahıl tanelerinin damıtılmasıyla elde edilen alkollü içki",
+        "letter": "V",
+        "answer": "Votka, vodka"
+    },
+    {
+        "id": 494,
+        "question": "Eni boyundan ve derinliğinden çok olan, basık ve geniş",
+        "letter": "Y",
+        "answer": "yayvan"
+    },
+    {
+        "id": 508,
+        "question": "Çok koyu, karanlık",
+        "letter": "Z",
+        "answer": "zifiri, zifir"
+    }
+]

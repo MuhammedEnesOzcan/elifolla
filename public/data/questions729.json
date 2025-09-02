@@ -1,0 +1,158 @@
+[
+    {
+        "id": 106,
+        "question": "Bir uyarıyı, bir tehlikeyi bildirmek için verilen işaret",
+        "letter": "A",
+        "answer": "alarm"
+    },
+    {
+        "id": 132,
+        "question": "Yeni doğmuş, ana sütüyle beslenen sığır yavrusu",
+        "letter": "B",
+        "answer": "buzağı"
+    },
+    {
+        "id": 1371,
+        "question": "Hayvanlarda tür, çeşit",
+        "letter": "C",
+        "answer": "Cins, cinsleri"
+    },
+    {
+        "id": 100,
+        "question": "Gayret, herhangi bir işi yapmak için harcanan güç ",
+        "letter": "Ç",
+        "answer": "çaba, çabalamak"
+    },
+    {
+        "id": 185,
+        "question": "Evlerde çocuğa bakan kimse, daye",
+        "letter": "D",
+        "answer": "dadı"
+    },
+    {
+        "id": 1869,
+        "question": "GERİLDİĞİNDE ESKİ HALİNE GELEBİLEN, ESNEK VE DAYANIKLI YAPIYA SAHİP MADDEYİ TANIMLAYAN SÖZCÜK",
+        "letter": "E",
+        "answer": "Elastik"
+    },
+    {
+        "id": 1311,
+        "question": "Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik, anekdot",
+        "letter": "F",
+        "answer": "Fıkra"
+    },
+    {
+        "id": 237,
+        "question": "Her zaman gülümseyen, mütebessim",
+        "letter": "G",
+        "answer": "güleç"
+    },
+    {
+        "id": 1158,
+        "question": "At yetiştirilen çiftlik",
+        "letter": "H",
+        "answer": "Hara"
+    },
+    {
+        "id": 1198,
+        "question": "Sığınma, sığınma hakkı",
+        "letter": "İ",
+        "answer": "İltica, iltica hakkı"
+    },
+    {
+        "id": 612,
+        "question": "Isıtmada kullanılan yakıtı düzenli ve ayarlı biçimde yakan araç",
+        "letter": "K",
+        "answer": "Kombi"
+    },
+    {
+        "id": 983,
+        "question": "Deniz kulağı",
+        "letter": "L",
+        "answer": "Lagün"
+    },
+    {
+        "id": 634,
+        "question": "Akla uygun, doğru düşünülmüş",
+        "letter": "M",
+        "answer": "Mantıklı"
+    },
+    {
+        "id": 333,
+        "question": "İstenilen düzende olan, düzene uygun olan",
+        "letter": "N",
+        "answer": "nizami"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "letter": "Ö",
+        "answer": "Örk"
+    },
+    {
+        "id": 1013,
+        "question": "Yaşlı, koca, ihtiyar kimse",
+        "letter": "P",
+        "answer": "Pir"
+    },
+    {
+        "id": 1872,
+        "question": "BİR DAİREDE YARIÇAP UZUNLUĞUNDAKİ YAY PARÇASINI GÖREN MERKEZ AÇIYA, EŞİT AÇI ÖLÇME BİRİMİ",
+        "letter": "R",
+        "answer": "Radyan"
+    },
+    {
+        "id": 406,
+        "question": "Dik, çıkması ve geçilmesi güç (yer)",
+        "letter": "S",
+        "answer": "sarp"
+    },
+    {
+        "id": 766,
+        "question": "Haşlanmış gıdayı hızlıca buz ile soğutmak",
+        "letter": "Ş",
+        "answer": "Şoklama, Şoklamak, Şoklama işlemi"
+    },
+    {
+        "id": 1064,
+        "question": "Şişe gibi dar delikleri tıkamaya yarayan mantar, cam, tahta veya plastikten tıkaç",
+        "letter": "T",
+        "answer": "tapa, tıpa"
+    },
+    {
+        "id": 444,
+        "question": "Çok acayip, şaşılacak kadar çirkin olan",
+        "letter": "U",
+        "answer": "ucube"
+    },
+    {
+        "id": 1315,
+        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "letter": "Ü",
+        "answer": "Ütopik"
+    },
+    {
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
+        "letter": "V",
+        "answer": "Virüs"
+    },
+    {
+        "id": 496,
+        "question": "Enerji ve ısı ortaya çıkaran yanıcı madde",
+        "letter": "Y",
+        "answer": "yakıt"
+    },
+    {
+        "id": 508,
+        "question": "Çok koyu, karanlık",
+        "letter": "Z",
+        "answer": "zifiri, zifir"
+    }
+]

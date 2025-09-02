@@ -1,0 +1,158 @@
+[
+    {
+        "id": 104,
+        "question": "Bir kaynağa dayanmayan, hayali",
+        "letter": "A",
+        "answer": "afaki, afâki"
+    },
+    {
+        "id": 1355,
+        "question": "Çoğunlukla bakırdan yapılan küçük kova",
+        "letter": "B",
+        "answer": "Bakraç"
+    },
+    {
+        "id": 964,
+        "question": "Cam ticaretini veya cam takmayı meslek edinmiş kimse",
+        "letter": "C",
+        "answer": "Camcı"
+    },
+    {
+        "id": 547,
+        "question": "Atomda proton ve nötronun bulunduğu merkezi kısım",
+        "letter": "Ç",
+        "answer": "Çekirdek"
+    },
+    {
+        "id": 192,
+        "question": "Geri bildirim",
+        "letter": "D",
+        "answer": "dönüt"
+    },
+    {
+        "id": 204,
+        "question": "Tutsak, köle",
+        "letter": "E",
+        "answer": "esir"
+    },
+    {
+        "id": 221,
+        "question": "Ölçüyü aşan, aşırı, çok fazla",
+        "letter": "F",
+        "answer": "fahiş"
+    },
+    {
+        "id": 243,
+        "question": "Sonradan verilecek bir ceza ile korkutma, yıldırma, tehdit",
+        "letter": "G",
+        "answer": "gözdağı"
+    },
+    {
+        "id": 89,
+        "question": "Bir şirketin ortaklarından her biri",
+        "letter": "H",
+        "answer": "hissedar"
+    },
+    {
+        "id": 274,
+        "question": "Toplum hayatından kaçıp tek başına yaşama",
+        "letter": "İ",
+        "answer": "inziva, inzivaya çekilme, inzivaya çekilmek"
+    },
+    {
+        "id": 286,
+        "question": "Var olan ancak bilinmeyen bir şeyi bulan, ortaya çıkaran kimse, bulucu",
+        "letter": "K",
+        "answer": "kaşif, kâşif"
+    },
+    {
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
+        "letter": "L",
+        "answer": "Lanse, lanse etme, lanse etmek"
+    },
+    {
+        "id": 317,
+        "question": "Aşırı olmayan, uygun, elverişli",
+        "letter": "M",
+        "answer": "makul, mâkul"
+    },
+    {
+        "id": 330,
+        "question": "Kullanılması hemen mümkün olan para, likit",
+        "letter": "N",
+        "answer": "nakit, nakit para"
+    },
+    {
+        "id": 1739,
+        "question": "Kuruluşları ortak bir amaç için bir araya getirme, düzenleme",
+        "letter": "O",
+        "answer": "Organizasyon, Organize etme, Organize etmek"
+    },
+    {
+        "id": 368,
+        "question": "Herhangi bir kısıtlamaya, zorlamaya, şarta bağlı olmayan, hür",
+        "letter": "Ö",
+        "answer": "özgür"
+    },
+    {
+        "id": 374,
+        "question": "Parça, kısım",
+        "letter": "P",
+        "answer": "pare"
+    },
+    {
+        "id": 676,
+        "question": "Emek harcamadan elde edilen kazanım",
+        "letter": "R",
+        "answer": "Rant, Rantçılık"
+    },
+    {
+        "id": 416,
+        "question": "Çok bulunmayan, az rastlanan, nadir",
+        "letter": "S",
+        "answer": "seyrek"
+    },
+    {
+        "id": 1678,
+        "question": "Almanya ve Avusturya'da hükûmet başkanı ünvanı",
+        "letter": "Ş",
+        "answer": "Şansölye"
+    },
+    {
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "letter": "T",
+        "answer": "Taktik"
+    },
+    {
+        "id": 1563,
+        "question": "Nükleer santrallerde en yaygın kullanılan ve radyoaktif atık bırakan yakıt",
+        "letter": "U",
+        "answer": "Uranyum"
+    },
+    {
+        "id": 466,
+        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
+        "letter": "Ü",
+        "answer": "üslup"
+    },
+    {
+        "id": 1506,
+        "question": "Geliş, gelme",
+        "letter": "V",
+        "answer": "Vürut"
+    },
+    {
+        "id": 1140,
+        "question": "Dik, sarp",
+        "letter": "Y",
+        "answer": "yalçın"
+    },
+    {
+        "id": 1593,
+        "question": "Ard arda birden fazla aracın kazaya karışması durumu",
+        "letter": "Z",
+        "answer": "Zincirleme, zincirleme kaza"
+    }
+]

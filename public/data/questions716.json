@@ -1,0 +1,158 @@
+[
+    {
+        "id": 106,
+        "question": "Bir uyarıyı, bir tehlikeyi bildirmek için verilen işaret",
+        "letter": "A",
+        "answer": "alarm"
+    },
+    {
+        "id": 1084,
+        "question": "Vücudun kasıktan tabana kadar olan bölümü",
+        "letter": "B",
+        "answer": "Bacak"
+    },
+    {
+        "id": 1366,
+        "question": "Kümes hayvanlarının yumurtadan yeni çıkmış yavrusu",
+        "letter": "C",
+        "answer": "Civciv"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1398,
+        "question": "Aynı cinsten onluk bir küme",
+        "letter": "D",
+        "answer": "Deste"
+    },
+    {
+        "id": 564,
+        "question": "Mutluluk Hormonu",
+        "letter": "E",
+        "answer": "Endorfin"
+    },
+    {
+        "id": 1674,
+        "question": "Malzemesi marka sahibi tarafından karşılanarak başka bir firmaya yaptırılan mal",
+        "letter": "F",
+        "answer": "Fason"
+    },
+    {
+        "id": 1769,
+        "question": "BELLİ BİR BÜTÜNE GÖRE KALEME ALINAN METNİN SONUÇTAN ÖNCEKİ BÖLÜMÜ",
+        "letter": "G",
+        "answer": "Gelişme"
+    },
+    {
+        "id": 253,
+        "question": "Çok güzel el yazısı yazan sanatçı",
+        "letter": "H",
+        "answer": "hattat"
+    },
+    {
+        "id": 1953,
+        "question": "ACI VE ÜZÜNTÜYÜ BELİRTEN KESİK KESİK SESLER",
+        "letter": "İ",
+        "answer": "İnilti"
+    },
+    {
+        "id": 1751,
+        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
+        "letter": "K",
+        "answer": "Kıta"
+    },
+    {
+        "id": 619,
+        "question": "Arası bozuk, iyi olmayan (insan ilişkileri)",
+        "letter": "L",
+        "answer": "Limoni"
+    },
+    {
+        "id": 1627,
+        "question": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki)",
+        "letter": "M",
+        "answer": "Melez"
+    },
+    {
+        "id": 644,
+        "question": "Atomun çekirdeğinden elde edilen bir enerji türü",
+        "letter": "N",
+        "answer": "Nükleer, Nükleer enerji"
+    },
+    {
+        "id": 652,
+        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
+        "letter": "O",
+        "answer": "Odeon"
+    },
+    {
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "letter": "Ö",
+        "answer": "özel"
+    },
+    {
+        "id": 1916,
+        "question": "MATEMATİKTE, BAYAĞI KESİRLERDEKİ ÇİZGİ ALTI SAYISI",
+        "letter": "P",
+        "answer": "Payda"
+    },
+    {
+        "id": 33,
+        "question": "Yüksek basınçtan, alçak basınca doğru olan hava akımları",
+        "letter": "R",
+        "answer": "Rüzgar"
+    },
+    {
+        "id": 416,
+        "question": "Çok bulunmayan, az rastlanan, nadir",
+        "letter": "S",
+        "answer": "seyrek"
+    },
+    {
+        "id": 1467,
+        "question": "Genellikle binaların girişine gelen elektrik akımını açıp kapamaya yarayan araç",
+        "letter": "Ş",
+        "answer": "Şalter"
+    },
+    {
+        "id": 1903,
+        "question": "YUMUŞAK ÇELİKTEN YAPILMIŞ ÜZERİ KALAY KAPLI İNCE SAC",
+        "letter": "T",
+        "answer": "Teneke"
+    },
+    {
+        "id": 1074,
+        "question": "Türk müziğinde ana makamlardan biri",
+        "letter": "U",
+        "answer": "Uşşak"
+    },
+    {
+        "id": 1474,
+        "question": "Altyapı üzerine kurulan, oturmaya veya üretime yarayan yapıların tümü",
+        "letter": "Ü",
+        "answer": "Üstyapı"
+    },
+    {
+        "id": 881,
+        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
+        "letter": "V",
+        "answer": "Vernik, vernık"
+    },
+    {
+        "id": 741,
+        "question": "Anı Olarak Alınan Ya Da Verilen Şey",
+        "letter": "Y",
+        "answer": "Yadigar"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

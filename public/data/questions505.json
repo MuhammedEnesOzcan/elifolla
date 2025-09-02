@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1926,
+        "question": "BOKSTA, BÜKÜK KOLLA AŞAĞIDAN YUKARIYA DOĞRU ÇENEYE ATILAN YUMRUK",
+        "letter": "A",
+        "answer": "Aparkat"
+    },
+    {
+        "id": 1347,
+        "question": "Kavun, karpuz tarlası",
+        "letter": "B",
+        "answer": "Bostan, bostanlık"
+    },
+    {
+        "id": 163,
+        "question": "Bir yeri, bir veya daha çok bölüme ayıran cam bölme",
+        "letter": "C",
+        "answer": "camekan"
+    },
+    {
+        "id": 179,
+        "question": "Çizilerek veya oyularak açılan kertik",
+        "letter": "Ç",
+        "answer": "çetele, çentik"
+    },
+    {
+        "id": 1399,
+        "question": "Büyük takımlar arasında oynanan maç",
+        "letter": "D",
+        "answer": "Derbi, derbi maçı"
+    },
+    {
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "letter": "E",
+        "answer": "ezel"
+    },
+    {
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
+        "letter": "F",
+        "answer": "fünye"
+    },
+    {
+        "id": 579,
+        "question": "Su veya hava akıntısının dönerek ve çukurlaşarak yaptığı çevrinti",
+        "letter": "G",
+        "answer": "Girdap"
+    },
+    {
+        "id": 244,
+        "question": "Hoşa giden duygulanma, hoşlanma, zevk",
+        "letter": "H",
+        "answer": "haz"
+    },
+    {
+        "id": 755,
+        "question": "Ticari hezimet",
+        "letter": "İ",
+        "answer": "İflas, iflas etme, iflas etmek"
+    },
+    {
+        "id": 1783,
+        "question": "KİTABIN, DERGİNİN İÇERİĞİNİ ÖZETLEYEN DIŞ YÜZÜ",
+        "letter": "K",
+        "answer": "Kapak"
+    },
+    {
+        "id": 1106,
+        "question": "Üzerinde su muslukları bulunan, el, yüz, bulaşık yıkamaya yarar, çukur yer veya eşya",
+        "letter": "L",
+        "answer": "Lavabo, lavobo"
+    },
+    {
+        "id": 310,
+        "question": "Bir emek karşılığında aylık, haftalık gibi verilen ödenek",
+        "letter": "M",
+        "answer": "maaş"
+    },
+    {
+        "id": 328,
+        "question": "Tarafsız, yansız, eşit ya da ortada",
+        "letter": "N",
+        "answer": "nötr"
+    },
+    {
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "letter": "O",
+        "answer": "Orada, orda"
+    },
+    {
+        "id": 362,
+        "question": "Bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz",
+        "letter": "Ö",
+        "answer": "özet"
+    },
+    {
+        "id": 1156,
+        "question": "Tank tekeri, zorlu arazilerde gitmeye yarayan araç",
+        "letter": "P",
+        "answer": "Palet, paletli"
+    },
+    {
+        "id": 33,
+        "question": "Yüksek basınçtan, alçak basınca doğru olan hava akımları",
+        "letter": "R",
+        "answer": "Rüzgar"
+    },
+    {
+        "id": 403,
+        "question": "Derinliği az, dibi yüzeyine yakın olan",
+        "letter": "S",
+        "answer": "sığ"
+    },
+    {
+        "id": 428,
+        "question": "Gürültü patırtı",
+        "letter": "Ş",
+        "answer": "şamata"
+    },
+    {
+        "id": 1154,
+        "question": "Diş taşı",
+        "letter": "T",
+        "answer": "tartar"
+    },
+    {
+        "id": 444,
+        "question": "Çok acayip, şaşılacak kadar çirkin olan",
+        "letter": "U",
+        "answer": "ucube"
+    },
+    {
+        "id": 1566,
+        "question": "Mecazen; Delirmek, aklını yitirmek",
+        "letter": "Ü",
+        "answer": "Üşütmek, üşütme"
+    },
+    {
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "letter": "V",
+        "answer": "Vize, vize belgesi"
+    },
+    {
+        "id": 717,
+        "question": "Yüksek mahkeme, yüksek yargı kurulu",
+        "letter": "Y",
+        "answer": "Yargıtay"
+    },
+    {
+        "id": 498,
+        "question": "Bir şeyin fiyatını artırma, bindirim",
+        "letter": "Z",
+        "answer": "zam"
+    }
+]

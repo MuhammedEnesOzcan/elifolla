@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1164,
+        "question": "Gerçeğe, sağduyuya, akla aykırı",
+        "letter": "A",
+        "answer": "Abes"
+    },
+    {
+        "id": 1195,
+        "question": "Çiçek demeti",
+        "letter": "B",
+        "answer": "Buket"
+    },
+    {
+        "id": 1319,
+        "question": "Mızrap ile çalınan iki veya üç teli olan halk sazı",
+        "letter": "C",
+        "answer": "Cura"
+    },
+    {
+        "id": 166,
+        "question": "Dağın bir noktasından kopup yuvarlanan ve yuvarlandıkça büyüyen kar kümesi",
+        "letter": "Ç",
+        "answer": "çığ"
+    },
+    {
+        "id": 1392,
+        "question": "Aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü",
+        "letter": "D",
+        "answer": "Dosya, doküman"
+    },
+    {
+        "id": 212,
+        "question": "Bütünleşmiş, dahili",
+        "letter": "E",
+        "answer": "entegre"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 22,
+        "question": "Ahmaklık, anlayışsızlık, kalın kafalılık, bönlük",
+        "letter": "G",
+        "answer": "gabavet"
+    },
+    {
+        "id": 594,
+        "question": "Sınır, uç noktası",
+        "letter": "H",
+        "answer": "Hudut"
+    },
+    {
+        "id": 1607,
+        "question": "Üreticiden aldığı malları tezgah ve taşıma araçları ile cadde ve sokaklarda pazarlayan kimse ",
+        "letter": "İ",
+        "answer": "İşportacı"
+    },
+    {
+        "id": 281,
+        "question": "Silah, kılıç vb. şeylerde tutulacak yer, tutak, sap",
+        "letter": "K",
+        "answer": "kabza"
+    },
+    {
+        "id": 292,
+        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "letter": "L",
+        "answer": "lobi"
+    },
+    {
+        "id": 1945,
+        "question": "HALAYBAŞI AKSESUARI",
+        "letter": "M",
+        "answer": "Mendil"
+    },
+    {
+        "id": 1224,
+        "question": "Çaresi, çözümü olmayan, çaresiz olan",
+        "letter": "N",
+        "answer": "Naçar, naçarlık, nafile"
+    },
+    {
+        "id": 645,
+        "question": "Doğal yolla yapılan",
+        "letter": "O",
+        "answer": "Organik"
+    },
+    {
+        "id": 362,
+        "question": "Bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz",
+        "letter": "Ö",
+        "answer": "özet"
+    },
+    {
+        "id": 1937,
+        "question": "Hastalıkla ilgili hücrelerdeki, dokulardaki ve organlardaki yapısal ve işlevsel değişikliklerin tanınması, araştırılması ve incelenmesiyle ilgilenen bilim dalı",
+        "letter": "P",
+        "answer": "Patoloji, Pataloji"
+    },
+    {
+        "id": 399,
+        "question": "Mertebe, derece",
+        "letter": "R",
+        "answer": "rütbe"
+    },
+    {
+        "id": 1779,
+        "question": "NESNE ÖZELLİKLERİ BULUNMAYAN, DUYULARLA ALGILANMAYAN",
+        "letter": "S",
+        "answer": "Soyut"
+    },
+    {
+        "id": 426,
+        "question": "Açık ve ayrıntılı anlatma",
+        "letter": "Ş",
+        "answer": "şerh"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 1069,
+        "question": "ele avuca sığmaz (kimse)",
+        "letter": "U",
+        "answer": "Uçarı"
+    },
+    {
+        "id": 458,
+        "question": "Herhangi bir topluluğu oluşturan bireylerden her biri",
+        "letter": "Ü",
+        "answer": "üye"
+    },
+    {
+        "id": 1137,
+        "question": "Kent veya kasabada dış mahalle",
+        "letter": "V",
+        "answer": "varoş"
+    },
+    {
+        "id": 1140,
+        "question": "Dik, sarp",
+        "letter": "Y",
+        "answer": "yalçın"
+    },
+    {
+        "id": 1143,
+        "question": "Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim",
+        "letter": "Z",
+        "answer": "Zabıta"
+    }
+]

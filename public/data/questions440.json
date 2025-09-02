@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1340,
+        "question": "Herhangi bir konuda yapılan ön hazırlık",
+        "letter": "A",
+        "answer": "Antrenman, antreman, alıştırma"
+    },
+    {
+        "id": 522,
+        "question": "İşçilerin başlarına giydikleri, metal veya plastikten yapılmış koruyucu başlık",
+        "letter": "B",
+        "answer": "Baret"
+    },
+    {
+        "id": 536,
+        "question": "Kaçma, savuşma",
+        "letter": "C",
+        "answer": "Cızlam"
+    },
+    {
+        "id": 1541,
+        "question": "Şundan dolayı, şu sebeple, zira",
+        "letter": "Ç",
+        "answer": "Çünkü"
+    },
+    {
+        "id": 1201,
+        "question": "Elektrik devresinde ampulün takıldığı devre elemanı",
+        "letter": "D",
+        "answer": "Duy, duyu"
+    },
+    {
+        "id": 216,
+        "question": "Damar tıkanıklığı",
+        "letter": "E",
+        "answer": "emboli"
+    },
+    {
+        "id": 571,
+        "question": "Bir girişimde başarısız sonuç",
+        "letter": "F",
+        "answer": "Fiyasko"
+    },
+    {
+        "id": 803,
+        "question": "Ağız ve burun boşluğunun arka bölümü",
+        "letter": "G",
+        "answer": "Geniz"
+    },
+    {
+        "id": 974,
+        "question": "Hiçbir işe yaramadan yok olma, boşa gitme",
+        "letter": "H",
+        "answer": "Heba, heba olma, heba olmak, heba olması"
+    },
+    {
+        "id": 1180,
+        "question": "Trenlerin durarak yolcu ve yük indirdikleri ya da aldıkları yer",
+        "letter": "İ",
+        "answer": "İstasyon"
+    },
+    {
+        "id": 276,
+        "question": "Yeterli, yetecek ölçüde olan",
+        "letter": "K",
+        "answer": "kafi, kâfi"
+    },
+    {
+        "id": 1280,
+        "question": "Bir şeyi yemek için ağza götürülen parça",
+        "letter": "L",
+        "answer": "Lokma"
+    },
+    {
+        "id": 818,
+        "question": "Eski zamanların tek kişilik komedi gösterisi ustası",
+        "letter": "M",
+        "answer": "Meddah"
+    },
+    {
+        "id": 949,
+        "question": "Nikel'in simgesi",
+        "letter": "N",
+        "answer": "ni"
+    },
+    {
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
+        "letter": "O",
+        "answer": "Ozalit"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 670,
+        "question": "Kişiye onur nişanesi olarak verilen küçük levha",
+        "letter": "P",
+        "answer": "Plaket"
+    },
+    {
+        "id": 1643,
+        "question": "Tarımda bir yılda derlenen ürünlerin bütünü",
+        "letter": "R",
+        "answer": "Rekolte"
+    },
+    {
+        "id": 693,
+        "question": "Bir bütün meydana getiren planlar dizisi",
+        "letter": "S",
+        "answer": "Sekans"
+    },
+    {
+        "id": 1464,
+        "question": "Olması başka durumların gerçekleşmesini gerektiren şey, koşul",
+        "letter": "Ş",
+        "answer": "Şart, şartlar"
+    },
+    {
+        "id": 705,
+        "question": "Güneş’in doğuşundan önceki alacakaranlık zaman",
+        "letter": "T",
+        "answer": "Tan, Tan vakti"
+    },
+    {
+        "id": 1071,
+        "question": "Yakışır, yaraşır, mutabık, mütenasip",
+        "letter": "U",
+        "answer": "uygun"
+    },
+    {
+        "id": 38,
+        "question": "Fakülteler topluluğu",
+        "letter": "Ü",
+        "answer": "ÜNİVERSİTE"
+    },
+    {
+        "id": 484,
+        "question": "Eski dilde \"Anne\"",
+        "letter": "V",
+        "answer": "Valide"
+    },
+    {
+        "id": 904,
+        "question": "Yeni doğmuş hayvan",
+        "letter": "Y",
+        "answer": "Yavru"
+    },
+    {
+        "id": 1303,
+        "question": "Çapkın, kadın düşünü anlamlarındaki bir söz",
+        "letter": "Z",
+        "answer": "Zampara"
+    }
+]

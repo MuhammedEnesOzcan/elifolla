@@ -1,0 +1,158 @@
+[
+    {
+        "id": 781,
+        "question": "Sembol niteliğindeki yapı",
+        "letter": "A",
+        "answer": "Abide, Anıt"
+    },
+    {
+        "id": 526,
+        "question": "Geçidi kapamak için her türlü araçtan yararlanılarak yapılan engel",
+        "letter": "B",
+        "answer": "Barikat"
+    },
+    {
+        "id": 1923,
+        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "letter": "C",
+        "answer": "Cıvık"
+    },
+    {
+        "id": 542,
+        "question": "Ucu yassı ve eğri, büyük iğne",
+        "letter": "Ç",
+        "answer": "Çuvaldız"
+    },
+    {
+        "id": 938,
+        "question": "Fide dikilirken kullanılan ucu çatallı çubuk",
+        "letter": "D",
+        "answer": "dikeç"
+    },
+    {
+        "id": 1173,
+        "question": "Mental ve vücutça sağlıklı, sağlık içinde olan",
+        "letter": "E",
+        "answer": "Esen"
+    },
+    {
+        "id": 219,
+        "question": "İstenilen şeylerin yazılması, doldurulması için hazırlanmış basılı belge",
+        "letter": "F",
+        "answer": "form"
+    },
+    {
+        "id": 1865,
+        "question": "BİR TOPLUMUN, GEREKLİ KAYNAKLARI ELDE EDEBİLMEK ÜZERE DÜZENLİ OLARAK YER DEĞİŞTİRMESİ",
+        "letter": "G",
+        "answer": "Göçebelik, Göç, Göç etmesi"
+    },
+    {
+        "id": 1243,
+        "question": "Kilit, menteşe, tel, çivi, vida gibi metal eşya, nalbur malzemeleri",
+        "letter": "H",
+        "answer": "Hırdavat, hirdavat, hırdavatçı, hirdavatci"
+    },
+    {
+        "id": 260,
+        "question": "Kötü bir olaydan alınması gereken ders, uyarıcı sonuç",
+        "letter": "İ",
+        "answer": "ibret, ibret alma, ibret almak"
+    },
+    {
+        "id": 95,
+        "question": "Komutanı korgeneral olan askeri birlik",
+        "letter": "K",
+        "answer": "kolordu"
+    },
+    {
+        "id": 621,
+        "question": "Kelime, sözlük",
+        "letter": "L",
+        "answer": "Lügat, Lugat, Lûgat"
+    },
+    {
+        "id": 1289,
+        "question": "Beceri, ustalık, hüner",
+        "letter": "M",
+        "answer": "Maharet, maharetlilik, marifet"
+    },
+    {
+        "id": 1521,
+        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "letter": "N",
+        "answer": "Nova"
+    },
+    {
+        "id": 348,
+        "question": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+        "letter": "O",
+        "answer": "obur"
+    },
+    {
+        "id": 1533,
+        "question": "Tazminat",
+        "letter": "Ö",
+        "answer": "Ödence"
+    },
+    {
+        "id": 376,
+        "question": "Bir başkasına bağımlılığı olan",
+        "letter": "P",
+        "answer": "peyk"
+    },
+    {
+        "id": 1643,
+        "question": "Tarımda bir yılda derlenen ürünlerin bütünü",
+        "letter": "R",
+        "answer": "Rekolte"
+    },
+    {
+        "id": 689,
+        "question": "İstemeden bir şeylere çarpan, deviren, kıran (kimse)",
+        "letter": "S",
+        "answer": "Sakar"
+    },
+    {
+        "id": 419,
+        "question": "Yetki ve sorumluluğu olan, yöneten kimse",
+        "letter": "Ş",
+        "answer": "şef"
+    },
+    {
+        "id": 1782,
+        "question": "İşe girişmek veya kalkışmak",
+        "letter": "T",
+        "answer": "Teşebbüs, Teşebbüs etme, Teşebbüs etmek"
+    },
+    {
+        "id": 1070,
+        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
+        "letter": "U",
+        "answer": "Uçkun"
+    },
+    {
+        "id": 1474,
+        "question": "Altyapı üzerine kurulan, oturmaya veya üretime yarayan yapıların tümü",
+        "letter": "Ü",
+        "answer": "Üstyapı"
+    },
+    {
+        "id": 1300,
+        "question": "Para dalgalanmalarından yararlanarak kolay yoldan kazanç elde eden, spekülatör",
+        "letter": "V",
+        "answer": "Vurguncu"
+    },
+    {
+        "id": 1501,
+        "question": "Parmağa geçirilen genellikle metal halka",
+        "letter": "Y",
+        "answer": "Yüzük"
+    },
+    {
+        "id": 1843,
+        "question": "RENKSİZ YA DA SARI, YEŞİL VE KAHVERENGİ RENKLERDE OLABİLEN DOĞAL, SAYDAM DEĞERLİ BİR TAŞ",
+        "letter": "Z",
+        "answer": "Zirkon"
+    }
+]

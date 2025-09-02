@@ -1,0 +1,158 @@
+[
+    {
+        "id": 126,
+        "question": "Eski dilde \"Dilekçe\"",
+        "letter": "A",
+        "answer": "arzuhal, arzuhâl"
+    },
+    {
+        "id": 138,
+        "question": "Bir işi, bir davranışı yapmama kararı alma",
+        "letter": "B",
+        "answer": "boykot"
+    },
+    {
+        "id": 1362,
+        "question": "Aynı eğilimde olan, aynı görüşü paylaşan kimselerin oluşturduğu hareket",
+        "letter": "C",
+        "answer": "Cereyan, cereyan etme, cereyan etmek"
+    },
+    {
+        "id": 1547,
+        "question": "Balık kılçığı",
+        "letter": "Ç",
+        "answer": "Çopra"
+    },
+    {
+        "id": 188,
+        "question": "Doğrudan doğruya olmayan, dolayısıyla olan, vasıtalı, bilvasıta, endirekt",
+        "letter": "D",
+        "answer": "dolaylı, dolambaçlı"
+    },
+    {
+        "id": 560,
+        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "letter": "E",
+        "answer": "Edip"
+    },
+    {
+        "id": 574,
+        "question": "Dönem sonu sınavı",
+        "letter": "F",
+        "answer": "Final, Final sınavı"
+    },
+    {
+        "id": 94,
+        "question": "Günlük çıkarılan haber kaynağı, yazılı yayın",
+        "letter": "G",
+        "answer": "gazete"
+    },
+    {
+        "id": 58,
+        "question": "Sebze, meyve, bakliyat gibi ürünlerin toptan satıldığı yer",
+        "letter": "H",
+        "answer": "Hal, Hâl"
+    },
+    {
+        "id": 1842,
+        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "letter": "İ",
+        "answer": "İmtina, İmtina etme, İmtina etmek"
+    },
+    {
+        "id": 286,
+        "question": "Var olan ancak bilinmeyen bir şeyi bulan, ortaya çıkaran kimse, bulucu",
+        "letter": "K",
+        "answer": "kaşif, kâşif"
+    },
+    {
+        "id": 294,
+        "question": "Gösterişli, şatafatlı olan",
+        "letter": "L",
+        "answer": "lüks"
+    },
+    {
+        "id": 1625,
+        "question": "Bir şeyi anlamak veya öğrenmek için duyulan istek",
+        "letter": "M",
+        "answer": "Merak"
+    },
+    {
+        "id": 643,
+        "question": "Örnek ya da göstermelik ürün",
+        "letter": "N",
+        "answer": "Numune"
+    },
+    {
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
+        "letter": "O",
+        "answer": "Opak"
+    },
+    {
+        "id": 1006,
+        "question": "Küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı",
+        "letter": "Ö",
+        "answer": "Öcü"
+    },
+    {
+        "id": 1730,
+        "question": "Kolaylıkla uygulanabilir, kullanışlı olan",
+        "letter": "P",
+        "answer": "Pratik"
+    },
+    {
+        "id": 675,
+        "question": "İstek, arz, ilgi, itibar",
+        "letter": "R",
+        "answer": "Rağbet"
+    },
+    {
+        "id": 417,
+        "question": "Buhar banyosu",
+        "letter": "S",
+        "answer": "sauna"
+    },
+    {
+        "id": 1912,
+        "question": "ÜLKE ÇAPINDA YAYGINLAŞTIRILMIŞ ULAŞIM VE İLETİŞİM ÖRGÜSÜ, AĞ",
+        "letter": "Ş",
+        "answer": "Şebeke, Şebeke ağı"
+    },
+    {
+        "id": 707,
+        "question": "Alçak gönüllülük",
+        "letter": "T",
+        "answer": "Tevazu"
+    },
+    {
+        "id": 1074,
+        "question": "Türk müziğinde ana makamlardan biri",
+        "letter": "U",
+        "answer": "Uşşak"
+    },
+    {
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
+        "letter": "Ü",
+        "answer": "ülke"
+    },
+    {
+        "id": 1569,
+        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "letter": "V",
+        "answer": "Varyete"
+    },
+    {
+        "id": 1845,
+        "question": "SEYAHATE ÇIKMIŞ KİMSE",
+        "letter": "Y",
+        "answer": "Yolcu"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

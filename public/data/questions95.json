@@ -1,0 +1,158 @@
+[
+    {
+        "id": 114,
+        "question": "Benzin, gaz yağı, mazot vb. sıvı yakıt",
+        "letter": "A",
+        "answer": "akaryakıt"
+    },
+    {
+        "id": 1355,
+        "question": "Çoğunlukla bakırdan yapılan küçük kova",
+        "letter": "B",
+        "answer": "Bakraç"
+    },
+    {
+        "id": 1305,
+        "question": "Yurt, baba ocağı gibi çok sevilen şeylerden ayrılmış olan, uzak kalmış olan",
+        "letter": "C",
+        "answer": "Cüda"
+    },
+    {
+        "id": 1485,
+        "question": "Etkili, dikkat çeken, sansasyonel",
+        "letter": "Ç",
+        "answer": "Çarpıcı, çarpıcı olay"
+    },
+    {
+        "id": 550,
+        "question": "Gregor Samsa karakterinin yer aldığı Franz Kafka romanı",
+        "letter": "D",
+        "answer": "Dönüşüm"
+    },
+    {
+        "id": 558,
+        "question": "Nağme ve melodi sözlerinin Türkçe kökenli karşılığı",
+        "letter": "E",
+        "answer": "Ezgi"
+    },
+    {
+        "id": 572,
+        "question": "Bir kimseyi veya bir yeri koruyan kimse",
+        "letter": "F",
+        "answer": "Fedai"
+    },
+    {
+        "id": 1426,
+        "question": "İspiyonlamak",
+        "letter": "G",
+        "answer": "Gammazlamak"
+    },
+    {
+        "id": 1098,
+        "question": "Kur'an'ı bütünüyle ezbere bilen kimse",
+        "letter": "H",
+        "answer": "Hafız"
+    },
+    {
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
+        "letter": "İ",
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
+    },
+    {
+        "id": 287,
+        "question": "Posta, kargo, mektup vb. gönderileri alıcıya ulaştıran kimse",
+        "letter": "K",
+        "answer": "kurye"
+    },
+    {
+        "id": 1706,
+        "question": "Yeni doğum yapmış kadın",
+        "letter": "L",
+        "answer": "Lohusa"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 1252,
+        "question": "Hastalığın yeniden ortaya çıkma, tekrarlaması durumu",
+        "letter": "N",
+        "answer": "Nüks, nüks etme, nüks etmesi, nüks etmek"
+    },
+    {
+        "id": 93,
+        "question": "Bir ülkenin askeri kuvvetlerinin tümü",
+        "letter": "O",
+        "answer": "ordu"
+    },
+    {
+        "id": 362,
+        "question": "Bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz",
+        "letter": "Ö",
+        "answer": "özet"
+    },
+    {
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "letter": "P",
+        "answer": "plak"
+    },
+    {
+        "id": 1634,
+        "question": "Hindistan, Nepal, Pakistan'da kullanılan para birimi",
+        "letter": "R",
+        "answer": "Rupi"
+    },
+    {
+        "id": 1752,
+        "question": "Vücuttaki işlevsel bir bozukluğun veya hastalığın belirlenmesine yarayan işaret",
+        "letter": "S",
+        "answer": "Semptom"
+    },
+    {
+        "id": 430,
+        "question": "Saydam, yalın, açık",
+        "letter": "Ş",
+        "answer": "şeffaf"
+    },
+    {
+        "id": 1129,
+        "question": "Verimsiz duruma getirme, sonuçsuz bırakma, kısırlaştırma",
+        "letter": "T",
+        "answer": "takim"
+    },
+    {
+        "id": 1909,
+        "question": "“MEYMENETSİZ, MUSİBET” ANLAMLARINA GELEN BİR SÖZ",
+        "letter": "U",
+        "answer": "Uğursuz"
+    },
+    {
+        "id": 725,
+        "question": "Birci, birlikten yana olan, tekil, birimsel",
+        "letter": "Ü",
+        "answer": "Üniter"
+    },
+    {
+        "id": 1568,
+        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "letter": "V",
+        "answer": "Vardiya"
+    },
+    {
+        "id": 838,
+        "question": "Dokunarak incelemek",
+        "letter": "Y",
+        "answer": "Yoklamak"
+    },
+    {
+        "id": 1290,
+        "question": "Keyifli, eğlenceli olan",
+        "letter": "Z",
+        "answer": "Zevkli, zevk"
+    }
+]

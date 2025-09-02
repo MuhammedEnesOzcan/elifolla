@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1971,
+        "question": "BİR KİŞİYİ GÖREVİNDEN ALMAK, UZAKLAŞTIRMAK",
+        "letter": "A",
+        "answer": "AZLETME, AZLETMEK"
+    },
+    {
+        "id": 1599,
+        "question": "Şehir içinde ağaçlı, geniş cadde",
+        "letter": "B",
+        "answer": "Bulvar"
+    },
+    {
+        "id": 538,
+        "question": "Sayılar teorisini, geometriyi ve analizi içine alan bir matematik dalı",
+        "letter": "C",
+        "answer": "Cebir"
+    },
+    {
+        "id": 1544,
+        "question": "Bazı toprakların yüzünde beyaz bir katman durumunda toplanan ve eskiden barut yapmakta kullanılan potaslı, sutlu tuz",
+        "letter": "Ç",
+        "answer": "Çorak"
+    },
+    {
+        "id": 1382,
+        "question": "Bedensel veya ruhsal dengenin değişmesi sonucu ortaya çıkan ve canlıyı türlü tepkilere sürükleyebilen içten gelen gerilim",
+        "letter": "D",
+        "answer": "Dürtü"
+    },
+    {
+        "id": 1487,
+        "question": "Organizmada hastalığa yol açan bir mikrobun genel veya yerel gelişmesi, yayılması",
+        "letter": "E",
+        "answer": "Enfeksiyon, enfekte olma, enfekte olma"
+    },
+    {
+        "id": 969,
+        "question": "Başkalık, ayrım, nüans",
+        "letter": "F",
+        "answer": "Fark, farklılık"
+    },
+    {
+        "id": 1262,
+        "question": "Huzursuz, kaygılı, sinirli kimse",
+        "letter": "G",
+        "answer": "Gergin"
+    },
+    {
+        "id": 975,
+        "question": "Birini aldatmak, yanıltmak için yapılan düzen, dolap, oyun, desise, entrika",
+        "letter": "H",
+        "answer": "Hile"
+    },
+    {
+        "id": 1197,
+        "question": "Gerçeğine benzetilerek yapılmış olan süs eşyası",
+        "letter": "İ",
+        "answer": "İmitasyon"
+    },
+    {
+        "id": 1803,
+        "question": "“TÜM ORTAKLARIN SINIRSIZ SORUMLULUK ALTINDA OLDUĞU ŞİRKETLERİ” NİTELEYEN SÖZ",
+        "letter": "K",
+        "answer": "Kolektif, Kollektif"
+    },
+    {
+        "id": 295,
+        "question": "Yufka inceliğinde açılmış uzun sade pide",
+        "letter": "L",
+        "answer": "lavaş"
+    },
+    {
+        "id": 816,
+        "question": "Yapılan iyiliğe karşı gönül borcu olan kişi",
+        "letter": "M",
+        "answer": "Minnettar"
+    },
+    {
+        "id": 1224,
+        "question": "Çaresi, çözümü olmayan, çaresiz olan",
+        "letter": "N",
+        "answer": "Naçar, naçarlık, nafile"
+    },
+    {
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
+        "letter": "O",
+        "answer": "onay, onaylama, onaylamak"
+    },
+    {
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
+        "letter": "Ö",
+        "answer": "Öbür, Öbürü"
+    },
+    {
+        "id": 1012,
+        "question": "İç içe geçen veya birbiri üzerine gelen parçaları tutturmaya yarayan bir tür tahta veya metal çivi",
+        "letter": "P",
+        "answer": "Pim"
+    },
+    {
+        "id": 680,
+        "question": "İzin belgesi",
+        "letter": "R",
+        "answer": "Ruhsat, Ruhsat belgesi"
+    },
+    {
+        "id": 1317,
+        "question": "Bir şeye ayrılan, uygun görülen veya rastlayan zaman",
+        "letter": "S",
+        "answer": "Sıra"
+    },
+    {
+        "id": 1683,
+        "question": "Çoğunlukla saç yıkamakta kullanılan, kokulu ve bol köpüklü bir tür sıvı sabun",
+        "letter": "Ş",
+        "answer": "Şampuan"
+    },
+    {
+        "id": 706,
+        "question": "Bağırıp çağırarak, alkışlayıp tempo tutarak yapılan destek",
+        "letter": "T",
+        "answer": "Tezahürat, Tezzahürat"
+    },
+    {
+        "id": 1557,
+        "question": "Erkek hizmetçi",
+        "letter": "U",
+        "answer": "Uşak"
+    },
+    {
+        "id": 1702,
+        "question": "Bir peygambere inanıp onun yolunu seçen kimselerin tümü",
+        "letter": "Ü",
+        "answer": "Ümmet, Ümmed"
+    },
+    {
+        "id": 1304,
+        "question": "Şehrin mülki amiri",
+        "letter": "V",
+        "answer": "Vali, valilik"
+    },
+    {
+        "id": 901,
+        "question": "Özel gezinti gemisi",
+        "letter": "Y",
+        "answer": "Yat"
+    },
+    {
+        "id": 1585,
+        "question": "Savaşta verilen kayıp",
+        "letter": "Z",
+        "answer": "Zayiat, zaiyat"
+    }
+]

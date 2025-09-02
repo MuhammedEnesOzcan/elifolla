@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1155,
+        "question": "Gözleri görmeyen, eski dilde kör",
+        "letter": "A",
+        "answer": "Ama, Âmâ, Amâ"
+    },
+    {
+        "id": 1344,
+        "question": "İhtiyarlık yüzünden sağlıklı düşünememe durumuna gelme",
+        "letter": "B",
+        "answer": "Bunama, bunamak, bunaklık, bunak olma, bunak olmak"
+    },
+    {
+        "id": 1370,
+        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
+        "letter": "C",
+        "answer": "Cumhuriyet"
+    },
+    {
+        "id": 1200,
+        "question": "Evlenecekler için hazırlanan yada alınan ev eşyalarının tümü",
+        "letter": "Ç",
+        "answer": "Çeyiz"
+    },
+    {
+        "id": 77,
+        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
+        "letter": "D",
+        "answer": "daktilo"
+    },
+    {
+        "id": 1091,
+        "question": "Bireyler, fertler",
+        "letter": "E",
+        "answer": "Efrat"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 235,
+        "question": "Sözde, sanki",
+        "letter": "G",
+        "answer": "güya, gûya"
+    },
+    {
+        "id": 245,
+        "question": "Karşılıksız vermek, bağış",
+        "letter": "H",
+        "answer": "hibe, hibe etmek"
+    },
+    {
+        "id": 260,
+        "question": "Kötü bir olaydan alınması gereken ders, uyarıcı sonuç",
+        "letter": "İ",
+        "answer": "ibret, ibret alma, ibret almak"
+    },
+    {
+        "id": 1939,
+        "question": "Küp şekere göre daha büyük boyutta özellikle Erzurum yöresine ait şeker türü",
+        "letter": "K",
+        "answer": "Kıtlama, Kıtlama Şeker"
+    },
+    {
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
+        "letter": "L",
+        "answer": "Larva, larva dönemi"
+    },
+    {
+        "id": 633,
+        "question": "Virüslerin geçirdiği değişim",
+        "letter": "M",
+        "answer": "Mutasyon"
+    },
+    {
+        "id": 989,
+        "question": "Bir şeyi hatırlamak için yazılan kısa yazı",
+        "letter": "N",
+        "answer": "Not, not etme, not etmek"
+    },
+    {
+        "id": 647,
+        "question": "Matematikte sıfır noktası",
+        "letter": "O",
+        "answer": "Orijin, Orjin, Orjin noktası, Orijin noktası"
+    },
+    {
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "letter": "Ö",
+        "answer": "özel"
+    },
+    {
+        "id": 1742,
+        "question": "Yerden kaynayarak çıkan su kaynağı",
+        "letter": "P",
+        "answer": "Pınar"
+    },
+    {
+        "id": 1642,
+        "question": "Tek bir sanatçının tek bir çalgı ile verdiği konser",
+        "letter": "R",
+        "answer": "Resital"
+    },
+    {
+        "id": 1038,
+        "question": "Bir günlük sürenin yirmi dörtte birine eşit, altmış dakikalık zaman dilimi, zaman parçası",
+        "letter": "S",
+        "answer": "saat"
+    },
+    {
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
+        "letter": "Ş",
+        "answer": "Şahsiyet"
+    },
+    {
+        "id": 1847,
+        "question": "İRİ İRİ DOĞRANMIŞ İŞKEMBEDEN YAPILAN BİR TÜR ÇORBA",
+        "letter": "T",
+        "answer": "Tuzlama, Tuzlama çorba, Tuzlama çorbası"
+    },
+    {
+        "id": 1557,
+        "question": "Erkek hizmetçi",
+        "letter": "U",
+        "answer": "Uşak"
+    },
+    {
+        "id": 714,
+        "question": "En fazla çeşide sahip olan meyve türü",
+        "letter": "Ü",
+        "answer": "Üzüm"
+    },
+    {
+        "id": 887,
+        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "letter": "V",
+        "answer": "Veba"
+    },
+    {
+        "id": 716,
+        "question": "Gidilen yerde geceyi geçirme",
+        "letter": "Y",
+        "answer": "Yatı, Yatıya kalma, Yatıya kalmak"
+    },
+    {
+        "id": 502,
+        "question": "Aldatıcı şey, tuzak, hile",
+        "letter": "Z",
+        "answer": "zoka"
+    }
+]

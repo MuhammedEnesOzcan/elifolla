@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1657,
+        "question": "Belli bir süre sonra inilip başka bir taşıta binilmesini gerektiren seyahat",
+        "letter": "A",
+        "answer": "Aktarmalı, aktarmalı seyahat"
+    },
+    {
+        "id": 143,
+        "question": "Bir şehir veya bir bölge avukatlarının bağlı oldukları meslek kuruluşu",
+        "letter": "B",
+        "answer": "baro"
+    },
+    {
+        "id": 1376,
+        "question": "Bir soruya, bir isteğe, bir söz veya yazıya verilen karşılık, yanıt",
+        "letter": "C",
+        "answer": "Cevap, cevap verme, cevap vermek, cevaplama, cevaplamak"
+    },
+    {
+        "id": 1547,
+        "question": "Balık kılçığı",
+        "letter": "Ç",
+        "answer": "Çopra"
+    },
+    {
+        "id": 1764,
+        "question": "ACI, ÜZÜNTÜ VEYA PİŞMANLIK SEBEBİYLE KENDİ KENDİNE VURMAK",
+        "letter": "D",
+        "answer": "Dövünme, Dövünmek"
+    },
+    {
+        "id": 214,
+        "question": "Yalnız belirli duraklarda duran tren, otobüs veya gemi",
+        "letter": "E",
+        "answer": "ekspres"
+    },
+    {
+        "id": 55,
+        "question": "Yeşil bitkilerin ışık enerjisiyle besin üretmesi",
+        "letter": "F",
+        "answer": "fotosentez"
+    },
+    {
+        "id": 1284,
+        "question": "Cildin nefes almasını ve nemli kalmasını sağlayan küçük kanallar",
+        "letter": "G",
+        "answer": "Gözenek, gözenekler"
+    },
+    {
+        "id": 1247,
+        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
+        "letter": "H",
+        "answer": "Hegemonya, hegamonya, hegomonya"
+    },
+    {
+        "id": 599,
+        "question": "Açıkça bildirme, açıkça duyurma",
+        "letter": "İ",
+        "answer": "İlan, ilan etme, ilan etmek, ilan verme, ilan vermek"
+    },
+    {
+        "id": 1207,
+        "question": "Tenis oynamak için düzenlemiş dikdörtgen biçiminde alan ",
+        "letter": "K",
+        "answer": "Kort"
+    },
+    {
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
+        "letter": "L",
+        "answer": "Lanse, lanse etme, lanse etmek"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 1521,
+        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "letter": "N",
+        "answer": "Nova"
+    },
+    {
+        "id": 340,
+        "question": "Göçebelerin konak yeri",
+        "letter": "O",
+        "answer": "oba"
+    },
+    {
+        "id": 1533,
+        "question": "Tazminat",
+        "letter": "Ö",
+        "answer": "Ödence"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 1848,
+        "question": "\"BİRLİKTE BULUNMA\", \"EŞLİK ETME\" ANLAMINA GELEN BİR SÖZCÜK",
+        "letter": "R",
+        "answer": "Refakat, Refakat etme, Refakat etmek"
+    },
+    {
+        "id": 1779,
+        "question": "NESNE ÖZELLİKLERİ BULUNMAYAN, DUYULARLA ALGILANMAYAN",
+        "letter": "S",
+        "answer": "Soyut"
+    },
+    {
+        "id": 1463,
+        "question": "Görür görmez seven, aşık olan kimse",
+        "letter": "Ş",
+        "answer": "Şıpsevdi"
+    },
+    {
+        "id": 1154,
+        "question": "Diş taşı",
+        "letter": "T",
+        "answer": "tartar"
+    },
+    {
+        "id": 1073,
+        "question": "Akla uygun, yalnız akla dayanan, akli, rasyonel",
+        "letter": "U",
+        "answer": "Ussal"
+    },
+    {
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
+        "letter": "Ü",
+        "answer": "ülke"
+    },
+    {
+        "id": 1567,
+        "question": "Miras bırakılan kimse, mirasçı",
+        "letter": "V",
+        "answer": "Varis"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 509,
+        "question": "İrade zayıflığı, eksiklik",
+        "letter": "Z",
+        "answer": "zaaf"
+    }
+]

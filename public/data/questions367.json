@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1301,
+        "question": "Dalları çardak üzerine yayılan üzüm vb. bitkiler",
+        "letter": "A",
+        "answer": "Asma, asma ağacı"
+    },
+    {
+        "id": 1165,
+        "question": "Enine göre boyu kısa olan, kısa boylu ve tıknaz",
+        "letter": "B",
+        "answer": "Bodur"
+    },
+    {
+        "id": 1364,
+        "question": "Bilgisizlik, cahil olma durumu",
+        "letter": "C",
+        "answer": "Cehalet"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1196,
+        "question": "Aynı cinsten olan bir nesnenin on ikisini içeren bir birim",
+        "letter": "D",
+        "answer": "Düzine"
+    },
+    {
+        "id": 211,
+        "question": "Genellikle iplik durumuna getirilebilir lifli madde",
+        "letter": "E",
+        "answer": "elyaf"
+    },
+    {
+        "id": 229,
+        "question": "Tanıtma filmi",
+        "letter": "F",
+        "answer": "fragman"
+    },
+    {
+        "id": 1493,
+        "question": "Bazı saatlerde belirli zamanları bildiren zil düzeneği",
+        "letter": "G",
+        "answer": "Gonk, gong"
+    },
+    {
+        "id": 248,
+        "question": "Dışta kalmak üzere, dışında sayılmak üzere, müstesna",
+        "letter": "H",
+        "answer": "hariç"
+    },
+    {
+        "id": 1605,
+        "question": "Birinin iyi niyetini kötüye kullanma",
+        "letter": "İ",
+        "answer": "İstismar, istismar etme, istismar etmek"
+    },
+    {
+        "id": 1811,
+        "question": "DENTAL TEMİZLİKTE KULLANILAN İNCE TAHTA ÇÖP",
+        "letter": "K",
+        "answer": "Kürdan"
+    },
+    {
+        "id": 1705,
+        "question": "Sıvıları ölçmede kullanılan, bir desimetreküp hacminde ölçü birimi ",
+        "letter": "L",
+        "answer": "Litre"
+    },
+    {
+        "id": 1619,
+        "question": "Bir eserde sık sık tekrarlanan süsleyici öge",
+        "letter": "M",
+        "answer": "Motif"
+    },
+    {
+        "id": 334,
+        "question": "Korkak, alçak, mert olmayan",
+        "letter": "N",
+        "answer": "namert"
+    },
+    {
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
+        "letter": "O",
+        "answer": "Opak"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 1707,
+        "question": "Hristiyan din adamı, peder",
+        "letter": "P",
+        "answer": "Papaz"
+    },
+    {
+        "id": 1244,
+        "question": "Kaynar suda kabuğu ile az pişirilmiş olan",
+        "letter": "R",
+        "answer": "Rafadan"
+    },
+    {
+        "id": 1045,
+        "question": "Toprağın kaymasını veya suyun akmasını önlemek için yapılan kalın duvar",
+        "letter": "S",
+        "answer": "set"
+    },
+    {
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
+        "letter": "Ş",
+        "answer": "Şahsi"
+    },
+    {
+        "id": 1698,
+        "question": "Eski dilde tıp doktoru, hekim",
+        "letter": "T",
+        "answer": "Tabip"
+    },
+    {
+        "id": 450,
+        "question": "Bilgiçlik taslayan (kimse)",
+        "letter": "U",
+        "answer": "ukala"
+    },
+    {
+        "id": 459,
+        "question": "Çok uçta, kenarda veya kıyıda köşede olan",
+        "letter": "Ü",
+        "answer": "ücra"
+    },
+    {
+        "id": 1568,
+        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "letter": "V",
+        "answer": "Vardiya"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 503,
+        "question": "Acımasız ve haksız davranan, zulmeden",
+        "letter": "Z",
+        "answer": "zalim, zorba"
+    }
+]

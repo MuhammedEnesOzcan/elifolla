@@ -1,0 +1,158 @@
+[
+    {
+        "id": 109,
+        "question": "Yaklaşık 68 santimetreye eşit olan uzunluk ölçüsü",
+        "letter": "A",
+        "answer": "arşın"
+    },
+    {
+        "id": 1209,
+        "question": "Aynı zamanda Muğla'nın bir ilçesi de olan, apartmanların genellikle zeminin altında bulunan katı ",
+        "letter": "B",
+        "answer": "Bodrum, bodrum kat, bodrum katı"
+    },
+    {
+        "id": 155,
+        "question": "Topluluk, zümre",
+        "letter": "C",
+        "answer": "Camia, cemiyet"
+    },
+    {
+        "id": 791,
+        "question": "Kim olduğunu hatırlamak, tanımak",
+        "letter": "Ç",
+        "answer": "Çıkarma, Çıkarmak"
+    },
+    {
+        "id": 185,
+        "question": "Evlerde çocuğa bakan kimse, daye",
+        "letter": "D",
+        "answer": "dadı"
+    },
+    {
+        "id": 1236,
+        "question": "Gizlerle, sırlarla örtülü olan, gizemli",
+        "letter": "E",
+        "answer": "Esrarengiz"
+    },
+    {
+        "id": 229,
+        "question": "Tanıtma filmi",
+        "letter": "F",
+        "answer": "fragman"
+    },
+    {
+        "id": 1776,
+        "question": "SON BİLGİ VE DEĞİŞİKLİKLERİ DE EKLEYEREK YENİLEME",
+        "letter": "G",
+        "answer": "Güncelleme, Güncellemek"
+    },
+    {
+        "id": 1495,
+        "question": "Satrançta taş sürme işi",
+        "letter": "H",
+        "answer": "Hamle, hamle yapma, hamle yapmak"
+    },
+    {
+        "id": 1607,
+        "question": "Üreticiden aldığı malları tezgah ve taşıma araçları ile cadde ve sokaklarda pazarlayan kimse ",
+        "letter": "İ",
+        "answer": "İşportacı"
+    },
+    {
+        "id": 279,
+        "question": "Üstün nitelikli, üstün yetenekli",
+        "letter": "K",
+        "answer": "klas, kalifiyeli, kalifiye"
+    },
+    {
+        "id": 1454,
+        "question": "Kirliliği gösteren iz",
+        "letter": "L",
+        "answer": "Leke"
+    },
+    {
+        "id": 1849,
+        "question": "SAVAŞTA ZAFER KAZANMIŞ OLAN",
+        "letter": "M",
+        "answer": "Muzaffer"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "letter": "O",
+        "answer": "OLGU"
+    },
+    {
+        "id": 1006,
+        "question": "Küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı",
+        "letter": "Ö",
+        "answer": "Öcü"
+    },
+    {
+        "id": 668,
+        "question": "Bir ilacın telkine dayalı bir etki ortaya çıkarma hali",
+        "letter": "P",
+        "answer": "Plasebo, Plasebo etkisi"
+    },
+    {
+        "id": 1641,
+        "question": "Eski yapıları onarma",
+        "letter": "R",
+        "answer": "Restore, restorasyon, restore etme, restore etmek"
+    },
+    {
+        "id": 1895,
+        "question": "ÖZELLİKLE MANAV VE PAZARDA MÜŞTERİNİN TERCİHİNİ TEMEL ALAN SATIŞ YÖNTEMİ",
+        "letter": "S",
+        "answer": "Seçmece"
+    },
+    {
+        "id": 1464,
+        "question": "Olması başka durumların gerçekleşmesini gerektiren şey, koşul",
+        "letter": "Ş",
+        "answer": "Şart, şartlar"
+    },
+    {
+        "id": 1932,
+        "question": "EL ALTINDAN VE ÇOK YÜKSEK FAİZLE BORÇ PARA VERME İŞİ",
+        "letter": "T",
+        "answer": "Tefecilik, Tefeci"
+    },
+    {
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
+        "letter": "U",
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
+    },
+    {
+        "id": 880,
+        "question": "Hastalıkları iyileştirdiğine inanılan soluk",
+        "letter": "Ü",
+        "answer": "Üfürük, üfürme"
+    },
+    {
+        "id": 1504,
+        "question": "Açık, aydın, belli",
+        "letter": "V",
+        "answer": "Vazıh"
+    },
+    {
+        "id": 716,
+        "question": "Gidilen yerde geceyi geçirme",
+        "letter": "Y",
+        "answer": "Yatı, Yatıya kalma, Yatıya kalmak"
+    },
+    {
+        "id": 856,
+        "question": "Her Türlü Zevke Karşı Koyup Kendini İbadete Veren",
+        "letter": "Z",
+        "answer": "Zühtü, zuhtu"
+    }
+]

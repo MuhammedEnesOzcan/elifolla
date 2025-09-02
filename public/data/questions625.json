@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1339,
+        "question": "Yerini doldurabilmek, yokluğunu sezdirmemek",
+        "letter": "A",
+        "answer": "Aratmama, aratmamak"
+    },
+    {
+        "id": 528,
+        "question": "Yorgun, bitkin düşmüş olan",
+        "letter": "B",
+        "answer": "Bitap, bitap halde"
+    },
+    {
+        "id": 1359,
+        "question": "Hekimliğin deri hastalıkları ile ilgili dalı, dermatoloji",
+        "letter": "C",
+        "answer": "Cildiye"
+    },
+    {
+        "id": 543,
+        "question": "Aynı türden olmayan, türlü",
+        "letter": "Ç",
+        "answer": "Çeşit, Çeşitli"
+    },
+    {
+        "id": 795,
+        "question": "Akan suyun hacmi",
+        "letter": "D",
+        "answer": "Debi, Debisi"
+    },
+    {
+        "id": 564,
+        "question": "Mutluluk Hormonu",
+        "letter": "E",
+        "answer": "Endorfin"
+    },
+    {
+        "id": 571,
+        "question": "Bir girişimde başarısız sonuç",
+        "letter": "F",
+        "answer": "Fiyasko"
+    },
+    {
+        "id": 971,
+        "question": "Sonbahar",
+        "letter": "G",
+        "answer": "Güz"
+    },
+    {
+        "id": 1733,
+        "question": "Normalin üstünde bir hareketliliğe ve aktifliğe sahip olma durumu",
+        "letter": "H",
+        "answer": "Hiperaktivite, hiperaktiflik"
+    },
+    {
+        "id": 958,
+        "question": "Uyarma",
+        "letter": "İ",
+        "answer": "ikaz, ikaz etme, ikaz etmek"
+    },
+    {
+        "id": 1104,
+        "question": "Çadır, baraka vb. eğreti araçlardan oluşturulan konak yeri",
+        "letter": "K",
+        "answer": "kamp"
+    },
+    {
+        "id": 918,
+        "question": "Hiç tuzu olmayan yumuşak krem peynir",
+        "letter": "L",
+        "answer": "Labne"
+    },
+    {
+        "id": 1215,
+        "question": "Güneşe en yakın gezegen",
+        "letter": "M",
+        "answer": "Merkür, merkür gezegeni"
+    },
+    {
+        "id": 1111,
+        "question": "At nalı yapan demirci",
+        "letter": "N",
+        "answer": "Nalbant"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 1481,
+        "question": "Bir sorunu çözmek üzere öne sürülen görüş, düşünce, teklif",
+        "letter": "Ö",
+        "answer": "Öneri"
+    },
+    {
+        "id": 1120,
+        "question": "İnce ve yarı saydam bir tür kâğıt",
+        "letter": "P",
+        "answer": "Pelür"
+    },
+    {
+        "id": 385,
+        "question": "Gerçek olmayan davranış, gösteriş",
+        "letter": "R",
+        "answer": "rol"
+    },
+    {
+        "id": 686,
+        "question": "Bir şey öğrenmek için yöneltilen söz veya yazı",
+        "letter": "S",
+        "answer": "Soru"
+    },
+    {
+        "id": 1688,
+        "question": "Güneş doğmadan az önce beliren aydınlık",
+        "letter": "Ş",
+        "answer": "Şafak"
+    },
+    {
+        "id": 1059,
+        "question": "Doğu Anadolu ile Azerbaycan'da çalınan bir çalgı türü",
+        "letter": "T",
+        "answer": "tar"
+    },
+    {
+        "id": 1071,
+        "question": "Yakışır, yaraşır, mutabık, mütenasip",
+        "letter": "U",
+        "answer": "uygun"
+    },
+    {
+        "id": 1508,
+        "question": "Bir ülküye çıkar gütmeden bağlı olan, idealist",
+        "letter": "Ü",
+        "answer": "Ülkücü"
+    },
+    {
+        "id": 473,
+        "question": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi",
+        "letter": "V",
+        "answer": "vali"
+    },
+    {
+        "id": 1140,
+        "question": "Dik, sarp",
+        "letter": "Y",
+        "answer": "yalçın"
+    },
+    {
+        "id": 1147,
+        "question": "Saf, tatlı su",
+        "letter": "Z",
+        "answer": "zülal"
+    }
+]

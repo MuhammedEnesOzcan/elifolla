@@ -1,158 +1,158 @@
 [
     {
-        "id": 513,
-        "question": "Kendisinden ve birden başka böleni olmayan sayılar",
+        "id": 515,
+        "question": "En yüksek, en büyük, en çok",
         "letter": "A",
-        "answer": "Asal, Asal sayı, Asal sayılar"
+        "answer": "Azami, Azâmi"
     },
     {
-        "id": 129,
-        "question": "Veteriner hekim",
+        "id": 148,
+        "question": "Bir müzik eserini oluşturan ezgilerin bütünü",
         "letter": "B",
-        "answer": "baytar"
+        "answer": "beste"
     },
     {
-        "id": 1367,
-        "question": "Bireye, üreme işinde ayrı bir rol veren ve erkekle dişiyi ayırt ettiren özellik",
+        "id": 1729,
+        "question": "Kelimelerin bir araya gelerek oluşturduğu söz dizimi",
         "letter": "C",
-        "answer": "Cinsiyet"
+        "answer": "Cümle"
     },
     {
-        "id": 1859,
-        "question": "AYAKLA ÇİĞNENDİĞİNDE YA DA DUVARA SÜRTÜLDÜĞÜNDE PATLAYAN EĞLENCE FİŞEĞİ",
+        "id": 183,
+        "question": "Oy vermekten, eğilim göstermekten veya bir şey yapmaktan kaçınan, kararsız kimse",
         "letter": "Ç",
-        "answer": "Çatapat"
+        "answer": "çekimser"
     },
     {
-        "id": 1812,
-        "question": "“YANLIŞ VEYA KUSURLU SESLER” İÇİN KULLANILAN MÜZİK TERİMİ",
+        "id": 1395,
+        "question": "Basım için harfleri, kelimeleri, satırları, sayfalar oluşturacak biçimde düzenleme",
         "letter": "D",
-        "answer": "Detone"
+        "answer": "Dizgi"
     },
     {
-        "id": 1408,
-        "question": "hastalığın nedeni, kökeni. Hastalık nedenleri ile uğraşan bilim dalı",
+        "id": 1406,
+        "question": "Toprak, kül gibi toz durumunda bulunan şeyleri hafifçe kazıp karıştırmak",
         "letter": "E",
-        "answer": "Etiyoloji"
+        "answer": "Eşelemek, eşeleme"
     },
     {
-        "id": 567,
-        "question": "Yanıcı bir maddeden aldığı itici güçle hareket eden düzenek",
+        "id": 1913,
+        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
         "letter": "F",
-        "answer": "Füze"
+        "answer": "Fasikül"
     },
     {
-        "id": 1746,
-        "question": "Evlenmekte olan bir erkeğe düğün töreni sırasında verilen ad",
+        "id": 1428,
+        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
         "letter": "G",
-        "answer": "Güvey"
+        "answer": "Gard"
     },
     {
-        "id": 1225,
-        "question": "Özel olarak, özel bir biçimde",
+        "id": 1496,
+        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
         "letter": "H",
-        "answer": "Hususi"
+        "answer": "Hamak"
     },
     {
-        "id": 1204,
-        "question": "Kendi isteğiyle çalıştığı işi bırakmak",
+        "id": 1962,
+        "question": "BİR KONU HAKKINDA KARŞI TARAFTAN ALINAN NEZAKET GÖSTERGESİ İZİN, DESTUR",
         "letter": "İ",
-        "answer": "İstifa, istifa etme, istifa etmek"
+        "answer": "İCAZET"
     },
     {
-        "id": 1841,
-        "question": "KEMAN AİLESİNDEN, EN KALIN SESLİ YAYLI SAZ",
+        "id": 1697,
+        "question": "GERÇEĞİN NE OLDUĞUNU TAM OLARAK KESTİREMEMEKTEN DOĞAN KARARSIZLIK, İŞKİL",
         "letter": "K",
-        "answer": "Kontrabas"
+        "answer": "Kuşku, kuşkulanma, kuşkulanmak"
     },
     {
-        "id": 294,
-        "question": "Gösterişli, şatafatlı olan",
+        "id": 299,
+        "question": "Önder, şef",
         "letter": "L",
-        "answer": "lüks"
+        "answer": "lider"
     },
     {
-        "id": 626,
-        "question": "Birbirini kesen demiryolu hatlarının kesiştiği yer",
+        "id": 1627,
+        "question": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki)",
         "letter": "M",
-        "answer": "Makas"
+        "answer": "Melez"
     },
     {
-        "id": 338,
-        "question": "Yararsız, boşuna, boş yere",
+        "id": 1785,
+        "question": "Ney üfleyen sanatçı",
         "letter": "N",
-        "answer": "nafile"
+        "answer": "Neyzen"
     },
     {
-        "id": 1114,
-        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "id": 907,
+        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
         "letter": "O",
-        "answer": "Orada, orda"
+        "answer": "Obje"
     },
     {
-        "id": 363,
-        "question": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye",
+        "id": 361,
+        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
         "letter": "Ö",
-        "answer": "övgü"
+        "answer": "önem"
     },
     {
-        "id": 1017,
-        "question": "Üzerine bildiri, açıklama veya tanıtma kâğıtları tutturmak için hazırlanmış levha",
+        "id": 374,
+        "question": "Parça, kısım",
         "letter": "P",
-        "answer": "pano"
+        "answer": "pare"
     },
     {
-        "id": 1646,
-        "question": "Hastanelerde hastanın yanında kalan, hastaya yardımcı olan kimse",
+        "id": 1639,
+        "question": "Yabani at veya boğa üzerinde uzun zaman kalabilme oyunu",
         "letter": "R",
-        "answer": "Refakatçi"
+        "answer": "Rodeo"
     },
     {
-        "id": 1876,
-        "question": "İKİ VEYA DAHA ÇOK ŞEY ARASINDA KONUM, BİÇİM VE BELİRLİ BİR EKSENE GÖRE ÖLÇÜ UYGUNLUĞU",
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
         "letter": "S",
-        "answer": "Simetri"
+        "answer": "Sahaf"
     },
     {
-        "id": 696,
-        "question": "Kişisel, kişiye ait olan",
+        "id": 1682,
+        "question": "Çorba ve pilavda kullanılan, türlü biçimlerde kesilerek kurutulmuş buğday unu hamuru",
         "letter": "Ş",
-        "answer": "Şahsi"
+        "answer": "Şehriye"
     },
     {
-        "id": 59,
-        "question": " Novak Djokovic'in şampiyonlukları olduğu spor dalı",
+        "id": 1910,
+        "question": "BİR YAZARIN, KONU VE FİKRİ YAPI OLARAK BİRBİRİNİ İZLEYEN ÜÇ ESERİ",
         "letter": "T",
-        "answer": "tenis"
+        "answer": "Triloji"
     },
     {
-        "id": 1131,
-        "question": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren",
+        "id": 1070,
+        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
         "letter": "U",
-        "answer": "ufuk"
+        "answer": "Uçkun"
     },
     {
-        "id": 469,
-        "question": "Ayrıca, bir de, bundan başka",
+        "id": 1508,
+        "question": "Bir ülküye çıkar gütmeden bağlı olan, idealist",
         "letter": "Ü",
-        "answer": "üstelik"
+        "answer": "Ülkücü"
     },
     {
-        "id": 1708,
-        "question": "Kökeni fransızca olup evlerin giriş kısmında ve ayakkabı, mont vb. şeylerin konulduğu yer",
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
         "letter": "V",
-        "answer": "Vestiyer"
+        "answer": "vukuat"
     },
     {
-        "id": 1950,
-        "question": "ESKİ EVLERDEKİ YATAK, YORGAN DEPOSU",
+        "id": 1576,
+        "question": "\"Aksi takdirde\" anlamında kullanılan bir söz",
         "letter": "Y",
-        "answer": "Yüklük"
+        "answer": "Yoksa"
     },
     {
-        "id": 1843,
-        "question": "RENKSİZ YA DA SARI, YEŞİL VE KAHVERENGİ RENKLERDE OLABİLEN DOĞAL, SAYDAM DEĞERLİ BİR TAŞ",
+        "id": 853,
+        "question": "Kabe yakınında bulunan kuyu ve bu kuyunun Müslümanlarca kutsal sayılan suyu",
         "letter": "Z",
-        "answer": "Zirkon"
+        "answer": "Zemzem"
     }
 ]

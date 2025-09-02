@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1302,
+        "question": "Bir işin yolunda gitmemesi durumu, elverişsizlik",
+        "letter": "A",
+        "answer": "Aksilik, aksi, aksilik çıkması"
+    },
+    {
+        "id": 1350,
+        "question": "Acı çikolata",
+        "letter": "B",
+        "answer": "Bitter, bitter çikolata"
+    },
+    {
+        "id": 1358,
+        "question": "Bir eserin ayrı ayrı basılan bölümlerinden her biri",
+        "letter": "C",
+        "answer": "Cilt, cildi"
+    },
+    {
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
+        "letter": "Ç",
+        "answer": "Çaça"
+    },
+    {
+        "id": 1877,
+        "question": "Savmak ya da savuşturmak anlamındaki söz",
+        "letter": "D",
+        "answer": "Defetmek, Defetme"
+    },
+    {
+        "id": 1227,
+        "question": "Tekrar eden ses, yankı",
+        "letter": "E",
+        "answer": "Eko"
+    },
+    {
+        "id": 1490,
+        "question": "Koku, ilaç vb. sıvıları püskürtmek için kullanılan araç",
+        "letter": "F",
+        "answer": "Fısfıs"
+    },
+    {
+        "id": 1964,
+        "question": "DİVAN EDEBİYATINDA 5-10 BEYİT ARASINDA DEĞİŞEN, UYAKLI, GENELLİKLE LİRİK KONULARDA YAZILAN NAZIM BİÇİMİ",
+        "letter": "G",
+        "answer": "GAZEL"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 600,
+        "question": "Bir yeri ele geçirme",
+        "letter": "İ",
+        "answer": "İşgal, işgal etme, işgal etmek"
+    },
+    {
+        "id": 70,
+        "question": "Ünlü masala göre tavşanı yarışta geçen hayvan",
+        "letter": "K",
+        "answer": "kaplumbağa"
+    },
+    {
+        "id": 981,
+        "question": "Amerikan devesi de denilen geviş getirenlerden bir hayvan",
+        "letter": "L",
+        "answer": "Lama"
+    },
+    {
+        "id": 1615,
+        "question": "Bir diğer söylemle; Önemli, gerekli",
+        "letter": "M",
+        "answer": "Mühim"
+    },
+    {
+        "id": 1675,
+        "question": "Etki altına alma, söz geçirme, güçlü olma",
+        "letter": "N",
+        "answer": "Nüfuz, nüfuz etme, nüfuz etmek"
+    },
+    {
+        "id": 347,
+        "question": "Yiyecek, içecek gibi şeylerin alınabildiği mekanik veya elektrikli araç",
+        "letter": "O",
+        "answer": "otomat"
+    },
+    {
+        "id": 932,
+        "question": "Eleman, unsur",
+        "letter": "Ö",
+        "answer": "öge, öğe"
+    },
+    {
+        "id": 376,
+        "question": "Bir başkasına bağımlılığı olan",
+        "letter": "P",
+        "answer": "peyk"
+    },
+    {
+        "id": 683,
+        "question": "Yanlış, yozlaşmış, vb. şeylerin iyileştirilmesi veya köklü değiştirilmesi",
+        "letter": "R",
+        "answer": "Reform, Reform yapma, Reform yapmak"
+    },
+    {
+        "id": 1931,
+        "question": "BİR ŞEYİN YAYILABİLECEĞİ VEYA GENİŞLEYEBİLECEĞİ SON ÇİZGİ",
+        "letter": "S",
+        "answer": "Sınır"
+    },
+    {
+        "id": 701,
+        "question": "Bir kara yolunda trafik çizgileri ile ayrılmış bölümlerden her biri",
+        "letter": "Ş",
+        "answer": "Şerit"
+    },
+    {
+        "id": 1647,
+        "question": "Başladığı noktada biten, bir veya daha fazla yere önceden belirlenmiş bir programa göre yapılan seyahat",
+        "letter": "T",
+        "answer": "Tur"
+    },
+    {
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "letter": "U",
+        "answer": "uyruk"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 1567,
+        "question": "Miras bırakılan kimse, mirasçı",
+        "letter": "V",
+        "answer": "Varis"
+    },
+    {
+        "id": 1476,
+        "question": "Su parkı gösterilerinde zekasıyla öne çıkan memeli su hayvanı",
+        "letter": "Y",
+        "answer": "Yunus, yunus balığı"
+    },
+    {
+        "id": 1167,
+        "question": "En yüksek nokta, tepe",
+        "letter": "Z",
+        "answer": "Zirve"
+    }
+]

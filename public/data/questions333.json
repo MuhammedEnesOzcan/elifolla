@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1250,
+        "question": "Mavi turnusol kağıdını kırmızıya çeviren, pH derecesi 7'den düşük olan, yakıcı - aşındırıcı özelliğe sahip kimyasal madde",
+        "letter": "A",
+        "answer": "Asit, asidik madde, asitik madde, asitler"
+    },
+    {
+        "id": 1084,
+        "question": "Vücudun kasıktan tabana kadar olan bölümü",
+        "letter": "B",
+        "answer": "Bacak"
+    },
+    {
+        "id": 1357,
+        "question": "Elindeki parayı harcamaya kıyamayan",
+        "letter": "C",
+        "answer": "Cimri, cimrilik"
+    },
+    {
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
+        "letter": "Ç",
+        "answer": "Çapak"
+    },
+    {
+        "id": 1812,
+        "question": "“YANLIŞ VEYA KUSURLU SESLER” İÇİN KULLANILAN MÜZİK TERİMİ",
+        "letter": "D",
+        "answer": "Detone"
+    },
+    {
+        "id": 1411,
+        "question": "Zorluğa sahip olarak düz olmayan bir yeri bulunan arazi türü",
+        "letter": "E",
+        "answer": "Engebeli, engebeli arazi"
+    },
+    {
+        "id": 1327,
+        "question": "Bir sanık, tutuklu veya hükümlünün gözcülerin elinden kurtulması",
+        "letter": "F",
+        "answer": "Firar, firari, firar etme, firar etmek, firar etmesi"
+    },
+    {
+        "id": 1492,
+        "question": "Bir malı sahibinin izni ve haberi olmadan zorla alma",
+        "letter": "G",
+        "answer": "Gasp, gasp etme, gasp etmek"
+    },
+    {
+        "id": 1438,
+        "question": "Bazı durumlarda olumsuz sonuçlar doğurabilecek sonu gelmeyen istek, aşırı tutku",
+        "letter": "H",
+        "answer": "Hırs"
+    },
+    {
+        "id": 265,
+        "question": "Eksik bir şeyi tamamlama, daha iyi duruma getirme, bütünleme",
+        "letter": "İ",
+        "answer": "ikmal, ikmâl"
+    },
+    {
+        "id": 1814,
+        "question": "KAFA DERİSİNDE OLUŞAN KÜÇÜK, BEYAZ PULCUKLAR",
+        "letter": "K",
+        "answer": "Kepek"
+    },
+    {
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
+        "letter": "L",
+        "answer": "leziz"
+    },
+    {
+        "id": 28,
+        "question": "Doku ve organların yapısını inceleyen bilim dalı",
+        "letter": "M",
+        "answer": "morfoloji"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
+        "letter": "O",
+        "answer": "onay, onaylama, onaylamak"
+    },
+    {
+        "id": 1689,
+        "question": "AYIRT EDİCİ BİR NİTELİĞİ OLAN",
+        "letter": "Ö",
+        "answer": "Özel, özellikli"
+    },
+    {
+        "id": 379,
+        "question": "Bir işin gerçekleştirilmesi için uyulması tasarlanan düzen",
+        "letter": "P",
+        "answer": "plan"
+    },
+    {
+        "id": 681,
+        "question": "Sporda veya oyunda yenilmiş olanın aynı rakiple oynadığı ikinci oyun",
+        "letter": "R",
+        "answer": "Rövanş, Rövanş maçı, Rovanş, Rovanş maçı"
+    },
+    {
+        "id": 693,
+        "question": "Bir bütün meydana getiren planlar dizisi",
+        "letter": "S",
+        "answer": "Sekans"
+    },
+    {
+        "id": 432,
+        "question": "Belli bir amaçla düzenlenen eğlence",
+        "letter": "Ş",
+        "answer": "şölen, şenlik"
+    },
+    {
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "letter": "T",
+        "answer": "Taktik"
+    },
+    {
+        "id": 1513,
+        "question": "Bir nesnenin uzayda kapladığı yer, vüsat",
+        "letter": "U",
+        "answer": "Uzam"
+    },
+    {
+        "id": 459,
+        "question": "Çok uçta, kenarda veya kıyıda köşede olan",
+        "letter": "Ü",
+        "answer": "ücra"
+    },
+    {
+        "id": 890,
+        "question": "Giysilerde omuzların dik durması için konulan parça",
+        "letter": "V",
+        "answer": "Vatka"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 498,
+        "question": "Bir şeyin fiyatını artırma, bindirim",
+        "letter": "Z",
+        "answer": "zam"
+    }
+]

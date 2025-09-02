@@ -1,0 +1,158 @@
+[
+    {
+        "id": 106,
+        "question": "Bir uyarıyı, bir tehlikeyi bildirmek için verilen işaret",
+        "letter": "A",
+        "answer": "alarm"
+    },
+    {
+        "id": 522,
+        "question": "İşçilerin başlarına giydikleri, metal veya plastikten yapılmış koruyucu başlık",
+        "letter": "B",
+        "answer": "Baret"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 100,
+        "question": "Gayret, herhangi bir işi yapmak için harcanan güç ",
+        "letter": "Ç",
+        "answer": "çaba, çabalamak"
+    },
+    {
+        "id": 1743,
+        "question": "Uluslararası ilişkileri düzenleyen antlaşmalar bütünü",
+        "letter": "D",
+        "answer": "Diplomasi"
+    },
+    {
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
+        "letter": "E",
+        "answer": "Endoskop"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 233,
+        "question": "Suya batma, boğulma",
+        "letter": "G",
+        "answer": "gark, gark etme"
+    },
+    {
+        "id": 1099,
+        "question": "Adalete uygun bir biçimde, doğrulukla, adilane",
+        "letter": "H",
+        "answer": "Hakça"
+    },
+    {
+        "id": 263,
+        "question": "Anlama yeteneği, anlayış, akıl erdirme",
+        "letter": "İ",
+        "answer": "idrak, idrak etme, idrak etmek, izan"
+    },
+    {
+        "id": 26,
+        "question": "Dar dik yamaçlı ve derin vadi",
+        "letter": "K",
+        "answer": "Kanyon"
+    },
+    {
+        "id": 304,
+        "question": "Ara vermeden söylenilen saçma sapan söz dizisi, gevezelik",
+        "letter": "L",
+        "answer": "laklak, lakırdı"
+    },
+    {
+        "id": 318,
+        "question": "On kişilik asker birliği",
+        "letter": "M",
+        "answer": "manga"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 93,
+        "question": "Bir ülkenin askeri kuvvetlerinin tümü",
+        "letter": "O",
+        "answer": "ordu"
+    },
+    {
+        "id": 1538,
+        "question": "Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak",
+        "letter": "Ö",
+        "answer": "Örtmek"
+    },
+    {
+        "id": 1013,
+        "question": "Yaşlı, koca, ihtiyar kimse",
+        "letter": "P",
+        "answer": "Pir"
+    },
+    {
+        "id": 392,
+        "question": "Derece, kerte",
+        "letter": "R",
+        "answer": "radde"
+    },
+    {
+        "id": 1934,
+        "question": "KENDİ GERÇEKLİĞİNİ YARATAN SANAT AKIMI, GERÇEKÜSTÜCÜLÜK",
+        "letter": "S",
+        "answer": "Sürrealizm"
+    },
+    {
+        "id": 1054,
+        "question": "Bir makinenin dönme hareketini öteki parçalara aktaran ve ucuna dişli çarklar, tekerlekler veya pervane bağlanan demir mil",
+        "letter": "Ş",
+        "answer": "Şaft"
+    },
+    {
+        "id": 1852,
+        "question": "KALIPTA PİŞEN BİR TÜR MEYVELİ PASTA",
+        "letter": "T",
+        "answer": "Tart, Turta"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 1471,
+        "question": "Havlamak",
+        "letter": "Ü",
+        "answer": "Ürümek"
+    },
+    {
+        "id": 870,
+        "question": "Bir vadi ya da ırmak üzerine kurulan yüksek ve uzun köprü",
+        "letter": "V",
+        "answer": "Viyadük, vıyaduk"
+    },
+    {
+        "id": 1237,
+        "question": "\"Veya, ya da\" eş anlamlısı",
+        "letter": "Y",
+        "answer": "Yahut"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

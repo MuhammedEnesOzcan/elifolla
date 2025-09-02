@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1335,
+        "question": "Havadaki duman, is, koku vb. yabancı maddeleri emerek dışarı atan aygıt",
+        "letter": "A",
+        "answer": "Aspiratör, aspratör"
+    },
+    {
+        "id": 959,
+        "question": "Egemenliğini tanıma",
+        "letter": "B",
+        "answer": "biat, biat etme, biat etmek"
+    },
+    {
+        "id": 1373,
+        "question": "Bir ülkede yönetime el koyan kimselerden oluşan kurul",
+        "letter": "C",
+        "answer": "Cunta, cuntacılar, cunta kurulu"
+    },
+    {
+        "id": 1451,
+        "question": "Bilgisayarda yazılan bir metnin kâğıda dökülmüş biçimi",
+        "letter": "Ç",
+        "answer": "Çıktı, çıktısı"
+    },
+    {
+        "id": 1399,
+        "question": "Büyük takımlar arasında oynanan maç",
+        "letter": "D",
+        "answer": "Derbi, derbi maçı"
+    },
+    {
+        "id": 1417,
+        "question": "Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku",
+        "letter": "E",
+        "answer": "Epitelyum"
+    },
+    {
+        "id": 21,
+        "question": "Ağlayıp sızlama, bağırıp çağırma",
+        "letter": "F",
+        "answer": "Feryat, Figan, Feryat figan"
+    },
+    {
+        "id": 1430,
+        "question": "Makine yağı",
+        "letter": "G",
+        "answer": "Gres, gres yağ, gres yağı"
+    },
+    {
+        "id": 1098,
+        "question": "Kur'an'ı bütünüyle ezbere bilen kimse",
+        "letter": "H",
+        "answer": "Hafız"
+    },
+    {
+        "id": 1810,
+        "question": "BİR KURUM VEYA KURULUŞUN YÖNETİLDİĞİ YER VEYA MAKAM",
+        "letter": "İ",
+        "answer": "İdare, İdari işler, İdari daire"
+    },
+    {
+        "id": 1751,
+        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
+        "letter": "K",
+        "answer": "Kıta"
+    },
+    {
+        "id": 299,
+        "question": "Önder, şef",
+        "letter": "L",
+        "answer": "lider"
+    },
+    {
+        "id": 1947,
+        "question": "Yıldızların durumundan ve devinimlerinden anlam çıkarmak suretiyle, falcılık yapan kişi",
+        "letter": "M",
+        "answer": "Müneccim"
+    },
+    {
+        "id": 1256,
+        "question": "Müzik seslerinin yazıya dökülmüş hali",
+        "letter": "N",
+        "answer": "Nota, notalandırma, notalandırmak, notalar"
+    },
+    {
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
+        "letter": "O",
+        "answer": "Opak"
+    },
+    {
+        "id": 1689,
+        "question": "AYIRT EDİCİ BİR NİTELİĞİ OLAN",
+        "letter": "Ö",
+        "answer": "Özel, özellikli"
+    },
+    {
+        "id": 1707,
+        "question": "Hristiyan din adamı, peder",
+        "letter": "P",
+        "answer": "Papaz"
+    },
+    {
+        "id": 1031,
+        "question": "Yakışır, yerinde, uygun",
+        "letter": "R",
+        "answer": "Reva"
+    },
+    {
+        "id": 1752,
+        "question": "Vücuttaki işlevsel bir bozukluğun veya hastalığın belirlenmesine yarayan işaret",
+        "letter": "S",
+        "answer": "Semptom"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 435,
+        "question": "Yasaklanarak korunan (nesne, kelime, davranış)",
+        "letter": "T",
+        "answer": "tabu"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 1702,
+        "question": "Bir peygambere inanıp onun yolunu seçen kimselerin tümü",
+        "letter": "Ü",
+        "answer": "Ümmet, Ümmed"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 773,
+        "question": "Japon mafyası",
+        "letter": "Y",
+        "answer": "Yakuza"
+    },
+    {
+        "id": 498,
+        "question": "Bir şeyin fiyatını artırma, bindirim",
+        "letter": "Z",
+        "answer": "zam"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 117,
+        "question": "Sayı boncuğu",
+        "letter": "A",
+        "answer": "abaküs"
+    },
+    {
+        "id": 1345,
+        "question": "Kum ve çimentonun birleştirilmesiyle elde edilen yapı malzemesi",
+        "letter": "B",
+        "answer": "Briket"
+    },
+    {
+        "id": 1364,
+        "question": "Bilgisizlik, cahil olma durumu",
+        "letter": "C",
+        "answer": "Cehalet"
+    },
+    {
+        "id": 1453,
+        "question": "Birini yere düşürmek için ayağının önüne ayak uzatma",
+        "letter": "Ç",
+        "answer": "Çelme, çelme atmak, çelme atma, çelme takma, çelme takmak"
+    },
+    {
+        "id": 550,
+        "question": "Gregor Samsa karakterinin yer aldığı Franz Kafka romanı",
+        "letter": "D",
+        "answer": "Dönüşüm"
+    },
+    {
+        "id": 214,
+        "question": "Yalnız belirli duraklarda duran tren, otobüs veya gemi",
+        "letter": "E",
+        "answer": "ekspres"
+    },
+    {
+        "id": 1328,
+        "question": "Bir dansı veya oyunu oluşturan ölçülü adımlarla beliren zincirleme hareketlerden her biri",
+        "letter": "F",
+        "answer": "Figür, figürler"
+    },
+    {
+        "id": 1260,
+        "question": "Bisiklet direksiyonu",
+        "letter": "G",
+        "answer": "Gidon"
+    },
+    {
+        "id": 804,
+        "question": "Taht sahibi olan devlet başkanı",
+        "letter": "H",
+        "answer": "Hükümdür, Hükümdar"
+    },
+    {
+        "id": 1161,
+        "question": "Danışma, beyin fırtınası, karşılıklı tartışma",
+        "letter": "İ",
+        "answer": "İstişare"
+    },
+    {
+        "id": 757,
+        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "letter": "K",
+        "answer": "Komisyon, Kar, Kâr"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 1631,
+        "question": "Bir ilgi veya benzetme sonucu gerçek anlamından başka anlamda kullanılan söz",
+        "letter": "M",
+        "answer": "Mecaz, mecazi, mecazen"
+    },
+    {
+        "id": 641,
+        "question": "Sinir sisteminin uyarıyı iletmekle görevli anatomik ve işlevsel birimi",
+        "letter": "N",
+        "answer": "Nöron, nöronlar"
+    },
+    {
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "letter": "O",
+        "answer": "OLGU"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 1802,
+        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
+        "letter": "P",
+        "answer": "Peksimet"
+    },
+    {
+        "id": 764,
+        "question": "Selam ya da teşekkür anlamına eğilme ya da diz kırma biçiminde yapılan hareket",
+        "letter": "R",
+        "answer": "Reverans"
+    },
+    {
+        "id": 686,
+        "question": "Bir şey öğrenmek için yöneltilen söz veya yazı",
+        "letter": "S",
+        "answer": "Soru"
+    },
+    {
+        "id": 423,
+        "question": "Bir çıkar karşılığı, uzlaşarak bir iş yapma, aldatma",
+        "letter": "Ş",
+        "answer": "şike, şike yapma, şike yapmak"
+    },
+    {
+        "id": 1741,
+        "question": "Eski dilde saldırı",
+        "letter": "T",
+        "answer": "Taarruz"
+    },
+    {
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
+        "letter": "U",
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
+    },
+    {
+        "id": 1133,
+        "question": "Çoğunlukla ayın neden olduğu, yerin dönme ekseninin yaptığı koni hareketindeki dönemsel salınım, nütasyon",
+        "letter": "Ü",
+        "answer": "Üğrüm"
+    },
+    {
+        "id": 1568,
+        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "letter": "V",
+        "answer": "Vardiya"
+    },
+    {
+        "id": 741,
+        "question": "Anı Olarak Alınan Ya Da Verilen Şey",
+        "letter": "Y",
+        "answer": "Yadigar"
+    },
+    {
+        "id": 1593,
+        "question": "Ard arda birden fazla aracın kazaya karışması durumu",
+        "letter": "Z",
+        "answer": "Zincirleme, zincirleme kaza"
+    }
+]

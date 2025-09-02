@@ -1,0 +1,158 @@
+[
+    {
+        "id": 516,
+        "question": "Bir çok müzikal kayıt bulunduran çalışma",
+        "letter": "A",
+        "answer": "Albüm"
+    },
+    {
+        "id": 1346,
+        "question": "Orta ve Güney Anadolu'nun birçok bölgesinde bir türkü ezgisi",
+        "letter": "B",
+        "answer": "Bozlak, bozlak türküsü"
+    },
+    {
+        "id": 1305,
+        "question": "Yurt, baba ocağı gibi çok sevilen şeylerden ayrılmış olan, uzak kalmış olan",
+        "letter": "C",
+        "answer": "Cüda"
+    },
+    {
+        "id": 1816,
+        "question": "MECAZEN; DİNÇLİĞİNİ KAYBETMEK, İHTİYARLAMAK",
+        "letter": "Ç",
+        "answer": "Çökme, Çökmek"
+    },
+    {
+        "id": 1089,
+        "question": "Kavga, gürültülü bağrışıp çağrışma",
+        "letter": "D",
+        "answer": "Dalaş, dalaşı"
+    },
+    {
+        "id": 203,
+        "question": "Emek sonucu ortaya konan ürün, yapıt",
+        "letter": "E",
+        "answer": "eser"
+    },
+    {
+        "id": 1226,
+        "question": "Herhangi bir konuda verilen kararın kısa bir özet haline getirilmesi, soruşturma evrakı",
+        "letter": "F",
+        "answer": "Fezleke"
+    },
+    {
+        "id": 1776,
+        "question": "SON BİLGİ VE DEĞİŞİKLİKLERİ DE EKLEYEREK YENİLEME",
+        "letter": "G",
+        "answer": "Güncelleme, Güncellemek"
+    },
+    {
+        "id": 244,
+        "question": "Hoşa giden duygulanma, hoşlanma, zevk",
+        "letter": "H",
+        "answer": "haz"
+    },
+    {
+        "id": 1604,
+        "question": "Bir kimsenin ya da bir şeyin benzerlerinden ayrı tutulması durumu",
+        "letter": "İ",
+        "answer": "İstisna, istisnai"
+    },
+    {
+        "id": 286,
+        "question": "Var olan ancak bilinmeyen bir şeyi bulan, ortaya çıkaran kimse, bulucu",
+        "letter": "K",
+        "answer": "kaşif, kâşif"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 629,
+        "question": "Tek, ayrı, kendi başına olan",
+        "letter": "M",
+        "answer": "Münferit"
+    },
+    {
+        "id": 1785,
+        "question": "Ney üfleyen sanatçı",
+        "letter": "N",
+        "answer": "Neyzen"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 657,
+        "question": "Mecliste bir konuda oylamaya sunularak karar verilmesi istenen yazılı kâğıt",
+        "letter": "Ö",
+        "answer": "Önerge"
+    },
+    {
+        "id": 1014,
+        "question": "Resim ve fotoğrafta duruş",
+        "letter": "P",
+        "answer": "poz"
+    },
+    {
+        "id": 1643,
+        "question": "Tarımda bir yılda derlenen ürünlerin bütünü",
+        "letter": "R",
+        "answer": "Rekolte"
+    },
+    {
+        "id": 1690,
+        "question": "GENELLİKLE MEYVE VEYA MEYVE SULARINDAN YAPILAN, FRANSA MENŞELİ DONDURULMUŞ BİR TATLI",
+        "letter": "S",
+        "answer": "SORBE"
+    },
+    {
+        "id": 1688,
+        "question": "Güneş doğmadan az önce beliren aydınlık",
+        "letter": "Ş",
+        "answer": "Şafak"
+    },
+    {
+        "id": 1554,
+        "question": "Laboratuvarlarda türlü işlerde kullanılan, bir ucu kapalı cam boru",
+        "letter": "T",
+        "answer": "Tüp"
+    },
+    {
+        "id": 847,
+        "question": "Bir düşünceyi, bir tasarıyı ya da bir kuramı gerçekleştirme",
+        "letter": "U",
+        "answer": "Uygulama, uygulamak"
+    },
+    {
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
+        "letter": "Ü",
+        "answer": "Üzenti"
+    },
+    {
+        "id": 875,
+        "question": "Foseptik Kuyularındaki Pis Suları Çekmeye Yarayan Makine",
+        "letter": "V",
+        "answer": "Vidanjör, vıdanjor"
+    },
+    {
+        "id": 734,
+        "question": "Su kıyısında yapılmış büyük, görkemli ev",
+        "letter": "Y",
+        "answer": "Yalı"
+    },
+    {
+        "id": 858,
+        "question": "Üflemeli bir çalgı",
+        "letter": "Z",
+        "answer": "Zurna"
+    }
+]

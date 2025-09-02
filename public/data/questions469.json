@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1164,
+        "question": "Gerçeğe, sağduyuya, akla aykırı",
+        "letter": "A",
+        "answer": "Abes"
+    },
+    {
+        "id": 144,
+        "question": "Mecazi anlamda \"Şanslı\"",
+        "letter": "B",
+        "answer": "ballı"
+    },
+    {
+        "id": 156,
+        "question": "Bir devlet veya kuruluşun gizli amaçları için çalışan kimse, ajan",
+        "letter": "C",
+        "answer": "casus"
+    },
+    {
+        "id": 1890,
+        "question": "“TORTU” KELİMESİNİN EŞ ANLAMLISI",
+        "letter": "Ç",
+        "answer": "Çökelti"
+    },
+    {
+        "id": 1196,
+        "question": "Aynı cinsten olan bir nesnenin on ikisini içeren bir birim",
+        "letter": "D",
+        "answer": "Düzine"
+    },
+    {
+        "id": 1924,
+        "question": "“METİN VE İÇERİK DÜZENLEYİCİLER” İÇİN KULLANILAN MESLEKİ UNVAN",
+        "letter": "E",
+        "answer": "Editör"
+    },
+    {
+        "id": 575,
+        "question": "Ses, akım vb. için birim zamandaki titreşim sayısı, titreşim sıklığı",
+        "letter": "F",
+        "answer": "Frekans"
+    },
+    {
+        "id": 90,
+        "question": "Retina ve iris bulunan organımız",
+        "letter": "G",
+        "answer": "göz"
+    },
+    {
+        "id": 1496,
+        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "letter": "H",
+        "answer": "Hamak"
+    },
+    {
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
+        "letter": "İ",
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
+    },
+    {
+        "id": 1828,
+        "question": "ARAPÇA KÖKENLİSİ \"HÜVİYET\" OLAN KELİMENİN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Kimlik"
+    },
+    {
+        "id": 303,
+        "question": "İnsanın davranışlarının temelini oluşturan cinsel içgüdü",
+        "letter": "L",
+        "answer": "libido"
+    },
+    {
+        "id": 1753,
+        "question": "Bir işin yapılması veya bir borcun ödenmesi için tanınan süre",
+        "letter": "M",
+        "answer": "Mühlet"
+    },
+    {
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
+        "letter": "N",
+        "answer": "nihai"
+    },
+    {
+        "id": 340,
+        "question": "Göçebelerin konak yeri",
+        "letter": "O",
+        "answer": "oba"
+    },
+    {
+        "id": 370,
+        "question": "Benzeri yapılacak olan, benzetilmek istenen şey, model",
+        "letter": "Ö",
+        "answer": "örnek"
+    },
+    {
+        "id": 1802,
+        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
+        "letter": "P",
+        "answer": "Peksimet"
+    },
+    {
+        "id": 387,
+        "question": "Zarara uğrama tehlikesi",
+        "letter": "R",
+        "answer": "risk"
+    },
+    {
+        "id": 1835,
+        "question": "MECAZ ANLAMDA HABER VERMEDEN SESSİZCE GİDİVERME",
+        "letter": "S",
+        "answer": "Sıvışma, Sıvışmak, Sıyrılma, Sıyrılmak"
+    },
+    {
+        "id": 898,
+        "question": "Oda İçinde Tuğla Ya Da Taşdan Yapılmış Ocak",
+        "letter": "Ş",
+        "answer": "Şömine, somine"
+    },
+    {
+        "id": 1927,
+        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
+        "letter": "T",
+        "answer": "Takıntı, Takıntılık, Takma, Takmak"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 867,
+        "question": "Elektromotor Gücün Ya Da Gerilimin Birimi",
+        "letter": "V",
+        "answer": "Volt"
+    },
+    {
+        "id": 1572,
+        "question": "Bir yere bağlamak veya çekerek götürmek için hayvanın başlığına veya tasmasına bağlanan ip",
+        "letter": "Y",
+        "answer": "Yular"
+    },
+    {
+        "id": 1303,
+        "question": "Çapkın, kadın düşünü anlamlarındaki bir söz",
+        "letter": "Z",
+        "answer": "Zampara"
+    }
+]

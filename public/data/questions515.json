@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1082,
+        "question": "Anıtsal",
+        "letter": "A",
+        "answer": "Abidevi"
+    },
+    {
+        "id": 1085,
+        "question": "Bateri çalmaya yarayan ince, kısa çubuk",
+        "letter": "B",
+        "answer": "Baget"
+    },
+    {
+        "id": 1530,
+        "question": "Adam öldürme",
+        "letter": "C",
+        "answer": "Cinayet"
+    },
+    {
+        "id": 1546,
+        "question": "Ucu topuzlu değnek",
+        "letter": "Ç",
+        "answer": "Çomak"
+    },
+    {
+        "id": 1390,
+        "question": "Üstü şekerli, renkli ve parlak bir madde ile kaplanmış hap",
+        "letter": "D",
+        "answer": "Draje"
+    },
+    {
+        "id": 1267,
+        "question": "Rüzgarın bir yönden diğer yöne akması durumu",
+        "letter": "E",
+        "answer": "Esmek, esmesi, esme, esinti"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 578,
+        "question": "Dil bilgisi",
+        "letter": "G",
+        "answer": "Gramer"
+    },
+    {
+        "id": 1158,
+        "question": "At yetiştirilen çiftlik",
+        "letter": "H",
+        "answer": "Hara"
+    },
+    {
+        "id": 260,
+        "question": "Kötü bir olaydan alınması gereken ders, uyarıcı sonuç",
+        "letter": "İ",
+        "answer": "ibret, ibret alma, ibret almak"
+    },
+    {
+        "id": 605,
+        "question": "Garson kalfası",
+        "letter": "K",
+        "answer": "Komi"
+    },
+    {
+        "id": 1280,
+        "question": "Bir şeyi yemek için ağza götürülen parça",
+        "letter": "L",
+        "answer": "Lokma"
+    },
+    {
+        "id": 634,
+        "question": "Akla uygun, doğru düşünülmüş",
+        "letter": "M",
+        "answer": "Mantıklı"
+    },
+    {
+        "id": 333,
+        "question": "İstenilen düzende olan, düzene uygun olan",
+        "letter": "N",
+        "answer": "nizami"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "letter": "Ö",
+        "answer": "özel"
+    },
+    {
+        "id": 1264,
+        "question": "Arıların besin kaynağı, bitkilerin üreme organlarının başlıklarında bulunan üreme hücreleri",
+        "letter": "P",
+        "answer": "Polen"
+    },
+    {
+        "id": 390,
+        "question": "Üzerinde boks yapılan, çevresi kordonla çevrilmiş yer",
+        "letter": "R",
+        "answer": "ring"
+    },
+    {
+        "id": 1159,
+        "question": "Uygulamalı öğrenme, iş öncesi öğrenme",
+        "letter": "S",
+        "answer": "Staj, stajyerlik, staj yapma, staj yapmak"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 1774,
+        "question": "KEYFİ ALIŞKANLIĞA DÖNÜŞTÜRMÜŞ OLAN KİŞİ",
+        "letter": "T",
+        "answer": "Tiryaki"
+    },
+    {
+        "id": 1132,
+        "question": "Şalvarı bele bağlamak veya torba, kese vb. şeylerin ağzını büzmek için bunlara geçirilen bağ",
+        "letter": "U",
+        "answer": "uçkur"
+    },
+    {
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
+        "letter": "Ü",
+        "answer": "Üzenti"
+    },
+    {
+        "id": 480,
+        "question": "Yapılması gerekli olan",
+        "letter": "V",
+        "answer": "vacip"
+    },
+    {
+        "id": 1140,
+        "question": "Dik, sarp",
+        "letter": "Y",
+        "answer": "yalçın"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

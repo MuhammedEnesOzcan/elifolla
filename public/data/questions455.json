@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1661,
+        "question": "Davranışları ölçülü, olgun (kimse), vakur, ciddi",
+        "letter": "A",
+        "answer": "Ağırbaşlı"
+    },
+    {
+        "id": 522,
+        "question": "İşçilerin başlarına giydikleri, metal veya plastikten yapılmış koruyucu başlık",
+        "letter": "B",
+        "answer": "Baret"
+    },
+    {
+        "id": 1369,
+        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
+        "letter": "C",
+        "answer": "Cemre, cemre düşmesi"
+    },
+    {
+        "id": 1269,
+        "question": "\"Dünyanın en kalabalık ülkesi\" unvanına sahip olan ülke",
+        "letter": "Ç",
+        "answer": "Çin, Çin Halk Cumhuriyeti"
+    },
+    {
+        "id": 548,
+        "question": "Şeker hastalığı",
+        "letter": "D",
+        "answer": "Diyabet"
+    },
+    {
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
+        "letter": "E",
+        "answer": "emare"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
+        "letter": "G",
+        "answer": "Gelir"
+    },
+    {
+        "id": 254,
+        "question": "Zarla oynanan oyunlarda zarların tek benekli yönlerinin üste gelmesi",
+        "letter": "H",
+        "answer": "hepyek"
+    },
+    {
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
+        "letter": "İ",
+        "answer": "İşletme"
+    },
+    {
+        "id": 1104,
+        "question": "Çadır, baraka vb. eğreti araçlardan oluşturulan konak yeri",
+        "letter": "K",
+        "answer": "kamp"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 1274,
+        "question": "Uzay araçlarında özel bir göreve sahip olan ve ana gövdeden ayrılıp gerekli durumlarda birleşebilen kısım",
+        "letter": "M",
+        "answer": "Modül"
+    },
+    {
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "letter": "N",
+        "answer": "Noter"
+    },
+    {
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
+        "letter": "O",
+        "answer": "Ozalit"
+    },
+    {
+        "id": 361,
+        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
+        "letter": "Ö",
+        "answer": "önem"
+    },
+    {
+        "id": 65,
+        "question": "Yalan söylediğinde burnu uzayan roman karakteri",
+        "letter": "P",
+        "answer": "pinokyo"
+    },
+    {
+        "id": 401,
+        "question": "Su düzeyindeki sıra kayalar",
+        "letter": "R",
+        "answer": "resif, resifler"
+    },
+    {
+        "id": 1894,
+        "question": "Fotoğrafçı İşyeri",
+        "letter": "S",
+        "answer": "Stüdyo"
+    },
+    {
+        "id": 1462,
+        "question": "Etkisi çok olan, zorlu, aşırı",
+        "letter": "Ş",
+        "answer": "Şiddetli"
+    },
+    {
+        "id": 1650,
+        "question": "Lisans ve yüksek lisans yapan öğrencilerin bilimsel yöntemlere dayandırdıkları ve hazırladıkları makaleler",
+        "letter": "T",
+        "answer": "Tez"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 1508,
+        "question": "Bir ülküye çıkar gütmeden bağlı olan, idealist",
+        "letter": "Ü",
+        "answer": "Ülkücü"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
+        "letter": "Y",
+        "answer": "Yassı"
+    },
+    {
+        "id": 499,
+        "question": "Zor kullanarak ele geçirme",
+        "letter": "Z",
+        "answer": "zapt, zapt etme, zapt etmek"
+    }
+]

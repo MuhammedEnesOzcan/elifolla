@@ -1,0 +1,158 @@
+[
+    {
+        "id": 515,
+        "question": "En yüksek, en büyük, en çok",
+        "letter": "A",
+        "answer": "Azami, Azâmi"
+    },
+    {
+        "id": 140,
+        "question": "Yaşama veya iş görme isteğini yitirmiş",
+        "letter": "B",
+        "answer": "Bezgin, bezmiş, bitap"
+    },
+    {
+        "id": 1370,
+        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
+        "letter": "C",
+        "answer": "Cumhuriyet"
+    },
+    {
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
+        "letter": "Ç",
+        "answer": "Çapak"
+    },
+    {
+        "id": 794,
+        "question": "Belli bir esasa göre verilen buyruk, talimat, yönerge",
+        "letter": "D",
+        "answer": "Direktif"
+    },
+    {
+        "id": 1415,
+        "question": "Bir malın niteliğini belirtmek, özelliklerini göstermek amacıyla, o malın parasız verilen veya gönderilen parçası",
+        "letter": "E",
+        "answer": "Eşantiyon"
+    },
+    {
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
+        "letter": "F",
+        "answer": "Ferah"
+    },
+    {
+        "id": 1429,
+        "question": "Toprak altına gömülerek saklanmış para veya değerli şeyler, define",
+        "letter": "G",
+        "answer": "Gömü"
+    },
+    {
+        "id": 60,
+        "question": "Güney yarım küre'de en uzun gecenin yaşandığı ay",
+        "letter": "H",
+        "answer": "haziran"
+    },
+    {
+        "id": 1197,
+        "question": "Gerçeğine benzetilerek yapılmış olan süs eşyası",
+        "letter": "İ",
+        "answer": "İmitasyon"
+    },
+    {
+        "id": 605,
+        "question": "Garson kalfası",
+        "letter": "K",
+        "answer": "Komi"
+    },
+    {
+        "id": 1107,
+        "question": "Hanigillerden, Akdeniz ve Ege'de yaşayan lezzetli bir balık, kaya hanisi",
+        "letter": "L",
+        "answer": "lahos"
+    },
+    {
+        "id": 1626,
+        "question": "Devlet hizmetinde aylıkla çalışan kimse, görevli",
+        "letter": "M",
+        "answer": "Memur"
+    },
+    {
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "letter": "N",
+        "answer": "Noter"
+    },
+    {
+        "id": 93,
+        "question": "Bir ülkenin askeri kuvvetlerinin tümü",
+        "letter": "O",
+        "answer": "ordu"
+    },
+    {
+        "id": 372,
+        "question": "Bir iş için ayrılan belli para, tahsisat",
+        "letter": "Ö",
+        "answer": "ödenek"
+    },
+    {
+        "id": 1917,
+        "question": "ŞEKER, YUMURTA VE KREMANIN ÇIRPILARAK DONDURULMASIYLA HAZIRLANAN FRANSIZ TATLISI",
+        "letter": "P",
+        "answer": "Parfe"
+    },
+    {
+        "id": 764,
+        "question": "Selam ya da teşekkür anlamına eğilme ya da diz kırma biçiminde yapılan hareket",
+        "letter": "R",
+        "answer": "Reverans"
+    },
+    {
+        "id": 1270,
+        "question": "Tarihte ilk yazılı metinlere sahip olan medeniyet",
+        "letter": "S",
+        "answer": "Sümer, Sümerler"
+    },
+    {
+        "id": 701,
+        "question": "Bir kara yolunda trafik çizgileri ile ayrılmış bölümlerden her biri",
+        "letter": "Ş",
+        "answer": "Şerit"
+    },
+    {
+        "id": 440,
+        "question": "Herhangi bir konuda verilen gizli bilgi",
+        "letter": "T",
+        "answer": "tüyo, tüyo verme, tüyo vermek"
+    },
+    {
+        "id": 847,
+        "question": "Bir düşünceyi, bir tasarıyı ya da bir kuramı gerçekleştirme",
+        "letter": "U",
+        "answer": "Uygulama, uygulamak"
+    },
+    {
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
+        "letter": "Ü",
+        "answer": "ülke"
+    },
+    {
+        "id": 1506,
+        "question": "Geliş, gelme",
+        "letter": "V",
+        "answer": "Vürut"
+    },
+    {
+        "id": 493,
+        "question": "Kötülüklerini söylemek, zemmetmek",
+        "letter": "Y",
+        "answer": "yermek"
+    },
+    {
+        "id": 842,
+        "question": "Zeki, anlayış sahibi",
+        "letter": "Z",
+        "answer": "Zeren"
+    }
+]

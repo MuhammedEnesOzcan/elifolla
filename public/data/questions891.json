@@ -1,0 +1,158 @@
+[
+    {
+        "id": 118,
+        "question": "Genellikle üzeri siperli masa lambası veya ayaklı lamba",
+        "letter": "A",
+        "answer": "abajur"
+    },
+    {
+        "id": 528,
+        "question": "Yorgun, bitkin düşmüş olan",
+        "letter": "B",
+        "answer": "Bitap, bitap halde"
+    },
+    {
+        "id": 1363,
+        "question": "Ateşli silahlarla atılmak için hazırlanan her türlü patlayıcı madde, mühimmat",
+        "letter": "C",
+        "answer": "Cephane"
+    },
+    {
+        "id": 173,
+        "question": "Badem, kayısı, erik vb. tek çekirdekli yemişlerin körpeyken yenilebilen ham şekli",
+        "letter": "Ç",
+        "answer": "çağla"
+    },
+    {
+        "id": 1394,
+        "question": "Doldurularak yapılan yemek",
+        "letter": "D",
+        "answer": "Dolma"
+    },
+    {
+        "id": 750,
+        "question": "Kazalara alınmış tedbirler",
+        "letter": "E",
+        "answer": "Emniyet"
+    },
+    {
+        "id": 1489,
+        "question": "Etken, etmen",
+        "letter": "F",
+        "answer": "Faktör"
+    },
+    {
+        "id": 233,
+        "question": "Suya batma, boğulma",
+        "letter": "G",
+        "answer": "gark, gark etme"
+    },
+    {
+        "id": 246,
+        "question": "Kıskançlık, çekememezlik",
+        "letter": "H",
+        "answer": "haset, hasetlik"
+    },
+    {
+        "id": 1973,
+        "question": "Bir şeyi saklamadan direkt olarak söylemek",
+        "letter": "İ",
+        "answer": "İkrar"
+    },
+    {
+        "id": 26,
+        "question": "Dar dik yamaçlı ve derin vadi",
+        "letter": "K",
+        "answer": "Kanyon"
+    },
+    {
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
+        "letter": "L",
+        "answer": "Larva, larva dönemi"
+    },
+    {
+        "id": 1249,
+        "question": "Hapiste olan, hakkında hüküm kesilmiş kimse",
+        "letter": "M",
+        "answer": "Mahkum"
+    },
+    {
+        "id": 989,
+        "question": "Bir şeyi hatırlamak için yazılan kısa yazı",
+        "letter": "N",
+        "answer": "Not, not etme, not etmek"
+    },
+    {
+        "id": 761,
+        "question": "Canlıyı oluşturan organlar bütünü",
+        "letter": "O",
+        "answer": "Organizma"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 1298,
+        "question": "Yolun kaygan olması nedeniyle tekerlekler dönse de taşıtın ilerleyememesi durumu",
+        "letter": "P",
+        "answer": "Patinaj, patinaj çekme, patinaj çekmek"
+    },
+    {
+        "id": 395,
+        "question": "Orta kaldırım",
+        "letter": "R",
+        "answer": "refüj"
+    },
+    {
+        "id": 410,
+        "question": "Dayanıklı, kolay bozulmaz, yıkılmaz, stabil",
+        "letter": "S",
+        "answer": "sağlam"
+    },
+    {
+        "id": 935,
+        "question": "Kesme veya oyma kalıbı",
+        "letter": "Ş",
+        "answer": "şablon"
+    },
+    {
+        "id": 1277,
+        "question": "Genel adıyla \"Yolculuk edilen araç\"",
+        "letter": "T",
+        "answer": "Taşıt"
+    },
+    {
+        "id": 69,
+        "question": "Tıraş için kullanılan açılır kapanır keskin bıçak",
+        "letter": "U",
+        "answer": "ustura"
+    },
+    {
+        "id": 466,
+        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
+        "letter": "Ü",
+        "answer": "üslup"
+    },
+    {
+        "id": 472,
+        "question": "İki dağ arasındaki çukurca arazi veya geçit",
+        "letter": "V",
+        "answer": "vadi"
+    },
+    {
+        "id": 950,
+        "question": "Rüzgar",
+        "letter": "Y",
+        "answer": "Yel"
+    },
+    {
+        "id": 1293,
+        "question": "Bir suçu işlediği düşünülen ve hakkında soruşturma devam eden kişi",
+        "letter": "Z",
+        "answer": "Zanlı, zanli"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 515,
+        "question": "En yüksek, en büyük, en çok",
+        "letter": "A",
+        "answer": "Azami, Azâmi"
+    },
+    {
+        "id": 521,
+        "question": "İzmir ile ün salmış milföyden yapılan bir yiyecek",
+        "letter": "B",
+        "answer": "Boyoz"
+    },
+    {
+        "id": 155,
+        "question": "Topluluk, zümre",
+        "letter": "C",
+        "answer": "Camia, cemiyet"
+    },
+    {
+        "id": 179,
+        "question": "Çizilerek veya oyularak açılan kertik",
+        "letter": "Ç",
+        "answer": "çetele, çentik"
+    },
+    {
+        "id": 112,
+        "question": "Müzik, ürün, hizmet gibi alanlarda kısa ön sunum",
+        "letter": "D",
+        "answer": "demo"
+    },
+    {
+        "id": 1173,
+        "question": "Mental ve vücutça sağlıklı, sağlık içinde olan",
+        "letter": "E",
+        "answer": "Esen"
+    },
+    {
+        "id": 1780,
+        "question": "Sahneyi destekleyecek rol alan dekoratif oyuncu",
+        "letter": "F",
+        "answer": "Figüran, Figüran Oyuncu"
+    },
+    {
+        "id": 1433,
+        "question": "Pek, çok, pek çok, güçlü bir biçimde, etkili olarak",
+        "letter": "G",
+        "answer": "Gayet"
+    },
+    {
+        "id": 1443,
+        "question": "Mecazen; Yasa dışı yollarla zimmetine para veya mal geçirmek",
+        "letter": "H",
+        "answer": "Hortumlama, hortumlamak"
+    },
+    {
+        "id": 1609,
+        "question": "Bir sonuç çıkarmak için verileri yöntemli bir biçimde toplayıp sayı olarak belirtme",
+        "letter": "İ",
+        "answer": "İstatistik, istatistik bilimi, istatistik çıkarma, istatistik çıkarmak"
+    },
+    {
+        "id": 610,
+        "question": "Araştırma ve incelemede yararlanılan belge, referans",
+        "letter": "K",
+        "answer": "Kaynak"
+    },
+    {
+        "id": 1704,
+        "question": "Meyve ve bazı bitkiler ile alkol, esans karışımından yapılan şekerli içki",
+        "letter": "L",
+        "answer": "Likör"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 929,
+        "question": "Tek ağızlı balta",
+        "letter": "N",
+        "answer": "Nacak"
+    },
+    {
+        "id": 1003,
+        "question": "On açısı, on kenarı olan çokgen",
+        "letter": "O",
+        "answer": "Ongen"
+    },
+    {
+        "id": 1005,
+        "question": "Örme işi veya biçimi",
+        "letter": "Ö",
+        "answer": "Örgü"
+    },
+    {
+        "id": 379,
+        "question": "Bir işin gerçekleştirilmesi için uyulması tasarlanan düzen",
+        "letter": "P",
+        "answer": "plan"
+    },
+    {
+        "id": 678,
+        "question": "Yapılması alışkanlık haline gelmiş iş",
+        "letter": "R",
+        "answer": "Rutin, Rutin iş"
+    },
+    {
+        "id": 1948,
+        "question": "MECAZEN, “AKIL SAĞLIĞINI YİTİRMEK” ANLAMINA GELEN SÖZ",
+        "letter": "S",
+        "answer": "Sıyırma, Sıyırmak"
+    },
+    {
+        "id": 67,
+        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "letter": "Ş",
+        "answer": "Şanlıurfa, Şanlı Urfa"
+    },
+    {
+        "id": 951,
+        "question": "Sayım. Toplanma",
+        "letter": "T",
+        "answer": "tadat"
+    },
+    {
+        "id": 893,
+        "question": "Kaşındırıcı bir deri hastalığı",
+        "letter": "U",
+        "answer": "Uyuz"
+    },
+    {
+        "id": 1871,
+        "question": "BİR DEVLETİN BAŞKA BİR DEVLET İÇİN, TANIDIĞI SÜREDE İSTEKLERİNİN YERİNE GETİRİLMESİ İÇİN VERDİĞİ NOTA",
+        "letter": "Ü",
+        "answer": "Ültimatom"
+    },
+    {
+        "id": 863,
+        "question": "Tahıl tanelerinin damıtılmasıyla elde edilen alkollü içki",
+        "letter": "V",
+        "answer": "Votka, vodka"
+    },
+    {
+        "id": 1880,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

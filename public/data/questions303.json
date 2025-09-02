@@ -1,0 +1,158 @@
+[
+    {
+        "id": 512,
+        "question": "Denizin kıyıdan uzakça olan yeri",
+        "letter": "A",
+        "answer": "Açık"
+    },
+    {
+        "id": 1773,
+        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "letter": "B",
+        "answer": "Buluş"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 539,
+        "question": "Adı çözen kişilerce konulmuş olan iplik demeti",
+        "letter": "Ç",
+        "answer": "Çile"
+    },
+    {
+        "id": 1387,
+        "question": "Oyunda, atılan zarlardan ikisinin de beş benekli yüzünün üste gelmesi",
+        "letter": "D",
+        "answer": "Dübeş"
+    },
+    {
+        "id": 214,
+        "question": "Yalnız belirli duraklarda duran tren, otobüs veya gemi",
+        "letter": "E",
+        "answer": "ekspres"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 230,
+        "question": "Tasa, kaygı, üzüntü",
+        "letter": "G",
+        "answer": "gam"
+    },
+    {
+        "id": 250,
+        "question": "Hırsız, haydut, eşkıya",
+        "letter": "H",
+        "answer": "harami, haramiler"
+    },
+    {
+        "id": 1725,
+        "question": "Hainlik etme, yarı yolda bırakma",
+        "letter": "İ",
+        "answer": "İhanet, ihanet etme, ihanet etmek"
+    },
+    {
+        "id": 1795,
+        "question": "RUMCA KÖKENLİ “YIPRANMIŞ, ESKİ VE BAKIMSIZ” ANLAMLARINDA DAHA ÇOK ARAÇLAR, MAKİNELER İÇİN KULLANILAN SÖZCÜK",
+        "letter": "K",
+        "answer": "Külüstür"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "letter": "M",
+        "answer": "Mimar"
+    },
+    {
+        "id": 329,
+        "question": "Bir yerden alıp başka bir yere iletme, aktarma, taşıma",
+        "letter": "N",
+        "answer": "nakil, nakil işlemi"
+    },
+    {
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
+        "letter": "O",
+        "answer": "Opak"
+    },
+    {
+        "id": 1009,
+        "question": "Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey, mavera",
+        "letter": "Ö",
+        "answer": "Öte"
+    },
+    {
+        "id": 1901,
+        "question": "MEKSİKA, KOLOMBİYA, ARJANTİN GİBİ ÜLKELERİN PARA BİRİMİ",
+        "letter": "P",
+        "answer": "Peso"
+    },
+    {
+        "id": 679,
+        "question": "Bir mağazanın yalnız bir tür eşya satılan bölümü",
+        "letter": "R",
+        "answer": "Reyon, reyonu"
+    },
+    {
+        "id": 831,
+        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "letter": "S",
+        "answer": "Seküler"
+    },
+    {
+        "id": 698,
+        "question": "Gizli haberleşmeye yarayan işaretlerin tümü, kod",
+        "letter": "Ş",
+        "answer": "Şifre, şifreli mesaj"
+    },
+    {
+        "id": 52,
+        "question": "At ve eşek gibi tek tırnaklı hayvanların tırnağına verilen ad",
+        "letter": "T",
+        "answer": "Toynak"
+    },
+    {
+        "id": 447,
+        "question": "Uysal bir biçimde",
+        "letter": "U",
+        "answer": "uslu"
+    },
+    {
+        "id": 1507,
+        "question": "Canlı, doğup çoğalmak",
+        "letter": "Ü",
+        "answer": "Üremek"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 906,
+        "question": "Kısa kollu ceket, mont",
+        "letter": "Y",
+        "answer": "Yelek"
+    },
+    {
+        "id": 508,
+        "question": "Çok koyu, karanlık",
+        "letter": "Z",
+        "answer": "zifiri, zifir"
+    }
+]

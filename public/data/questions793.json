@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1971,
+        "question": "BİR KİŞİYİ GÖREVİNDEN ALMAK, UZAKLAŞTIRMAK",
+        "letter": "A",
+        "answer": "AZLETME, AZLETMEK"
+    },
+    {
+        "id": 1347,
+        "question": "Kavun, karpuz tarlası",
+        "letter": "B",
+        "answer": "Bostan, bostanlık"
+    },
+    {
+        "id": 1923,
+        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "letter": "C",
+        "answer": "Cıvık"
+    },
+    {
+        "id": 99,
+        "question": "Bulunulan çağın anlayışına, şartlarına uygun olan, modern, muasır",
+        "letter": "Ç",
+        "answer": "çağdaş"
+    },
+    {
+        "id": 554,
+        "question": "Bir işi en iyi yapan, işin ustası",
+        "letter": "D",
+        "answer": "Duayen"
+    },
+    {
+        "id": 1822,
+        "question": "Bir evin gelinlerinin birbirine göre akrabalık durumu",
+        "letter": "E",
+        "answer": "Elti, Eltilik"
+    },
+    {
+        "id": 1094,
+        "question": "Süslü, ayaklı fener",
+        "letter": "F",
+        "answer": "Fanus"
+    },
+    {
+        "id": 1426,
+        "question": "İspiyonlamak",
+        "letter": "G",
+        "answer": "Gammazlamak"
+    },
+    {
+        "id": 1721,
+        "question": "Mahkeme lideri, hüküm veren",
+        "letter": "H",
+        "answer": "Hakim"
+    },
+    {
+        "id": 1610,
+        "question": "Bir bedelin ödenmesi sırasında yapılan indirim",
+        "letter": "İ",
+        "answer": "İskonto, iskonto uygulama, iskonto uygulamak"
+    },
+    {
+        "id": 1206,
+        "question": "Güzel yazı yazma sanatı",
+        "letter": "K",
+        "answer": "Kaligrafi"
+    },
+    {
+        "id": 1456,
+        "question": "Bir kimseye uygun olan, yaraşan",
+        "letter": "L",
+        "answer": "Layık, layığı"
+    },
+    {
+        "id": 1215,
+        "question": "Güneşe en yakın gezegen",
+        "letter": "M",
+        "answer": "Merkür, merkür gezegeni"
+    },
+    {
+        "id": 987,
+        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
+        "letter": "N",
+        "answer": "Naz"
+    },
+    {
+        "id": 1889,
+        "question": "KAVİMLER GÖÇÜYLE BAŞLAYAN TARİHİ DÖNEM",
+        "letter": "O",
+        "answer": "Ortaçağ"
+    },
+    {
+        "id": 372,
+        "question": "Bir iş için ayrılan belli para, tahsisat",
+        "letter": "Ö",
+        "answer": "ödenek"
+    },
+    {
+        "id": 88,
+        "question": "Üstüne mumlar konan doğum günü tatlısı",
+        "letter": "P",
+        "answer": "pasta"
+    },
+    {
+        "id": 387,
+        "question": "Zarara uğrama tehlikesi",
+        "letter": "R",
+        "answer": "risk"
+    },
+    {
+        "id": 1038,
+        "question": "Bir günlük sürenin yirmi dörtte birine eşit, altmış dakikalık zaman dilimi, zaman parçası",
+        "letter": "S",
+        "answer": "saat"
+    },
+    {
+        "id": 1686,
+        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
+        "letter": "Ş",
+        "answer": "Şapel"
+    },
+    {
+        "id": 709,
+        "question": "Bildiri, haber verme",
+        "letter": "T",
+        "answer": "Tebliğ, Tebliğ etme, Tebliğ etmek, Tebligat"
+    },
+    {
+        "id": 1563,
+        "question": "Nükleer santrallerde en yaygın kullanılan ve radyoaktif atık bırakan yakıt",
+        "letter": "U",
+        "answer": "Uranyum"
+    },
+    {
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
+        "letter": "Ü",
+        "answer": "üvey"
+    },
+    {
+        "id": 477,
+        "question": "Döndürülerek bir yere sokulan burmalı çivi",
+        "letter": "V",
+        "answer": "vida"
+    },
+    {
+        "id": 1578,
+        "question": "Bir düşünceye, bir inanca aşırı ölçüde bağlı olan baskıcı kimse",
+        "letter": "Y",
+        "answer": "Yobaz"
+    },
+    {
+        "id": 774,
+        "question": "Şundan dolayı, şu sebeple, çünkü anlamlarındaki bağlaç",
+        "letter": "Z",
+        "answer": "Zira"
+    }
+]

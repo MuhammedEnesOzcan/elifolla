@@ -1,0 +1,158 @@
+[
+    {
+        "id": 955,
+        "question": "\"Kutup\", \"Boz gibi türleri bulunan iri gövdeli yırtıcı hayvan",
+        "letter": "A",
+        "answer": "ayı, ayi"
+    },
+    {
+        "id": 87,
+        "question": "Birim yüzeye uygulanan kuvvet",
+        "letter": "B",
+        "answer": "basınç"
+    },
+    {
+        "id": 1530,
+        "question": "Adam öldürme",
+        "letter": "C",
+        "answer": "Cinayet"
+    },
+    {
+        "id": 1447,
+        "question": "Çevresine göre aşağı çökmüş olan yer",
+        "letter": "Ç",
+        "answer": "Çukur"
+    },
+    {
+        "id": 938,
+        "question": "Fide dikilirken kullanılan ucu çatallı çubuk",
+        "letter": "D",
+        "answer": "dikeç"
+    },
+    {
+        "id": 1822,
+        "question": "Bir evin gelinlerinin birbirine göre akrabalık durumu",
+        "letter": "E",
+        "answer": "Elti, Eltilik"
+    },
+    {
+        "id": 1324,
+        "question": "Gemilerde kürek çeken tutsak veya hükümlü kimse",
+        "letter": "F",
+        "answer": "Forsa"
+    },
+    {
+        "id": 1701,
+        "question": "Yadırganacak bir yönü olma durumu, yadırgatıcılık, tuhaflık",
+        "letter": "G",
+        "answer": "Garabet"
+    },
+    {
+        "id": 589,
+        "question": "Bilinç, bellek",
+        "letter": "H",
+        "answer": "Hafıza"
+    },
+    {
+        "id": 257,
+        "question": "Örnek alınan, en çok hayranlık duyulan kimse",
+        "letter": "İ",
+        "answer": "idol"
+    },
+    {
+        "id": 66,
+        "question": "Diğer adı perçem olan alna düşen kısa kesilmiş saç",
+        "letter": "K",
+        "answer": "Kahkül, Kakül"
+    },
+    {
+        "id": 293,
+        "question": "Bulgar para birimi",
+        "letter": "L",
+        "answer": "leva"
+    },
+    {
+        "id": 310,
+        "question": "Bir emek karşılığında aylık, haftalık gibi verilen ödenek",
+        "letter": "M",
+        "answer": "maaş"
+    },
+    {
+        "id": 1881,
+        "question": "YÖRESEL AĞIZLARDA, “KÖTÜ, BERBAT, AKSİ, HUYSUZ KİŞİLERE” YÖNELİK KULLANILAN BİR SIFAT",
+        "letter": "N",
+        "answer": "Nalet"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 31,
+        "question": "Yaşam, hayat",
+        "letter": "Ö",
+        "answer": "Ömür"
+    },
+    {
+        "id": 383,
+        "question": "Birine saldırmak için saklanarak beklenilen yer",
+        "letter": "P",
+        "answer": "pusu"
+    },
+    {
+        "id": 1646,
+        "question": "Hastanelerde hastanın yanında kalan, hastaya yardımcı olan kimse",
+        "letter": "R",
+        "answer": "Refakatçi"
+    },
+    {
+        "id": 1123,
+        "question": "Geçen, önceki, eski",
+        "letter": "S",
+        "answer": "sabık, selef, selefi"
+    },
+    {
+        "id": 433,
+        "question": "Art düşünce, hile",
+        "letter": "Ş",
+        "answer": "şaibe, şike"
+    },
+    {
+        "id": 1214,
+        "question": "Bir duyguyu, bir düşünceyi birinin belleğine sokma, ona aşılama",
+        "letter": "T",
+        "answer": "Telkin, telkin etme, teklin etmek"
+    },
+    {
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "letter": "U",
+        "answer": "uyruk"
+    },
+    {
+        "id": 878,
+        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
+        "letter": "Ü",
+        "answer": "Ülkü"
+    },
+    {
+        "id": 715,
+        "question": "Genellikle sıvı şeyleri koymakta kullanılan, silindir biçiminde ve üstü kapalı, metal kap",
+        "letter": "V",
+        "answer": "Varil"
+    },
+    {
+        "id": 1936,
+        "question": "Doğum tarihi ve saati dikkate alınarak yapılan hesaplama ile ortaya çıkan burç",
+        "letter": "Y",
+        "answer": "Yükselen, Yükselen burç"
+    },
+    {
+        "id": 1593,
+        "question": "Ard arda birden fazla aracın kazaya karışması durumu",
+        "letter": "Z",
+        "answer": "Zincirleme, zincirleme kaza"
+    }
+]

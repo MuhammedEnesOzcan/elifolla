@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1659,
+        "question": "Konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak",
+        "letter": "A",
+        "answer": "Ağırlamak, ağırlama"
+    },
+    {
+        "id": 139,
+        "question": "Aracısız, kendisi olarak",
+        "letter": "B",
+        "answer": "bizzat"
+    },
+    {
+        "id": 1359,
+        "question": "Hekimliğin deri hastalıkları ile ilgili dalı, dermatoloji",
+        "letter": "C",
+        "answer": "Cildiye"
+    },
+    {
+        "id": 181,
+        "question": "Silahlı büyük kavga, arbede",
+        "letter": "Ç",
+        "answer": "çatışma"
+    },
+    {
+        "id": 1829,
+        "question": "\"DOĞRU\", \"BİÇİMLİ\", \"MUNTAZAM\" ANLAMINA GELEN BİR SÖZCÜK",
+        "letter": "D",
+        "answer": "Düzgün, Düzenli"
+    },
+    {
+        "id": 563,
+        "question": "Öğrenci yurt dışı değişim programı",
+        "letter": "E",
+        "answer": "Erasmus"
+    },
+    {
+        "id": 576,
+        "question": "Fotoğrafta güzel çıkan, etki bırakan (kimse)",
+        "letter": "F",
+        "answer": "Fotojenik"
+    },
+    {
+        "id": 1423,
+        "question": "Gök gözlemleri yapan, gök cisimlerini ve olaylarını inceleyen yer, rasathane",
+        "letter": "G",
+        "answer": "Gözlemevi"
+    },
+    {
+        "id": 1437,
+        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "letter": "H",
+        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+    },
+    {
+        "id": 1726,
+        "question": "Birim zamandaki hız değişimi",
+        "letter": "İ",
+        "answer": "İvme"
+    },
+    {
+        "id": 289,
+        "question": "Düşünüleni dolaylı olarak anlatan söz",
+        "letter": "K",
+        "answer": "kinaye, kinayeli"
+    },
+    {
+        "id": 304,
+        "question": "Ara vermeden söylenilen saçma sapan söz dizisi, gevezelik",
+        "letter": "L",
+        "answer": "laklak, lakırdı"
+    },
+    {
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "letter": "M",
+        "answer": "Mimar"
+    },
+    {
+        "id": 1521,
+        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "letter": "N",
+        "answer": "Nova"
+    },
+    {
+        "id": 649,
+        "question": "Birden çok kimse veya nesneyi ilgilendiren, müşterek",
+        "letter": "O",
+        "answer": "Ortak"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 668,
+        "question": "Bir ilacın telkine dayalı bir etki ortaya çıkarma hali",
+        "letter": "P",
+        "answer": "Plasebo, Plasebo etkisi"
+    },
+    {
+        "id": 398,
+        "question": "Havalimanında uçuşun gecikme durumu",
+        "letter": "R",
+        "answer": "rötar"
+    },
+    {
+        "id": 1159,
+        "question": "Uygulamalı öğrenme, iş öncesi öğrenme",
+        "letter": "S",
+        "answer": "Staj, stajyerlik, staj yapma, staj yapmak"
+    },
+    {
+        "id": 421,
+        "question": "Güzel, zarif, modaya uygun",
+        "letter": "Ş",
+        "answer": "şık"
+    },
+    {
+        "id": 951,
+        "question": "Sayım. Toplanma",
+        "letter": "T",
+        "answer": "tadat"
+    },
+    {
+        "id": 1066,
+        "question": "Dik ve derin yamaç",
+        "letter": "U",
+        "answer": "Uçurum"
+    },
+    {
+        "id": 882,
+        "question": "At Ve Kısrak Sürüsüne Verilen Ad",
+        "letter": "Ü",
+        "answer": "Ürek"
+    },
+    {
+        "id": 890,
+        "question": "Giysilerde omuzların dik durması için konulan parça",
+        "letter": "V",
+        "answer": "Vatka"
+    },
+    {
+        "id": 734,
+        "question": "Su kıyısında yapılmış büyük, görkemli ev",
+        "letter": "Y",
+        "answer": "Yalı"
+    },
+    {
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "letter": "Z",
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
+    }
+]

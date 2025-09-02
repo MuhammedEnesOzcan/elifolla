@@ -1,0 +1,158 @@
+[
+    {
+        "id": 514,
+        "question": "Bazı gök cisimlerinin etrafını saran gaz tabakası",
+        "letter": "A",
+        "answer": "Atmosfer"
+    },
+    {
+        "id": 49,
+        "question": "Duvarları boyamak için kullanılan sulandırılmış kireç ya da plastik boya",
+        "letter": "B",
+        "answer": "BADANA"
+    },
+    {
+        "id": 962,
+        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "letter": "C",
+        "answer": "Cacık"
+    },
+    {
+        "id": 1873,
+        "question": "DOĞA KİRLİLİĞİ SORUNLARIYLA UĞRAŞAN KİMSE VEYA TOPLULUK",
+        "letter": "Ç",
+        "answer": "Çevreci"
+    },
+    {
+        "id": 1718,
+        "question": "Bir ülkeyi zora ve baskıya dayanarak yöneten kimse",
+        "letter": "D",
+        "answer": "Despot, Dikta, Diktatör"
+    },
+    {
+        "id": 20,
+        "question": "Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli",
+        "letter": "E",
+        "answer": "Etalon"
+    },
+    {
+        "id": 1915,
+        "question": "DUYGUSAL İLİŞKİLERDE SINAMA VE SINANMA EVRESİ",
+        "letter": "F",
+        "answer": "Flört"
+    },
+    {
+        "id": 236,
+        "question": "Elde edilmesi gereken, ulaşılmak istenen şey, amaç, maksat",
+        "letter": "G",
+        "answer": "gaye"
+    },
+    {
+        "id": 974,
+        "question": "Hiçbir işe yaramadan yok olma, boşa gitme",
+        "letter": "H",
+        "answer": "Heba, heba olma, heba olmak, heba olması"
+    },
+    {
+        "id": 1973,
+        "question": "Bir şeyi saklamadan direkt olarak söylemek",
+        "letter": "İ",
+        "answer": "İkrar"
+    },
+    {
+        "id": 1784,
+        "question": "BAZI LOKANTALARDA ÇATAL, BIÇAK GİBİ SERVİS ÖGELERİNDEN ALINAN ÜCRET",
+        "letter": "K",
+        "answer": "Kuver"
+    },
+    {
+        "id": 292,
+        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "letter": "L",
+        "answer": "lobi"
+    },
+    {
+        "id": 318,
+        "question": "On kişilik asker birliği",
+        "letter": "M",
+        "answer": "manga"
+    },
+    {
+        "id": 638,
+        "question": "Sıklığı az olan, seyrek",
+        "letter": "N",
+        "answer": "Nadir"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 821,
+        "question": "Birden ortaya çıkan, aşırı ve normalin dışına taşmış korku hali",
+        "letter": "P",
+        "answer": "panik"
+    },
+    {
+        "id": 1121,
+        "question": "Herhangi bir işte, bir yarışta, birbirini geçmeye çalışan, aynı şeyi elde etmeye uğraşan",
+        "letter": "R",
+        "answer": "Rakip"
+    },
+    {
+        "id": 685,
+        "question": "Yapay, yapma, sentetik",
+        "letter": "S",
+        "answer": "Suni"
+    },
+    {
+        "id": 698,
+        "question": "Gizli haberleşmeye yarayan işaretlerin tümü, kod",
+        "letter": "Ş",
+        "answer": "Şifre, şifreli mesaj"
+    },
+    {
+        "id": 1128,
+        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "letter": "T",
+        "answer": "tabak"
+    },
+    {
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "letter": "U",
+        "answer": "Uydu, uydusu"
+    },
+    {
+        "id": 1474,
+        "question": "Altyapı üzerine kurulan, oturmaya veya üretime yarayan yapıların tümü",
+        "letter": "Ü",
+        "answer": "Üstyapı"
+    },
+    {
+        "id": 732,
+        "question": "Diğer adı petrol jelatini olan nemlendirici bakım ürünü",
+        "letter": "V",
+        "answer": "Vazelin, Vaseline"
+    },
+    {
+        "id": 772,
+        "question": "Genellikle eylemin çekiciliğini arttıran engelleyici kural",
+        "letter": "Y",
+        "answer": "Yasak"
+    },
+    {
+        "id": 846,
+        "question": "Zorunluluk, gereklilik ya da yoksulluk anlamındaki söz",
+        "letter": "Z",
+        "answer": "Zaruret, Zaruri"
+    }
+]

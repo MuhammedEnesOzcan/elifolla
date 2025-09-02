@@ -1,0 +1,158 @@
+[
+    {
+        "id": 109,
+        "question": "Yaklaşık 68 santimetreye eşit olan uzunluk ölçüsü",
+        "letter": "A",
+        "answer": "arşın"
+    },
+    {
+        "id": 528,
+        "question": "Yorgun, bitkin düşmüş olan",
+        "letter": "B",
+        "answer": "Bitap, bitap halde"
+    },
+    {
+        "id": 1357,
+        "question": "Elindeki parayı harcamaya kıyamayan",
+        "letter": "C",
+        "answer": "Cimri, cimrilik"
+    },
+    {
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
+        "letter": "Ç",
+        "answer": "Çapak"
+    },
+    {
+        "id": 1389,
+        "question": "Gelinin başını, bazen de yüzünü örten dantel veya tülden örtü",
+        "letter": "D",
+        "answer": "Duvak"
+    },
+    {
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
+        "letter": "E",
+        "answer": "Endoskop"
+    },
+    {
+        "id": 1671,
+        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
+        "letter": "F",
+        "answer": "Filiz"
+    },
+    {
+        "id": 1899,
+        "question": "İLAÇ DESTEĞİ İLE DE YAPILAN AĞIZ VE BOĞAZ BANYOSU",
+        "letter": "G",
+        "answer": "Gargara"
+    },
+    {
+        "id": 1441,
+        "question": "Normalden yüksek olan atardamar basıncı",
+        "letter": "H",
+        "answer": "Hipertansiyon"
+    },
+    {
+        "id": 1606,
+        "question": "Birine güler yüz gösterme, hatırını sorma, tatlı davranma",
+        "letter": "İ",
+        "answer": "İltifat, iltifat etme, iltifat etmek"
+    },
+    {
+        "id": 1803,
+        "question": "“TÜM ORTAKLARIN SINIRSIZ SORUMLULUK ALTINDA OLDUĞU ŞİRKETLERİ” NİTELEYEN SÖZ",
+        "letter": "K",
+        "answer": "Kolektif, Kollektif"
+    },
+    {
+        "id": 1203,
+        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
+        "letter": "L",
+        "answer": "Lens"
+    },
+    {
+        "id": 1289,
+        "question": "Beceri, ustalık, hüner",
+        "letter": "M",
+        "answer": "Maharet, maharetlilik, marifet"
+    },
+    {
+        "id": 949,
+        "question": "Nikel'in simgesi",
+        "letter": "N",
+        "answer": "ni"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 672,
+        "question": "Atış yeri, atış antrenman alanı",
+        "letter": "P",
+        "answer": "Poligon"
+    },
+    {
+        "id": 397,
+        "question": "Okul, kışla vb. yerlerde hastalar için ayrılmış bölüm",
+        "letter": "R",
+        "answer": "revir"
+    },
+    {
+        "id": 412,
+        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "letter": "S",
+        "answer": "statü, statüsü"
+    },
+    {
+        "id": 898,
+        "question": "Oda İçinde Tuğla Ya Da Taşdan Yapılmış Ocak",
+        "letter": "Ş",
+        "answer": "Şömine, somine"
+    },
+    {
+        "id": 1875,
+        "question": "İÇİNDE BULUNMASI GEREKEN ŞEYLER BULUNMAYAN, BOMBOŞ",
+        "letter": "T",
+        "answer": "Tamtakır"
+    },
+    {
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
+        "letter": "U",
+        "answer": "Uzman, Usta"
+    },
+    {
+        "id": 466,
+        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
+        "letter": "Ü",
+        "answer": "üslup"
+    },
+    {
+        "id": 474,
+        "question": "Sevgiyi sürdürme, sevgi, dostluk bağlılığı",
+        "letter": "V",
+        "answer": "vefa"
+    },
+    {
+        "id": 494,
+        "question": "Eni boyundan ve derinliğinden çok olan, basık ve geniş",
+        "letter": "Y",
+        "answer": "yayvan"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

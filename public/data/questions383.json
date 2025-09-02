@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1333,
+        "question": "Yıldız falcılığı",
+        "letter": "A",
+        "answer": "Astroloji"
+    },
+    {
+        "id": 524,
+        "question": "Sargı ile yarayı sarma işlemi",
+        "letter": "B",
+        "answer": "Bandaj, bandajlama, bandajlamak"
+    },
+    {
+        "id": 1319,
+        "question": "Mızrap ile çalınan iki veya üç teli olan halk sazı",
+        "letter": "C",
+        "answer": "Cura"
+    },
+    {
+        "id": 1200,
+        "question": "Evlenecekler için hazırlanan yada alınan ev eşyalarının tümü",
+        "letter": "Ç",
+        "answer": "Çeyiz"
+    },
+    {
+        "id": 1187,
+        "question": "Bir yeri daha önce görmüş olma veya bir olayı daha önce yaşamış olma hissi",
+        "letter": "D",
+        "answer": "Dejavu"
+    },
+    {
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "letter": "E",
+        "answer": "ezel"
+    },
+    {
+        "id": 219,
+        "question": "İstenilen şeylerin yazılması, doldurulması için hazırlanmış basılı belge",
+        "letter": "F",
+        "answer": "form"
+    },
+    {
+        "id": 1427,
+        "question": "Amaç, hedef",
+        "letter": "G",
+        "answer": "Gaye"
+    },
+    {
+        "id": 246,
+        "question": "Kıskançlık, çekememezlik",
+        "letter": "H",
+        "answer": "haset, hasetlik"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 280,
+        "question": "Kumaştan veya örgüden küçük torba",
+        "letter": "K",
+        "answer": "kese"
+    },
+    {
+        "id": 295,
+        "question": "Yufka inceliğinde açılmış uzun sade pide",
+        "letter": "L",
+        "answer": "lavaş"
+    },
+    {
+        "id": 633,
+        "question": "Virüslerin geçirdiği değişim",
+        "letter": "M",
+        "answer": "Mutasyon"
+    },
+    {
+        "id": 642,
+        "question": "Davranışı kaba, sert ve gönül kırıcı olan",
+        "letter": "N",
+        "answer": "Nobran"
+    },
+    {
+        "id": 646,
+        "question": "Kağıt katlama sanatı",
+        "letter": "O",
+        "answer": "Origami"
+    },
+    {
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "letter": "Ö",
+        "answer": "ölmek, ölüm, ölme"
+    },
+    {
+        "id": 374,
+        "question": "Parça, kısım",
+        "letter": "P",
+        "answer": "pare"
+    },
+    {
+        "id": 1634,
+        "question": "Hindistan, Nepal, Pakistan'da kullanılan para birimi",
+        "letter": "R",
+        "answer": "Rupi"
+    },
+    {
+        "id": 1039,
+        "question": "Klasik Türk müziğinde bir birleşik makam",
+        "letter": "S",
+        "answer": "saba"
+    },
+    {
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
+        "letter": "Ş",
+        "answer": "Şahsi"
+    },
+    {
+        "id": 1778,
+        "question": "POSTU SİYAH ÇUBUKLARLA VE BENEKLERLE SÜSLÜ, KÜL RENGİNDE VEYA BOZ OLAN KEDİ",
+        "letter": "T",
+        "answer": "Tekir"
+    },
+    {
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
+        "letter": "U",
+        "answer": "Uzman, Usta"
+    },
+    {
+        "id": 1507,
+        "question": "Canlı, doğup çoğalmak",
+        "letter": "Ü",
+        "answer": "Üremek"
+    },
+    {
+        "id": 1569,
+        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "letter": "V",
+        "answer": "Varyete"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 511,
+        "question": "Saçma, saçma sapan, boş, anlamsız söz",
+        "letter": "Z",
+        "answer": "zırva"
+    }
+]

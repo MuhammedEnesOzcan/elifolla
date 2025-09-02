@@ -1,0 +1,158 @@
+[
+    {
+        "id": 515,
+        "question": "En yüksek, en büyük, en çok",
+        "letter": "A",
+        "answer": "Azami, Azâmi"
+    },
+    {
+        "id": 130,
+        "question": "Yürürken dayanmaya yarayan, ağaç veya metalden yapılan araç",
+        "letter": "B",
+        "answer": "baston"
+    },
+    {
+        "id": 164,
+        "question": "Gürültülü, karışık durum",
+        "letter": "C",
+        "answer": "curcuna"
+    },
+    {
+        "id": 791,
+        "question": "Kim olduğunu hatırlamak, tanımak",
+        "letter": "Ç",
+        "answer": "Çıkarma, Çıkarmak"
+    },
+    {
+        "id": 1389,
+        "question": "Gelinin başını, bazen de yüzünü örten dantel veya tülden örtü",
+        "letter": "D",
+        "answer": "Duvak"
+    },
+    {
+        "id": 1723,
+        "question": "Enfeksiyon sonucu hasta olan kişi, enfenksiyon bulaşmış",
+        "letter": "E",
+        "answer": "Enfekte"
+    },
+    {
+        "id": 225,
+        "question": "Ancak, ama, lakin",
+        "letter": "F",
+        "answer": "fakat"
+    },
+    {
+        "id": 1790,
+        "question": "BENZERLERİ ARASINDA NİTELİKLERİ SEBEBİYLE ÜSTÜN TUTULAN, BEĞENİLEN, ÖNEM VERİLEN KİMSE VEYA ŞEY",
+        "letter": "G",
+        "answer": "Gözde"
+    },
+    {
+        "id": 807,
+        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
+        "letter": "H",
+        "answer": "Hüsran"
+    },
+    {
+        "id": 268,
+        "question": "Kabul etmeme, tanımama",
+        "letter": "İ",
+        "answer": "inkar, inkar etme, inkar etmek"
+    },
+    {
+        "id": 1206,
+        "question": "Güzel yazı yazma sanatı",
+        "letter": "K",
+        "answer": "Kaligrafi"
+    },
+    {
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
+        "letter": "L",
+        "answer": "Lift"
+    },
+    {
+        "id": 1624,
+        "question": "Duyguları, düşünceleri belirtecek biçimde yüzde beliren kımıldanışlar, hareketler",
+        "letter": "M",
+        "answer": "Mimik, mimikler"
+    },
+    {
+        "id": 332,
+        "question": "Sıra ile belirli süre bir yeri bekleme işi",
+        "letter": "N",
+        "answer": "nöbet, nöbet tutma, nöbet tutmak"
+    },
+    {
+        "id": 1516,
+        "question": "Elle yapılan kalın, seyrek dikiş",
+        "letter": "O",
+        "answer": "Oyulga"
+    },
+    {
+        "id": 1169,
+        "question": "Perdeayaklılardan evcil ve yabanisi de bulunan su kuşu",
+        "letter": "Ö",
+        "answer": "Ördek"
+    },
+    {
+        "id": 1937,
+        "question": "Hastalıkla ilgili hücrelerdeki, dokulardaki ve organlardaki yapısal ve işlevsel değişikliklerin tanınması, araştırılması ve incelenmesiyle ilgilenen bilim dalı",
+        "letter": "P",
+        "answer": "Patoloji, Pataloji"
+    },
+    {
+        "id": 1035,
+        "question": "Meyvelerin şekerle kaynatılmasıyla hazırlanan tatlı",
+        "letter": "R",
+        "answer": "Reçel"
+    },
+    {
+        "id": 1040,
+        "question": "Kuş tersi, kuş gübresi",
+        "letter": "S",
+        "answer": "Sağı"
+    },
+    {
+        "id": 424,
+        "question": "Okullarda aynı düzeydeki sınıflardan her biri",
+        "letter": "Ş",
+        "answer": "şube"
+    },
+    {
+        "id": 1741,
+        "question": "Eski dilde saldırı",
+        "letter": "T",
+        "answer": "Taarruz"
+    },
+    {
+        "id": 1557,
+        "question": "Erkek hizmetçi",
+        "letter": "U",
+        "answer": "Uşak"
+    },
+    {
+        "id": 1472,
+        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
+        "letter": "Ü",
+        "answer": "Ürkmek"
+    },
+    {
+        "id": 866,
+        "question": "Futbolda Top Yere Değmeden Yapılan Vuruş",
+        "letter": "V",
+        "answer": "Vole"
+    },
+    {
+        "id": 718,
+        "question": "Üstünde yaşadığımız gök cismi",
+        "letter": "Y",
+        "answer": "Yer küre"
+    },
+    {
+        "id": 1589,
+        "question": "Çok küçük parçacık",
+        "letter": "Z",
+        "answer": "Zerre"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1656,
+        "question": "Alfabe sırasına göre dizilmiş",
+        "letter": "A",
+        "answer": "Alfabetik"
+    },
+    {
+        "id": 1350,
+        "question": "Acı çikolata",
+        "letter": "B",
+        "answer": "Bitter, bitter çikolata"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 181,
+        "question": "Silahlı büyük kavga, arbede",
+        "letter": "Ç",
+        "answer": "çatışma"
+    },
+    {
+        "id": 1246,
+        "question": "Dumanı ve kokuları toplayıp bacaya vermeye yarayan mutfak aracı",
+        "letter": "D",
+        "answer": "Davlumbaz, davlunbaz"
+    },
+    {
+        "id": 1420,
+        "question": "Esneklik barındıran ve esneme kabiliyeti yüksek olan",
+        "letter": "E",
+        "answer": "Elastik, Elastiki"
+    },
+    {
+        "id": 1327,
+        "question": "Bir sanık, tutuklu veya hükümlünün gözcülerin elinden kurtulması",
+        "letter": "F",
+        "answer": "Firar, firari, firar etme, firar etmek, firar etmesi"
+    },
+    {
+        "id": 94,
+        "question": "Günlük çıkarılan haber kaynağı, yazılı yayın",
+        "letter": "G",
+        "answer": "gazete"
+    },
+    {
+        "id": 1225,
+        "question": "Özel olarak, özel bir biçimde",
+        "letter": "H",
+        "answer": "Hususi"
+    },
+    {
+        "id": 603,
+        "question": "Gereği yokken, genellikle kendini göstermek için işe karışan (kimse)",
+        "letter": "İ",
+        "answer": "İşgüzar, İşgûzar"
+    },
+    {
+        "id": 1207,
+        "question": "Tenis oynamak için düzenlemiş dikdörtgen biçiminde alan ",
+        "letter": "K",
+        "answer": "Kort"
+    },
+    {
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
+        "letter": "L",
+        "answer": "leziz"
+    },
+    {
+        "id": 1957,
+        "question": "Tekrarlanmış, Yinelenmiş",
+        "letter": "M",
+        "answer": "Mükerrer"
+    },
+    {
+        "id": 1224,
+        "question": "Çaresi, çözümü olmayan, çaresiz olan",
+        "letter": "N",
+        "answer": "Naçar, naçarlık, nafile"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 932,
+        "question": "Eleman, unsur",
+        "letter": "Ö",
+        "answer": "öge, öğe"
+    },
+    {
+        "id": 671,
+        "question": "Aynı düzlem içinde bulunan ve birbiriyle kesişmeyen",
+        "letter": "P",
+        "answer": "Paralel"
+    },
+    {
+        "id": 398,
+        "question": "Havalimanında uçuşun gecikme durumu",
+        "letter": "R",
+        "answer": "rötar"
+    },
+    {
+        "id": 686,
+        "question": "Bir şey öğrenmek için yöneltilen söz veya yazı",
+        "letter": "S",
+        "answer": "Soru"
+    },
+    {
+        "id": 1463,
+        "question": "Görür görmez seven, aşık olan kimse",
+        "letter": "Ş",
+        "answer": "Şıpsevdi"
+    },
+    {
+        "id": 1065,
+        "question": "Ayağın alt yüzü, aya",
+        "letter": "T",
+        "answer": "taban"
+    },
+    {
+        "id": 722,
+        "question": "İnsana iyilik getirdiğine inanılan belirti",
+        "letter": "U",
+        "answer": "Uğur"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 482,
+        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
+        "letter": "V",
+        "answer": "vezne"
+    },
+    {
+        "id": 1500,
+        "question": "Genellikle dağlık bölgelerde, yazın havası iyi ve serin olan, hayvan otlatma veya dinlenme yeri",
+        "letter": "Y",
+        "answer": "Yayla"
+    },
+    {
+        "id": 1143,
+        "question": "Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim",
+        "letter": "Z",
+        "answer": "Zabıta"
+    }
+]

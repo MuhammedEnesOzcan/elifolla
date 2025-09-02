@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1221,
+        "question": "Negatif elektrikle yüklü iyon",
+        "letter": "A",
+        "answer": "Anyon"
+    },
+    {
+        "id": 1347,
+        "question": "Kavun, karpuz tarlası",
+        "letter": "B",
+        "answer": "Bostan, bostanlık"
+    },
+    {
+        "id": 747,
+        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
+        "letter": "C",
+        "answer": "Cesaret, Cesaretlilik"
+    },
+    {
+        "id": 1545,
+        "question": "Yüzü çiçek hastalığından kalma küçük yara izleri taşıyan, aşırı çiçek bozuğu olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çopur"
+    },
+    {
+        "id": 197,
+        "question": "Yalnızca bir yönde akım geçiren devre",
+        "letter": "D",
+        "answer": "diyot"
+    },
+    {
+        "id": 1418,
+        "question": "Vücutta istenmeyen kılları alma",
+        "letter": "E",
+        "answer": "Epilasyon"
+    },
+    {
+        "id": 1673,
+        "question": "Verilmiş bir yargıyı kaldırma, bozma",
+        "letter": "F",
+        "answer": "Fesih, fesh etme, fesh etmek"
+    },
+    {
+        "id": 233,
+        "question": "Suya batma, boğulma",
+        "letter": "G",
+        "answer": "gark, gark etme"
+    },
+    {
+        "id": 254,
+        "question": "Zarla oynanan oyunlarda zarların tek benekli yönlerinin üste gelmesi",
+        "letter": "H",
+        "answer": "hepyek"
+    },
+    {
+        "id": 1497,
+        "question": "Ülke adına makamlara sunulmak üzere toplanmış taktik içerikli bilgiler",
+        "letter": "İ",
+        "answer": "İstihbarat"
+    },
+    {
+        "id": 1905,
+        "question": "Soğuk mevsim kıyafetlerinin tümü",
+        "letter": "K",
+        "answer": "Kışlık"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 1624,
+        "question": "Duyguları, düşünceleri belirtecek biçimde yüzde beliren kımıldanışlar, hareketler",
+        "letter": "M",
+        "answer": "Mimik, mimikler"
+    },
+    {
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
+        "letter": "N",
+        "answer": "nihai"
+    },
+    {
+        "id": 1736,
+        "question": "Elektrik sinyallerini görselleştirmek, ölçmek ve analiz etmek için kullanılan cihaz",
+        "letter": "O",
+        "answer": "Osiloskop"
+    },
+    {
+        "id": 1481,
+        "question": "Bir sorunu çözmek üzere öne sürülen görüş, düşünce, teklif",
+        "letter": "Ö",
+        "answer": "Öneri"
+    },
+    {
+        "id": 379,
+        "question": "Bir işin gerçekleştirilmesi için uyulması tasarlanan düzen",
+        "letter": "P",
+        "answer": "plan"
+    },
+    {
+        "id": 389,
+        "question": "Bir gemi veya uçağın gidiş yönü, izleyeceği yol",
+        "letter": "R",
+        "answer": "rota"
+    },
+    {
+        "id": 412,
+        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "letter": "S",
+        "answer": "statü, statüsü"
+    },
+    {
+        "id": 1846,
+        "question": "YAPRAKLARI HER MEVSİM YEŞİL KALAN, BAHÇELERDE SÜS BİTKİSİ OLARAK YETİŞTİRİLEN, SARIMSI RENKLİ BİR TÜR AĞAÇÇIK",
+        "letter": "Ş",
+        "answer": "Şimşir"
+    },
+    {
+        "id": 91,
+        "question": "Eski dilde öğrenci",
+        "letter": "T",
+        "answer": "talebe"
+    },
+    {
+        "id": 892,
+        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "letter": "U",
+        "answer": "Uzman"
+    },
+    {
+        "id": 38,
+        "question": "Fakülteler topluluğu",
+        "letter": "Ü",
+        "answer": "ÜNİVERSİTE"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 1880,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte"
+    },
+    {
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "letter": "Z",
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
+    }
+]

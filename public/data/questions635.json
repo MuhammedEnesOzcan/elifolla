@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1668,
+        "question": "Eş zamanlı olmayan, başlama ve bitme anları başka olan (olaylar)",
+        "letter": "A",
+        "answer": "Asenkron"
+    },
+    {
+        "id": 1348,
+        "question": "Kaldırımların kenarlarında bulunan taşlar",
+        "letter": "B",
+        "answer": "Bordür"
+    },
+    {
+        "id": 1369,
+        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
+        "letter": "C",
+        "answer": "Cemre, cemre düşmesi"
+    },
+    {
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
+        "letter": "Ç",
+        "answer": "çakar"
+    },
+    {
+        "id": 1384,
+        "question": "Hava ve deniz taşıtlarında, taşıta istenilen yönü vermeye ve belirli bir doğrultuda götürmeye yarayan hareketli parça",
+        "letter": "D",
+        "answer": "Dümen"
+    },
+    {
+        "id": 1414,
+        "question": "Özellikle bilginin temellerini ve doğruluk durumunu inceleme, sınama, yargılama",
+        "letter": "E",
+        "answer": "Eleştiri, eleştirme, eleştirmek"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 1491,
+        "question": "Gereken önemi vermemek, üstünde durmadan başından savmak",
+        "letter": "G",
+        "answer": "Geçiştirmek, geçiştirme"
+    },
+    {
+        "id": 247,
+        "question": "Nişan alınacak yer, nişangah",
+        "letter": "H",
+        "answer": "hedef"
+    },
+    {
+        "id": 1555,
+        "question": "Bir şeyi belirtecek biçimde hareket etmek, belirleyici şekilde vurgulamak",
+        "letter": "İ",
+        "answer": "İşaretleme, işaretlemek"
+    },
+    {
+        "id": 1105,
+        "question": "Halk hizmeti gören devlet organlarının tümü",
+        "letter": "K",
+        "answer": "kamu"
+    },
+    {
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
+        "letter": "L",
+        "answer": "Larva, larva dönemi"
+    },
+    {
+        "id": 1622,
+        "question": "Hayatın güldürücü yönünü ortaya çıkaran sanat türü",
+        "letter": "M",
+        "answer": "Mizah"
+    },
+    {
+        "id": 1675,
+        "question": "Etki altına alma, söz geçirme, güçlü olma",
+        "letter": "N",
+        "answer": "Nüfuz, nüfuz etme, nüfuz etmek"
+    },
+    {
+        "id": 30,
+        "question": "Düz ve geniş arazi",
+        "letter": "O",
+        "answer": "Ova"
+    },
+    {
+        "id": 366,
+        "question": "Bir kusurun hoş görülmesini gerektiren sebep, mazeret",
+        "letter": "Ö",
+        "answer": "özür"
+    },
+    {
+        "id": 382,
+        "question": "Ezerek veya süzgeçten geçirilerek elde edilmiş gıda",
+        "letter": "P",
+        "answer": "püre"
+    },
+    {
+        "id": 677,
+        "question": "Gözden geçirmek, düzeltmek, yenilemek",
+        "letter": "R",
+        "answer": "Revize, Revizyon, Rötuş, Rötuşlamak"
+    },
+    {
+        "id": 1690,
+        "question": "GENELLİKLE MEYVE VEYA MEYVE SULARINDAN YAPILAN, FRANSA MENŞELİ DONDURULMUŞ BİR TATLI",
+        "letter": "S",
+        "answer": "SORBE"
+    },
+    {
+        "id": 1466,
+        "question": "Birbirine paralel görme ekseni olmayan (göz veya kimse)",
+        "letter": "Ş",
+        "answer": "Şaşı"
+    },
+    {
+        "id": 1060,
+        "question": "Türlü metallerden yapılmış, kopmaya karşı bir direnç gösteren ince uzun ip",
+        "letter": "T",
+        "answer": "tel"
+    },
+    {
+        "id": 1077,
+        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "letter": "U",
+        "answer": "ucuz"
+    },
+    {
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
+        "letter": "Ü",
+        "answer": "ücret"
+    },
+    {
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
+        "letter": "V",
+        "answer": "Virüs"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

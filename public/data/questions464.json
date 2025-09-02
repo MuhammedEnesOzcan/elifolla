@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1164,
+        "question": "Gerçeğe, sağduyuya, akla aykırı",
+        "letter": "A",
+        "answer": "Abes"
+    },
+    {
+        "id": 1343,
+        "question": "Bükülmüş, kıvrılmış şeylerin oluşturduğu kat, kıvrım",
+        "letter": "B",
+        "answer": "Büklüm, büklümler"
+    },
+    {
+        "id": 1362,
+        "question": "Aynı eğilimde olan, aynı görüşü paylaşan kimselerin oluşturduğu hareket",
+        "letter": "C",
+        "answer": "Cereyan, cereyan etme, cereyan etmek"
+    },
+    {
+        "id": 99,
+        "question": "Bulunulan çağın anlayışına, şartlarına uygun olan, modern, muasır",
+        "letter": "Ç",
+        "answer": "çağdaş"
+    },
+    {
+        "id": 1382,
+        "question": "Bedensel veya ruhsal dengenin değişmesi sonucu ortaya çıkan ve canlıyı türlü tepkilere sürükleyebilen içten gelen gerilim",
+        "letter": "D",
+        "answer": "Dürtü"
+    },
+    {
+        "id": 1418,
+        "question": "Vücutta istenmeyen kılları alma",
+        "letter": "E",
+        "answer": "Epilasyon"
+    },
+    {
+        "id": 1672,
+        "question": "Birdenbire, düşünmeden yapan",
+        "letter": "F",
+        "answer": "Fevri"
+    },
+    {
+        "id": 72,
+        "question": "Buğdaydaki ana protein grubunun adı",
+        "letter": "G",
+        "answer": "gluten"
+    },
+    {
+        "id": 1439,
+        "question": "Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz",
+        "letter": "H",
+        "answer": "Haşa"
+    },
+    {
+        "id": 1605,
+        "question": "Birinin iyi niyetini kötüye kullanma",
+        "letter": "İ",
+        "answer": "İstismar, istismar etme, istismar etmek"
+    },
+    {
+        "id": 1943,
+        "question": "Bir şeyin üstünü kaplayan ve onu dış etkilere karşı koruyan, kendiliğinden oluşmuş sertçe bölüm",
+        "letter": "K",
+        "answer": "Kabuk"
+    },
+    {
+        "id": 919,
+        "question": "Türklere özgü bir şekerleme",
+        "letter": "L",
+        "answer": "Lokum"
+    },
+    {
+        "id": 1632,
+        "question": "Yakıt olarak kullanılan, ham petrolün damıtma ürünlerinden biri, motorin",
+        "letter": "M",
+        "answer": "Mazot"
+    },
+    {
+        "id": 1767,
+        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
+        "letter": "N",
+        "answer": "Numara, Numara yapma, Numara yapmak"
+    },
+    {
+        "id": 647,
+        "question": "Matematikte sıfır noktası",
+        "letter": "O",
+        "answer": "Orijin, Orjin, Orjin noktası, Orijin noktası"
+    },
+    {
+        "id": 932,
+        "question": "Eleman, unsur",
+        "letter": "Ö",
+        "answer": "öge, öğe"
+    },
+    {
+        "id": 373,
+        "question": "Kimyasal enerjiyi elektrik enerjisine çeviren araç",
+        "letter": "P",
+        "answer": "pil"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 1038,
+        "question": "Bir günlük sürenin yirmi dörtte birine eşit, altmış dakikalık zaman dilimi, zaman parçası",
+        "letter": "S",
+        "answer": "saat"
+    },
+    {
+        "id": 1461,
+        "question": "Mecazen \"Kovmak, kapı dışarı etmek\"",
+        "letter": "Ş",
+        "answer": "Şutlama, Şutlamak"
+    },
+    {
+        "id": 1771,
+        "question": "KENDİSİ HASTALANMADAN O HASTALIĞIN SEBEBİ OLAN MİKROBU BAŞKASINA BULAŞTIRAN KİMSE VEYA HAYVAN",
+        "letter": "T",
+        "answer": "Taşıyıcı"
+    },
+    {
+        "id": 896,
+        "question": "Orta Asya'da Büyük Devlet Ve Uygarlık Kurmuş, Yazılı Anıtlarla Sanat Yapıtları Bırakmış Olan Bir Türk Ulusu",
+        "letter": "U",
+        "answer": "Uygur, uygurlar"
+    },
+    {
+        "id": 1507,
+        "question": "Canlı, doğup çoğalmak",
+        "letter": "Ü",
+        "answer": "Üremek"
+    },
+    {
+        "id": 1138,
+        "question": "Tehlikeli durum",
+        "letter": "V",
+        "answer": "varta, vuku, vukuat"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 500,
+        "question": "İçine mektup veya başka kâğıtlar konulan kağıttan kese",
+        "letter": "Z",
+        "answer": "zarf"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 948,
+        "question": "Yarı yaş, yarı kuru nemli toprak",
+        "letter": "A",
+        "answer": "alatav"
+    },
+    {
+        "id": 146,
+        "question": "Bir kümenin her elemanı",
+        "letter": "B",
+        "answer": "birim"
+    },
+    {
+        "id": 1729,
+        "question": "Kelimelerin bir araya gelerek oluşturduğu söz dizimi",
+        "letter": "C",
+        "answer": "Cümle"
+    },
+    {
+        "id": 1269,
+        "question": "\"Dünyanın en kalabalık ülkesi\" unvanına sahip olan ülke",
+        "letter": "Ç",
+        "answer": "Çin, Çin Halk Cumhuriyeti"
+    },
+    {
+        "id": 1716,
+        "question": "Zor koşullarda asıl oyuncu yerine aynı rol için oynatılan yedek oyuncu",
+        "letter": "D",
+        "answer": "Dublör"
+    },
+    {
+        "id": 1949,
+        "question": "İNSAN GELİŞİMİ İÇİN GEREKLİ BİLGİ VE BECERİYİ KAZANDIRAN, KİŞİLİĞİ GELİŞTİREN HER TÜR ETKİNLİK",
+        "letter": "E",
+        "answer": "Eğitim"
+    },
+    {
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
+        "letter": "F",
+        "answer": "fünye"
+    },
+    {
+        "id": 1436,
+        "question": "Yerkürenin geometrik olmayan gerçek biçimi",
+        "letter": "G",
+        "answer": "Geoit"
+    },
+    {
+        "id": 1853,
+        "question": "METAL, PLASTİK VEYA AHŞAPTAN YAPILMIŞ ÇEŞİTLİ KULLANIM ALANLARI OLAN ÇEMBER",
+        "letter": "H",
+        "answer": "Halka"
+    },
+    {
+        "id": 1609,
+        "question": "Bir sonuç çıkarmak için verileri yöntemli bir biçimde toplayıp sayı olarak belirtme",
+        "letter": "İ",
+        "answer": "İstatistik, istatistik bilimi, istatistik çıkarma, istatistik çıkarmak"
+    },
+    {
+        "id": 1914,
+        "question": "TERSANELERDE ÜZERİNDE GEMİ YAPILAN, ONARILAN VEYA GEMİYİ SUYA İNDİRİP SUDAN ÇIKARMAYA YARAYAN IZGARA",
+        "letter": "K",
+        "answer": "Kızak"
+    },
+    {
+        "id": 1526,
+        "question": "Su samurundan elde edilen post",
+        "letter": "L",
+        "answer": "Lutr"
+    },
+    {
+        "id": 1945,
+        "question": "HALAYBAŞI AKSESUARI",
+        "letter": "M",
+        "answer": "Mendil"
+    },
+    {
+        "id": 929,
+        "question": "Tek ağızlı balta",
+        "letter": "N",
+        "answer": "Nacak"
+    },
+    {
+        "id": 907,
+        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
+        "letter": "O",
+        "answer": "Obje"
+    },
+    {
+        "id": 367,
+        "question": "Bir maddenin herhangi bir yolla elde edilmiş olan özü",
+        "letter": "Ö",
+        "answer": "özüt, özütü"
+    },
+    {
+        "id": 669,
+        "question": "İş merkezi",
+        "letter": "P",
+        "answer": "Plaza"
+    },
+    {
+        "id": 1637,
+        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "letter": "R",
+        "answer": "Röntgen"
+    },
+    {
+        "id": 1317,
+        "question": "Bir şeye ayrılan, uygun görülen veya rastlayan zaman",
+        "letter": "S",
+        "answer": "Sıra"
+    },
+    {
+        "id": 935,
+        "question": "Kesme veya oyma kalıbı",
+        "letter": "Ş",
+        "answer": "şablon"
+    },
+    {
+        "id": 438,
+        "question": "Üzüntülü düşünce durumu, kaygı, endişe",
+        "letter": "T",
+        "answer": "tasa, tasalanma, tasalanmak"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 728,
+        "question": "Bir düşünce veya istek üzerinde durmak, direnmek, ısrar etmek",
+        "letter": "Ü",
+        "answer": "Üsteleme, Üstelemek"
+    },
+    {
+        "id": 1136,
+        "question": "Değer, kıymet",
+        "letter": "V",
+        "answer": "valör"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 719,
+        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "letter": "Z",
+        "answer": "Zindan"
+    }
+]

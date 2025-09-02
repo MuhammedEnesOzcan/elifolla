@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1331,
+        "question": "Başkalarından ayrı ve üstün tutulma durumu, imtiyaz",
+        "letter": "A",
+        "answer": "Ayrıcalık, ayrıcalıklı olma, ayrıcalıklı olmak"
+    },
+    {
+        "id": 529,
+        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
+        "letter": "B",
+        "answer": "Bulanık"
+    },
+    {
+        "id": 531,
+        "question": "Uygun, yerinde sayılan, yakışık alan",
+        "letter": "C",
+        "answer": "Caiz"
+    },
+    {
+        "id": 792,
+        "question": "Bodur şelale",
+        "letter": "Ç",
+        "answer": "Çağlayan"
+    },
+    {
+        "id": 184,
+        "question": "Zihinde beliren olayların, düşüncelerin bütünü, rüya",
+        "letter": "D",
+        "answer": "düş"
+    },
+    {
+        "id": 1420,
+        "question": "Esneklik barındıran ve esneme kabiliyeti yüksek olan",
+        "letter": "E",
+        "answer": "Elastik, Elastiki"
+    },
+    {
+        "id": 217,
+        "question": "Çalışır durumda olan, etkin",
+        "letter": "F",
+        "answer": "faal"
+    },
+    {
+        "id": 584,
+        "question": "Seçkin, seçilmiş, seçme",
+        "letter": "G",
+        "answer": "Güzide, Gûzide"
+    },
+    {
+        "id": 804,
+        "question": "Taht sahibi olan devlet başkanı",
+        "letter": "H",
+        "answer": "Hükümdür, Hükümdar"
+    },
+    {
+        "id": 258,
+        "question": "Bir konuda birinin inanmasını sağlama, inandırma, kandırma",
+        "letter": "İ",
+        "answer": "ikna"
+    },
+    {
+        "id": 1928,
+        "question": "ADI MECAZEN, CASUSLUK VE HAİNLİKLE ÖZDEŞLEŞEN BİR MEMELİ HAYVAN",
+        "letter": "K",
+        "answer": "Köstebek"
+    },
+    {
+        "id": 306,
+        "question": "Deniz veya ırmaklarda birdenbire derinleşen yer",
+        "letter": "L",
+        "answer": "longoz, longuz"
+    },
+    {
+        "id": 627,
+        "question": "Vapur hatlarında yolculuk yapanların genellikle simitle beslediği kuş",
+        "letter": "M",
+        "answer": "Martı"
+    },
+    {
+        "id": 1252,
+        "question": "Hastalığın yeniden ortaya çıkma, tekrarlaması durumu",
+        "letter": "N",
+        "answer": "Nüks, nüks etme, nüks etmesi, nüks etmek"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 383,
+        "question": "Birine saldırmak için saklanarak beklenilen yer",
+        "letter": "P",
+        "answer": "pusu"
+    },
+    {
+        "id": 675,
+        "question": "İstek, arz, ilgi, itibar",
+        "letter": "R",
+        "answer": "Rağbet"
+    },
+    {
+        "id": 693,
+        "question": "Bir bütün meydana getiren planlar dizisi",
+        "letter": "S",
+        "answer": "Sekans"
+    },
+    {
+        "id": 695,
+        "question": "Motorlu taşıt iskeleti",
+        "letter": "Ş",
+        "answer": "Şasi, Şase"
+    },
+    {
+        "id": 836,
+        "question": "Bulunduğu kaba sığmayıp kenarları aşmak",
+        "letter": "T",
+        "answer": "Taşma, Taşmak, Taşması"
+    },
+    {
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
+        "letter": "U",
+        "answer": "Uzman, Usta"
+    },
+    {
+        "id": 1316,
+        "question": "Derinleştirmeden, yüzeysel olarak",
+        "letter": "Ü",
+        "answer": "Üstten"
+    },
+    {
+        "id": 1571,
+        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
+        "letter": "V",
+        "answer": "Vasıfsız, vasıfsız eleman"
+    },
+    {
+        "id": 1845,
+        "question": "SEYAHATE ÇIKMIŞ KİMSE",
+        "letter": "Y",
+        "answer": "Yolcu"
+    },
+    {
+        "id": 850,
+        "question": "Dermansızlık, Zayıf nokta",
+        "letter": "Z",
+        "answer": "Zafiyet, zafıyet"
+    }
+]

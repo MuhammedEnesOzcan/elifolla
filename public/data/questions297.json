@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1261,
+        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
+        "letter": "A",
+        "answer": "Aperatif, aparatif, aperetif, Aperitif"
+    },
+    {
+        "id": 148,
+        "question": "Bir müzik eserini oluşturan ezgilerin bütünü",
+        "letter": "B",
+        "answer": "beste"
+    },
+    {
+        "id": 1148,
+        "question": "Yerde ve tel, at, bisiklet, ip vb. üzerinde dengeye dayanan, tehlikeli, heyecan verici gösteriler yapan kimse, akrobat",
+        "letter": "C",
+        "answer": "cambaz"
+    },
+    {
+        "id": 180,
+        "question": "Kadro, kademe, basamak ve derecelerin yer aldığı liste",
+        "letter": "Ç",
+        "answer": "çizelge"
+    },
+    {
+        "id": 793,
+        "question": "Para basılan yer",
+        "letter": "D",
+        "answer": "Darphane"
+    },
+    {
+        "id": 558,
+        "question": "Nağme ve melodi sözlerinin Türkçe kökenli karşılığı",
+        "letter": "E",
+        "answer": "Ezgi"
+    },
+    {
+        "id": 1913,
+        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
+        "letter": "F",
+        "answer": "Fasikül"
+    },
+    {
+        "id": 1422,
+        "question": "Gece kalmadan aynı gün dönmek üzere yapılan ziyaret ya da gezi",
+        "letter": "G",
+        "answer": "Günübirlik"
+    },
+    {
+        "id": 254,
+        "question": "Zarla oynanan oyunlarda zarların tek benekli yönlerinin üste gelmesi",
+        "letter": "H",
+        "answer": "hepyek"
+    },
+    {
+        "id": 755,
+        "question": "Ticari hezimet",
+        "letter": "İ",
+        "answer": "İflas, iflas etme, iflas etmek"
+    },
+    {
+        "id": 76,
+        "question": "Para biriktirmek için kullanılan deliği olan kutu",
+        "letter": "K",
+        "answer": "kumbara"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 1618,
+        "question": "Bir kimsenin sürekli ilişkide bulunduğu insanlar topluluğu, çevre",
+        "letter": "M",
+        "answer": "Muhit"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 1516,
+        "question": "Elle yapılan kalın, seyrek dikiş",
+        "letter": "O",
+        "answer": "Oyulga"
+    },
+    {
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "letter": "Ö",
+        "answer": "özel"
+    },
+    {
+        "id": 32,
+        "question": "Yer altından çıkartılan, yağa benzer, sıvı formda bulunan ham madde",
+        "letter": "P",
+        "answer": "Petrol"
+    },
+    {
+        "id": 1639,
+        "question": "Yabani at veya boğa üzerinde uzun zaman kalabilme oyunu",
+        "letter": "R",
+        "answer": "Rodeo"
+    },
+    {
+        "id": 1690,
+        "question": "GENELLİKLE MEYVE VEYA MEYVE SULARINDAN YAPILAN, FRANSA MENŞELİ DONDURULMUŞ BİR TATLI",
+        "letter": "S",
+        "answer": "SORBE"
+    },
+    {
+        "id": 1058,
+        "question": "Genellikle bazı sporları yaparken giyilen, paçaları dizlerin yukarısında başlayan kısa pantolon",
+        "letter": "Ş",
+        "answer": "Şort"
+    },
+    {
+        "id": 767,
+        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "letter": "T",
+        "answer": "Takılmak"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 873,
+        "question": "İdrarın dışarıya atılmasını sağlayan ve idrar torbasından sonraki idrar yol",
+        "letter": "Ü",
+        "answer": "Üretra"
+    },
+    {
+        "id": 474,
+        "question": "Sevgiyi sürdürme, sevgi, dostluk bağlılığı",
+        "letter": "V",
+        "answer": "vefa"
+    },
+    {
+        "id": 1724,
+        "question": "Bir gökcisminin devinmesi boyunca izlediği yol",
+        "letter": "Y",
+        "answer": "Yörünge"
+    },
+    {
+        "id": 841,
+        "question": "Kimse, kişi",
+        "letter": "Z",
+        "answer": "Zat"
+    }
+]

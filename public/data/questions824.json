@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1302,
+        "question": "Bir işin yolunda gitmemesi durumu, elverişsizlik",
+        "letter": "A",
+        "answer": "Aksilik, aksi, aksilik çıkması"
+    },
+    {
+        "id": 527,
+        "question": "Yanıltarak bir işten caydırmak",
+        "letter": "B",
+        "answer": "Blöf, blöf yapma, blöf yapmak"
+    },
+    {
+        "id": 1923,
+        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "letter": "C",
+        "answer": "Cıvık"
+    },
+    {
+        "id": 791,
+        "question": "Kim olduğunu hatırlamak, tanımak",
+        "letter": "Ç",
+        "answer": "Çıkarma, Çıkarmak"
+    },
+    {
+        "id": 1737,
+        "question": "Okuma güçlüğü hastalığı",
+        "letter": "D",
+        "answer": "Disleksi"
+    },
+    {
+        "id": 1173,
+        "question": "Mental ve vücutça sağlıklı, sağlık içinde olan",
+        "letter": "E",
+        "answer": "Esen"
+    },
+    {
+        "id": 220,
+        "question": "Belirli nesneler veya durumlar karşısında duyulan olağan dışı güçlü korku",
+        "letter": "F",
+        "answer": "fobi"
+    },
+    {
+        "id": 580,
+        "question": "Çökmüş, kaymış toprak, yıkıntı",
+        "letter": "G",
+        "answer": "Göçük"
+    },
+    {
+        "id": 255,
+        "question": "Uçak, araba, tarım aracı vb. nesneleri barındırmaya yarar kapalı yer",
+        "letter": "H",
+        "answer": "hangar"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 1828,
+        "question": "ARAPÇA KÖKENLİSİ \"HÜVİYET\" OLAN KELİMENİN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Kimlik"
+    },
+    {
+        "id": 1106,
+        "question": "Üzerinde su muslukları bulunan, el, yüz, bulaşık yıkamaya yarar, çukur yer veya eşya",
+        "letter": "L",
+        "answer": "Lavabo, lavobo"
+    },
+    {
+        "id": 628,
+        "question": "Ruh hali, mizaç, hal, anlık hal durumu",
+        "letter": "M",
+        "answer": "Mod, moral"
+    },
+    {
+        "id": 1252,
+        "question": "Hastalığın yeniden ortaya çıkma, tekrarlaması durumu",
+        "letter": "N",
+        "answer": "Nüks, nüks etme, nüks etmesi, nüks etmek"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 371,
+        "question": "Belirli bir ölçüde olan, uygun",
+        "letter": "Ö",
+        "answer": "ölçülü"
+    },
+    {
+        "id": 1012,
+        "question": "İç içe geçen veya birbiri üzerine gelen parçaları tutturmaya yarayan bir tür tahta veya metal çivi",
+        "letter": "P",
+        "answer": "Pim"
+    },
+    {
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
+        "letter": "R",
+        "answer": "Rivayet"
+    },
+    {
+        "id": 1756,
+        "question": "Alt anlamı kimse, insan, tip olan Farsça kökenli kelime",
+        "letter": "S",
+        "answer": "Sima"
+    },
+    {
+        "id": 1460,
+        "question": "Peynir, zeytin, salam, sucuk vb. yiyeceklerin satıldığı market bölümü",
+        "letter": "Ş",
+        "answer": "Şarküteri"
+    },
+    {
+        "id": 704,
+        "question": "Kaynak aracılığıyla doğrulama, kontrol etme",
+        "letter": "T",
+        "answer": "Teyit, teyit etme, teyit etmek"
+    },
+    {
+        "id": 1070,
+        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
+        "letter": "U",
+        "answer": "Uçkun"
+    },
+    {
+        "id": 1133,
+        "question": "Çoğunlukla ayın neden olduğu, yerin dönme ekseninin yaptığı koni hareketindeki dönemsel salınım, nütasyon",
+        "letter": "Ü",
+        "answer": "Üğrüm"
+    },
+    {
+        "id": 484,
+        "question": "Eski dilde \"Anne\"",
+        "letter": "V",
+        "answer": "Valide"
+    },
+    {
+        "id": 496,
+        "question": "Enerji ve ısı ortaya çıkaran yanıcı madde",
+        "letter": "Y",
+        "answer": "yakıt"
+    },
+    {
+        "id": 504,
+        "question": "Savaşta kazanılan başarı",
+        "letter": "Z",
+        "answer": "zafer"
+    }
+]

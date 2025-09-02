@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1261,
+        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
+        "letter": "A",
+        "answer": "Aperatif, aparatif, aperetif, Aperitif"
+    },
+    {
+        "id": 1597,
+        "question": "Bilimsel bilgilerin veya nedenselliğin yanlış anlaşılmasından kaynaklanan inanç ya da uygulamalar",
+        "letter": "B",
+        "answer": "Batıl, batıl inanç, batıl inançlar"
+    },
+    {
+        "id": 1309,
+        "question": "Canlı, neşeli ve sokulgan",
+        "letter": "C",
+        "answer": "Civelek"
+    },
+    {
+        "id": 1816,
+        "question": "MECAZEN; DİNÇLİĞİNİ KAYBETMEK, İHTİYARLAMAK",
+        "letter": "Ç",
+        "answer": "Çökme, Çökmek"
+    },
+    {
+        "id": 1694,
+        "question": "ÇEŞİTLİ TONLARI BULUNAN KIZIL KAHVE AT RENGİ",
+        "letter": "D",
+        "answer": "Doru"
+    },
+    {
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
+        "letter": "E",
+        "answer": "Endoskop"
+    },
+    {
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "letter": "F",
+        "answer": "Freze"
+    },
+    {
+        "id": 1427,
+        "question": "Amaç, hedef",
+        "letter": "G",
+        "answer": "Gaye"
+    },
+    {
+        "id": 247,
+        "question": "Nişan alınacak yer, nişangah",
+        "letter": "H",
+        "answer": "hedef"
+    },
+    {
+        "id": 1101,
+        "question": "Bir düşünceyi anlatan bir veya birkaç cümlelik söz",
+        "letter": "İ",
+        "answer": "İbare"
+    },
+    {
+        "id": 1943,
+        "question": "Bir şeyin üstünü kaplayan ve onu dış etkilere karşı koruyan, kendiliğinden oluşmuş sertçe bölüm",
+        "letter": "K",
+        "answer": "Kabuk"
+    },
+    {
+        "id": 1526,
+        "question": "Su samurundan elde edilen post",
+        "letter": "L",
+        "answer": "Lutr"
+    },
+    {
+        "id": 316,
+        "question": "Büyük, geniş, mikro karşıtı",
+        "letter": "M",
+        "answer": "makro"
+    },
+    {
+        "id": 332,
+        "question": "Sıra ile belirli süre bir yeri bekleme işi",
+        "letter": "N",
+        "answer": "nöbet, nöbet tutma, nöbet tutmak"
+    },
+    {
+        "id": 653,
+        "question": "Yaş bakımından üç kardeşin büyüğü ile küçüğü arasında bulunan",
+        "letter": "O",
+        "answer": "Ortanca, ortanca çocuk, ortanca kardeş"
+    },
+    {
+        "id": 664,
+        "question": "Bir işi ileri tarihe atma, ertelemek",
+        "letter": "Ö",
+        "answer": "Öteleme, ötelemek"
+    },
+    {
+        "id": 1761,
+        "question": "Çalışma saati bitiminde işi bırakma",
+        "letter": "P",
+        "answer": "Paydos, paydos etme, paydos etmek"
+    },
+    {
+        "id": 1036,
+        "question": "Hayvanın başlığı, yuları ve gemi",
+        "letter": "R",
+        "answer": "Reşme"
+    },
+    {
+        "id": 1876,
+        "question": "İKİ VEYA DAHA ÇOK ŞEY ARASINDA KONUM, BİÇİM VE BELİRLİ BİR EKSENE GÖRE ÖLÇÜ UYGUNLUĞU",
+        "letter": "S",
+        "answer": "Simetri"
+    },
+    {
+        "id": 1055,
+        "question": "Şiir söyleyen veya yazan kimse",
+        "letter": "Ş",
+        "answer": "Şair"
+    },
+    {
+        "id": 836,
+        "question": "Bulunduğu kaba sığmayıp kenarları aşmak",
+        "letter": "T",
+        "answer": "Taşma, Taşmak, Taşması"
+    },
+    {
+        "id": 452,
+        "question": "Kalçadan dize kadar olan bacak bölümü",
+        "letter": "U",
+        "answer": "uyluk"
+    },
+    {
+        "id": 769,
+        "question": "Korkunun yarattığı serinlik",
+        "letter": "Ü",
+        "answer": "Ürperti, Ürpermek"
+    },
+    {
+        "id": 1136,
+        "question": "Değer, kıymet",
+        "letter": "V",
+        "answer": "valör"
+    },
+    {
+        "id": 1576,
+        "question": "\"Aksi takdirde\" anlamında kullanılan bir söz",
+        "letter": "Y",
+        "answer": "Yoksa"
+    },
+    {
+        "id": 843,
+        "question": "Telli Bir Çalgıyı Acemice Çalarak Çıkarılan Çirkin Sesin Adı",
+        "letter": "Z",
+        "answer": "Zımbırtı, zimbirti"
+    }
+]

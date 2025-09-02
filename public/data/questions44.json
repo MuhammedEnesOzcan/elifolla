@@ -1,21 +1,21 @@
 [
     {
-        "id": 85,
-        "question": "Şubatın 29 çektiği yıla ne denir",
+        "id": 1918,
+        "question": "“SERBEST, HÜR, ÖZGÜR” ANLAMLARINDA FARSÇA KÖKENLİ BİR SÖZCÜK",
         "letter": "A",
-        "answer": "Artık yıl, Artık"
+        "answer": "Azat, Azad, Azade"
     },
     {
-        "id": 1597,
-        "question": "Bilimsel bilgilerin veya nedenselliğin yanlış anlaşılmasından kaynaklanan inanç ya da uygulamalar",
+        "id": 146,
+        "question": "Bir kümenin her elemanı",
         "letter": "B",
-        "answer": "Batıl, batıl inanç, batıl inançlar"
+        "answer": "birim"
     },
     {
-        "id": 159,
-        "question": "Kazanmak, cebine indirmek, çalmak",
+        "id": 1365,
+        "question": "Hep birden, hep birlikte anlamlarındaki söz",
         "letter": "C",
-        "answer": "ceplemek, cukkalamak"
+        "answer": "Cümleten"
     },
     {
         "id": 1544,
@@ -24,135 +24,135 @@
         "answer": "Çorak"
     },
     {
-        "id": 1388,
-        "question": "Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva",
+        "id": 1904,
+        "question": "SADECE SOYAĞACINI GENİŞLETMEK İÇİN KULLANILAN HAYVAN",
         "letter": "D",
-        "answer": "Dübel"
+        "answer": "Damızlık"
     },
     {
-        "id": 1798,
-        "question": "İSLAM'DA İBADET ÇAĞRISI",
+        "id": 1420,
+        "question": "Esneklik barındıran ve esneme kabiliyeti yüksek olan",
         "letter": "E",
-        "answer": "Ezan"
+        "answer": "Elastik, Elastiki"
     },
     {
-        "id": 224,
-        "question": "Talih, baht, şans",
+        "id": 570,
+        "question": "Olağandan bol, aşırı çoklukta bulunma durumu",
         "letter": "F",
-        "answer": "felek"
+        "answer": "Furya, fazla, fazlaca, fazlalık"
     },
     {
-        "id": 239,
-        "question": "Alabildiğine, çokça",
+        "id": 1424,
+        "question": "Buzul bilimi",
         "letter": "G",
-        "answer": "gırla"
+        "answer": "Glasiyoloji, Glasyoloji"
     },
     {
-        "id": 588,
-        "question": "İlgi ile karşılanabilecek haber",
+        "id": 251,
+        "question": "Ayak bileğine takılan bilezik",
         "letter": "H",
-        "answer": "Havadis"
+        "answer": "halhal"
     },
     {
-        "id": 1608,
-        "question": "Şüphe etmek, kuşkulanmak",
+        "id": 1609,
+        "question": "Bir sonuç çıkarmak için verileri yöntemli bir biçimde toplayıp sayı olarak belirtme",
         "letter": "İ",
-        "answer": "İşkillenme, işkillenmek"
+        "answer": "İstatistik, istatistik bilimi, istatistik çıkarma, istatistik çıkarmak"
     },
     {
-        "id": 1783,
-        "question": "KİTABIN, DERGİNİN İÇERİĞİNİ ÖZETLEYEN DIŞ YÜZÜ",
+        "id": 811,
+        "question": "Üflemeli çoban çalgısı",
         "letter": "K",
-        "answer": "Kapak"
+        "answer": "Kaval"
     },
     {
-        "id": 622,
-        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
+        "id": 1704,
+        "question": "Meyve ve bazı bitkiler ile alkol, esans karışımından yapılan şekerli içki",
         "letter": "L",
-        "answer": "Liste"
+        "answer": "Likör"
     },
     {
-        "id": 1215,
-        "question": "Güneşe en yakın gezegen",
+        "id": 1213,
+        "question": "Başarılı, becerikli olmak, işin rast gitmesi",
         "letter": "M",
-        "answer": "Merkür, merkür gezegeni"
+        "answer": "Muvaffak, muvaffak olma, muvaffak olmak"
     },
     {
-        "id": 333,
-        "question": "İstenilen düzende olan, düzene uygun olan",
+        "id": 1881,
+        "question": "YÖRESEL AĞIZLARDA, “KÖTÜ, BERBAT, AKSİ, HUYSUZ KİŞİLERE” YÖNELİK KULLANILAN BİR SIFAT",
         "letter": "N",
-        "answer": "nizami"
+        "answer": "Nalet"
     },
     {
-        "id": 1114,
-        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
         "letter": "O",
-        "answer": "Orada, orda"
+        "answer": "onay, onaylama, onaylamak"
     },
     {
-        "id": 1537,
-        "question": "En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek",
+        "id": 1534,
+        "question": "Bir alışveriş ilişkisinde, borcu alacaklıya vermek, tediye etmek",
         "letter": "Ö",
-        "answer": "Ölçmek, ölçme, ölçüm"
+        "answer": "Ödemek, Ödeme, ödeme yapma, ödeme yapmak"
     },
     {
-        "id": 673,
-        "question": "Söz dalaşı",
+        "id": 78,
+        "question": "Eski Yunan'da, kent devletlerine verilen isim",
         "letter": "P",
-        "answer": "Polemik"
+        "answer": "polis"
     },
     {
-        "id": 388,
-        "question": "İkiyüzlülük",
+        "id": 1278,
+        "question": "Uyku sırasında görülen olaylar",
         "letter": "R",
-        "answer": "riya, riyakar, riyakarlık"
+        "answer": "Rüya"
     },
     {
-        "id": 829,
-        "question": "Bütün geceyi uyumadan geçirmek",
+        "id": 63,
+        "question": "Garri Kasparov'un \"Büyük Usta\" unvanına sahip olduğu oyun",
         "letter": "S",
-        "answer": "Sabahlama, Sabahlamak"
+        "answer": "Satranç"
     },
     {
-        "id": 432,
-        "question": "Belli bir amaçla düzenlenen eğlence",
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
         "letter": "Ş",
-        "answer": "şölen, şenlik"
+        "answer": "şirket"
     },
     {
-        "id": 1648,
-        "question": "Gençliği sebebiyle görgüsüz ve beceriksiz olan, çaylak",
+        "id": 834,
+        "question": "Hububatın diğer adı",
         "letter": "T",
-        "answer": "Toy"
+        "answer": "Tahıl, Tahıllar"
     },
     {
-        "id": 1564,
-        "question": "Aklında kalmamak, hatırlamamak",
+        "id": 896,
+        "question": "Orta Asya'da Büyük Devlet Ve Uygarlık Kurmuş, Yazılı Anıtlarla Sanat Yapıtları Bırakmış Olan Bir Türk Ulusu",
         "letter": "U",
-        "answer": "Unutmak, unutma"
+        "answer": "Uygur, uygurlar"
     },
     {
-        "id": 461,
-        "question": "Üretilen yararlı şey",
+        "id": 725,
+        "question": "Birci, birlikten yana olan, tekil, birimsel",
         "letter": "Ü",
-        "answer": "ürün"
+        "answer": "Üniter"
     },
     {
-        "id": 770,
-        "question": "Durum, tavır, hâl",
+        "id": 481,
+        "question": "Yabani, yırtıcı",
         "letter": "V",
-        "answer": "Vaziyet"
+        "answer": "vahşi"
     },
     {
-        "id": 735,
-        "question": "Balıklarda sırt yüzgeci",
+        "id": 772,
+        "question": "Genellikle eylemin çekiciliğini arttıran engelleyici kural",
         "letter": "Y",
-        "answer": "Yele"
+        "answer": "Yasak"
     },
     {
-        "id": 845,
-        "question": "Yersiz ve zamansız davranışları olan kimse",
+        "id": 856,
+        "question": "Her Türlü Zevke Karşı Koyup Kendini İbadete Veren",
         "letter": "Z",
-        "answer": "zibidi, zırzop"
+        "answer": "Zühtü, zuhtu"
     }
 ]

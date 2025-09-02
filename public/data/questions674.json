@@ -1,0 +1,158 @@
+[
+    {
+        "id": 103,
+        "question": "Süreli yayınları, parasını önceden ödeyerek alma işi",
+        "letter": "A",
+        "answer": "abone, abonelik, abone olma, abone olmak"
+    },
+    {
+        "id": 132,
+        "question": "Yeni doğmuş, ana sütüyle beslenen sığır yavrusu",
+        "letter": "B",
+        "answer": "buzağı"
+    },
+    {
+        "id": 538,
+        "question": "Sayılar teorisini, geometriyi ve analizi içine alan bir matematik dalı",
+        "letter": "C",
+        "answer": "Cebir"
+    },
+    {
+        "id": 178,
+        "question": "Kişileri taşımak için kullanılan, insan gücüyle işleyen iki tekerlekli araç",
+        "letter": "Ç",
+        "answer": "çekçek"
+    },
+    {
+        "id": 1737,
+        "question": "Okuma güçlüğü hastalığı",
+        "letter": "D",
+        "answer": "Disleksi"
+    },
+    {
+        "id": 562,
+        "question": "Çeşitli renk ve büyüklükteki karelerden oluşan (desen veya kumaş)",
+        "letter": "E",
+        "answer": "Ekose, Ekoseli"
+    },
+    {
+        "id": 1913,
+        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
+        "letter": "F",
+        "answer": "Fasikül"
+    },
+    {
+        "id": 581,
+        "question": "Tek kürekle suda yürütülen geleneksel bir Venedik aracı",
+        "letter": "G",
+        "answer": "Gondol"
+    },
+    {
+        "id": 1437,
+        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "letter": "H",
+        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+    },
+    {
+        "id": 259,
+        "question": "Açıklama durumu",
+        "letter": "İ",
+        "answer": "izah, izah etme, izah etme"
+    },
+    {
+        "id": 1207,
+        "question": "Tenis oynamak için düzenlemiş dikdörtgen biçiminde alan ",
+        "letter": "K",
+        "answer": "Kort"
+    },
+    {
+        "id": 1706,
+        "question": "Yeni doğum yapmış kadın",
+        "letter": "L",
+        "answer": "Lohusa"
+    },
+    {
+        "id": 632,
+        "question": "Ara, aralık, uzaklık",
+        "letter": "M",
+        "answer": "Mesafe"
+    },
+    {
+        "id": 337,
+        "question": "Benzer, aynı, kopya",
+        "letter": "N",
+        "answer": "nüsha"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 1009,
+        "question": "Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey, mavera",
+        "letter": "Ö",
+        "answer": "Öte"
+    },
+    {
+        "id": 667,
+        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
+        "letter": "P",
+        "answer": "Paraf, paraf atma, paraf atmak"
+    },
+    {
+        "id": 388,
+        "question": "İkiyüzlülük",
+        "letter": "R",
+        "answer": "riya, riyakar, riyakarlık"
+    },
+    {
+        "id": 1040,
+        "question": "Kuş tersi, kuş gübresi",
+        "letter": "S",
+        "answer": "Sağı"
+    },
+    {
+        "id": 1466,
+        "question": "Birbirine paralel görme ekseni olmayan (göz veya kimse)",
+        "letter": "Ş",
+        "answer": "Şaşı"
+    },
+    {
+        "id": 64,
+        "question": "Hava sıcaklığını ölçmeye yarayan alet",
+        "letter": "T",
+        "answer": "termometre"
+    },
+    {
+        "id": 1131,
+        "question": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren",
+        "letter": "U",
+        "answer": "ufuk"
+    },
+    {
+        "id": 1133,
+        "question": "Çoğunlukla ayın neden olduğu, yerin dönme ekseninin yaptığı koni hareketindeki dönemsel salınım, nütasyon",
+        "letter": "Ü",
+        "answer": "Üğrüm"
+    },
+    {
+        "id": 39,
+        "question": "Güneş sistemindeki en sıcak gezegen",
+        "letter": "V",
+        "answer": "venüs"
+    },
+    {
+        "id": 1553,
+        "question": "Birçok kimsenin veya nesnenin bir araya gelmesiyle oluşan kalabalık, küme, kitle, kütle",
+        "letter": "Y",
+        "answer": "Yığın"
+    },
+    {
+        "id": 1585,
+        "question": "Savaşta verilen kayıp",
+        "letter": "Z",
+        "answer": "Zayiat, zaiyat"
+    }
+]

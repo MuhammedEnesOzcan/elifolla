@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1661,
+        "question": "Davranışları ölçülü, olgun (kimse), vakur, ciddi",
+        "letter": "A",
+        "answer": "Ağırbaşlı"
+    },
+    {
+        "id": 525,
+        "question": "Kullanılması önlenmiş, el konulmuş",
+        "letter": "B",
+        "answer": "Bloke, bloke edilmiş, bloke olmuş"
+    },
+    {
+        "id": 152,
+        "question": "Geçerli olan, yürürlükte olan",
+        "letter": "C",
+        "answer": "cari, câri"
+    },
+    {
+        "id": 1450,
+        "question": "Karikatürcü",
+        "letter": "Ç",
+        "answer": "Çizer"
+    },
+    {
+        "id": 1743,
+        "question": "Uluslararası ilişkileri düzenleyen antlaşmalar bütünü",
+        "letter": "D",
+        "answer": "Diplomasi"
+    },
+    {
+        "id": 1924,
+        "question": "“METİN VE İÇERİK DÜZENLEYİCİLER” İÇİN KULLANILAN MESLEKİ UNVAN",
+        "letter": "E",
+        "answer": "Editör"
+    },
+    {
+        "id": 575,
+        "question": "Ses, akım vb. için birim zamandaki titreşim sayısı, titreşim sıklığı",
+        "letter": "F",
+        "answer": "Frekans"
+    },
+    {
+        "id": 1899,
+        "question": "İLAÇ DESTEĞİ İLE DE YAPILAN AĞIZ VE BOĞAZ BANYOSU",
+        "letter": "G",
+        "answer": "Gargara"
+    },
+    {
+        "id": 974,
+        "question": "Hiçbir işe yaramadan yok olma, boşa gitme",
+        "letter": "H",
+        "answer": "Heba, heba olma, heba olmak, heba olması"
+    },
+    {
+        "id": 1283,
+        "question": "Bir şeyi yapıp yapmamaya karar verme gücü, istenç",
+        "letter": "İ",
+        "answer": "İrade, iradiyet"
+    },
+    {
+        "id": 1499,
+        "question": "Yanan şeylerden artakalan toz madde",
+        "letter": "K",
+        "answer": "Kül, küller"
+    },
+    {
+        "id": 1280,
+        "question": "Bir şeyi yemek için ağza götürülen parça",
+        "letter": "L",
+        "answer": "Lokma"
+    },
+    {
+        "id": 816,
+        "question": "Yapılan iyiliğe karşı gönül borcu olan kişi",
+        "letter": "M",
+        "answer": "Minnettar"
+    },
+    {
+        "id": 1881,
+        "question": "YÖRESEL AĞIZLARDA, “KÖTÜ, BERBAT, AKSİ, HUYSUZ KİŞİLERE” YÖNELİK KULLANILAN BİR SIFAT",
+        "letter": "N",
+        "answer": "Nalet"
+    },
+    {
+        "id": 995,
+        "question": "Plastik, tahta, mika vb. maddelerden yapılmış taşlarla oynanan ve konkene benzeyen bir tür oyun",
+        "letter": "O",
+        "answer": "okey"
+    },
+    {
+        "id": 31,
+        "question": "Yaşam, hayat",
+        "letter": "Ö",
+        "answer": "Ömür"
+    },
+    {
+        "id": 1014,
+        "question": "Resim ve fotoğrafta duruş",
+        "letter": "P",
+        "answer": "poz"
+    },
+    {
+        "id": 826,
+        "question": "İrade dışı sinir etkinliği",
+        "letter": "R",
+        "answer": "Refleks"
+    },
+    {
+        "id": 1826,
+        "question": "EN AZ İKİ KİŞİ ARASINDA DÜZENLENEN, BİR TARAFIN ÖBÜRÜNE ÖDEME YAPMA YÜKÜMLÜLÜĞÜNÜ BEYAN ETTİĞİ KÂĞIT",
+        "letter": "S",
+        "answer": "Senet"
+    },
+    {
+        "id": 424,
+        "question": "Okullarda aynı düzeydeki sınıflardan her biri",
+        "letter": "Ş",
+        "answer": "şube"
+    },
+    {
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "letter": "T",
+        "answer": "Taktik"
+    },
+    {
+        "id": 1071,
+        "question": "Yakışır, yaraşır, mutabık, mütenasip",
+        "letter": "U",
+        "answer": "uygun"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 1136,
+        "question": "Değer, kıymet",
+        "letter": "V",
+        "answer": "valör"
+    },
+    {
+        "id": 717,
+        "question": "Yüksek mahkeme, yüksek yargı kurulu",
+        "letter": "Y",
+        "answer": "Yargıtay"
+    },
+    {
+        "id": 775,
+        "question": "Kışın en şiddetli zamanı, karakış",
+        "letter": "Z",
+        "answer": "Zemheri, Zemheri vakti"
+    }
+]

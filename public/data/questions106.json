@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1082,
+        "question": "Anıtsal",
+        "letter": "A",
+        "answer": "Abidevi"
+    },
+    {
+        "id": 138,
+        "question": "Bir işi, bir davranışı yapmama kararı alma",
+        "letter": "B",
+        "answer": "boykot"
+    },
+    {
+        "id": 164,
+        "question": "Gürültülü, karışık durum",
+        "letter": "C",
+        "answer": "curcuna"
+    },
+    {
+        "id": 169,
+        "question": "Çam vb. reçineli ağaçların yağlı ve çabuk yanmaya elverişli bölümü",
+        "letter": "Ç",
+        "answer": "çıra"
+    },
+    {
+        "id": 1210,
+        "question": "Ayın tamamlanmış hali, parlak tam ay",
+        "letter": "D",
+        "answer": "Dolunay"
+    },
+    {
+        "id": 20,
+        "question": "Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli",
+        "letter": "E",
+        "answer": "Etalon"
+    },
+    {
+        "id": 217,
+        "question": "Çalışır durumda olan, etkin",
+        "letter": "F",
+        "answer": "faal"
+    },
+    {
+        "id": 1492,
+        "question": "Bir malı sahibinin izni ve haberi olmadan zorla alma",
+        "letter": "G",
+        "answer": "Gasp, gasp etme, gasp etmek"
+    },
+    {
+        "id": 587,
+        "question": "Hem ev, konut hem de ev halkı anlamında kullanılan bir söz",
+        "letter": "H",
+        "answer": "Hane"
+    },
+    {
+        "id": 259,
+        "question": "Açıklama durumu",
+        "letter": "İ",
+        "answer": "izah, izah etme, izah etme"
+    },
+    {
+        "id": 1905,
+        "question": "Soğuk mevsim kıyafetlerinin tümü",
+        "letter": "K",
+        "answer": "Kışlık"
+    },
+    {
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
+        "letter": "L",
+        "answer": "Lunapark"
+    },
+    {
+        "id": 1851,
+        "question": "RESTORANLARDA SOFRAYA ÇIKARILACAK YEMEKLERİN HEPSİ",
+        "letter": "M",
+        "answer": "Menü"
+    },
+    {
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
+        "letter": "N",
+        "answer": "nihai"
+    },
+    {
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "letter": "O",
+        "answer": "Ofris"
+    },
+    {
+        "id": 899,
+        "question": "Serbest, Hiçbir Koşula Bağlı Olmayan",
+        "letter": "Ö",
+        "answer": "Özgür, ozgur"
+    },
+    {
+        "id": 1730,
+        "question": "Kolaylıkla uygulanabilir, kullanışlı olan",
+        "letter": "P",
+        "answer": "Pratik"
+    },
+    {
+        "id": 391,
+        "question": "Yol, yöntem, usul",
+        "letter": "R",
+        "answer": "racon"
+    },
+    {
+        "id": 1940,
+        "question": "Öğretmenin diyaloğa dayalı yaptığı sınav biçimi",
+        "letter": "S",
+        "answer": "Sözlü"
+    },
+    {
+        "id": 1684,
+        "question": "Otomobil iç lastiği",
+        "letter": "Ş",
+        "answer": "Şambrel"
+    },
+    {
+        "id": 707,
+        "question": "Alçak gönüllülük",
+        "letter": "T",
+        "answer": "Tevazu"
+    },
+    {
+        "id": 455,
+        "question": "Açıkgöz, kurnaz, cingöz",
+        "letter": "U",
+        "answer": "uyanık"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
+        "letter": "V",
+        "answer": "Virüs"
+    },
+    {
+        "id": 716,
+        "question": "Gidilen yerde geceyi geçirme",
+        "letter": "Y",
+        "answer": "Yatı, Yatıya kalma, Yatıya kalmak"
+    },
+    {
+        "id": 499,
+        "question": "Zor kullanarak ele geçirme",
+        "letter": "Z",
+        "answer": "zapt, zapt etme, zapt etmek"
+    }
+]

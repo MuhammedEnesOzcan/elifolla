@@ -1,0 +1,158 @@
+[
+    {
+        "id": 781,
+        "question": "Sembol niteliğindeki yapı",
+        "letter": "A",
+        "answer": "Abide, Anıt"
+    },
+    {
+        "id": 1342,
+        "question": "Kuruluş veya yetkili kişilerce herhangi bir durumla ilgili olarak süreli veya süresiz yayımlanan duyuru",
+        "letter": "B",
+        "answer": "Bülten"
+    },
+    {
+        "id": 1306,
+        "question": "Boyu, normalden çok daha kısa olan (kimse)",
+        "letter": "C",
+        "answer": "Cüce"
+    },
+    {
+        "id": 1859,
+        "question": "AYAKLA ÇİĞNENDİĞİNDE YA DA DUVARA SÜRTÜLDÜĞÜNDE PATLAYAN EĞLENCE FİŞEĞİ",
+        "letter": "Ç",
+        "answer": "Çatapat"
+    },
+    {
+        "id": 794,
+        "question": "Belli bir esasa göre verilen buyruk, talimat, yönerge",
+        "letter": "D",
+        "answer": "Direktif"
+    },
+    {
+        "id": 214,
+        "question": "Yalnız belirli duraklarda duran tren, otobüs veya gemi",
+        "letter": "E",
+        "answer": "ekspres"
+    },
+    {
+        "id": 1780,
+        "question": "Sahneyi destekleyecek rol alan dekoratif oyuncu",
+        "letter": "F",
+        "answer": "Figüran, Figüran Oyuncu"
+    },
+    {
+        "id": 801,
+        "question": "Kolları açarak, göğsü ileriye omuzları geriye doğru esnetmek",
+        "letter": "G",
+        "answer": "Gerinmek, Gerinme, Gerilmek, Gerilme"
+    },
+    {
+        "id": 1438,
+        "question": "Bazı durumlarda olumsuz sonuçlar doğurabilecek sonu gelmeyen istek, aşırı tutku",
+        "letter": "H",
+        "answer": "Hırs"
+    },
+    {
+        "id": 259,
+        "question": "Açıklama durumu",
+        "letter": "İ",
+        "answer": "izah, izah etme, izah etme"
+    },
+    {
+        "id": 757,
+        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "letter": "K",
+        "answer": "Komisyon, Kar, Kâr"
+    },
+    {
+        "id": 1706,
+        "question": "Yeni doğum yapmış kadın",
+        "letter": "L",
+        "answer": "Lohusa"
+    },
+    {
+        "id": 1791,
+        "question": "“HUY, YARADILIŞ, TABİAT VEYA KARAKTER” ANLAMLARINDA KULLANILAN BİR SÖZCÜK",
+        "letter": "M",
+        "answer": "Mizaç"
+    },
+    {
+        "id": 1881,
+        "question": "YÖRESEL AĞIZLARDA, “KÖTÜ, BERBAT, AKSİ, HUYSUZ KİŞİLERE” YÖNELİK KULLANILAN BİR SIFAT",
+        "letter": "N",
+        "answer": "Nalet"
+    },
+    {
+        "id": 996,
+        "question": "Özenli, düzgün, uygun",
+        "letter": "O",
+        "answer": "Onat"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 1734,
+        "question": "Engebeli yerlerden gelip geçenlerin ayak izlerinden oluşan, tekerlekli araç işlemeyen dar yol",
+        "letter": "P",
+        "answer": "Patika, patika yol"
+    },
+    {
+        "id": 1205,
+        "question": "TV'deki günlük veya haftalık izlenme oranı, izleniş durumu",
+        "letter": "R",
+        "answer": "Reyting, rating"
+    },
+    {
+        "id": 830,
+        "question": "Toplumda büyük yankı uyandıran utanç verici olay ya da durum",
+        "letter": "S",
+        "answer": "Skandal"
+    },
+    {
+        "id": 1126,
+        "question": "Düşen su damlasının çıkardığı ses",
+        "letter": "Ş",
+        "answer": "şıp"
+    },
+    {
+        "id": 1061,
+        "question": "Birçok spor oyununda kullanılan, türlü büyüklükte, genellikle kauçuktan yapılmış yuvarlak nesne",
+        "letter": "T",
+        "answer": "top"
+    },
+    {
+        "id": 451,
+        "question": "Genel, halka açık",
+        "letter": "U",
+        "answer": "umumi"
+    },
+    {
+        "id": 465,
+        "question": "Bilim veya sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "üstat, üstad"
+    },
+    {
+        "id": 730,
+        "question": "Kişinin hiçbir gerçekliğe ve temele dayanmayan duygulara kapılması",
+        "letter": "V",
+        "answer": "Vesvese"
+    },
+    {
+        "id": 1845,
+        "question": "SEYAHATE ÇIKMIŞ KİMSE",
+        "letter": "Y",
+        "answer": "Yolcu"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

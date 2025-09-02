@@ -1,0 +1,158 @@
+[
+    {
+        "id": 125,
+        "question": "Eşyayı sarmaya yarayan mukavva, kâğıt, tahta, plastik vb. malzeme",
+        "letter": "A",
+        "answer": "ambalaj"
+    },
+    {
+        "id": 1556,
+        "question": "Bir yapının genellikle dışarıya doğru çıkmış, çevresi duvar veya parmaklıkla çevrili bölümü, ayazlık",
+        "letter": "B",
+        "answer": "Balkon"
+    },
+    {
+        "id": 1148,
+        "question": "Yerde ve tel, at, bisiklet, ip vb. üzerinde dengeye dayanan, tehlikeli, heyecan verici gösteriler yapan kimse, akrobat",
+        "letter": "C",
+        "answer": "cambaz"
+    },
+    {
+        "id": 175,
+        "question": "Taklit olan, sahte",
+        "letter": "Ç",
+        "answer": "çakma"
+    },
+    {
+        "id": 1397,
+        "question": "Yarım ton inceltilmiş (ses)",
+        "letter": "D",
+        "answer": "Diyez"
+    },
+    {
+        "id": 200,
+        "question": "Boyut, ölçü",
+        "letter": "E",
+        "answer": "ebat"
+    },
+    {
+        "id": 1189,
+        "question": "Yenen, fetheden kimse",
+        "letter": "F",
+        "answer": "Fatih"
+    },
+    {
+        "id": 1966,
+        "question": "Tavla oyununda elinde kırık taşı bulunan oyuncunun attığı, uygun olmayan zar",
+        "letter": "G",
+        "answer": "GELE"
+    },
+    {
+        "id": 1100,
+        "question": "Din buyruklarını yerine getirmek için hacca gitmiş Müslüman",
+        "letter": "H",
+        "answer": "hacı"
+    },
+    {
+        "id": 267,
+        "question": "Gereksiz yere para, zaman, emek vb.ni harcama, savurganlık",
+        "letter": "İ",
+        "answer": "israf, israf etme, israf etmek"
+    },
+    {
+        "id": 1943,
+        "question": "Bir şeyin üstünü kaplayan ve onu dış etkilere karşı koruyan, kendiliğinden oluşmuş sertçe bölüm",
+        "letter": "K",
+        "answer": "Kabuk"
+    },
+    {
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
+        "letter": "L",
+        "answer": "Lift"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 991,
+        "question": "Petrolden 100-250 °C arasında damıtılan ürün",
+        "letter": "N",
+        "answer": "Nafta"
+    },
+    {
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
+        "letter": "O",
+        "answer": "Opak"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 666,
+        "question": "Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha",
+        "letter": "P",
+        "answer": "Palet"
+    },
+    {
+        "id": 676,
+        "question": "Emek harcamadan elde edilen kazanım",
+        "letter": "R",
+        "answer": "Rant, Rantçılık"
+    },
+    {
+        "id": 690,
+        "question": "Kısa mesaj servisi kısaltması",
+        "letter": "S",
+        "answer": "SMS"
+    },
+    {
+        "id": 1682,
+        "question": "Çorba ve pilavda kullanılan, türlü biçimlerde kesilerek kurutulmuş buğday unu hamuru",
+        "letter": "Ş",
+        "answer": "Şehriye"
+    },
+    {
+        "id": 1650,
+        "question": "Lisans ve yüksek lisans yapan öğrencilerin bilimsel yöntemlere dayandırdıkları ve hazırladıkları makaleler",
+        "letter": "T",
+        "answer": "Tez"
+    },
+    {
+        "id": 1073,
+        "question": "Akla uygun, yalnız akla dayanan, akli, rasyonel",
+        "letter": "U",
+        "answer": "Ussal"
+    },
+    {
+        "id": 1508,
+        "question": "Bir ülküye çıkar gütmeden bağlı olan, idealist",
+        "letter": "Ü",
+        "answer": "Ülkücü"
+    },
+    {
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "letter": "V",
+        "answer": "Vize, vize belgesi"
+    },
+    {
+        "id": 950,
+        "question": "Rüzgar",
+        "letter": "Y",
+        "answer": "Yel"
+    },
+    {
+        "id": 499,
+        "question": "Zor kullanarak ele geçirme",
+        "letter": "Z",
+        "answer": "zapt, zapt etme, zapt etmek"
+    }
+]

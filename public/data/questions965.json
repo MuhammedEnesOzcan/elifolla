@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1670,
+        "question": "Bir ülkede ayrı soydan veya inançtan olan ve sayıca az bulunan topluluk",
+        "letter": "A",
+        "answer": "Azınlık"
+    },
+    {
+        "id": 529,
+        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
+        "letter": "B",
+        "answer": "Bulanık"
+    },
+    {
+        "id": 532,
+        "question": "Heyecanlı, coşkulu ve atik kimse",
+        "letter": "C",
+        "answer": "Cevval"
+    },
+    {
+        "id": 176,
+        "question": "İnsan bedeninde bulunan enerjiyi tüm vücuda dağıttığına inanılan enerji noktaları",
+        "letter": "Ç",
+        "answer": "çakra, çakralar"
+    },
+    {
+        "id": 1398,
+        "question": "Aynı cinsten onluk bir küme",
+        "letter": "D",
+        "answer": "Deste"
+    },
+    {
+        "id": 1416,
+        "question": "Araçlarla koruma işi",
+        "letter": "E",
+        "answer": "Eskortluk, eskort"
+    },
+    {
+        "id": 799,
+        "question": "Yürekler acısı, trajik anlamındaki söz",
+        "letter": "F",
+        "answer": "Feci, facia"
+    },
+    {
+        "id": 238,
+        "question": "Değersiz, aşağı görülen, küçümsenen topluluk, derinti, sürü",
+        "letter": "G",
+        "answer": "güruh"
+    },
+    {
+        "id": 1247,
+        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
+        "letter": "H",
+        "answer": "Hegemonya, hegamonya, hegomonya"
+    },
+    {
+        "id": 1605,
+        "question": "Birinin iyi niyetini kötüye kullanma",
+        "letter": "İ",
+        "answer": "İstismar, istismar etme, istismar etmek"
+    },
+    {
+        "id": 1255,
+        "question": "Başparmak piyanosu da denen müzik aleti",
+        "letter": "K",
+        "answer": "Kalimba"
+    },
+    {
+        "id": 1731,
+        "question": "Şubat ve mart aylarında, çokça renkli çiçek açan, kokusuz, soğanlı, güzel bir bahçe bitkisi",
+        "letter": "L",
+        "answer": "Lale"
+    },
+    {
+        "id": 1892,
+        "question": "Bilgisayarın telefon hattına bağlanarak internete bağlanmasını sağlayan aygıt",
+        "letter": "M",
+        "answer": "Modem"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 820,
+        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
+        "letter": "O",
+        "answer": "Otlak, otlak arazi, ova"
+    },
+    {
+        "id": 660,
+        "question": "Bir kuruluşa bağlı alt bölümlerin bütünü, teşkilat",
+        "letter": "Ö",
+        "answer": "Örgüt"
+    },
+    {
+        "id": 825,
+        "question": "Futbolda topa kavisli ve yumuşak vuruş",
+        "letter": "P",
+        "answer": "Plase"
+    },
+    {
+        "id": 1815,
+        "question": "ÇAYI YAPILAN, TOHUMLARI ANASON GİBİ KULLANILAN BİR BİTKİ",
+        "letter": "R",
+        "answer": "Rezene"
+    },
+    {
+        "id": 694,
+        "question": "Sarmal biçiminde olan",
+        "letter": "S",
+        "answer": "Spiral"
+    },
+    {
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
+        "letter": "Ş",
+        "answer": "Şahsiyet"
+    },
+    {
+        "id": 1648,
+        "question": "Gençliği sebebiyle görgüsüz ve beceriksiz olan, çaylak",
+        "letter": "T",
+        "answer": "Toy"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 874,
+        "question": "İnsanların ihtiyaçlarını karşılamak için yeni ürünler ortaya koyması",
+        "letter": "Ü",
+        "answer": "Üretim, üretme, üretmek"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 1772,
+        "question": "Bazı bitki türlerinde besinler için depolama organı olarak kullanılan genişlemiş yapılar",
+        "letter": "Y",
+        "answer": "Yumru, Yumrular"
+    },
+    {
+        "id": 1594,
+        "question": "Şiddetli bir şekilde titremek veya sallanmak",
+        "letter": "Z",
+        "answer": "Zangırdamak, zangırdama"
+    }
+]

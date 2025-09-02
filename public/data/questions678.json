@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1667,
+        "question": "Renksiz, sarımsak kokulu, güçlü ve beyaz bir ışık vererek yanan hidrokarbonlu bir gaz",
+        "letter": "A",
+        "answer": "Asetilen"
+    },
+    {
+        "id": 134,
+        "question": "Banyodan çıkarken kurulanmak için kullanılan, önden açık, havludan yapılmış giysi",
+        "letter": "B",
+        "answer": "bornoz"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 547,
+        "question": "Atomda proton ve nötronun bulunduğu merkezi kısım",
+        "letter": "Ç",
+        "answer": "Çekirdek"
+    },
+    {
+        "id": 186,
+        "question": "İki kişi tarafından karşılıklı söylenen şarkı",
+        "letter": "D",
+        "answer": "düet"
+    },
+    {
+        "id": 1406,
+        "question": "Toprak, kül gibi toz durumunda bulunan şeyleri hafifçe kazıp karıştırmak",
+        "letter": "E",
+        "answer": "Eşelemek, eşeleme"
+    },
+    {
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
+        "letter": "F",
+        "answer": "fünye"
+    },
+    {
+        "id": 72,
+        "question": "Buğdaydaki ana protein grubunun adı",
+        "letter": "G",
+        "answer": "gluten"
+    },
+    {
+        "id": 1437,
+        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "letter": "H",
+        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+    },
+    {
+        "id": 952,
+        "question": "Bir köleyi özgürlüğüne kavuşturma",
+        "letter": "İ",
+        "answer": "itak"
+    },
+    {
+        "id": 284,
+        "question": "Davranış, düşünce, duygu bakımından ince, nazik olan (kimse)",
+        "letter": "K",
+        "answer": "kibar"
+    },
+    {
+        "id": 306,
+        "question": "Deniz veya ırmaklarda birdenbire derinleşen yer",
+        "letter": "L",
+        "answer": "longoz, longuz"
+    },
+    {
+        "id": 321,
+        "question": "Çalışma süresi",
+        "letter": "M",
+        "answer": "mesai, mesai saati"
+    },
+    {
+        "id": 991,
+        "question": "Petrolden 100-250 °C arasında damıtılan ürün",
+        "letter": "N",
+        "answer": "Nafta"
+    },
+    {
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "letter": "O",
+        "answer": "OLGU"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 1016,
+        "question": "Posta parası karşılığı mektuplara, damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası",
+        "letter": "P",
+        "answer": "Pul"
+    },
+    {
+        "id": 1034,
+        "question": "Demir, tahta yüzeylerdeki boya, pas vb.ni çıkarma, pürüzleri gidermek amacıyla kullanılan iri dişli bir törpü",
+        "letter": "R",
+        "answer": "raspa"
+    },
+    {
+        "id": 1044,
+        "question": "Sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su",
+        "letter": "S",
+        "answer": "sel"
+    },
+    {
+        "id": 1681,
+        "question": "Üzerine uzanılabilecek biçimde ayarlanan bir tür taşınabilir koltuk",
+        "letter": "Ş",
+        "answer": "Şezlong"
+    },
+    {
+        "id": 710,
+        "question": "Cep telefonu operatörlerinin belirledikleri fiyatlandırma sistemi",
+        "letter": "T",
+        "answer": "Tarife"
+    },
+    {
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
+        "letter": "U",
+        "answer": "Uzman, Usta"
+    },
+    {
+        "id": 880,
+        "question": "Hastalıkları iyileştirdiğine inanılan soluk",
+        "letter": "Ü",
+        "answer": "Üfürük, üfürme"
+    },
+    {
+        "id": 473,
+        "question": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi",
+        "letter": "V",
+        "answer": "vali"
+    },
+    {
+        "id": 1579,
+        "question": "Bir işte hiyerarşik düzende daha üstte bulunan, karar verme hakkına sahip olan, daha tecrübeli kimse",
+        "letter": "Y",
+        "answer": "Yetkili, yetki sahibi"
+    },
+    {
+        "id": 1720,
+        "question": "Olayların oluş ve akış sırasını belirleyen kavram",
+        "letter": "Z",
+        "answer": "Zaman, zaman kavramı"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 514,
+        "question": "Bazı gök cisimlerinin etrafını saran gaz tabakası",
+        "letter": "A",
+        "answer": "Atmosfer"
+    },
+    {
+        "id": 1286,
+        "question": "Dolu olmayan alan, aralık",
+        "letter": "B",
+        "answer": "Boşluk, boş, boş alan"
+    },
+    {
+        "id": 1371,
+        "question": "Hayvanlarda tür, çeşit",
+        "letter": "C",
+        "answer": "Cins, cinsleri"
+    },
+    {
+        "id": 169,
+        "question": "Çam vb. reçineli ağaçların yağlı ve çabuk yanmaya elverişli bölümü",
+        "letter": "Ç",
+        "answer": "çıra"
+    },
+    {
+        "id": 1398,
+        "question": "Aynı cinsten onluk bir küme",
+        "letter": "D",
+        "answer": "Deste"
+    },
+    {
+        "id": 1092,
+        "question": "Yemiş koparırken dalları çekmeye veya kovandan bal almaya yarayan araç",
+        "letter": "E",
+        "answer": "Eğiç"
+    },
+    {
+        "id": 1489,
+        "question": "Etken, etmen",
+        "letter": "F",
+        "answer": "Faktör"
+    },
+    {
+        "id": 1426,
+        "question": "İspiyonlamak",
+        "letter": "G",
+        "answer": "Gammazlamak"
+    },
+    {
+        "id": 593,
+        "question": "Uçan balonların içinde bulunan gaz",
+        "letter": "H",
+        "answer": "Helyum, Helyum gazı"
+    },
+    {
+        "id": 599,
+        "question": "Açıkça bildirme, açıkça duyurma",
+        "letter": "İ",
+        "answer": "İlan, ilan etme, ilan etmek, ilan verme, ilan vermek"
+    },
+    {
+        "id": 605,
+        "question": "Garson kalfası",
+        "letter": "K",
+        "answer": "Komi"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 1791,
+        "question": "“HUY, YARADILIŞ, TABİAT VEYA KARAKTER” ANLAMLARINDA KULLANILAN BİR SÖZCÜK",
+        "letter": "M",
+        "answer": "Mizaç"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 348,
+        "question": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+        "letter": "O",
+        "answer": "obur"
+    },
+    {
+        "id": 1689,
+        "question": "AYIRT EDİCİ BİR NİTELİĞİ OLAN",
+        "letter": "Ö",
+        "answer": "Özel, özellikli"
+    },
+    {
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
+        "letter": "P",
+        "answer": "plaj"
+    },
+    {
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
+        "letter": "R",
+        "answer": "Rivayet"
+    },
+    {
+        "id": 412,
+        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "letter": "S",
+        "answer": "statü, statüsü"
+    },
+    {
+        "id": 1458,
+        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
+        "letter": "Ş",
+        "answer": "Şurup"
+    },
+    {
+        "id": 1128,
+        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "letter": "T",
+        "answer": "tabak"
+    },
+    {
+        "id": 1069,
+        "question": "ele avuca sığmaz (kimse)",
+        "letter": "U",
+        "answer": "Uçarı"
+    },
+    {
+        "id": 462,
+        "question": "Tanınmış, şöhretli, meşhur",
+        "letter": "Ü",
+        "answer": "ünlü"
+    },
+    {
+        "id": 883,
+        "question": "Evleri kuşatan üstü kapalı ve camlı teras",
+        "letter": "V",
+        "answer": "Veranda"
+    },
+    {
+        "id": 1579,
+        "question": "Bir işte hiyerarşik düzende daha üstte bulunan, karar verme hakkına sahip olan, daha tecrübeli kimse",
+        "letter": "Y",
+        "answer": "Yetkili, yetki sahibi"
+    },
+    {
+        "id": 505,
+        "question": "El ustalığı isteyen işler",
+        "letter": "Z",
+        "answer": "zanaat"
+    }
+]

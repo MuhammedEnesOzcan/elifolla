@@ -1,141 +1,141 @@
 [
     {
-        "id": 1483,
-        "question": "Canlının yaşam alanındaki çevre koşullarına uyumu",
+        "id": 1656,
+        "question": "Alfabe sırasına göre dizilmiş",
         "letter": "A",
-        "answer": "Adaptasyon, adapte olma"
+        "answer": "Alfabetik"
     },
     {
-        "id": 744,
-        "question": "Bir cismin herhangi bir yöndeki uzanımı",
+        "id": 784,
+        "question": "Yazı ya da sözle canlandırmak",
         "letter": "B",
-        "answer": "Boyut, boyutu"
+        "answer": "Betimleme, Betimlemek"
     },
     {
-        "id": 747,
-        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
+        "id": 531,
+        "question": "Uygun, yerinde sayılan, yakışık alan",
         "letter": "C",
-        "answer": "Cesaret, Cesaretlilik"
+        "answer": "Caiz"
     },
     {
-        "id": 1451,
-        "question": "Bilgisayarda yazılan bir metnin kâğıda dökülmüş biçimi",
+        "id": 1447,
+        "question": "Çevresine göre aşağı çökmüş olan yer",
         "letter": "Ç",
-        "answer": "Çıktı, çıktısı"
+        "answer": "Çukur"
     },
     {
-        "id": 1694,
-        "question": "ÇEŞİTLİ TONLARI BULUNAN KIZIL KAHVE AT RENGİ",
+        "id": 1381,
+        "question": "Bir yüzeyin veya bir noktanın yüksekliğindeki yatay sınır, seviye",
         "letter": "D",
-        "answer": "Doru"
+        "answer": "Düzey"
     },
     {
-        "id": 209,
-        "question": "Çok gerekli, vazgeçilmez",
+        "id": 1219,
+        "question": "Çok uzak ve yabancı ülkelerle ilgili ya da böyle ülkelerden gelmiş, getirilmiş",
         "letter": "E",
-        "answer": "elzem"
+        "answer": "Egzotik, ekzotik"
     },
     {
-        "id": 1292,
-        "question": "Bahçıvanlıkta, tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze ya da körpe çiçek",
+        "id": 218,
+        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
         "letter": "F",
-        "answer": "Fide"
+        "answer": "file"
     },
     {
-        "id": 971,
-        "question": "Sonbahar",
+        "id": 1431,
+        "question": "Otomobil vb. taşıtların konulduğu üstü örtülü yer",
         "letter": "G",
-        "answer": "Güz"
+        "answer": "Garaj"
     },
     {
-        "id": 589,
-        "question": "Bilinç, bellek",
+        "id": 253,
+        "question": "Çok güzel el yazısı yazan sanatçı",
         "letter": "H",
-        "answer": "Hafıza"
+        "answer": "hattat"
     },
     {
-        "id": 1810,
-        "question": "BİR KURUM VEYA KURULUŞUN YÖNETİLDİĞİ YER VEYA MAKAM",
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
         "letter": "İ",
-        "answer": "İdare, İdari işler, İdari daire"
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
     },
     {
-        "id": 757,
-        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "id": 287,
+        "question": "Posta, kargo, mektup vb. gönderileri alıcıya ulaştıran kimse",
         "letter": "K",
-        "answer": "Komisyon, Kar, Kâr"
+        "answer": "kurye"
     },
     {
-        "id": 298,
-        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "id": 1529,
+        "question": "Kişiye alay yollu takılan takma ad",
         "letter": "L",
-        "answer": "levha"
+        "answer": "Lakap, lakab"
     },
     {
-        "id": 323,
-        "question": "Kalıtım yoluyla gelen herhangi bir özellik",
+        "id": 320,
+        "question": "Korunmak için özel olarak yapılıp yüze geçirilen nesne",
         "letter": "M",
-        "answer": "miras, mizaç"
+        "answer": "maske"
     },
     {
-        "id": 637,
-        "question": "Bir şeyin iyi veya kötü olma özelliği, kalite, özellik",
+        "id": 912,
+        "question": "Hristiyanların en büyük bayramı",
         "letter": "N",
-        "answer": "Nitelik, niteliği"
+        "answer": "Noel"
     },
     {
-        "id": 907,
-        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
+        "id": 1517,
+        "question": "Alçak iskemle",
         "letter": "O",
-        "answer": "Obje"
+        "answer": "Oturak"
     },
     {
-        "id": 1007,
-        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "id": 31,
+        "question": "Yaşam, hayat",
         "letter": "Ö",
-        "answer": "Örk"
+        "answer": "Ömür"
     },
     {
-        "id": 378,
-        "question": "Kumsal deniz kıyısı",
+        "id": 1012,
+        "question": "İç içe geçen veya birbiri üzerine gelen parçaları tutturmaya yarayan bir tür tahta veya metal çivi",
         "letter": "P",
-        "answer": "plaj"
+        "answer": "Pim"
     },
     {
-        "id": 682,
-        "question": "Saçı yer yer değişik tonlarda boyama işlemi",
+        "id": 1278,
+        "question": "Uyku sırasında görülen olaylar",
         "letter": "R",
-        "answer": "Röfle, Röfle yapma, Röfle yaptırma, Röfle yaptırmak"
+        "answer": "Rüya"
     },
     {
-        "id": 415,
-        "question": "Bir şey bildirmek için verilen işaret",
+        "id": 405,
+        "question": "Gidilen yol üzerinde olmayan, sapılarak varılan",
         "letter": "S",
-        "answer": "sinyal"
+        "answer": "sapa"
     },
     {
-        "id": 1458,
-        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
         "letter": "Ş",
-        "answer": "Şurup"
+        "answer": "Şahsiyet"
     },
     {
-        "id": 442,
-        "question": "Herhangi bir sebeple acelecilik",
+        "id": 1154,
+        "question": "Diş taşı",
         "letter": "T",
-        "answer": "telaş, telaşlanma, telaşlanmak"
+        "answer": "tartar"
     },
     {
-        "id": 1132,
-        "question": "Şalvarı bele bağlamak veya torba, kese vb. şeylerin ağzını büzmek için bunlara geçirilen bağ",
+        "id": 447,
+        "question": "Uysal bir biçimde",
         "letter": "U",
-        "answer": "uçkur"
+        "answer": "uslu"
     },
     {
-        "id": 463,
-        "question": "Bir şeyin karşılığı olan para veya mal",
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
         "letter": "Ü",
-        "answer": "ücret"
+        "answer": "Üstübeç"
     },
     {
         "id": 1136,
@@ -144,15 +144,15 @@
         "answer": "valör"
     },
     {
-        "id": 837,
-        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "id": 1845,
+        "question": "SEYAHATE ÇIKMIŞ KİMSE",
         "letter": "Y",
-        "answer": "Yürürlük, Yürürlükte, Yürürlükteki"
+        "answer": "Yolcu"
     },
     {
-        "id": 844,
-        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "id": 738,
+        "question": "Boşuna harcama, zarar",
         "letter": "Z",
-        "answer": "zirzop, zırzop, zırdeli, zibidi"
+        "answer": "Ziyan, ziyan etme, ziyan etmek"
     }
 ]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1162,
+        "question": "Birden fazla sıralı halde iki tarafı ağaçlı yol",
+        "letter": "A",
+        "answer": "Alle, Alle yol"
+    },
+    {
+        "id": 144,
+        "question": "Mecazi anlamda \"Şanslı\"",
+        "letter": "B",
+        "answer": "ballı"
+    },
+    {
+        "id": 532,
+        "question": "Heyecanlı, coşkulu ve atik kimse",
+        "letter": "C",
+        "answer": "Cevval"
+    },
+    {
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
+        "letter": "Ç",
+        "answer": "çakar"
+    },
+    {
+        "id": 1090,
+        "question": "\"Bir olay sebebiyle birden ayılmak, doğruyu anlamak\"",
+        "letter": "D",
+        "answer": "dank, dank etme, dank etmek, dank etmesi"
+    },
+    {
+        "id": 796,
+        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
+        "letter": "E",
+        "answer": "Elbette"
+    },
+    {
+        "id": 219,
+        "question": "İstenilen şeylerin yazılması, doldurulması için hazırlanmış basılı belge",
+        "letter": "F",
+        "answer": "form"
+    },
+    {
+        "id": 1425,
+        "question": "Eksikliği duyulan şey, ihtiyaç",
+        "letter": "G",
+        "answer": "Gereksinim, gerekli"
+    },
+    {
+        "id": 1099,
+        "question": "Adalete uygun bir biçimde, doğrulukla, adilane",
+        "letter": "H",
+        "answer": "Hakça"
+    },
+    {
+        "id": 1197,
+        "question": "Gerçeğine benzetilerek yapılmış olan süs eşyası",
+        "letter": "İ",
+        "answer": "İmitasyon"
+    },
+    {
+        "id": 607,
+        "question": "Kalp hastalıkları uzmanı",
+        "letter": "K",
+        "answer": "Kardiyolog"
+    },
+    {
+        "id": 1107,
+        "question": "Hanigillerden, Akdeniz ve Ege'de yaşayan lezzetli bir balık, kaya hanisi",
+        "letter": "L",
+        "answer": "lahos"
+    },
+    {
+        "id": 1166,
+        "question": "Küçük, ufak tefek, zarif",
+        "letter": "M",
+        "answer": "Minyon"
+    },
+    {
+        "id": 1881,
+        "question": "YÖRESEL AĞIZLARDA, “KÖTÜ, BERBAT, AKSİ, HUYSUZ KİŞİLERE” YÖNELİK KULLANILAN BİR SIFAT",
+        "letter": "N",
+        "answer": "Nalet"
+    },
+    {
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
+        "letter": "O",
+        "answer": "onay, onaylama, onaylamak"
+    },
+    {
+        "id": 662,
+        "question": "Yıpratmak, eskitmek, hırpalamak, zedelemek",
+        "letter": "Ö",
+        "answer": "Örselemek, örseleme"
+    },
+    {
+        "id": 1177,
+        "question": "Eskimiş bez veya kumaş parçası, çaput",
+        "letter": "P",
+        "answer": "Paçavra"
+    },
+    {
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
+        "letter": "R",
+        "answer": "Rivayet"
+    },
+    {
+        "id": 411,
+        "question": "Yoğun bir biçimde yapılan atak",
+        "letter": "S",
+        "answer": "salvo"
+    },
+    {
+        "id": 67,
+        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "letter": "Ş",
+        "answer": "Şanlıurfa, Şanlı Urfa"
+    },
+    {
+        "id": 1061,
+        "question": "Birçok spor oyununda kullanılan, türlü büyüklükte, genellikle kauçuktan yapılmış yuvarlak nesne",
+        "letter": "T",
+        "answer": "top"
+    },
+    {
+        "id": 1074,
+        "question": "Türk müziğinde ana makamlardan biri",
+        "letter": "U",
+        "answer": "Uşşak"
+    },
+    {
+        "id": 873,
+        "question": "İdrarın dışarıya atılmasını sağlayan ve idrar torbasından sonraki idrar yol",
+        "letter": "Ü",
+        "answer": "Üretra"
+    },
+    {
+        "id": 883,
+        "question": "Evleri kuşatan üstü kapalı ve camlı teras",
+        "letter": "V",
+        "answer": "Veranda"
+    },
+    {
+        "id": 1950,
+        "question": "ESKİ EVLERDEKİ YATAK, YORGAN DEPOSU",
+        "letter": "Y",
+        "answer": "Yüklük"
+    },
+    {
+        "id": 1245,
+        "question": "Eski dilde deprem",
+        "letter": "Z",
+        "answer": "Zelzele"
+    }
+]

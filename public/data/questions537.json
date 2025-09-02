@@ -1,0 +1,158 @@
+[
+    {
+        "id": 121,
+        "question": "Kuşatma",
+        "letter": "A",
+        "answer": "abluka"
+    },
+    {
+        "id": 138,
+        "question": "Bir işi, bir davranışı yapmama kararı alma",
+        "letter": "B",
+        "answer": "boykot"
+    },
+    {
+        "id": 1086,
+        "question": "Şehir içinde ana yol",
+        "letter": "C",
+        "answer": "cadde"
+    },
+    {
+        "id": 791,
+        "question": "Kim olduğunu hatırlamak, tanımak",
+        "letter": "Ç",
+        "answer": "Çıkarma, Çıkarmak"
+    },
+    {
+        "id": 1393,
+        "question": "Taşıma araçlarındaki kasa",
+        "letter": "D",
+        "answer": "Dorse"
+    },
+    {
+        "id": 1414,
+        "question": "Özellikle bilginin temellerini ve doğruluk durumunu inceleme, sınama, yargılama",
+        "letter": "E",
+        "answer": "Eleştiri, eleştirme, eleştirmek"
+    },
+    {
+        "id": 1780,
+        "question": "Sahneyi destekleyecek rol alan dekoratif oyuncu",
+        "letter": "F",
+        "answer": "Figüran, Figüran Oyuncu"
+    },
+    {
+        "id": 970,
+        "question": "Oluşması genellikle tektonik, volkanik vb. olaylara bağlı olan, toprakla çevrili, derin ve geniş, tuzlu veya tuzsuz durgun su örtüsü",
+        "letter": "G",
+        "answer": "Göl"
+    },
+    {
+        "id": 588,
+        "question": "İlgi ile karşılanabilecek haber",
+        "letter": "H",
+        "answer": "Havadis"
+    },
+    {
+        "id": 958,
+        "question": "Uyarma",
+        "letter": "İ",
+        "answer": "ikaz, ikaz etme, ikaz etmek"
+    },
+    {
+        "id": 610,
+        "question": "Araştırma ve incelemede yararlanılan belge, referans",
+        "letter": "K",
+        "answer": "Kaynak"
+    },
+    {
+        "id": 1706,
+        "question": "Yeni doğum yapmış kadın",
+        "letter": "L",
+        "answer": "Lohusa"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 641,
+        "question": "Sinir sisteminin uyarıyı iletmekle görevli anatomik ve işlevsel birimi",
+        "letter": "N",
+        "answer": "Nöron, nöronlar"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 371,
+        "question": "Belirli bir ölçüde olan, uygun",
+        "letter": "Ö",
+        "answer": "ölçülü"
+    },
+    {
+        "id": 668,
+        "question": "Bir ilacın telkine dayalı bir etki ortaya çıkarma hali",
+        "letter": "P",
+        "answer": "Plasebo, Plasebo etkisi"
+    },
+    {
+        "id": 677,
+        "question": "Gözden geçirmek, düzeltmek, yenilemek",
+        "letter": "R",
+        "answer": "Revize, Revizyon, Rötuş, Rötuşlamak"
+    },
+    {
+        "id": 1895,
+        "question": "ÖZELLİKLE MANAV VE PAZARDA MÜŞTERİNİN TERCİHİNİ TEMEL ALAN SATIŞ YÖNTEMİ",
+        "letter": "S",
+        "answer": "Seçmece"
+    },
+    {
+        "id": 427,
+        "question": "İstek, heves",
+        "letter": "Ş",
+        "answer": "şevk"
+    },
+    {
+        "id": 1778,
+        "question": "POSTU SİYAH ÇUBUKLARLA VE BENEKLERLE SÜSLÜ, KÜL RENGİNDE VEYA BOZ OLAN KEDİ",
+        "letter": "T",
+        "answer": "Tekir"
+    },
+    {
+        "id": 1513,
+        "question": "Bir nesnenin uzayda kapladığı yer, vüsat",
+        "letter": "U",
+        "answer": "Uzam"
+    },
+    {
+        "id": 728,
+        "question": "Bir düşünce veya istek üzerinde durmak, direnmek, ısrar etmek",
+        "letter": "Ü",
+        "answer": "Üsteleme, Üstelemek"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 1501,
+        "question": "Parmağa geçirilen genellikle metal halka",
+        "letter": "Y",
+        "answer": "Yüzük"
+    },
+    {
+        "id": 1972,
+        "question": "Övendirenin ucuna çakılan çivi",
+        "letter": "Z",
+        "answer": "zakıt"
+    }
+]

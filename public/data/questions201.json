@@ -1,0 +1,158 @@
+[
+    {
+        "id": 124,
+        "question": "Bir kimseye veya bir topluluğa zorla, ücret vermeden yaptırılan iş, yüklenti",
+        "letter": "A",
+        "answer": "angarya"
+    },
+    {
+        "id": 746,
+        "question": "Çeşitli sebeplerle zihin gücünü yitirmek",
+        "letter": "B",
+        "answer": "Bunama, Bunamak"
+    },
+    {
+        "id": 530,
+        "question": "Gösterişli, şatafatlı",
+        "letter": "C",
+        "answer": "Cafcaf, cafcaflı"
+    },
+    {
+        "id": 1543,
+        "question": "Tahta kepçe, çemçe",
+        "letter": "Ç",
+        "answer": "Çömçe"
+    },
+    {
+        "id": 74,
+        "question": "Kabıyla birlikte tartılan nesnelerin kabının ağırlığı",
+        "letter": "D",
+        "answer": "dara, darası"
+    },
+    {
+        "id": 1414,
+        "question": "Özellikle bilginin temellerini ve doğruluk durumunu inceleme, sınama, yargılama",
+        "letter": "E",
+        "answer": "Eleştiri, eleştirme, eleştirmek"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 236,
+        "question": "Elde edilmesi gereken, ulaşılmak istenen şey, amaç, maksat",
+        "letter": "G",
+        "answer": "gaye"
+    },
+    {
+        "id": 1247,
+        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
+        "letter": "H",
+        "answer": "Hegemonya, hegamonya, hegomonya"
+    },
+    {
+        "id": 597,
+        "question": "Değerli, küçük, sert, sedef renginde süs tanesi",
+        "letter": "İ",
+        "answer": "İnci, inci tanesi"
+    },
+    {
+        "id": 613,
+        "question": "Uygunsuz hareket, çirkin, yakışıksız davranış, suç",
+        "letter": "K",
+        "answer": "Kabahat"
+    },
+    {
+        "id": 291,
+        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
+        "letter": "L",
+        "answer": "loş"
+    },
+    {
+        "id": 324,
+        "question": "Özdeyiş, slogan",
+        "letter": "M",
+        "answer": "motto"
+    },
+    {
+        "id": 987,
+        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
+        "letter": "N",
+        "answer": "Naz"
+    },
+    {
+        "id": 93,
+        "question": "Bir ülkenin askeri kuvvetlerinin tümü",
+        "letter": "O",
+        "answer": "ordu"
+    },
+    {
+        "id": 366,
+        "question": "Bir kusurun hoş görülmesini gerektiren sebep, mazeret",
+        "letter": "Ö",
+        "answer": "özür"
+    },
+    {
+        "id": 667,
+        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
+        "letter": "P",
+        "answer": "Paraf, paraf atma, paraf atmak"
+    },
+    {
+        "id": 1639,
+        "question": "Yabani at veya boğa üzerinde uzun zaman kalabilme oyunu",
+        "letter": "R",
+        "answer": "Rodeo"
+    },
+    {
+        "id": 405,
+        "question": "Gidilen yol üzerinde olmayan, sapılarak varılan",
+        "letter": "S",
+        "answer": "sapa"
+    },
+    {
+        "id": 1057,
+        "question": "İçine mendil, gecelik vb. şeyleri koymaya yarayan, çeşitli büyüklükte, kumaştan koruncak",
+        "letter": "Ş",
+        "answer": "Şase"
+    },
+    {
+        "id": 1253,
+        "question": "Bir haneyi, evi, yapıyı yenileme işlemi",
+        "letter": "T",
+        "answer": "Tadilat, tadilat yapma, tadilat yapmak"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 868,
+        "question": "Bina eteği, etek duvarı veya subasman",
+        "letter": "Ü",
+        "answer": "Üstemel"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 1578,
+        "question": "Bir düşünceye, bir inanca aşırı ölçüde bağlı olan baskıcı kimse",
+        "letter": "Y",
+        "answer": "Yobaz"
+    },
+    {
+        "id": 502,
+        "question": "Aldatıcı şey, tuzak, hile",
+        "letter": "Z",
+        "answer": "zoka"
+    }
+]

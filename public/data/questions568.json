@@ -1,0 +1,158 @@
+[
+    {
+        "id": 123,
+        "question": "Rütbesi general ile aynı olan deniz subayı",
+        "letter": "A",
+        "answer": "amiral"
+    },
+    {
+        "id": 1297,
+        "question": "Bir şeyin iyi gelişmesi, iyi bir durumda kalması için verilen emek",
+        "letter": "B",
+        "answer": "Bakım, bakım yapma, bakım yapmak"
+    },
+    {
+        "id": 160,
+        "question": "Üzerinde savaşın sürdüğü bölge",
+        "letter": "C",
+        "answer": "cephe, cephe bölgesi"
+    },
+    {
+        "id": 1844,
+        "question": "PARÇALARA AYRILIP DAĞILMAYACAK BİR BİÇİMDE YARILMA",
+        "letter": "Ç",
+        "answer": "Çatlama, Çatlamak"
+    },
+    {
+        "id": 1231,
+        "question": "Otomobilin vites geçirmek için en sol tarafta ayak ile basılan pedalı",
+        "letter": "D",
+        "answer": "Debriyaj, debriaj, debriyaj pedalı, debriaj pedalı"
+    },
+    {
+        "id": 1267,
+        "question": "Rüzgarın bir yönden diğer yöne akması durumu",
+        "letter": "E",
+        "answer": "Esmek, esmesi, esme, esinti"
+    },
+    {
+        "id": 1915,
+        "question": "DUYGUSAL İLİŞKİLERDE SINAMA VE SINANMA EVRESİ",
+        "letter": "F",
+        "answer": "Flört"
+    },
+    {
+        "id": 579,
+        "question": "Su veya hava akıntısının dönerek ve çukurlaşarak yaptığı çevrinti",
+        "letter": "G",
+        "answer": "Girdap"
+    },
+    {
+        "id": 806,
+        "question": "Monarşik aile",
+        "letter": "H",
+        "answer": "Hanedan, Hanedanlık"
+    },
+    {
+        "id": 1842,
+        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "letter": "İ",
+        "answer": "İmtina, İmtina etme, İmtina etmek"
+    },
+    {
+        "id": 288,
+        "question": "Savunma aracı, korumalık",
+        "letter": "K",
+        "answer": "kalkan"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 760,
+        "question": "Bir toplumun düşünce ve sanatına has niteliklerinin tümü",
+        "letter": "M",
+        "answer": "Medeniyet, Medeniyeti"
+    },
+    {
+        "id": 1256,
+        "question": "Müzik seslerinin yazıya dökülmüş hali",
+        "letter": "N",
+        "answer": "Nota, notalandırma, notalandırmak, notalar"
+    },
+    {
+        "id": 1517,
+        "question": "Alçak iskemle",
+        "letter": "O",
+        "answer": "Oturak"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 682,
+        "question": "Saçı yer yer değişik tonlarda boyama işlemi",
+        "letter": "R",
+        "answer": "Röfle, Röfle yapma, Röfle yaptırma, Röfle yaptırmak"
+    },
+    {
+        "id": 1874,
+        "question": "ÇEKİNİLMESİ, DİKKATLİ OLUNMASI GEREKEN DURUM",
+        "letter": "S",
+        "answer": "Sakınca, Sakıncalı, Sakıncalı durum"
+    },
+    {
+        "id": 1055,
+        "question": "Şiir söyleyen veya yazan kimse",
+        "letter": "Ş",
+        "answer": "Şair"
+    },
+    {
+        "id": 1128,
+        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "letter": "T",
+        "answer": "tabak"
+    },
+    {
+        "id": 1069,
+        "question": "ele avuca sığmaz (kimse)",
+        "letter": "U",
+        "answer": "Uçarı"
+    },
+    {
+        "id": 878,
+        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
+        "letter": "Ü",
+        "answer": "Ülkü"
+    },
+    {
+        "id": 715,
+        "question": "Genellikle sıvı şeyleri koymakta kullanılan, silindir biçiminde ve üstü kapalı, metal kap",
+        "letter": "V",
+        "answer": "Varil"
+    },
+    {
+        "id": 889,
+        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "letter": "Y",
+        "answer": "Yalak"
+    },
+    {
+        "id": 856,
+        "question": "Her Türlü Zevke Karşı Koyup Kendini İbadete Veren",
+        "letter": "Z",
+        "answer": "Zühtü, zuhtu"
+    }
+]

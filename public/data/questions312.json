@@ -1,0 +1,158 @@
+[
+    {
+        "id": 117,
+        "question": "Sayı boncuğu",
+        "letter": "A",
+        "answer": "abaküs"
+    },
+    {
+        "id": 1297,
+        "question": "Bir şeyin iyi gelişmesi, iyi bir durumda kalması için verilen emek",
+        "letter": "B",
+        "answer": "Bakım, bakım yapma, bakım yapmak"
+    },
+    {
+        "id": 536,
+        "question": "Kaçma, savuşma",
+        "letter": "C",
+        "answer": "Cızlam"
+    },
+    {
+        "id": 1542,
+        "question": "Değirmende buğday teknesi oluğu",
+        "letter": "Ç",
+        "answer": "Çörtü"
+    },
+    {
+        "id": 1217,
+        "question": "Bir devletin resmi para biriminin diğer ülke dövizleri karşısında değer kaybettirilmesi ",
+        "letter": "D",
+        "answer": "Devaülasyon, develasyon, devalasyon, devolasyon, devalüasyon"
+    },
+    {
+        "id": 200,
+        "question": "Boyut, ölçü",
+        "letter": "E",
+        "answer": "ebat"
+    },
+    {
+        "id": 1093,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "Facia"
+    },
+    {
+        "id": 1434,
+        "question": "Kamıştan yapılmış çift düdük ve tulumdan oluşan, tiz sesli, nefesli, İskoçların millî çalgısı",
+        "letter": "G",
+        "answer": "Gayda"
+    },
+    {
+        "id": 1866,
+        "question": "ZEVKİ İÇİN PARA HARCAMAKTAN KAÇINMAYAN KİMSE",
+        "letter": "H",
+        "answer": "Hovarda"
+    },
+    {
+        "id": 1951,
+        "question": "HEM “EKONOMİ” HEM “TUTUM” ANLAMINA GELEN SÖZCÜK",
+        "letter": "İ",
+        "answer": "İktisat, İktisad"
+    },
+    {
+        "id": 757,
+        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "letter": "K",
+        "answer": "Komisyon, Kar, Kâr"
+    },
+    {
+        "id": 293,
+        "question": "Bulgar para birimi",
+        "letter": "L",
+        "answer": "leva"
+    },
+    {
+        "id": 1215,
+        "question": "Güneşe en yakın gezegen",
+        "letter": "M",
+        "answer": "Merkür, merkür gezegeni"
+    },
+    {
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "letter": "N",
+        "answer": "Noter"
+    },
+    {
+        "id": 654,
+        "question": "Kendini kontrol edebilen sürücüsüz araç",
+        "letter": "O",
+        "answer": "Otonom, Otonom araç, Otonom araba"
+    },
+    {
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "letter": "Ö",
+        "answer": "ölmek, ölüm, ölme"
+    },
+    {
+        "id": 382,
+        "question": "Ezerek veya süzgeçten geçirilerek elde edilmiş gıda",
+        "letter": "P",
+        "answer": "püre"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 413,
+        "question": "Damara tıkanmaması için konan araç",
+        "letter": "S",
+        "answer": "stent"
+    },
+    {
+        "id": 429,
+        "question": "Söyleyiş özelliği",
+        "letter": "Ş",
+        "answer": "şive"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
+        "letter": "U",
+        "answer": "Uzman, Usta"
+    },
+    {
+        "id": 882,
+        "question": "At Ve Kısrak Sürüsüne Verilen Ad",
+        "letter": "Ü",
+        "answer": "Ürek"
+    },
+    {
+        "id": 863,
+        "question": "Tahıl tanelerinin damıtılmasıyla elde edilen alkollü içki",
+        "letter": "V",
+        "answer": "Votka, vodka"
+    },
+    {
+        "id": 1581,
+        "question": "Kitapların, dergilerin, gazetelerin yayınlanıp hazırlandığı yer",
+        "letter": "Y",
+        "answer": "Yayınevi"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

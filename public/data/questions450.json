@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1333,
+        "question": "Yıldız falcılığı",
+        "letter": "A",
+        "answer": "Astroloji"
+    },
+    {
+        "id": 1349,
+        "question": "Bankacılıkta bir varlığın yetkili otoritelerin izni olmadan sahibi tarafından kullanılamaması durumu",
+        "letter": "B",
+        "answer": "Blokaj, bloke, bloke koyma, bloke koymak"
+    },
+    {
+        "id": 1532,
+        "question": "Ezilmiş havuç içine fındık, şeker vb. eklenerek yapılan bir tür tatlı",
+        "letter": "C",
+        "answer": "Cezerye"
+    },
+    {
+        "id": 171,
+        "question": "Bir sonuca varmak, ortadaki engelleri kaldırmak için tutulması gereken yol, çıkar yol, çözüm yolu",
+        "letter": "Ç",
+        "answer": "çare"
+    },
+    {
+        "id": 1402,
+        "question": "Üniversitelerde bir fakültenin yönetiminden sorumlu profesör",
+        "letter": "D",
+        "answer": "Dekan"
+    },
+    {
+        "id": 1488,
+        "question": "Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı",
+        "letter": "E",
+        "answer": "Engizisyon, engizisyon mahkemesi, engizisyon mahkemeleri"
+    },
+    {
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
+        "letter": "F",
+        "answer": "Ferah"
+    },
+    {
+        "id": 234,
+        "question": "Olağanüstü yarar göstererek savaştan sağ olarak dönen kimse",
+        "letter": "G",
+        "answer": "gazi"
+    },
+    {
+        "id": 58,
+        "question": "Sebze, meyve, bakliyat gibi ürünlerin toptan satıldığı yer",
+        "letter": "H",
+        "answer": "Hal, Hâl"
+    },
+    {
+        "id": 596,
+        "question": "Aşırı güçlü istek, tutku",
+        "letter": "İ",
+        "answer": "İhtiras"
+    },
+    {
+        "id": 976,
+        "question": "Gözlerin üzerinde kemerli birer çizgi oluşturan kısa kıllar",
+        "letter": "K",
+        "answer": "Kaş"
+    },
+    {
+        "id": 982,
+        "question": "Bir dilin tarihi, yapısı, politik sebeplerden dolayı ses, yapı ve söz dizimiyle ayrılan bir kolu",
+        "letter": "L",
+        "answer": "Lehçe, lehçesi"
+    },
+    {
+        "id": 1892,
+        "question": "Bilgisayarın telefon hattına bağlanarak internete bağlanmasını sağlayan aygıt",
+        "letter": "M",
+        "answer": "Modem"
+    },
+    {
+        "id": 1675,
+        "question": "Etki altına alma, söz geçirme, güçlü olma",
+        "letter": "N",
+        "answer": "Nüfuz, nüfuz etme, nüfuz etmek"
+    },
+    {
+        "id": 1516,
+        "question": "Elle yapılan kalın, seyrek dikiş",
+        "letter": "O",
+        "answer": "Oyulga"
+    },
+    {
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "letter": "Ö",
+        "answer": "Önlem"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 1036,
+        "question": "Hayvanın başlığı, yuları ve gemi",
+        "letter": "R",
+        "answer": "Reşme"
+    },
+    {
+        "id": 1948,
+        "question": "MECAZEN, “AKIL SAĞLIĞINI YİTİRMEK” ANLAMINA GELEN SÖZ",
+        "letter": "S",
+        "answer": "Sıyırma, Sıyırmak"
+    },
+    {
+        "id": 1462,
+        "question": "Etkisi çok olan, zorlu, aşırı",
+        "letter": "Ş",
+        "answer": "Şiddetli"
+    },
+    {
+        "id": 767,
+        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "letter": "T",
+        "answer": "Takılmak"
+    },
+    {
+        "id": 1072,
+        "question": "Fikir, sanat ve endüstri alanlarında çok büyük bir gelişme göstermiş olan, medeni, mütemeddin",
+        "letter": "U",
+        "answer": "uygar"
+    },
+    {
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
+        "letter": "Ü",
+        "answer": "Üzenti"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 493,
+        "question": "Kötülüklerini söylemek, zemmetmek",
+        "letter": "Y",
+        "answer": "yermek"
+    },
+    {
+        "id": 853,
+        "question": "Kabe yakınında bulunan kuyu ve bu kuyunun Müslümanlarca kutsal sayılan suyu",
+        "letter": "Z",
+        "answer": "Zemzem"
+    }
+]

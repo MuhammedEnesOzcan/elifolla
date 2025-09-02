@@ -1,0 +1,158 @@
+[
+    {
+        "id": 948,
+        "question": "Yarı yaş, yarı kuru nemli toprak",
+        "letter": "A",
+        "answer": "alatav"
+    },
+    {
+        "id": 1353,
+        "question": "Bazı ağaçlardan elde edilen, parfüm ve ilaç yapımında kullanılan reçine",
+        "letter": "B",
+        "answer": "Balsam"
+    },
+    {
+        "id": 152,
+        "question": "Geçerli olan, yürürlükte olan",
+        "letter": "C",
+        "answer": "cari, câri"
+    },
+    {
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
+        "letter": "Ç",
+        "answer": "Çaça"
+    },
+    {
+        "id": 185,
+        "question": "Evlerde çocuğa bakan kimse, daye",
+        "letter": "D",
+        "answer": "dadı"
+    },
+    {
+        "id": 560,
+        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "letter": "E",
+        "answer": "Edip"
+    },
+    {
+        "id": 1094,
+        "question": "Süslü, ayaklı fener",
+        "letter": "F",
+        "answer": "Fanus"
+    },
+    {
+        "id": 1865,
+        "question": "BİR TOPLUMUN, GEREKLİ KAYNAKLARI ELDE EDEBİLMEK ÜZERE DÜZENLİ OLARAK YER DEĞİŞTİRMESİ",
+        "letter": "G",
+        "answer": "Göçebelik, Göç, Göç etmesi"
+    },
+    {
+        "id": 244,
+        "question": "Hoşa giden duygulanma, hoşlanma, zevk",
+        "letter": "H",
+        "answer": "haz"
+    },
+    {
+        "id": 263,
+        "question": "Anlama yeteneği, anlayış, akıl erdirme",
+        "letter": "İ",
+        "answer": "idrak, idrak etme, idrak etmek, izan"
+    },
+    {
+        "id": 976,
+        "question": "Gözlerin üzerinde kemerli birer çizgi oluşturan kısa kıllar",
+        "letter": "K",
+        "answer": "Kaş"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 1256,
+        "question": "Müzik seslerinin yazıya dökülmüş hali",
+        "letter": "N",
+        "answer": "Nota, notalandırma, notalandırmak, notalar"
+    },
+    {
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
+        "letter": "O",
+        "answer": "onay, onaylama, onaylamak"
+    },
+    {
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "letter": "Ö",
+        "answer": "Önlem"
+    },
+    {
+        "id": 1017,
+        "question": "Üzerine bildiri, açıklama veya tanıtma kâğıtları tutturmak için hazırlanmış levha",
+        "letter": "P",
+        "answer": "pano"
+    },
+    {
+        "id": 1121,
+        "question": "Herhangi bir işte, bir yarışta, birbirini geçmeye çalışan, aynı şeyi elde etmeye uğraşan",
+        "letter": "R",
+        "answer": "Rakip"
+    },
+    {
+        "id": 1789,
+        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
+        "letter": "S",
+        "answer": "Sarsıntı"
+    },
+    {
+        "id": 1912,
+        "question": "ÜLKE ÇAPINDA YAYGINLAŞTIRILMIŞ ULAŞIM VE İLETİŞİM ÖRGÜSÜ, AĞ",
+        "letter": "Ş",
+        "answer": "Şebeke, Şebeke ağı"
+    },
+    {
+        "id": 1060,
+        "question": "Türlü metallerden yapılmış, kopmaya karşı bir direnç gösteren ince uzun ip",
+        "letter": "T",
+        "answer": "tel"
+    },
+    {
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
+        "letter": "U",
+        "answer": "Uzman, Usta"
+    },
+    {
+        "id": 879,
+        "question": "Geniş Anlamıyla Derş Ya Da Mukoza Altı Dokuları Meydanda Bırakan Kronik Yaralar",
+        "letter": "Ü",
+        "answer": "Ülser"
+    },
+    {
+        "id": 484,
+        "question": "Eski dilde \"Anne\"",
+        "letter": "V",
+        "answer": "Valide"
+    },
+    {
+        "id": 839,
+        "question": "Sayıyı yukarı ya da aşağı değiştirerek tüm sayı haline getirme",
+        "letter": "Y",
+        "answer": "Yuvarlama, Yuvarlamak"
+    },
+    {
+        "id": 1146,
+        "question": "Güçsüz, zayıf, âciz",
+        "letter": "Z",
+        "answer": "zebun"
+    }
+]

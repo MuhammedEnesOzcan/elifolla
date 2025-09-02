@@ -1,0 +1,158 @@
+[
+    {
+        "id": 101,
+        "question": "Tasavvufta manevi üst bir rütbe",
+        "letter": "A",
+        "answer": "abdal"
+    },
+    {
+        "id": 744,
+        "question": "Bir cismin herhangi bir yöndeki uzanımı",
+        "letter": "B",
+        "answer": "Boyut, boyutu"
+    },
+    {
+        "id": 535,
+        "question": "Gerçekten, hakikaten anlamlarındaki bir söz",
+        "letter": "C",
+        "answer": "Cidden"
+    },
+    {
+        "id": 169,
+        "question": "Çam vb. reçineli ağaçların yağlı ve çabuk yanmaya elverişli bölümü",
+        "letter": "Ç",
+        "answer": "çıra"
+    },
+    {
+        "id": 1231,
+        "question": "Otomobilin vites geçirmek için en sol tarafta ayak ile basılan pedalı",
+        "letter": "D",
+        "answer": "Debriyaj, debriaj, debriyaj pedalı, debriaj pedalı"
+    },
+    {
+        "id": 565,
+        "question": "Saf dışı bırakmak",
+        "letter": "E",
+        "answer": "Ekarte, Ekarte etme, Ekarte etmek"
+    },
+    {
+        "id": 567,
+        "question": "Yanıcı bir maddeden aldığı itici güçle hareket eden düzenek",
+        "letter": "F",
+        "answer": "Füze"
+    },
+    {
+        "id": 238,
+        "question": "Değersiz, aşağı görülen, küçümsenen topluluk, derinti, sürü",
+        "letter": "G",
+        "answer": "güruh"
+    },
+    {
+        "id": 1248,
+        "question": "Pandemiyle hayatımıza girmiş, eğitimin hem çevrimiçi hem de yüzyüze yapılması durumu",
+        "letter": "H",
+        "answer": "Hibrit, hibrit eğitim"
+    },
+    {
+        "id": 262,
+        "question": "Yönetme, yönetim, çekip çevirme",
+        "letter": "İ",
+        "answer": "idare, idare etme, idare etmek"
+    },
+    {
+        "id": 607,
+        "question": "Kalp hastalıkları uzmanı",
+        "letter": "K",
+        "answer": "Kardiyolog"
+    },
+    {
+        "id": 292,
+        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "letter": "L",
+        "answer": "lobi"
+    },
+    {
+        "id": 1849,
+        "question": "SAVAŞTA ZAFER KAZANMIŞ OLAN",
+        "letter": "M",
+        "answer": "Muzaffer"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 349,
+        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
+        "letter": "O",
+        "answer": "onbaşı"
+    },
+    {
+        "id": 1006,
+        "question": "Küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı",
+        "letter": "Ö",
+        "answer": "Öcü"
+    },
+    {
+        "id": 1181,
+        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "letter": "P",
+        "answer": "Peron"
+    },
+    {
+        "id": 1278,
+        "question": "Uyku sırasında görülen olaylar",
+        "letter": "R",
+        "answer": "Rüya"
+    },
+    {
+        "id": 828,
+        "question": "Dokuz karenin belirli bir şekilde geçilmesine dayanan çocuk oyunu",
+        "letter": "S",
+        "answer": "Seksek"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 896,
+        "question": "Orta Asya'da Büyük Devlet Ve Uygarlık Kurmuş, Yazılı Anıtlarla Sanat Yapıtları Bırakmış Olan Bir Türk Ulusu",
+        "letter": "U",
+        "answer": "Uygur, uygurlar"
+    },
+    {
+        "id": 729,
+        "question": "Özen göstermeden, gelişigüzel, baştan savma yapılan",
+        "letter": "Ü",
+        "answer": "Üstünkörü"
+    },
+    {
+        "id": 473,
+        "question": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi",
+        "letter": "V",
+        "answer": "vali"
+    },
+    {
+        "id": 734,
+        "question": "Su kıyısında yapılmış büyük, görkemli ev",
+        "letter": "Y",
+        "answer": "Yalı"
+    },
+    {
+        "id": 1145,
+        "question": "Hor görülme, alçalma",
+        "letter": "Z",
+        "answer": "Zillet"
+    }
+]

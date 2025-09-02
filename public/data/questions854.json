@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1820,
+        "question": "Giysiyi bütünleyen çanta, kemer vb. gibi şeyler",
+        "letter": "A",
+        "answer": "Aksesuar, Aksessuar"
+    },
+    {
+        "id": 142,
+        "question": "Bir düşünceye, bir inanışa aşırı ölçüde bağlanıp ondan başka bir düşünce ve inanışı kabul etmeyen, mutaassıp, fanatik",
+        "letter": "B",
+        "answer": "bağnaz"
+    },
+    {
+        "id": 1358,
+        "question": "Bir eserin ayrı ayrı basılan bölümlerinden her biri",
+        "letter": "C",
+        "answer": "Cilt, cildi"
+    },
+    {
+        "id": 1452,
+        "question": "Yenilen yaş veya kuru yemiş vb. şeyler",
+        "letter": "Ç",
+        "answer": "Çerez, çerezler"
+    },
+    {
+        "id": 77,
+        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
+        "letter": "D",
+        "answer": "daktilo"
+    },
+    {
+        "id": 1924,
+        "question": "“METİN VE İÇERİK DÜZENLEYİCİLER” İÇİN KULLANILAN MESLEKİ UNVAN",
+        "letter": "E",
+        "answer": "Editör"
+    },
+    {
+        "id": 1292,
+        "question": "Bahçıvanlıkta, tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze ya da körpe çiçek",
+        "letter": "F",
+        "answer": "Fide"
+    },
+    {
+        "id": 1769,
+        "question": "BELLİ BİR BÜTÜNE GÖRE KALEME ALINAN METNİN SONUÇTAN ÖNCEKİ BÖLÜMÜ",
+        "letter": "G",
+        "answer": "Gelişme"
+    },
+    {
+        "id": 1439,
+        "question": "Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz",
+        "letter": "H",
+        "answer": "Haşa"
+    },
+    {
+        "id": 256,
+        "question": "Alınmış bir şeyi geri verme",
+        "letter": "İ",
+        "answer": "iade"
+    },
+    {
+        "id": 1751,
+        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
+        "letter": "K",
+        "answer": "Kıta"
+    },
+    {
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
+        "letter": "L",
+        "answer": "Lift"
+    },
+    {
+        "id": 1249,
+        "question": "Hapiste olan, hakkında hüküm kesilmiş kimse",
+        "letter": "M",
+        "answer": "Mahkum"
+    },
+    {
+        "id": 960,
+        "question": "Az şey, az",
+        "letter": "N",
+        "answer": "nebze"
+    },
+    {
+        "id": 996,
+        "question": "Özenli, düzgün, uygun",
+        "letter": "O",
+        "answer": "Onat"
+    },
+    {
+        "id": 762,
+        "question": "Belli bir kurala göre devam eden sayı ya da şekil dizisi",
+        "letter": "Ö",
+        "answer": "Örüntü"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 389,
+        "question": "Bir gemi veya uçağın gidiş yönü, izleyeceği yol",
+        "letter": "R",
+        "answer": "rota"
+    },
+    {
+        "id": 1192,
+        "question": "Yalnız bir türe özgü olan",
+        "letter": "S",
+        "answer": "Spesifik"
+    },
+    {
+        "id": 697,
+        "question": "Bir diğer adı \"Enjektör\" olan nesne",
+        "letter": "Ş",
+        "answer": "Şırınga"
+    },
+    {
+        "id": 1903,
+        "question": "YUMUŞAK ÇELİKTEN YAPILMIŞ ÜZERİ KALAY KAPLI İNCE SAC",
+        "letter": "T",
+        "answer": "Teneke"
+    },
+    {
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
+        "letter": "U",
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
+    },
+    {
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
+        "letter": "Ü",
+        "answer": "ücret"
+    },
+    {
+        "id": 1136,
+        "question": "Değer, kıymet",
+        "letter": "V",
+        "answer": "valör"
+    },
+    {
+        "id": 1584,
+        "question": "Bir işten elde edilen iyi sonuç, fayda",
+        "letter": "Y",
+        "answer": "Yarar"
+    },
+    {
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "letter": "Z",
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
+    }
+]

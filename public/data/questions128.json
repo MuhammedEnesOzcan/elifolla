@@ -1,0 +1,158 @@
+[
+    {
+        "id": 515,
+        "question": "En yüksek, en büyük, en çok",
+        "letter": "A",
+        "answer": "Azami, Azâmi"
+    },
+    {
+        "id": 141,
+        "question": "Karşılıksız, emeksiz, parasız elde edilen, müft",
+        "letter": "B",
+        "answer": "beleş, bedava"
+    },
+    {
+        "id": 1309,
+        "question": "Canlı, neşeli ve sokulgan",
+        "letter": "C",
+        "answer": "Civelek"
+    },
+    {
+        "id": 1762,
+        "question": "Her zaman menfaati doğrultusunda hareket eden kişi",
+        "letter": "Ç",
+        "answer": "Çıkarcı"
+    },
+    {
+        "id": 795,
+        "question": "Akan suyun hacmi",
+        "letter": "D",
+        "answer": "Debi, Debisi"
+    },
+    {
+        "id": 1417,
+        "question": "Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku",
+        "letter": "E",
+        "answer": "Epitelyum"
+    },
+    {
+        "id": 1490,
+        "question": "Koku, ilaç vb. sıvıları püskürtmek için kullanılan araç",
+        "letter": "F",
+        "answer": "Fısfıs"
+    },
+    {
+        "id": 1863,
+        "question": "YEMEK YENİLEN, GÖSTERİ İZLENEN, MÜZİK DİNLENEN, BAZEN OYUN SERGİLENEN EĞLENCE YERİ",
+        "letter": "G",
+        "answer": "Gazino"
+    },
+    {
+        "id": 594,
+        "question": "Sınır, uç noktası",
+        "letter": "H",
+        "answer": "Hudut"
+    },
+    {
+        "id": 1817,
+        "question": "Bir kardeşini de beraberinde getiren bebeklerin birbirine göre varoluşsal durumu",
+        "letter": "İ",
+        "answer": "İkiz, ikizlik"
+    },
+    {
+        "id": 280,
+        "question": "Kumaştan veya örgüden küçük torba",
+        "letter": "K",
+        "answer": "kese"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 1957,
+        "question": "Tekrarlanmış, Yinelenmiş",
+        "letter": "M",
+        "answer": "Mükerrer"
+    },
+    {
+        "id": 994,
+        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
+        "letter": "N",
+        "answer": "naip"
+    },
+    {
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "letter": "O",
+        "answer": "OLGU"
+    },
+    {
+        "id": 899,
+        "question": "Serbest, Hiçbir Koşula Bağlı Olmayan",
+        "letter": "Ö",
+        "answer": "Özgür, ozgur"
+    },
+    {
+        "id": 1179,
+        "question": "Zehrin etkisini ortadan kaldırabilme özelliği olan madde ",
+        "letter": "P",
+        "answer": "Panzehir"
+    },
+    {
+        "id": 1244,
+        "question": "Kaynar suda kabuğu ile az pişirilmiş olan",
+        "letter": "R",
+        "answer": "Rafadan"
+    },
+    {
+        "id": 406,
+        "question": "Dik, çıkması ve geçilmesi güç (yer)",
+        "letter": "S",
+        "answer": "sarp"
+    },
+    {
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
+        "letter": "Ş",
+        "answer": "Şahsiyet"
+    },
+    {
+        "id": 1741,
+        "question": "Eski dilde saldırı",
+        "letter": "T",
+        "answer": "Taarruz"
+    },
+    {
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
+        "letter": "U",
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
+    },
+    {
+        "id": 882,
+        "question": "At Ve Kısrak Sürüsüne Verilen Ad",
+        "letter": "Ü",
+        "answer": "Ürek"
+    },
+    {
+        "id": 872,
+        "question": "Bulaşıcı Hastalıklara Yol Açan Mikrop",
+        "letter": "V",
+        "answer": "Virüs, vırus"
+    },
+    {
+        "id": 1140,
+        "question": "Dik, sarp",
+        "letter": "Y",
+        "answer": "yalçın"
+    },
+    {
+        "id": 1585,
+        "question": "Savaşta verilen kayıp",
+        "letter": "Z",
+        "answer": "Zayiat, zaiyat"
+    }
+]

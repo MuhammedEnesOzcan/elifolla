@@ -1,0 +1,158 @@
+[
+    {
+        "id": 780,
+        "question": "Öncelik tanımak, öndelik vermek",
+        "letter": "A",
+        "answer": "Avans, avans verme, avans vermek, avans tanıma, avans tanımak"
+    },
+    {
+        "id": 1602,
+        "question": "Alım ve de satım işleri ile ilgilenmekte olan şirketlere aracılıklar yapan komisyoncu",
+        "letter": "B",
+        "answer": "Broker"
+    },
+    {
+        "id": 152,
+        "question": "Geçerli olan, yürürlükte olan",
+        "letter": "C",
+        "answer": "cari, câri"
+    },
+    {
+        "id": 173,
+        "question": "Badem, kayısı, erik vb. tek çekirdekli yemişlerin körpeyken yenilebilen ham şekli",
+        "letter": "Ç",
+        "answer": "çağla"
+    },
+    {
+        "id": 196,
+        "question": "Belirli miktarın veya büyüklüğün iki katı",
+        "letter": "D",
+        "answer": "duble"
+    },
+    {
+        "id": 1238,
+        "question": "Kimyasal tepkimelerin hızını arttıran, canlı hücrelerde üretilen özel proteinler",
+        "letter": "E",
+        "answer": "Enzim, enzimler"
+    },
+    {
+        "id": 576,
+        "question": "Fotoğrafta güzel çıkan, etki bırakan (kimse)",
+        "letter": "F",
+        "answer": "Fotojenik"
+    },
+    {
+        "id": 1428,
+        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+        "letter": "G",
+        "answer": "Gard"
+    },
+    {
+        "id": 1902,
+        "question": "MECAZEN; “AHBAPLIK, DOSTLUK”",
+        "letter": "H",
+        "answer": "Hukuk"
+    },
+    {
+        "id": 275,
+        "question": "İçine alma, içinde bulundurma, içerme",
+        "letter": "İ",
+        "answer": "ihtiva"
+    },
+    {
+        "id": 1265,
+        "question": "Bir şeyin oyuk durumunda bulunan iç bölümü",
+        "letter": "K",
+        "answer": "Kovuk, kovuğu"
+    },
+    {
+        "id": 1706,
+        "question": "Yeni doğum yapmış kadın",
+        "letter": "L",
+        "answer": "Lohusa"
+    },
+    {
+        "id": 956,
+        "question": "Mendelevyum'un simgesi",
+        "letter": "M",
+        "answer": "md"
+    },
+    {
+        "id": 1675,
+        "question": "Etki altına alma, söz geçirme, güçlü olma",
+        "letter": "N",
+        "answer": "Nüfuz, nüfuz etme, nüfuz etmek"
+    },
+    {
+        "id": 1518,
+        "question": "Hızlı bir trafik akımı sağlamak amacıyla yapılan, çok şeritli, çift yönlü geniş yol, otoban",
+        "letter": "O",
+        "answer": "Otoyol"
+    },
+    {
+        "id": 1535,
+        "question": "Bilimde bir düzenli görüşü oluşturan ilke ve dogmaların bütünü, meslek, doktrin",
+        "letter": "Ö",
+        "answer": "Öğreti"
+    },
+    {
+        "id": 821,
+        "question": "Birden ortaya çıkan, aşırı ve normalin dışına taşmış korku hali",
+        "letter": "P",
+        "answer": "panik"
+    },
+    {
+        "id": 1278,
+        "question": "Uyku sırasında görülen olaylar",
+        "letter": "R",
+        "answer": "Rüya"
+    },
+    {
+        "id": 414,
+        "question": "Bazı tedavi yöntemlerinin uygulanması için ayrılan süre",
+        "letter": "S",
+        "answer": "seans"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 52,
+        "question": "At ve eşek gibi tek tırnaklı hayvanların tırnağına verilen ad",
+        "letter": "T",
+        "answer": "Toynak"
+    },
+    {
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "letter": "U",
+        "answer": "Uydu, uydusu"
+    },
+    {
+        "id": 873,
+        "question": "İdrarın dışarıya atılmasını sağlayan ve idrar torbasından sonraki idrar yol",
+        "letter": "Ü",
+        "answer": "Üretra"
+    },
+    {
+        "id": 39,
+        "question": "Güneş sistemindeki en sıcak gezegen",
+        "letter": "V",
+        "answer": "venüs"
+    },
+    {
+        "id": 837,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte, Yürürlükteki"
+    },
+    {
+        "id": 845,
+        "question": "Yersiz ve zamansız davranışları olan kimse",
+        "letter": "Z",
+        "answer": "zibidi, zırzop"
+    }
+]

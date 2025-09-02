@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1664,
+        "question": "Erkek otoritesine dayanan bir tür toplumsal örgütlenme düzeni",
+        "letter": "A",
+        "answer": "Ataerkil, ataerkil toplum"
+    },
+    {
+        "id": 522,
+        "question": "İşçilerin başlarına giydikleri, metal veya plastikten yapılmış koruyucu başlık",
+        "letter": "B",
+        "answer": "Baret"
+    },
+    {
+        "id": 1366,
+        "question": "Kümes hayvanlarının yumurtadan yeni çıkmış yavrusu",
+        "letter": "C",
+        "answer": "Civciv"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1941,
+        "question": "YAPILARIN KABA AĞAÇ İŞLERİNİ YAPAN USTA",
+        "letter": "D",
+        "answer": "Dülger, Dülger Ustası"
+    },
+    {
+        "id": 20,
+        "question": "Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli",
+        "letter": "E",
+        "answer": "Etalon"
+    },
+    {
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "letter": "F",
+        "answer": "Fidan"
+    },
+    {
+        "id": 803,
+        "question": "Ağız ve burun boşluğunun arka bölümü",
+        "letter": "G",
+        "answer": "Geniz"
+    },
+    {
+        "id": 1441,
+        "question": "Normalden yüksek olan atardamar basıncı",
+        "letter": "H",
+        "answer": "Hipertansiyon"
+    },
+    {
+        "id": 1182,
+        "question": "Birlikte el birliği ile yapılan",
+        "letter": "İ",
+        "answer": "İmece, imece usulü, imece usulüyle, imece usulü ile"
+    },
+    {
+        "id": 277,
+        "question": "Cam veya seramikten yapılmış, kulplu, büyük bardak",
+        "letter": "K",
+        "answer": "kupa"
+    },
+    {
+        "id": 1454,
+        "question": "Kirliliği gösteren iz",
+        "letter": "L",
+        "answer": "Leke"
+    },
+    {
+        "id": 815,
+        "question": "Bir şeyi iflah olmaz, onmaz hale getirmek",
+        "letter": "M",
+        "answer": "Mahvetmek, Mahvetme"
+    },
+    {
+        "id": 332,
+        "question": "Sıra ile belirli süre bir yeri bekleme işi",
+        "letter": "N",
+        "answer": "nöbet, nöbet tutma, nöbet tutmak"
+    },
+    {
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
+        "letter": "O",
+        "answer": "Ozalit"
+    },
+    {
+        "id": 367,
+        "question": "Bir maddenin herhangi bir yolla elde edilmiş olan özü",
+        "letter": "Ö",
+        "answer": "özüt, özütü"
+    },
+    {
+        "id": 1016,
+        "question": "Posta parası karşılığı mektuplara, damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası",
+        "letter": "P",
+        "answer": "Pul"
+    },
+    {
+        "id": 1643,
+        "question": "Tarımda bir yılda derlenen ürünlerin bütünü",
+        "letter": "R",
+        "answer": "Rekolte"
+    },
+    {
+        "id": 414,
+        "question": "Bazı tedavi yöntemlerinin uygulanması için ayrılan süre",
+        "letter": "S",
+        "answer": "seans"
+    },
+    {
+        "id": 697,
+        "question": "Bir diğer adı \"Enjektör\" olan nesne",
+        "letter": "Ş",
+        "answer": "Şırınga"
+    },
+    {
+        "id": 1755,
+        "question": "Kariyerinde seviye atlamak",
+        "letter": "T",
+        "answer": "Terfi, Terfi etme, Terfi etmek"
+    },
+    {
+        "id": 1067,
+        "question": "Uğraşılan şey, iş güç, meşgale",
+        "letter": "U",
+        "answer": "Uğraşı"
+    },
+    {
+        "id": 1474,
+        "question": "Altyapı üzerine kurulan, oturmaya veya üretime yarayan yapıların tümü",
+        "letter": "Ü",
+        "answer": "Üstyapı"
+    },
+    {
+        "id": 484,
+        "question": "Eski dilde \"Anne\"",
+        "letter": "V",
+        "answer": "Valide"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 774,
+        "question": "Şundan dolayı, şu sebeple, çünkü anlamlarındaki bağlaç",
+        "letter": "Z",
+        "answer": "Zira"
+    }
+]

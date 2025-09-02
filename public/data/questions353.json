@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1337,
+        "question": "Muhafaza edilmesi gereken belgelerin düzenli bir şekilde saklandığı yer",
+        "letter": "A",
+        "answer": "Arşiv, arşiv odası"
+    },
+    {
+        "id": 784,
+        "question": "Yazı ya da sözle canlandırmak",
+        "letter": "B",
+        "answer": "Betimleme, Betimlemek"
+    },
+    {
+        "id": 535,
+        "question": "Gerçekten, hakikaten anlamlarındaki bir söz",
+        "letter": "C",
+        "answer": "Cidden"
+    },
+    {
+        "id": 1218,
+        "question": "Doğal hayatta sığınak olarak kullanılan kamp malzemesi, barınak",
+        "letter": "Ç",
+        "answer": "Çadır, çat"
+    },
+    {
+        "id": 556,
+        "question": "Gereği kadar pişmemiş",
+        "letter": "D",
+        "answer": "Diri"
+    },
+    {
+        "id": 209,
+        "question": "Çok gerekli, vazgeçilmez",
+        "letter": "E",
+        "answer": "elzem"
+    },
+    {
+        "id": 1320,
+        "question": "Genellikle boyna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "Fular"
+    },
+    {
+        "id": 801,
+        "question": "Kolları açarak, göğsü ileriye omuzları geriye doğru esnetmek",
+        "letter": "G",
+        "answer": "Gerinmek, Gerinme, Gerilmek, Gerilme"
+    },
+    {
+        "id": 1494,
+        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "letter": "H",
+        "answer": "Halef, halefi"
+    },
+    {
+        "id": 1962,
+        "question": "BİR KONU HAKKINDA KARŞI TARAFTAN ALINAN NEZAKET GÖSTERGESİ İZİN, DESTUR",
+        "letter": "İ",
+        "answer": "İCAZET"
+    },
+    {
+        "id": 1939,
+        "question": "Küp şekere göre daha büyük boyutta özellikle Erzurum yöresine ait şeker türü",
+        "letter": "K",
+        "answer": "Kıtlama, Kıtlama Şeker"
+    },
+    {
+        "id": 624,
+        "question": "Çok sulu ve fazla pişmiş pilav/pirinç",
+        "letter": "L",
+        "answer": "Lapa, Lapa pilav, Lapa pirinç"
+    },
+    {
+        "id": 1318,
+        "question": "Kalın oklava",
+        "letter": "M",
+        "answer": "Merdane"
+    },
+    {
+        "id": 640,
+        "question": "Söz, konuşma, söylev",
+        "letter": "N",
+        "answer": "Nutuk, Nutuk okuma, Nutuk okumak"
+    },
+    {
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "letter": "O",
+        "answer": "Orada, orda"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 383,
+        "question": "Birine saldırmak için saklanarak beklenilen yer",
+        "letter": "P",
+        "answer": "pusu"
+    },
+    {
+        "id": 1034,
+        "question": "Demir, tahta yüzeylerdeki boya, pas vb.ni çıkarma, pürüzleri gidermek amacıyla kullanılan iri dişli bir törpü",
+        "letter": "R",
+        "answer": "raspa"
+    },
+    {
+        "id": 1045,
+        "question": "Toprağın kaymasını veya suyun akmasını önlemek için yapılan kalın duvar",
+        "letter": "S",
+        "answer": "set"
+    },
+    {
+        "id": 1684,
+        "question": "Otomobil iç lastiği",
+        "letter": "Ş",
+        "answer": "Şambrel"
+    },
+    {
+        "id": 439,
+        "question": "Manyetik bir bant üzerine sesleri kaydeden ve okuyan aygıt",
+        "letter": "T",
+        "answer": "teyp"
+    },
+    {
+        "id": 1068,
+        "question": "Çok uzun",
+        "letter": "U",
+        "answer": "upuzun"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 1772,
+        "question": "Bazı bitki türlerinde besinler için depolama organı olarak kullanılan genişlemiş yapılar",
+        "letter": "Y",
+        "answer": "Yumru, Yumrular"
+    },
+    {
+        "id": 1585,
+        "question": "Savaşta verilen kayıp",
+        "letter": "Z",
+        "answer": "Zayiat, zaiyat"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 118,
+        "question": "Genellikle üzeri siperli masa lambası veya ayaklı lamba",
+        "letter": "A",
+        "answer": "abajur"
+    },
+    {
+        "id": 133,
+        "question": "Belirli bir davranışta bulunmaya zorlayıcı söz, buyuru, emir, ferman",
+        "letter": "B",
+        "answer": "buyruk"
+    },
+    {
+        "id": 1372,
+        "question": "İnce, yuvarlak kesilerek kızartılmış patates",
+        "letter": "C",
+        "answer": "Cips"
+    },
+    {
+        "id": 166,
+        "question": "Dağın bir noktasından kopup yuvarlanan ve yuvarlandıkça büyüyen kar kümesi",
+        "letter": "Ç",
+        "answer": "çığ"
+    },
+    {
+        "id": 1929,
+        "question": "ARGODA, “CEZAEVİ, HAPİSHANE” ANLAMINDA KULLANILAN SÖZCÜK",
+        "letter": "D",
+        "answer": "Delik"
+    },
+    {
+        "id": 1211,
+        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
+        "letter": "E",
+        "answer": "Emekleme, emeklemek"
+    },
+    {
+        "id": 1321,
+        "question": "Tütünleme suretiyle kurutulmuş ringa balığı",
+        "letter": "F",
+        "answer": "Frisa, firisa"
+    },
+    {
+        "id": 1284,
+        "question": "Cildin nefes almasını ve nemli kalmasını sağlayan küçük kanallar",
+        "letter": "G",
+        "answer": "Gözenek, gözenekler"
+    },
+    {
+        "id": 1496,
+        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "letter": "H",
+        "answer": "Hamak"
+    },
+    {
+        "id": 268,
+        "question": "Kabul etmeme, tanımama",
+        "letter": "İ",
+        "answer": "inkar, inkar etme, inkar etmek"
+    },
+    {
+        "id": 1886,
+        "question": "KALABALIK HÂLİNDE YAŞANAN YERLERDE, İÇİNDE BİRÇOK KİMSENİN YATTIĞI VEYA BARINDIĞI BÜYÜK ODA",
+        "letter": "K",
+        "answer": "Koğuş"
+    },
+    {
+        "id": 623,
+        "question": "Eğlence yerlerinde veya parlamento salonlarında özel bölme",
+        "letter": "L",
+        "answer": "Loca"
+    },
+    {
+        "id": 1849,
+        "question": "SAVAŞTA ZAFER KAZANMIŞ OLAN",
+        "letter": "M",
+        "answer": "Muzaffer"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "letter": "Ö",
+        "answer": "ölmek, ölüm, ölme"
+    },
+    {
+        "id": 667,
+        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
+        "letter": "P",
+        "answer": "Paraf, paraf atma, paraf atmak"
+    },
+    {
+        "id": 1645,
+        "question": "Aynı amacı güden kimseler arasındaki çekişme, yarış",
+        "letter": "R",
+        "answer": "Rekabet"
+    },
+    {
+        "id": 409,
+        "question": "Depolanmış, yığın",
+        "letter": "S",
+        "answer": "stok, stoklanmış"
+    },
+    {
+        "id": 1685,
+        "question": "İsrail para birimi",
+        "letter": "Ş",
+        "answer": "Şekel"
+    },
+    {
+        "id": 710,
+        "question": "Cep telefonu operatörlerinin belirledikleri fiyatlandırma sistemi",
+        "letter": "T",
+        "answer": "Tarife"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 770,
+        "question": "Durum, tavır, hâl",
+        "letter": "V",
+        "answer": "Vaziyet"
+    },
+    {
+        "id": 884,
+        "question": "Soğanlı et yemeği",
+        "letter": "Y",
+        "answer": "Yahni"
+    },
+    {
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "letter": "Z",
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
+    }
+]

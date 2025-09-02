@@ -1,158 +1,158 @@
 [
     {
-        "id": 1695,
-        "question": "Otobüs, tren gibi ulaşım araçlarında para yerine geçen sürekliliği olan bilet veya kart",
+        "id": 1221,
+        "question": "Negatif elektrikle yüklü iyon",
         "letter": "A",
-        "answer": "Abonman"
+        "answer": "Anyon"
     },
     {
-        "id": 529,
-        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
+        "id": 62,
+        "question": "Bale yapan erkek dansçılara verilen isim",
         "letter": "B",
-        "answer": "Bulanık"
+        "answer": "balet"
     },
     {
-        "id": 1319,
-        "question": "Mızrap ile çalınan iki veya üç teli olan halk sazı",
+        "id": 538,
+        "question": "Sayılar teorisini, geometriyi ve analizi içine alan bir matematik dalı",
         "letter": "C",
-        "answer": "Cura"
+        "answer": "Cebir"
     },
     {
-        "id": 179,
-        "question": "Çizilerek veya oyularak açılan kertik",
+        "id": 1540,
+        "question": "Sağlam ve dayanıklı olmayan",
         "letter": "Ç",
-        "answer": "çetele, çentik"
+        "answer": "Çürük"
     },
     {
-        "id": 1401,
-        "question": "Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama, beyanat",
+        "id": 188,
+        "question": "Doğrudan doğruya olmayan, dolayısıyla olan, vasıtalı, bilvasıta, endirekt",
         "letter": "D",
-        "answer": "Demeç, demeç verme, demeç vermek, demeç vermesi"
+        "answer": "dolaylı, dolambaçlı"
     },
     {
-        "id": 206,
-        "question": "Gerçekleştirilmesi zamana bağlı istek",
+        "id": 566,
+        "question": "Bilirkişi tarafından yapılan inceleme",
         "letter": "E",
-        "answer": "emel"
+        "answer": "Ekspertiz, Ekspertiz raporu"
     },
     {
-        "id": 1968,
-        "question": "KURAL İHLALİ SONRASI, KALEYE DOĞRUDAN ŞUT ÇEKİLEN SERBEST VURUŞ",
+        "id": 1489,
+        "question": "Etken, etmen",
         "letter": "F",
-        "answer": "FRİKİK"
+        "answer": "Faktör"
     },
     {
-        "id": 236,
-        "question": "Elde edilmesi gereken, ulaşılmak istenen şey, amaç, maksat",
+        "id": 803,
+        "question": "Ağız ve burun boşluğunun arka bölümü",
         "letter": "G",
-        "answer": "gaye"
+        "answer": "Geniz"
     },
     {
-        "id": 754,
-        "question": "Hem et hem de otla beslenen canlılar",
+        "id": 255,
+        "question": "Uçak, araba, tarım aracı vb. nesneleri barındırmaya yarar kapalı yer",
         "letter": "H",
-        "answer": "Hepçil, Hepobur"
+        "answer": "hangar"
     },
     {
-        "id": 1555,
-        "question": "Bir şeyi belirtecek biçimde hareket etmek, belirleyici şekilde vurgulamak",
+        "id": 1199,
+        "question": "Damıtma işinde kullanılan araç, damıtıcı",
         "letter": "İ",
-        "answer": "İşaretleme, işaretlemek"
+        "answer": "İmbik"
     },
     {
-        "id": 1925,
-        "question": "Kertenkelenin avcısından kurtulmak için geride bıraktığı uzvu",
+        "id": 1265,
+        "question": "Bir şeyin oyuk durumunda bulunan iç bölümü",
         "letter": "K",
-        "answer": "Kuyruk, Kuyruğu"
+        "answer": "Kovuk, kovuğu"
     },
     {
-        "id": 621,
-        "question": "Kelime, sözlük",
+        "id": 306,
+        "question": "Deniz veya ırmaklarda birdenbire derinleşen yer",
         "letter": "L",
-        "answer": "Lügat, Lugat, Lûgat"
+        "answer": "longoz, longuz"
     },
     {
-        "id": 1621,
-        "question": "Hareketli, taşınabilir",
+        "id": 1738,
+        "question": "Sesi yükseltip uzağa iletmeye yarayan koni biçimindeki alet",
         "letter": "M",
-        "answer": "Mobil"
+        "answer": "Megafon, Megofon"
     },
     {
-        "id": 913,
-        "question": "Kıskandırmak ya da inat olsun diye yapılan iş",
+        "id": 1252,
+        "question": "Hastalığın yeniden ortaya çıkma, tekrarlaması durumu",
         "letter": "N",
-        "answer": "Nispet, nıspet"
+        "answer": "Nüks, nüks etme, nüks etmesi, nüks etmek"
     },
     {
-        "id": 341,
-        "question": "Yüksek ve alçaktan mermi atabilen kısa namlulu top",
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
         "letter": "O",
-        "answer": "obüs"
+        "answer": "Oyuncu"
     },
     {
-        "id": 1538,
-        "question": "Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak",
+        "id": 356,
+        "question": "Bir başarı karşılığında verilen armağan, mükâfat",
         "letter": "Ö",
-        "answer": "Örtmek"
+        "answer": "ödül"
     },
     {
-        "id": 668,
-        "question": "Bir ilacın telkine dayalı bir etki ortaya çıkarma hali",
+        "id": 1802,
+        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
         "letter": "P",
-        "answer": "Plasebo, Plasebo etkisi"
+        "answer": "Peksimet"
     },
     {
-        "id": 398,
-        "question": "Havalimanında uçuşun gecikme durumu",
+        "id": 391,
+        "question": "Yol, yöntem, usul",
         "letter": "R",
-        "answer": "rötar"
+        "answer": "racon"
     },
     {
-        "id": 406,
-        "question": "Dik, çıkması ve geçilmesi güç (yer)",
+        "id": 1800,
+        "question": "Hareketlinin birim zamanda aldığı yol",
         "letter": "S",
-        "answer": "sarp"
+        "answer": "Sürat"
     },
     {
-        "id": 1687,
-        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "id": 67,
+        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
         "letter": "Ş",
-        "answer": "Şakak"
+        "answer": "Şanlıurfa, Şanlı Urfa"
     },
     {
-        "id": 709,
-        "question": "Bildiri, haber verme",
+        "id": 1266,
+        "question": "Rastgelme, rastlantı sonucu",
         "letter": "T",
-        "answer": "Tebliğ, Tebliğ etme, Tebliğ etmek, Tebligat"
+        "answer": "Tesadüf, tesadüfi, tesadüf eseri, tesadüfen"
     },
     {
-        "id": 1073,
-        "question": "Akla uygun, yalnız akla dayanan, akli, rasyonel",
+        "id": 1067,
+        "question": "Uğraşılan şey, iş güç, meşgale",
         "letter": "U",
-        "answer": "Ussal"
+        "answer": "Uğraşı"
     },
     {
-        "id": 868,
-        "question": "Bina eteği, etek duvarı veya subasman",
+        "id": 1566,
+        "question": "Mecazen; Delirmek, aklını yitirmek",
         "letter": "Ü",
-        "answer": "Üstemel"
+        "answer": "Üşütmek, üşütme"
     },
     {
-        "id": 881,
-        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
+        "id": 877,
+        "question": "Bir Yasanın, Bir Kararın Yürürlüğe Girmesine Karşı Çıkma Hakkı",
         "letter": "V",
-        "answer": "Vernik, vernık"
+        "answer": "Veto"
     },
     {
-        "id": 734,
-        "question": "Su kıyısında yapılmış büyük, görkemli ev",
+        "id": 717,
+        "question": "Yüksek mahkeme, yüksek yargı kurulu",
         "letter": "Y",
-        "answer": "Yalı"
+        "answer": "Yargıtay"
     },
     {
-        "id": 511,
-        "question": "Saçma, saçma sapan, boş, anlamsız söz",
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
         "letter": "Z",
-        "answer": "zırva"
+        "answer": "Züğürt, züürt, zürt, zügürt"
     }
 ]

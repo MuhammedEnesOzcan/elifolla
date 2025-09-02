@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1340,
+        "question": "Herhangi bir konuda yapılan ön hazırlık",
+        "letter": "A",
+        "answer": "Antrenman, antreman, alıştırma"
+    },
+    {
+        "id": 132,
+        "question": "Yeni doğmuş, ana sütüyle beslenen sığır yavrusu",
+        "letter": "B",
+        "answer": "buzağı"
+    },
+    {
+        "id": 1373,
+        "question": "Bir ülkede yönetime el koyan kimselerden oluşan kurul",
+        "letter": "C",
+        "answer": "Cunta, cuntacılar, cunta kurulu"
+    },
+    {
+        "id": 792,
+        "question": "Bodur şelale",
+        "letter": "Ç",
+        "answer": "Çağlayan"
+    },
+    {
+        "id": 1401,
+        "question": "Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama, beyanat",
+        "letter": "D",
+        "answer": "Demeç, demeç verme, demeç vermek, demeç vermesi"
+    },
+    {
+        "id": 1418,
+        "question": "Vücutta istenmeyen kılları alma",
+        "letter": "E",
+        "answer": "Epilasyon"
+    },
+    {
+        "id": 1324,
+        "question": "Gemilerde kürek çeken tutsak veya hükümlü kimse",
+        "letter": "F",
+        "answer": "Forsa"
+    },
+    {
+        "id": 801,
+        "question": "Kolları açarak, göğsü ileriye omuzları geriye doğru esnetmek",
+        "letter": "G",
+        "answer": "Gerinmek, Gerinme, Gerilmek, Gerilme"
+    },
+    {
+        "id": 591,
+        "question": "Merkezi vücut sıcaklığının 35°C altına düşmesi",
+        "letter": "H",
+        "answer": "Hipotermi"
+    },
+    {
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
+        "letter": "İ",
+        "answer": "İşletme"
+    },
+    {
+        "id": 1282,
+        "question": "İş bakımından üstün tecrübeye sahip olan",
+        "letter": "K",
+        "answer": "Kıdemli, kıdem sahibi, kalifiye, kalifiye eleman"
+    },
+    {
+        "id": 292,
+        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "letter": "L",
+        "answer": "lobi"
+    },
+    {
+        "id": 633,
+        "question": "Virüslerin geçirdiği değişim",
+        "letter": "M",
+        "answer": "Mutasyon"
+    },
+    {
+        "id": 991,
+        "question": "Petrolden 100-250 °C arasında damıtılan ürün",
+        "letter": "N",
+        "answer": "Nafta"
+    },
+    {
+        "id": 1519,
+        "question": "İşitme taşı",
+        "letter": "O",
+        "answer": "Otolit"
+    },
+    {
+        "id": 365,
+        "question": "Gösterilen çaba, itina",
+        "letter": "Ö",
+        "answer": "özen, özenme, özenmek"
+    },
+    {
+        "id": 673,
+        "question": "Söz dalaşı",
+        "letter": "P",
+        "answer": "Polemik"
+    },
+    {
+        "id": 1025,
+        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
+        "letter": "R",
+        "answer": "run"
+    },
+    {
+        "id": 765,
+        "question": "İşlerine önem vermeyen, ihmalkâr",
+        "letter": "S",
+        "answer": "Savsak"
+    },
+    {
+        "id": 1458,
+        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
+        "letter": "Ş",
+        "answer": "Şurup"
+    },
+    {
+        "id": 1649,
+        "question": "Herhangi bir kas kümesinin irade dışı hareketi",
+        "letter": "T",
+        "answer": "Tik"
+    },
+    {
+        "id": 444,
+        "question": "Çok acayip, şaşılacak kadar çirkin olan",
+        "letter": "U",
+        "answer": "ucube"
+    },
+    {
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
+        "letter": "Ü",
+        "answer": "ülke"
+    },
+    {
+        "id": 1708,
+        "question": "Kökeni fransızca olup evlerin giriş kısmında ve ayakkabı, mont vb. şeylerin konulduğu yer",
+        "letter": "V",
+        "answer": "Vestiyer"
+    },
+    {
+        "id": 1553,
+        "question": "Birçok kimsenin veya nesnenin bir araya gelmesiyle oluşan kalabalık, küme, kitle, kütle",
+        "letter": "Y",
+        "answer": "Yığın"
+    },
+    {
+        "id": 1303,
+        "question": "Çapkın, kadın düşünü anlamlarındaki bir söz",
+        "letter": "Z",
+        "answer": "Zampara"
+    }
+]

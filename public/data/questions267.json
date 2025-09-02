@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1378,
+        "question": "Bir şeye dikkati yönelterek o şeyin bilincine varma, idrak",
+        "letter": "A",
+        "answer": "Algı, algılama, algılamak"
+    },
+    {
+        "id": 141,
+        "question": "Karşılıksız, emeksiz, parasız elde edilen, müft",
+        "letter": "B",
+        "answer": "beleş, bedava"
+    },
+    {
+        "id": 1376,
+        "question": "Bir soruya, bir isteğe, bir söz veya yazıya verilen karşılık, yanıt",
+        "letter": "C",
+        "answer": "Cevap, cevap verme, cevap vermek, cevaplama, cevaplamak"
+    },
+    {
+        "id": 540,
+        "question": "Sözlerin veya davranışların birbirini tutmaması",
+        "letter": "Ç",
+        "answer": "Çelişki"
+    },
+    {
+        "id": 188,
+        "question": "Doğrudan doğruya olmayan, dolayısıyla olan, vasıtalı, bilvasıta, endirekt",
+        "letter": "D",
+        "answer": "dolaylı, dolambaçlı"
+    },
+    {
+        "id": 796,
+        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
+        "letter": "E",
+        "answer": "Elbette"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 243,
+        "question": "Sonradan verilecek bir ceza ile korkutma, yıldırma, tehdit",
+        "letter": "G",
+        "answer": "gözdağı"
+    },
+    {
+        "id": 1902,
+        "question": "MECAZEN; “AHBAPLIK, DOSTLUK”",
+        "letter": "H",
+        "answer": "Hukuk"
+    },
+    {
+        "id": 259,
+        "question": "Açıklama durumu",
+        "letter": "İ",
+        "answer": "izah, izah etme, izah etme"
+    },
+    {
+        "id": 1783,
+        "question": "KİTABIN, DERGİNİN İÇERİĞİNİ ÖZETLEYEN DIŞ YÜZÜ",
+        "letter": "K",
+        "answer": "Kapak"
+    },
+    {
+        "id": 306,
+        "question": "Deniz veya ırmaklarda birdenbire derinleşen yer",
+        "letter": "L",
+        "answer": "longoz, longuz"
+    },
+    {
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "letter": "M",
+        "answer": "Mimar"
+    },
+    {
+        "id": 635,
+        "question": "Kuzey Atlantik Antlaşması Örgütü",
+        "letter": "N",
+        "answer": "NATO"
+    },
+    {
+        "id": 352,
+        "question": "Takıntılı (kimse)",
+        "letter": "O",
+        "answer": "obsesif"
+    },
+    {
+        "id": 1535,
+        "question": "Bilimde bir düzenli görüşü oluşturan ilke ve dogmaların bütünü, meslek, doktrin",
+        "letter": "Ö",
+        "answer": "Öğreti"
+    },
+    {
+        "id": 1917,
+        "question": "ŞEKER, YUMURTA VE KREMANIN ÇIRPILARAK DONDURULMASIYLA HAZIRLANAN FRANSIZ TATLISI",
+        "letter": "P",
+        "answer": "Parfe"
+    },
+    {
+        "id": 1805,
+        "question": "OSMANLIDA MALİYE İŞLEMLERİNDE KULLANILAN, GÜNEŞ YILI ESASINA DAYALI BİR TAKVİM TÜRÜ",
+        "letter": "R",
+        "answer": "Rumi, Rumi Takvim"
+    },
+    {
+        "id": 1124,
+        "question": "Acı, yoksulluk, haksızlık vb. üzücü durumlar karşısında ses çıkarmadan onların geçmesini bekleme erdemi, dayanç",
+        "letter": "S",
+        "answer": "sabır"
+    },
+    {
+        "id": 1680,
+        "question": "İnce yufkaların içine kaymak konulup üstüne dövülmüş fıstık serpilerek yapılan bir tür baklava",
+        "letter": "Ş",
+        "answer": "Şöbiyet"
+    },
+    {
+        "id": 1749,
+        "question": "Demokratik hak ve özgürlüklerin baskı altında tutulduğu devlet düzeni",
+        "letter": "T",
+        "answer": "Totaliter, Totaliter Rejim, Totalitarizm, Totalirite"
+    },
+    {
+        "id": 1067,
+        "question": "Uğraşılan şey, iş güç, meşgale",
+        "letter": "U",
+        "answer": "Uğraşı"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "letter": "V",
+        "answer": "Vize, vize belgesi"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 737,
+        "question": "Hoşluk, güzellik, incelik, zarif olma",
+        "letter": "Z",
+        "answer": "Zarafet, Zerafet"
+    }
+]

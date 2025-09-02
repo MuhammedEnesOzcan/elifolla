@@ -1,0 +1,158 @@
+[
+    {
+        "id": 948,
+        "question": "Yarı yaş, yarı kuru nemli toprak",
+        "letter": "A",
+        "answer": "alatav"
+    },
+    {
+        "id": 140,
+        "question": "Yaşama veya iş görme isteğini yitirmiş",
+        "letter": "B",
+        "answer": "Bezgin, bezmiş, bitap"
+    },
+    {
+        "id": 1309,
+        "question": "Canlı, neşeli ve sokulgan",
+        "letter": "C",
+        "answer": "Civelek"
+    },
+    {
+        "id": 179,
+        "question": "Çizilerek veya oyularak açılan kertik",
+        "letter": "Ç",
+        "answer": "çetele, çentik"
+    },
+    {
+        "id": 1398,
+        "question": "Aynı cinsten onluk bir küme",
+        "letter": "D",
+        "answer": "Deste"
+    },
+    {
+        "id": 1419,
+        "question": "Gereğinden fazla artış, pahalılaşma",
+        "letter": "E",
+        "answer": "Enflasyon, enflasyon oranı"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 1430,
+        "question": "Makine yağı",
+        "letter": "G",
+        "answer": "Gres, gres yağ, gres yağı"
+    },
+    {
+        "id": 592,
+        "question": "Sürtünme kuvvetinin yağ basıncı ile sağlandığı fren tipi",
+        "letter": "H",
+        "answer": "Hidrolik, hidrolik fren"
+    },
+    {
+        "id": 1101,
+        "question": "Bir düşünceyi anlatan bir veya birkaç cümlelik söz",
+        "letter": "İ",
+        "answer": "İbare"
+    },
+    {
+        "id": 612,
+        "question": "Isıtmada kullanılan yakıtı düzenli ve ayarlı biçimde yakan araç",
+        "letter": "K",
+        "answer": "Kombi"
+    },
+    {
+        "id": 982,
+        "question": "Bir dilin tarihi, yapısı, politik sebeplerden dolayı ses, yapı ve söz dizimiyle ayrılan bir kolu",
+        "letter": "L",
+        "answer": "Lehçe, lehçesi"
+    },
+    {
+        "id": 1933,
+        "question": "SOMUT YASALARIN ÖTESİNDE OLAN BİR FELSEFE DALI",
+        "letter": "M",
+        "answer": "Metafizik"
+    },
+    {
+        "id": 641,
+        "question": "Sinir sisteminin uyarıyı iletmekle görevli anatomik ve işlevsel birimi",
+        "letter": "N",
+        "answer": "Nöron, nöronlar"
+    },
+    {
+        "id": 654,
+        "question": "Kendini kontrol edebilen sürücüsüz araç",
+        "letter": "O",
+        "answer": "Otonom, Otonom araç, Otonom araba"
+    },
+    {
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "letter": "Ö",
+        "answer": "Önlem"
+    },
+    {
+        "id": 1019,
+        "question": "Telli sazları çalmaya yarayan ve kemik, boynuz vb. şeylerden yapılan çalma aracı, mızrap, çalgıç",
+        "letter": "P",
+        "answer": "pena"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 1270,
+        "question": "Tarihte ilk yazılı metinlere sahip olan medeniyet",
+        "letter": "S",
+        "answer": "Sümer, Sümerler"
+    },
+    {
+        "id": 1461,
+        "question": "Mecazen \"Kovmak, kapı dışarı etmek\"",
+        "letter": "Ş",
+        "answer": "Şutlama, Şutlamak"
+    },
+    {
+        "id": 835,
+        "question": "Sabaha doğru çıkan hafif rüzgar",
+        "letter": "T",
+        "answer": "Tanyeli, tan, tan rüzgarı"
+    },
+    {
+        "id": 892,
+        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "letter": "U",
+        "answer": "Uzman"
+    },
+    {
+        "id": 854,
+        "question": "Isı azlığı nedeniyle soğuğun etkisini duymak",
+        "letter": "Ü",
+        "answer": "Üşümek"
+    },
+    {
+        "id": 483,
+        "question": "Sürekli bir yönde gidip gelme, yürüme, dolaşma",
+        "letter": "V",
+        "answer": "volta, volta atma, volta atmak"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 736,
+        "question": "\"Kara Kekik\" olarak bilinen yabani ot çeşidi, baharat",
+        "letter": "Z",
+        "answer": "Zahter, zahter otu"
+    }
+]

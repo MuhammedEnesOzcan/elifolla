@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1162,
+        "question": "Birden fazla sıralı halde iki tarafı ağaçlı yol",
+        "letter": "A",
+        "answer": "Alle, Alle yol"
+    },
+    {
+        "id": 785,
+        "question": "Eskiden tercüme-i hal denilen yaşam öyküsü",
+        "letter": "B",
+        "answer": "Biyografi"
+    },
+    {
+        "id": 1150,
+        "question": "Kudret sahibi Tanrı",
+        "letter": "C",
+        "answer": "cebbar"
+    },
+    {
+        "id": 1545,
+        "question": "Yüzü çiçek hastalığından kalma küçük yara izleri taşıyan, aşırı çiçek bozuğu olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çopur"
+    },
+    {
+        "id": 194,
+        "question": "Açık sözlü",
+        "letter": "D",
+        "answer": "dobra"
+    },
+    {
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
+        "letter": "E",
+        "answer": "Endoskop"
+    },
+    {
+        "id": 969,
+        "question": "Başkalık, ayrım, nüans",
+        "letter": "F",
+        "answer": "Fark, farklılık"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 594,
+        "question": "Sınır, uç noktası",
+        "letter": "H",
+        "answer": "Hudut"
+    },
+    {
+        "id": 269,
+        "question": "Yararlanılan uygun şart veya durum, olanak",
+        "letter": "İ",
+        "answer": "imkan"
+    },
+    {
+        "id": 1922,
+        "question": "FRANSIZCA KÖKENLİ “KONTRAST” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Karşıtlık"
+    },
+    {
+        "id": 1704,
+        "question": "Meyve ve bazı bitkiler ile alkol, esans karışımından yapılan şekerli içki",
+        "letter": "L",
+        "answer": "Likör"
+    },
+    {
+        "id": 1807,
+        "question": "Bir kişiye haberi verilmiş olan şeyler, havadisler",
+        "letter": "M",
+        "answer": "Malumat"
+    },
+    {
+        "id": 989,
+        "question": "Bir şeyi hatırlamak için yazılan kısa yazı",
+        "letter": "N",
+        "answer": "Not, not etme, not etmek"
+    },
+    {
+        "id": 998,
+        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
+        "letter": "O",
+        "answer": "oya"
+    },
+    {
+        "id": 1533,
+        "question": "Tazminat",
+        "letter": "Ö",
+        "answer": "Ödence"
+    },
+    {
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
+        "letter": "P",
+        "answer": "plaj"
+    },
+    {
+        "id": 395,
+        "question": "Orta kaldırım",
+        "letter": "R",
+        "answer": "refüj"
+    },
+    {
+        "id": 1185,
+        "question": "Odun talaşının preslenmesi sonucu oluşan yonga levha",
+        "letter": "S",
+        "answer": "Sunta, suntalam"
+    },
+    {
+        "id": 67,
+        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "letter": "Ş",
+        "answer": "Şanlıurfa, Şanlı Urfa"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 464,
+        "question": "Korkuya çabuk kapılan",
+        "letter": "Ü",
+        "answer": "ürkek"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 733,
+        "question": "Alışamamak, yabancılık çekmek",
+        "letter": "Y",
+        "answer": "Yadırgama, Yadırgamak"
+    },
+    {
+        "id": 506,
+        "question": "Zorunlu, gerekli",
+        "letter": "Z",
+        "answer": "zaruri"
+    }
+]

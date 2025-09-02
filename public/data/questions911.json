@@ -1,0 +1,158 @@
+[
+    {
+        "id": 125,
+        "question": "Eşyayı sarmaya yarayan mukavva, kâğıt, tahta, plastik vb. malzeme",
+        "letter": "A",
+        "answer": "ambalaj"
+    },
+    {
+        "id": 1230,
+        "question": "Birdenbire ortaya çıkan tehlikeli durum",
+        "letter": "B",
+        "answer": "Badire, badire atlatma, badire atlatmak"
+    },
+    {
+        "id": 964,
+        "question": "Cam ticaretini veya cam takmayı meslek edinmiş kimse",
+        "letter": "C",
+        "answer": "Camcı"
+    },
+    {
+        "id": 179,
+        "question": "Çizilerek veya oyularak açılan kertik",
+        "letter": "Ç",
+        "answer": "çetele, çentik"
+    },
+    {
+        "id": 553,
+        "question": "Sınır dışı etme, uzaklaştırma",
+        "letter": "D",
+        "answer": "Deport, deport etme, deport etmek"
+    },
+    {
+        "id": 1410,
+        "question": "Mal ve değerlere ait döküm",
+        "letter": "E",
+        "answer": "Envanter"
+    },
+    {
+        "id": 1093,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "Facia"
+    },
+    {
+        "id": 1422,
+        "question": "Gece kalmadan aynı gün dönmek üzere yapılan ziyaret ya da gezi",
+        "letter": "G",
+        "answer": "Günübirlik"
+    },
+    {
+        "id": 1216,
+        "question": "Arma bilimi ve mühür biliminin diğer adı",
+        "letter": "H",
+        "answer": "Heraldik"
+    },
+    {
+        "id": 1607,
+        "question": "Üreticiden aldığı malları tezgah ve taşıma araçları ile cadde ve sokaklarda pazarlayan kimse ",
+        "letter": "İ",
+        "answer": "İşportacı"
+    },
+    {
+        "id": 1939,
+        "question": "Küp şekere göre daha büyük boyutta özellikle Erzurum yöresine ait şeker türü",
+        "letter": "K",
+        "answer": "Kıtlama, Kıtlama Şeker"
+    },
+    {
+        "id": 623,
+        "question": "Eğlence yerlerinde veya parlamento salonlarında özel bölme",
+        "letter": "L",
+        "answer": "Loca"
+    },
+    {
+        "id": 1632,
+        "question": "Yakıt olarak kullanılan, ham petrolün damıtma ürünlerinden biri, motorin",
+        "letter": "M",
+        "answer": "Mazot"
+    },
+    {
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "letter": "N",
+        "answer": "Nostalji, nostaliji"
+    },
+    {
+        "id": 1898,
+        "question": "GÖZETİLEN AMACA VEYA BEKLENİLENE UYGUN OLMAYAN, MENFİ",
+        "letter": "O",
+        "answer": "Olumsuz"
+    },
+    {
+        "id": 1481,
+        "question": "Bir sorunu çözmek üzere öne sürülen görüş, düşünce, teklif",
+        "letter": "Ö",
+        "answer": "Öneri"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 386,
+        "question": "Dileyiş, dileme, dilek",
+        "letter": "R",
+        "answer": "rica"
+    },
+    {
+        "id": 1291,
+        "question": "Görev, yetki vb.ni kötüye kullanma",
+        "letter": "S",
+        "answer": "Suistimal, suistimal etme, suistimal etmek"
+    },
+    {
+        "id": 430,
+        "question": "Saydam, yalın, açık",
+        "letter": "Ş",
+        "answer": "şeffaf"
+    },
+    {
+        "id": 434,
+        "question": "Hükümdarların oturduğu büyük, süslü koltuk",
+        "letter": "T",
+        "answer": "taht"
+    },
+    {
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "letter": "U",
+        "answer": "Uydu, uydusu"
+    },
+    {
+        "id": 1471,
+        "question": "Havlamak",
+        "letter": "Ü",
+        "answer": "Ürümek"
+    },
+    {
+        "id": 482,
+        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
+        "letter": "V",
+        "answer": "vezne"
+    },
+    {
+        "id": 1582,
+        "question": "Hoşa gitmeyen, tatsız",
+        "letter": "Y",
+        "answer": "Yavan"
+    },
+    {
+        "id": 1956,
+        "question": "Ağaçlardan elde edilen, eriyiği yapıştırıcı olarak kullanılan renksiz veya sarı kırmızımtırak renkte biçimsiz madde",
+        "letter": "Z",
+        "answer": "Zamk"
+    }
+]

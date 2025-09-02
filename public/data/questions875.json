@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1722,
+        "question": "İsimleri aynı olan 2 kişinin hitap etmek için birbirine kullandıkları kelime ",
+        "letter": "A",
+        "answer": "Adaş"
+    },
+    {
+        "id": 1353,
+        "question": "Bazı ağaçlardan elde edilen, parfüm ve ilaç yapımında kullanılan reçine",
+        "letter": "B",
+        "answer": "Balsam"
+    },
+    {
+        "id": 160,
+        "question": "Üzerinde savaşın sürdüğü bölge",
+        "letter": "C",
+        "answer": "cephe, cephe bölgesi"
+    },
+    {
+        "id": 1447,
+        "question": "Çevresine göre aşağı çökmüş olan yer",
+        "letter": "Ç",
+        "answer": "Çukur"
+    },
+    {
+        "id": 199,
+        "question": "Yaşayışı ve davranışı düzensiz (kimse)",
+        "letter": "D",
+        "answer": "derbeder"
+    },
+    {
+        "id": 1954,
+        "question": "İnsanın davranışlarını etkileyecek kadar güçlü olan tılsım, büyü",
+        "letter": "E",
+        "answer": "Efsun"
+    },
+    {
+        "id": 1490,
+        "question": "Koku, ilaç vb. sıvıları püskürtmek için kullanılan araç",
+        "letter": "F",
+        "answer": "Fısfıs"
+    },
+    {
+        "id": 800,
+        "question": "Abartılı, aldatıcı ve yapay davranış",
+        "letter": "G",
+        "answer": "Gösteriş, Gösterişli"
+    },
+    {
+        "id": 1247,
+        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
+        "letter": "H",
+        "answer": "Hegemonya, hegamonya, hegomonya"
+    },
+    {
+        "id": 256,
+        "question": "Alınmış bir şeyi geri verme",
+        "letter": "İ",
+        "answer": "iade"
+    },
+    {
+        "id": 281,
+        "question": "Silah, kılıç vb. şeylerde tutulacak yer, tutak, sap",
+        "letter": "K",
+        "answer": "kabza"
+    },
+    {
+        "id": 983,
+        "question": "Deniz kulağı",
+        "letter": "L",
+        "answer": "Lagün"
+    },
+    {
+        "id": 629,
+        "question": "Tek, ayrı, kendi başına olan",
+        "letter": "M",
+        "answer": "Münferit"
+    },
+    {
+        "id": 339,
+        "question": "Tavsiye, öğüt",
+        "letter": "N",
+        "answer": "nasihat"
+    },
+    {
+        "id": 645,
+        "question": "Doğal yolla yapılan",
+        "letter": "O",
+        "answer": "Organik"
+    },
+    {
+        "id": 367,
+        "question": "Bir maddenin herhangi bir yolla elde edilmiş olan özü",
+        "letter": "Ö",
+        "answer": "özüt, özütü"
+    },
+    {
+        "id": 383,
+        "question": "Birine saldırmak için saklanarak beklenilen yer",
+        "letter": "P",
+        "answer": "pusu"
+    },
+    {
+        "id": 401,
+        "question": "Su düzeyindeki sıra kayalar",
+        "letter": "R",
+        "answer": "resif, resifler"
+    },
+    {
+        "id": 1752,
+        "question": "Vücuttaki işlevsel bir bozukluğun veya hastalığın belirlenmesine yarayan işaret",
+        "letter": "S",
+        "answer": "Semptom"
+    },
+    {
+        "id": 430,
+        "question": "Saydam, yalın, açık",
+        "letter": "Ş",
+        "answer": "şeffaf"
+    },
+    {
+        "id": 710,
+        "question": "Cep telefonu operatörlerinin belirledikleri fiyatlandırma sistemi",
+        "letter": "T",
+        "answer": "Tarife"
+    },
+    {
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "letter": "U",
+        "answer": "Uydu, uydusu"
+    },
+    {
+        "id": 880,
+        "question": "Hastalıkları iyileştirdiğine inanılan soluk",
+        "letter": "Ü",
+        "answer": "Üfürük, üfürme"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 510,
+        "question": "Sesin bir yere çarpıp geri dönmesiyle duyulan ikinci ses",
+        "letter": "Y",
+        "answer": "yankı"
+    },
+    {
+        "id": 501,
+        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
+        "letter": "Z",
+        "answer": "zırh"
+    }
+]

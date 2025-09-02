@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1250,
+        "question": "Mavi turnusol kağıdını kırmızıya çeviren, pH derecesi 7'den düşük olan, yakıcı - aşındırıcı özelliğe sahip kimyasal madde",
+        "letter": "A",
+        "answer": "Asit, asidik madde, asitik madde, asitler"
+    },
+    {
+        "id": 744,
+        "question": "Bir cismin herhangi bir yöndeki uzanımı",
+        "letter": "B",
+        "answer": "Boyut, boyutu"
+    },
+    {
+        "id": 156,
+        "question": "Bir devlet veya kuruluşun gizli amaçları için çalışan kimse, ajan",
+        "letter": "C",
+        "answer": "casus"
+    },
+    {
+        "id": 1485,
+        "question": "Etkili, dikkat çeken, sansasyonel",
+        "letter": "Ç",
+        "answer": "Çarpıcı, çarpıcı olay"
+    },
+    {
+        "id": 1829,
+        "question": "\"DOĞRU\", \"BİÇİMLİ\", \"MUNTAZAM\" ANLAMINA GELEN BİR SÖZCÜK",
+        "letter": "D",
+        "answer": "Düzgün, Düzenli"
+    },
+    {
+        "id": 200,
+        "question": "Boyut, ölçü",
+        "letter": "E",
+        "answer": "ebat"
+    },
+    {
+        "id": 1913,
+        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
+        "letter": "F",
+        "answer": "Fasikül"
+    },
+    {
+        "id": 803,
+        "question": "Ağız ve burun boşluğunun arka bölümü",
+        "letter": "G",
+        "answer": "Geniz"
+    },
+    {
+        "id": 1437,
+        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "letter": "H",
+        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+    },
+    {
+        "id": 1944,
+        "question": "BİR ESERİN ARKASINDA YER ALAN ALFABETİK LİSTE",
+        "letter": "İ",
+        "answer": "İndeks"
+    },
+    {
+        "id": 1914,
+        "question": "TERSANELERDE ÜZERİNDE GEMİ YAPILAN, ONARILAN VEYA GEMİYİ SUYA İNDİRİP SUDAN ÇIKARMAYA YARAYAN IZGARA",
+        "letter": "K",
+        "answer": "Kızak"
+    },
+    {
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
+        "letter": "L",
+        "answer": "Lanse, lanse etme, lanse etmek"
+    },
+    {
+        "id": 1619,
+        "question": "Bir eserde sık sık tekrarlanan süsleyici öge",
+        "letter": "M",
+        "answer": "Motif"
+    },
+    {
+        "id": 1767,
+        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
+        "letter": "N",
+        "answer": "Numara, Numara yapma, Numara yapmak"
+    },
+    {
+        "id": 999,
+        "question": "Klavyelilerden farklı ses ton ve modlarına sahip olabilen çalgı",
+        "letter": "O",
+        "answer": "org"
+    },
+    {
+        "id": 354,
+        "question": "Dokularda, hücreler arası boşluklarda aşırı miktarda sıvı birikmesi",
+        "letter": "Ö",
+        "answer": "ödem"
+    },
+    {
+        "id": 32,
+        "question": "Yer altından çıkartılan, yağa benzer, sıvı formda bulunan ham madde",
+        "letter": "P",
+        "answer": "Petrol"
+    },
+    {
+        "id": 1645,
+        "question": "Aynı amacı güden kimseler arasındaki çekişme, yarış",
+        "letter": "R",
+        "answer": "Rekabet"
+    },
+    {
+        "id": 1874,
+        "question": "ÇEKİNİLMESİ, DİKKATLİ OLUNMASI GEREKEN DURUM",
+        "letter": "S",
+        "answer": "Sakınca, Sakıncalı, Sakıncalı durum"
+    },
+    {
+        "id": 1912,
+        "question": "ÜLKE ÇAPINDA YAYGINLAŞTIRILMIŞ ULAŞIM VE İLETİŞİM ÖRGÜSÜ, AĞ",
+        "letter": "Ş",
+        "answer": "Şebeke, Şebeke ağı"
+    },
+    {
+        "id": 1911,
+        "question": "“BİR KABIN TAŞIYABİLDİĞİ EN FAZLA MİKTARI” İFADE EDEN SÖZ",
+        "letter": "T",
+        "answer": "Tepeleme"
+    },
+    {
+        "id": 1909,
+        "question": "“MEYMENETSİZ, MUSİBET” ANLAMLARINA GELEN BİR SÖZ",
+        "letter": "U",
+        "answer": "Uğursuz"
+    },
+    {
+        "id": 769,
+        "question": "Korkunun yarattığı serinlik",
+        "letter": "Ü",
+        "answer": "Ürperti, Ürpermek"
+    },
+    {
+        "id": 1571,
+        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
+        "letter": "V",
+        "answer": "Vasıfsız, vasıfsız eleman"
+    },
+    {
+        "id": 733,
+        "question": "Alışamamak, yabancılık çekmek",
+        "letter": "Y",
+        "answer": "Yadırgama, Yadırgamak"
+    },
+    {
+        "id": 1167,
+        "question": "En yüksek nokta, tepe",
+        "letter": "Z",
+        "answer": "Zirve"
+    }
+]

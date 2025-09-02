@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1081,
+        "question": "Masa başında uydurulup gerçekmiş gibi yayımlanan yalan haber",
+        "letter": "A",
+        "answer": "Asparagas, asparagas haber"
+    },
+    {
+        "id": 1602,
+        "question": "Alım ve de satım işleri ile ilgilenmekte olan şirketlere aracılıklar yapan komisyoncu",
+        "letter": "B",
+        "answer": "Broker"
+    },
+    {
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
+        "letter": "C",
+        "answer": "Cenah"
+    },
+    {
+        "id": 1448,
+        "question": "İri köpek, çoban köpeği",
+        "letter": "Ç",
+        "answer": "Çomar"
+    },
+    {
+        "id": 1396,
+        "question": "Sıkıştırılmış hava içine püskürtülen mazotla çalışan motor",
+        "letter": "D",
+        "answer": "Dizel, dizel motor"
+    },
+    {
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
+        "letter": "E",
+        "answer": "emare"
+    },
+    {
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "letter": "F",
+        "answer": "Freze"
+    },
+    {
+        "id": 1429,
+        "question": "Toprak altına gömülerek saklanmış para veya değerli şeyler, define",
+        "letter": "G",
+        "answer": "Gömü"
+    },
+    {
+        "id": 1733,
+        "question": "Normalin üstünde bir hareketliliğe ve aktifliğe sahip olma durumu",
+        "letter": "H",
+        "answer": "Hiperaktivite, hiperaktiflik"
+    },
+    {
+        "id": 269,
+        "question": "Yararlanılan uygun şart veya durum, olanak",
+        "letter": "İ",
+        "answer": "imkan"
+    },
+    {
+        "id": 283,
+        "question": "Mısırın taneleri atıldıktan sonra kalan sert bölüm",
+        "letter": "K",
+        "answer": "koçan"
+    },
+    {
+        "id": 1704,
+        "question": "Meyve ve bazı bitkiler ile alkol, esans karışımından yapılan şekerli içki",
+        "letter": "L",
+        "answer": "Likör"
+    },
+    {
+        "id": 1622,
+        "question": "Hayatın güldürücü yönünü ortaya çıkaran sanat türü",
+        "letter": "M",
+        "answer": "Mizah"
+    },
+    {
+        "id": 640,
+        "question": "Söz, konuşma, söylev",
+        "letter": "N",
+        "answer": "Nutuk, Nutuk okuma, Nutuk okumak"
+    },
+    {
+        "id": 820,
+        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
+        "letter": "O",
+        "answer": "Otlak, otlak arazi, ova"
+    },
+    {
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
+        "letter": "Ö",
+        "answer": "Öbür, Öbürü"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 683,
+        "question": "Yanlış, yozlaşmış, vb. şeylerin iyileştirilmesi veya köklü değiştirilmesi",
+        "letter": "R",
+        "answer": "Reform, Reform yapma, Reform yapmak"
+    },
+    {
+        "id": 409,
+        "question": "Depolanmış, yığın",
+        "letter": "S",
+        "answer": "stok, stoklanmış"
+    },
+    {
+        "id": 1685,
+        "question": "İsrail para birimi",
+        "letter": "Ş",
+        "answer": "Şekel"
+    },
+    {
+        "id": 1927,
+        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
+        "letter": "T",
+        "answer": "Takıntı, Takıntılık, Takma, Takmak"
+    },
+    {
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
+        "letter": "U",
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
+    },
+    {
+        "id": 1315,
+        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "letter": "Ü",
+        "answer": "Ütopik"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 741,
+        "question": "Anı Olarak Alınan Ya Da Verilen Şey",
+        "letter": "Y",
+        "answer": "Yadigar"
+    },
+    {
+        "id": 1245,
+        "question": "Eski dilde deprem",
+        "letter": "Z",
+        "answer": "Zelzele"
+    }
+]

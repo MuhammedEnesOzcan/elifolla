@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1727,
+        "question": "Ay yüzeyine yapılan ilk insanlı uzay uçuşu projesi",
+        "letter": "A",
+        "answer": "Apollo, apollo 11"
+    },
+    {
+        "id": 1345,
+        "question": "Kum ve çimentonun birleştirilmesiyle elde edilen yapı malzemesi",
+        "letter": "B",
+        "answer": "Briket"
+    },
+    {
+        "id": 1376,
+        "question": "Bir soruya, bir isteğe, bir söz veya yazıya verilen karşılık, yanıt",
+        "letter": "C",
+        "answer": "Cevap, cevap verme, cevap vermek, cevaplama, cevaplamak"
+    },
+    {
+        "id": 99,
+        "question": "Bulunulan çağın anlayışına, şartlarına uygun olan, modern, muasır",
+        "letter": "Ç",
+        "answer": "çağdaş"
+    },
+    {
+        "id": 195,
+        "question": "Bir şeyin üzerine bir nişan, bir işaret basmaya yarayan araç",
+        "letter": "D",
+        "answer": "damga"
+    },
+    {
+        "id": 1279,
+        "question": "Bitkilerden çıkarılan veya kimya yardımıyla çeşitli maddelerden elde edilen kokulu, uçucu sıvı",
+        "letter": "E",
+        "answer": "Esans, esansı"
+    },
+    {
+        "id": 571,
+        "question": "Bir girişimde başarısız sonuç",
+        "letter": "F",
+        "answer": "Fiyasko"
+    },
+    {
+        "id": 234,
+        "question": "Olağanüstü yarar göstererek savaştan sağ olarak dönen kimse",
+        "letter": "G",
+        "answer": "gazi"
+    },
+    {
+        "id": 249,
+        "question": "Aşağı görülen, değersiz",
+        "letter": "H",
+        "answer": "hakir"
+    },
+    {
+        "id": 1692,
+        "question": "“TRAFİĞİ ÇOK OLAN, CANLI, HAREKETLİ, YOĞUN VE KALABALIK” ANLAMLARINDA KULLANILAN BİR SÖZ",
+        "letter": "İ",
+        "answer": "İşlek, işlek yol, işlek cadde"
+    },
+    {
+        "id": 612,
+        "question": "Isıtmada kullanılan yakıtı düzenli ve ayarlı biçimde yakan araç",
+        "letter": "K",
+        "answer": "Kombi"
+    },
+    {
+        "id": 302,
+        "question": "Bazı bitkilerin genellikle süt görünüşünde olan öz suyu",
+        "letter": "L",
+        "answer": "lateks"
+    },
+    {
+        "id": 318,
+        "question": "On kişilik asker birliği",
+        "letter": "M",
+        "answer": "manga"
+    },
+    {
+        "id": 638,
+        "question": "Sıklığı az olan, seyrek",
+        "letter": "N",
+        "answer": "Nadir"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 372,
+        "question": "Bir iş için ayrılan belli para, tahsisat",
+        "letter": "Ö",
+        "answer": "ödenek"
+    },
+    {
+        "id": 1271,
+        "question": "\"Sokrates'in Savunması\" adlı eseri yazan ünlü filozof",
+        "letter": "P",
+        "answer": "Platon"
+    },
+    {
+        "id": 1029,
+        "question": "Bir tiyatro sahnesinin önünde, ışık ve ışıldakların yerleştirildiği, izleyiciye en yakın yer",
+        "letter": "R",
+        "answer": "Ramp"
+    },
+    {
+        "id": 412,
+        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "letter": "S",
+        "answer": "statü, statüsü"
+    },
+    {
+        "id": 898,
+        "question": "Oda İçinde Tuğla Ya Da Taşdan Yapılmış Ocak",
+        "letter": "Ş",
+        "answer": "Şömine, somine"
+    },
+    {
+        "id": 710,
+        "question": "Cep telefonu operatörlerinin belirledikleri fiyatlandırma sistemi",
+        "letter": "T",
+        "answer": "Tarife"
+    },
+    {
+        "id": 1558,
+        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "letter": "U",
+        "answer": "Ulus"
+    },
+    {
+        "id": 728,
+        "question": "Bir düşünce veya istek üzerinde durmak, direnmek, ısrar etmek",
+        "letter": "Ü",
+        "answer": "Üsteleme, Üstelemek"
+    },
+    {
+        "id": 1571,
+        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
+        "letter": "V",
+        "answer": "Vasıfsız, vasıfsız eleman"
+    },
+    {
+        "id": 904,
+        "question": "Yeni doğmuş hayvan",
+        "letter": "Y",
+        "answer": "Yavru"
+    },
+    {
+        "id": 506,
+        "question": "Zorunlu, gerekli",
+        "letter": "Z",
+        "answer": "zaruri"
+    }
+]

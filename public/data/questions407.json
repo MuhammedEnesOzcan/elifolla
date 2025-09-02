@@ -1,0 +1,158 @@
+[
+    {
+        "id": 102,
+        "question": "Bir işin yabancısı olan, eli işe alışmamış, bir işi beceremeyen",
+        "letter": "A",
+        "answer": "acemi"
+    },
+    {
+        "id": 142,
+        "question": "Bir düşünceye, bir inanışa aşırı ölçüde bağlanıp ondan başka bir düşünce ve inanışı kabul etmeyen, mutaassıp, fanatik",
+        "letter": "B",
+        "answer": "bağnaz"
+    },
+    {
+        "id": 914,
+        "question": "At Alıp Satan Kimse",
+        "letter": "C",
+        "answer": "Cambaz, canbaz"
+    },
+    {
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
+        "letter": "Ç",
+        "answer": "Çaça"
+    },
+    {
+        "id": 185,
+        "question": "Evlerde çocuğa bakan kimse, daye",
+        "letter": "D",
+        "answer": "dadı"
+    },
+    {
+        "id": 216,
+        "question": "Damar tıkanıklığı",
+        "letter": "E",
+        "answer": "emboli"
+    },
+    {
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
+        "letter": "F",
+        "answer": "Ferah"
+    },
+    {
+        "id": 583,
+        "question": "At yarışlarında birinciliği kazanan at",
+        "letter": "G",
+        "answer": "Ganyan"
+    },
+    {
+        "id": 1243,
+        "question": "Kilit, menteşe, tel, çivi, vida gibi metal eşya, nalbur malzemeleri",
+        "letter": "H",
+        "answer": "Hırdavat, hirdavat, hırdavatçı, hirdavatci"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 289,
+        "question": "Düşünüleni dolaylı olarak anlatan söz",
+        "letter": "K",
+        "answer": "kinaye, kinayeli"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 1108,
+        "question": "Miskete fiske vurarak oynanan zıpzıp oyunu",
+        "letter": "M",
+        "answer": "madık, Madik"
+    },
+    {
+        "id": 1675,
+        "question": "Etki altına alma, söz geçirme, güçlü olma",
+        "letter": "N",
+        "answer": "Nüfuz, nüfuz etme, nüfuz etmek"
+    },
+    {
+        "id": 30,
+        "question": "Düz ve geniş arazi",
+        "letter": "O",
+        "answer": "Ova"
+    },
+    {
+        "id": 1536,
+        "question": "Tatlı sularda yaşayan, kamçı biçimindeki uzantısı ile hareket eden mekik biçimindeki bir hücreli",
+        "letter": "Ö",
+        "answer": "Öglena"
+    },
+    {
+        "id": 824,
+        "question": "Yufka biçiminde kurutulmuş meyve ezmesi",
+        "letter": "P",
+        "answer": "Pestil"
+    },
+    {
+        "id": 1122,
+        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
+        "letter": "R",
+        "answer": "rapor"
+    },
+    {
+        "id": 1276,
+        "question": "Elle tutulur, gerçek",
+        "letter": "S",
+        "answer": "Somut, sahi, sahici"
+    },
+    {
+        "id": 1686,
+        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
+        "letter": "Ş",
+        "answer": "Şapel"
+    },
+    {
+        "id": 836,
+        "question": "Bulunduğu kaba sığmayıp kenarları aşmak",
+        "letter": "T",
+        "answer": "Taşma, Taşmak, Taşması"
+    },
+    {
+        "id": 1079,
+        "question": "Birinin yapmakla yükümlü olduğu iş, görev",
+        "letter": "U",
+        "answer": "uhde"
+    },
+    {
+        "id": 864,
+        "question": "Olması istenmeyen olaylardan doğan ruh tedirginliği",
+        "letter": "Ü",
+        "answer": "Üzüntü"
+    },
+    {
+        "id": 1568,
+        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "letter": "V",
+        "answer": "Vardiya"
+    },
+    {
+        "id": 497,
+        "question": "Yıkılmış olan, harap, viran",
+        "letter": "Y",
+        "answer": "yıkık"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

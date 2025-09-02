@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1340,
+        "question": "Herhangi bir konuda yapılan ön hazırlık",
+        "letter": "A",
+        "answer": "Antrenman, antreman, alıştırma"
+    },
+    {
+        "id": 42,
+        "question": "Türk halk müziğinde en çok popüler telli çalgı",
+        "letter": "B",
+        "answer": "Bağlama"
+    },
+    {
+        "id": 1371,
+        "question": "Hayvanlarda tür, çeşit",
+        "letter": "C",
+        "answer": "Cins, cinsleri"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 550,
+        "question": "Gregor Samsa karakterinin yer aldığı Franz Kafka romanı",
+        "letter": "D",
+        "answer": "Dönüşüm"
+    },
+    {
+        "id": 1406,
+        "question": "Toprak, kül gibi toz durumunda bulunan şeyleri hafifçe kazıp karıştırmak",
+        "letter": "E",
+        "answer": "Eşelemek, eşeleme"
+    },
+    {
+        "id": 227,
+        "question": "Satıcının alıcıya verdiği hesap pusulası",
+        "letter": "F",
+        "answer": "fatura, fiş"
+    },
+    {
+        "id": 1966,
+        "question": "Tavla oyununda elinde kırık taşı bulunan oyuncunun attığı, uygun olmayan zar",
+        "letter": "G",
+        "answer": "GELE"
+    },
+    {
+        "id": 1853,
+        "question": "METAL, PLASTİK VEYA AHŞAPTAN YAPILMIŞ ÇEŞİTLİ KULLANIM ALANLARI OLAN ÇEMBER",
+        "letter": "H",
+        "answer": "Halka"
+    },
+    {
+        "id": 260,
+        "question": "Kötü bir olaydan alınması gereken ders, uyarıcı sonuç",
+        "letter": "İ",
+        "answer": "ibret, ibret alma, ibret almak"
+    },
+    {
+        "id": 756,
+        "question": "Saygısızlığı meziyet olarak kabul eden kişi",
+        "letter": "K",
+        "answer": "Küstah"
+    },
+    {
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
+        "letter": "L",
+        "answer": "Lunapark"
+    },
+    {
+        "id": 1613,
+        "question": "Kaçınması ve öngörülmesi söz konusu olmayan neden",
+        "letter": "M",
+        "answer": "Mücbir, mücbir sebep, mücbir sebepler"
+    },
+    {
+        "id": 1675,
+        "question": "Etki altına alma, söz geçirme, güçlü olma",
+        "letter": "N",
+        "answer": "Nüfuz, nüfuz etme, nüfuz etmek"
+    },
+    {
+        "id": 1000,
+        "question": "Keçi yavrusu",
+        "letter": "O",
+        "answer": "Oğlak"
+    },
+    {
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "letter": "Ö",
+        "answer": "ölmek, ölüm, ölme"
+    },
+    {
+        "id": 1730,
+        "question": "Kolaylıkla uygulanabilir, kullanışlı olan",
+        "letter": "P",
+        "answer": "Pratik"
+    },
+    {
+        "id": 1872,
+        "question": "BİR DAİREDE YARIÇAP UZUNLUĞUNDAKİ YAY PARÇASINI GÖREN MERKEZ AÇIYA, EŞİT AÇI ÖLÇME BİRİMİ",
+        "letter": "R",
+        "answer": "Radyan"
+    },
+    {
+        "id": 1042,
+        "question": "Sen zamirinin yönelme durumu",
+        "letter": "S",
+        "answer": "sana"
+    },
+    {
+        "id": 1057,
+        "question": "İçine mendil, gecelik vb. şeyleri koymaya yarayan, çeşitli büyüklükte, kumaştan koruncak",
+        "letter": "Ş",
+        "answer": "Şase"
+    },
+    {
+        "id": 720,
+        "question": "Tutum, idareli tüketme",
+        "letter": "T",
+        "answer": "Tasarruf, Tasaruf"
+    },
+    {
+        "id": 1072,
+        "question": "Fikir, sanat ve endüstri alanlarında çok büyük bir gelişme göstermiş olan, medeni, mütemeddin",
+        "letter": "U",
+        "answer": "uygar"
+    },
+    {
+        "id": 1702,
+        "question": "Bir peygambere inanıp onun yolunu seçen kimselerin tümü",
+        "letter": "Ü",
+        "answer": "Ümmet, Ümmed"
+    },
+    {
+        "id": 870,
+        "question": "Bir vadi ya da ırmak üzerine kurulan yüksek ve uzun köprü",
+        "letter": "V",
+        "answer": "Viyadük, vıyaduk"
+    },
+    {
+        "id": 734,
+        "question": "Su kıyısında yapılmış büyük, görkemli ev",
+        "letter": "Y",
+        "answer": "Yalı"
+    },
+    {
+        "id": 502,
+        "question": "Aldatıcı şey, tuzak, hile",
+        "letter": "Z",
+        "answer": "zoka"
+    }
+]

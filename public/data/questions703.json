@@ -1,0 +1,158 @@
+[
+    {
+        "id": 519,
+        "question": "Tatar yayı veya kurmalı yay denen uzak mesafe silahı",
+        "letter": "A",
+        "answer": "Arbalet"
+    },
+    {
+        "id": 143,
+        "question": "Bir şehir veya bir bölge avukatlarının bağlı oldukları meslek kuruluşu",
+        "letter": "B",
+        "answer": "baro"
+    },
+    {
+        "id": 1363,
+        "question": "Ateşli silahlarla atılmak için hazırlanan her türlü patlayıcı madde, mühimmat",
+        "letter": "C",
+        "answer": "Cephane"
+    },
+    {
+        "id": 966,
+        "question": "Bir kimsenin, satın aldığı hizmet veya ürün karşılığında para yerine verdiği ve karşılığı banka hesabından ödenen yazılı belge",
+        "letter": "Ç",
+        "answer": "Çek"
+    },
+    {
+        "id": 189,
+        "question": "Perhiz, rejim",
+        "letter": "D",
+        "answer": "diyet"
+    },
+    {
+        "id": 1419,
+        "question": "Gereğinden fazla artış, pahalılaşma",
+        "letter": "E",
+        "answer": "Enflasyon, enflasyon oranı"
+    },
+    {
+        "id": 220,
+        "question": "Belirli nesneler veya durumlar karşısında duyulan olağan dışı güçlü korku",
+        "letter": "F",
+        "answer": "fobi"
+    },
+    {
+        "id": 232,
+        "question": "Resmi bir törenden sonra yapılan büyük ve gösterişli şölen",
+        "letter": "G",
+        "answer": "gala"
+    },
+    {
+        "id": 1494,
+        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "letter": "H",
+        "answer": "Halef, halefi"
+    },
+    {
+        "id": 958,
+        "question": "Uyarma",
+        "letter": "İ",
+        "answer": "ikaz, ikaz etme, ikaz etmek"
+    },
+    {
+        "id": 1943,
+        "question": "Bir şeyin üstünü kaplayan ve onu dış etkilere karşı koruyan, kendiliğinden oluşmuş sertçe bölüm",
+        "letter": "K",
+        "answer": "Kabuk"
+    },
+    {
+        "id": 1787,
+        "question": "Greve çıkan işçileri işverenin topluca işten uzaklaştırması",
+        "letter": "L",
+        "answer": "Lokavt"
+    },
+    {
+        "id": 1109,
+        "question": "Becerikli, yetenekli",
+        "letter": "M",
+        "answer": "mahir"
+    },
+    {
+        "id": 988,
+        "question": "Açıklık, açık ve kesin yargı",
+        "letter": "N",
+        "answer": "nas"
+    },
+    {
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "letter": "O",
+        "answer": "Orada, orda"
+    },
+    {
+        "id": 903,
+        "question": "Fethiye yakınlarında, önemli bir turizm merkezi olan doğa harikası",
+        "letter": "Ö",
+        "answer": "Ölüdeniz, oludeniz"
+    },
+    {
+        "id": 373,
+        "question": "Kimyasal enerjiyi elektrik enerjisine çeviren araç",
+        "letter": "P",
+        "answer": "pil"
+    },
+    {
+        "id": 392,
+        "question": "Derece, kerte",
+        "letter": "R",
+        "answer": "radde"
+    },
+    {
+        "id": 694,
+        "question": "Sarmal biçiminde olan",
+        "letter": "S",
+        "answer": "Spiral"
+    },
+    {
+        "id": 427,
+        "question": "İstek, heves",
+        "letter": "Ş",
+        "answer": "şevk"
+    },
+    {
+        "id": 439,
+        "question": "Manyetik bir bant üzerine sesleri kaydeden ve okuyan aygıt",
+        "letter": "T",
+        "answer": "teyp"
+    },
+    {
+        "id": 894,
+        "question": "Türlü Amaçlarla Yer'den Fırlatılan Ve Genellikle Kapalı Bir Yörünge Çizerek Yer Çevresinde Dolanan Aygıt",
+        "letter": "U",
+        "answer": "Uydu"
+    },
+    {
+        "id": 879,
+        "question": "Geniş Anlamıyla Derş Ya Da Mukoza Altı Dokuları Meydanda Bırakan Kronik Yaralar",
+        "letter": "Ü",
+        "answer": "Ülser"
+    },
+    {
+        "id": 770,
+        "question": "Durum, tavır, hâl",
+        "letter": "V",
+        "answer": "Vaziyet"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

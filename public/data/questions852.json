@@ -1,0 +1,158 @@
+[
+    {
+        "id": 955,
+        "question": "\"Kutup\", \"Boz gibi türleri bulunan iri gövdeli yırtıcı hayvan",
+        "letter": "A",
+        "answer": "ayı, ayi"
+    },
+    {
+        "id": 1348,
+        "question": "Kaldırımların kenarlarında bulunan taşlar",
+        "letter": "B",
+        "answer": "Bordür"
+    },
+    {
+        "id": 1365,
+        "question": "Hep birden, hep birlikte anlamlarındaki söz",
+        "letter": "C",
+        "answer": "Cümleten"
+    },
+    {
+        "id": 1453,
+        "question": "Birini yere düşürmek için ayağının önüne ayak uzatma",
+        "letter": "Ç",
+        "answer": "Çelme, çelme atmak, çelme atma, çelme takma, çelme takmak"
+    },
+    {
+        "id": 938,
+        "question": "Fide dikilirken kullanılan ucu çatallı çubuk",
+        "letter": "D",
+        "answer": "dikeç"
+    },
+    {
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
+        "letter": "E",
+        "answer": "Endoskop"
+    },
+    {
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "letter": "F",
+        "answer": "Fidan"
+    },
+    {
+        "id": 1966,
+        "question": "Tavla oyununda elinde kırık taşı bulunan oyuncunun attığı, uygun olmayan zar",
+        "letter": "G",
+        "answer": "GELE"
+    },
+    {
+        "id": 1442,
+        "question": "Sularda yaşayan canlıların hayatını inceleyen bilim dalı",
+        "letter": "H",
+        "answer": "Hidrobiyoloji"
+    },
+    {
+        "id": 602,
+        "question": "Bir şeyin olabilmesi durumu, olabilirlik, olasılık",
+        "letter": "İ",
+        "answer": "İhtimal"
+    },
+    {
+        "id": 1104,
+        "question": "Çadır, baraka vb. eğreti araçlardan oluşturulan konak yeri",
+        "letter": "K",
+        "answer": "kamp"
+    },
+    {
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
+        "letter": "L",
+        "answer": "Lunapark"
+    },
+    {
+        "id": 634,
+        "question": "Akla uygun, doğru düşünülmüş",
+        "letter": "M",
+        "answer": "Mantıklı"
+    },
+    {
+        "id": 929,
+        "question": "Tek ağızlı balta",
+        "letter": "N",
+        "answer": "Nacak"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 903,
+        "question": "Fethiye yakınlarında, önemli bir turizm merkezi olan doğa harikası",
+        "letter": "Ö",
+        "answer": "Ölüdeniz, oludeniz"
+    },
+    {
+        "id": 1734,
+        "question": "Engebeli yerlerden gelip geçenlerin ayak izlerinden oluşan, tekerlekli araç işlemeyen dar yol",
+        "letter": "P",
+        "answer": "Patika, patika yol"
+    },
+    {
+        "id": 392,
+        "question": "Derece, kerte",
+        "letter": "R",
+        "answer": "radde"
+    },
+    {
+        "id": 829,
+        "question": "Bütün geceyi uyumadan geçirmek",
+        "letter": "S",
+        "answer": "Sabahlama, Sabahlamak"
+    },
+    {
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
+        "letter": "Ş",
+        "answer": "Şahsiyet"
+    },
+    {
+        "id": 1741,
+        "question": "Eski dilde saldırı",
+        "letter": "T",
+        "answer": "Taarruz"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 1566,
+        "question": "Mecazen; Delirmek, aklını yitirmek",
+        "letter": "Ü",
+        "answer": "Üşütmek, üşütme"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 1573,
+        "question": "Bir olayı belli bir görüşe göre açıklama, değerlendirme",
+        "letter": "Y",
+        "answer": "Yorum, yorum yapma, yorum yapmak, yorumlama, yorumlamak"
+    },
+    {
+        "id": 498,
+        "question": "Bir şeyin fiyatını artırma, bindirim",
+        "letter": "Z",
+        "answer": "zam"
+    }
+]

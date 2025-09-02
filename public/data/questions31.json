@@ -1,158 +1,158 @@
 [
     {
-        "id": 1261,
-        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
+        "id": 1654,
+        "question": "Bir şeyin umulduğundan az olduğu yargısına varmak, az görmek, az bulmak",
         "letter": "A",
-        "answer": "Aperatif, aparatif, aperetif, Aperitif"
+        "answer": "Azımsamak, azımsama"
     },
     {
-        "id": 1920,
-        "question": "MİDENİN İSTİFRA SİNYALİ",
+        "id": 82,
+        "question": "Fenike uygarlığı'nın doğduğu Lübnan'ın başkenti",
         "letter": "B",
-        "answer": "Bulantı"
+        "answer": "beyrut"
     },
     {
-        "id": 160,
-        "question": "Üzerinde savaşın sürdüğü bölge",
+        "id": 155,
+        "question": "Topluluk, zümre",
         "letter": "C",
-        "answer": "cephe, cephe bölgesi"
+        "answer": "Camia, cemiyet"
     },
     {
-        "id": 1816,
-        "question": "MECAZEN; DİNÇLİĞİNİ KAYBETMEK, İHTİYARLAMAK",
+        "id": 165,
+        "question": "Bir eksenin döndürdüğü tekerlek biçimindeki makine parçası",
         "letter": "Ç",
-        "answer": "Çökme, Çökmek"
+        "answer": "çark"
     },
     {
-        "id": 187,
-        "question": "İçi boş, her yanı kapalı, suyun üstünde yüzen bir tür büyük şamandıra",
+        "id": 1396,
+        "question": "Sıkıştırılmış hava içine püskürtülen mazotla çalışan motor",
         "letter": "D",
-        "answer": "Duba"
+        "answer": "Dizel, dizel motor"
     },
     {
-        "id": 209,
-        "question": "Çok gerekli, vazgeçilmez",
+        "id": 1279,
+        "question": "Bitkilerden çıkarılan veya kimya yardımıyla çeşitli maddelerden elde edilen kokulu, uçucu sıvı",
         "letter": "E",
-        "answer": "elzem"
+        "answer": "Esans, esansı"
     },
     {
-        "id": 1324,
-        "question": "Gemilerde kürek çeken tutsak veya hükümlü kimse",
+        "id": 570,
+        "question": "Olağandan bol, aşırı çoklukta bulunma durumu",
         "letter": "F",
-        "answer": "Forsa"
+        "answer": "Furya, fazla, fazlaca, fazlalık"
     },
     {
-        "id": 1428,
-        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+        "id": 1759,
+        "question": "Çevresiyle uyuşamayan, aksi tabiatlı, kavga çıkaran kimse",
         "letter": "G",
-        "answer": "Gard"
+        "answer": "Geçimsiz"
     },
     {
-        "id": 246,
-        "question": "Kıskançlık, çekememezlik",
+        "id": 1175,
+        "question": "Görev ve yapı bakımından canlılığın bütün özelliklerini gösteren en küçük birim",
         "letter": "H",
-        "answer": "haset, hasetlik"
+        "answer": "Hücre"
     },
     {
-        "id": 270,
-        "question": "Çözülmesi kolay düğüm, eğreti düğüm",
+        "id": 1951,
+        "question": "HEM “EKONOMİ” HEM “TUTUM” ANLAMINA GELEN SÖZCÜK",
         "letter": "İ",
-        "answer": "ilmek"
+        "answer": "İktisat, İktisad"
     },
     {
-        "id": 1818,
-        "question": "Alışverişte durgunluk",
+        "id": 614,
+        "question": "Toplumsal etkinliklerde sıra halinde giden insan topluluğu",
         "letter": "K",
-        "answer": "Kesat, kesatlık, kesat iş, kesat işler"
+        "answer": "Kortej"
     },
     {
-        "id": 1457,
-        "question": "Elektronikte erime noktaları düşük metalleri tutturma işlemi",
+        "id": 291,
+        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
         "letter": "L",
-        "answer": "Lehim, lehimleme, lehimlemek, lehin yapma, lehim yapmak"
+        "answer": "loş"
     },
     {
-        "id": 625,
-        "question": "Ayrı bir yeri olan, üstün, seçkin",
+        "id": 321,
+        "question": "Çalışma süresi",
         "letter": "M",
-        "answer": "Mümtaz"
+        "answer": "mesai, mesai saati"
     },
     {
-        "id": 54,
-        "question": "Afrika'nın en uzun nehri",
+        "id": 1224,
+        "question": "Çaresi, çözümü olmayan, çaresiz olan",
         "letter": "N",
-        "answer": "Nil, Nil nehri"
+        "answer": "Naçar, naçarlık, nafile"
     },
     {
-        "id": 349,
-        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
+        "id": 1898,
+        "question": "GÖZETİLEN AMACA VEYA BEKLENİLENE UYGUN OLMAYAN, MENFİ",
         "letter": "O",
-        "answer": "onbaşı"
+        "answer": "Olumsuz"
     },
     {
-        "id": 661,
-        "question": "Kötü bir durumun ya da olayın duyulmasını gizlemek",
+        "id": 368,
+        "question": "Herhangi bir kısıtlamaya, zorlamaya, şarta bağlı olmayan, hür",
         "letter": "Ö",
-        "answer": "Örtbas, Örtbas etmek"
+        "answer": "özgür"
     },
     {
-        "id": 1825,
-        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "id": 384,
+        "question": "Çeşitli sporlarda kullanılan ölçüsü ve değeri değişken birim",
         "letter": "P",
-        "answer": "Plankton"
+        "answer": "puan"
     },
     {
-        "id": 1864,
-        "question": "YÜZEYDE KALMAYIP DERİNE İNEN, ASIL KONUYU DA İÇİNE ALAN, KÖKTEN",
+        "id": 402,
+        "question": "Samimi olmayan, teklifli, ciddi",
         "letter": "R",
-        "answer": "Radikal"
+        "answer": "resmi"
     },
     {
-        "id": 687,
-        "question": "Tarımsal yapay iklim alanı",
+        "id": 411,
+        "question": "Yoğun bir biçimde yapılan atak",
         "letter": "S",
-        "answer": "Sera"
+        "answer": "salvo"
     },
     {
-        "id": 425,
-        "question": "Bilinç, akıl",
+        "id": 1686,
+        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
         "letter": "Ş",
-        "answer": "şuur"
+        "answer": "Şapel"
     },
     {
-        "id": 1875,
-        "question": "İÇİNDE BULUNMASI GEREKEN ŞEYLER BULUNMAYAN, BOMBOŞ",
+        "id": 835,
+        "question": "Sabaha doğru çıkan hafif rüzgar",
         "letter": "T",
-        "answer": "Tamtakır"
+        "answer": "Tanyeli, tan, tan rüzgarı"
     },
     {
-        "id": 1512,
-        "question": "Bütün varlıkların içinde bulunduğu sonsuz boşluk, feza, mekân",
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
         "letter": "U",
-        "answer": "Uzay"
+        "answer": "Uzman, Usta"
     },
     {
-        "id": 1509,
-        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "id": 849,
+        "question": "Bilim yada sanat alanında üstün bilgisi ve yeteneği olan kimse",
         "letter": "Ü",
-        "answer": "Üstübeç"
+        "answer": "Üstad, üstat"
     },
     {
-        "id": 482,
-        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
         "letter": "V",
-        "answer": "vezne"
+        "answer": "Vize, vize belgesi"
     },
     {
-        "id": 716,
-        "question": "Gidilen yerde geceyi geçirme",
+        "id": 1936,
+        "question": "Doğum tarihi ve saati dikkate alınarak yapılan hesaplama ile ortaya çıkan burç",
         "letter": "Y",
-        "answer": "Yatı, Yatıya kalma, Yatıya kalmak"
+        "answer": "Yükselen, Yükselen burç"
     },
     {
-        "id": 1595,
-        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "id": 738,
+        "question": "Boşuna harcama, zarar",
         "letter": "Z",
-        "answer": "Zonklama, zonklamak"
+        "answer": "Ziyan, ziyan etme, ziyan etmek"
     }
 ]

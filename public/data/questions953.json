@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1081,
+        "question": "Masa başında uydurulup gerçekmiş gibi yayımlanan yalan haber",
+        "letter": "A",
+        "answer": "Asparagas, asparagas haber"
+    },
+    {
+        "id": 49,
+        "question": "Duvarları boyamak için kullanılan sulandırılmış kireç ya da plastik boya",
+        "letter": "B",
+        "answer": "BADANA"
+    },
+    {
+        "id": 538,
+        "question": "Sayılar teorisini, geometriyi ve analizi içine alan bir matematik dalı",
+        "letter": "C",
+        "answer": "Cebir"
+    },
+    {
+        "id": 1453,
+        "question": "Birini yere düşürmek için ayağının önüne ayak uzatma",
+        "letter": "Ç",
+        "answer": "Çelme, çelme atmak, çelme atma, çelme takma, çelme takmak"
+    },
+    {
+        "id": 552,
+        "question": "Her şeyi zamanında yapmaya özen gösteren",
+        "letter": "D",
+        "answer": "Dakik"
+    },
+    {
+        "id": 1488,
+        "question": "Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı",
+        "letter": "E",
+        "answer": "Engizisyon, engizisyon mahkemesi, engizisyon mahkemeleri"
+    },
+    {
+        "id": 1490,
+        "question": "Koku, ilaç vb. sıvıları püskürtmek için kullanılan araç",
+        "letter": "F",
+        "answer": "Fısfıs"
+    },
+    {
+        "id": 231,
+        "question": "Yersiz, zamansız söz veya davranış, patavatsızlık, pot",
+        "letter": "G",
+        "answer": "gaf"
+    },
+    {
+        "id": 1225,
+        "question": "Özel olarak, özel bir biçimde",
+        "letter": "H",
+        "answer": "Hususi"
+    },
+    {
+        "id": 1182,
+        "question": "Birlikte el birliği ile yapılan",
+        "letter": "İ",
+        "answer": "İmece, imece usulü, imece usulüyle, imece usulü ile"
+    },
+    {
+        "id": 1784,
+        "question": "BAZI LOKANTALARDA ÇATAL, BIÇAK GİBİ SERVİS ÖGELERİNDEN ALINAN ÜCRET",
+        "letter": "K",
+        "answer": "Kuver"
+    },
+    {
+        "id": 621,
+        "question": "Kelime, sözlük",
+        "letter": "L",
+        "answer": "Lügat, Lugat, Lûgat"
+    },
+    {
+        "id": 325,
+        "question": "Konu, beklenmedik olay",
+        "letter": "M",
+        "answer": "mevzu"
+    },
+    {
+        "id": 330,
+        "question": "Kullanılması hemen mümkün olan para, likit",
+        "letter": "N",
+        "answer": "nakit, nakit para"
+    },
+    {
+        "id": 909,
+        "question": "Taş ya da maden çıkarılan yer",
+        "letter": "O",
+        "answer": "Ocak"
+    },
+    {
+        "id": 899,
+        "question": "Serbest, Hiçbir Koşula Bağlı Olmayan",
+        "letter": "Ö",
+        "answer": "Özgür, ozgur"
+    },
+    {
+        "id": 1014,
+        "question": "Resim ve fotoğrafta duruş",
+        "letter": "P",
+        "answer": "poz"
+    },
+    {
+        "id": 1641,
+        "question": "Eski yapıları onarma",
+        "letter": "R",
+        "answer": "Restore, restorasyon, restore etme, restore etmek"
+    },
+    {
+        "id": 1826,
+        "question": "EN AZ İKİ KİŞİ ARASINDA DÜZENLENEN, BİR TARAFIN ÖBÜRÜNE ÖDEME YAPMA YÜKÜMLÜLÜĞÜNÜ BEYAN ETTİĞİ KÂĞIT",
+        "letter": "S",
+        "answer": "Senet"
+    },
+    {
+        "id": 700,
+        "question": "Bir alanla ilgili olarak oluşturulan danışma kurulu",
+        "letter": "Ş",
+        "answer": "Şura"
+    },
+    {
+        "id": 1649,
+        "question": "Herhangi bir kas kümesinin irade dışı hareketi",
+        "letter": "T",
+        "answer": "Tik"
+    },
+    {
+        "id": 447,
+        "question": "Uysal bir biçimde",
+        "letter": "U",
+        "answer": "uslu"
+    },
+    {
+        "id": 1471,
+        "question": "Havlamak",
+        "letter": "Ü",
+        "answer": "Ürümek"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 493,
+        "question": "Kötülüklerini söylemek, zemmetmek",
+        "letter": "Y",
+        "answer": "yermek"
+    },
+    {
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "letter": "Z",
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
+    }
+]

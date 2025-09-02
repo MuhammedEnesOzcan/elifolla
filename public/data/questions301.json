@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1695,
+        "question": "Otobüs, tren gibi ulaşım araçlarında para yerine geçen sürekliliği olan bilet veya kart",
+        "letter": "A",
+        "answer": "Abonman"
+    },
+    {
+        "id": 1353,
+        "question": "Bazı ağaçlardan elde edilen, parfüm ve ilaç yapımında kullanılan reçine",
+        "letter": "B",
+        "answer": "Balsam"
+    },
+    {
+        "id": 162,
+        "question": "İri yapılı, iri gövdeli, iri yarı (kimse)",
+        "letter": "C",
+        "answer": "Cüsseli"
+    },
+    {
+        "id": 1545,
+        "question": "Yüzü çiçek hastalığından kalma küçük yara izleri taşıyan, aşırı çiçek bozuğu olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çopur"
+    },
+    {
+        "id": 1829,
+        "question": "\"DOĞRU\", \"BİÇİMLİ\", \"MUNTAZAM\" ANLAMINA GELEN BİR SÖZCÜK",
+        "letter": "D",
+        "answer": "Düzgün, Düzenli"
+    },
+    {
+        "id": 1488,
+        "question": "Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı",
+        "letter": "E",
+        "answer": "Engizisyon, engizisyon mahkemesi, engizisyon mahkemeleri"
+    },
+    {
+        "id": 574,
+        "question": "Dönem sonu sınavı",
+        "letter": "F",
+        "answer": "Final, Final sınavı"
+    },
+    {
+        "id": 86,
+        "question": "Sinema, stad gibi etkinlik alanlarında bilet alınan yer",
+        "letter": "G",
+        "answer": "gişe"
+    },
+    {
+        "id": 807,
+        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
+        "letter": "H",
+        "answer": "Hüsran"
+    },
+    {
+        "id": 267,
+        "question": "Gereksiz yere para, zaman, emek vb.ni harcama, savurganlık",
+        "letter": "İ",
+        "answer": "israf, israf etme, israf etmek"
+    },
+    {
+        "id": 1265,
+        "question": "Bir şeyin oyuk durumunda bulunan iç bölümü",
+        "letter": "K",
+        "answer": "Kovuk, kovuğu"
+    },
+    {
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
+        "letter": "L",
+        "answer": "Lanse, lanse etme, lanse etmek"
+    },
+    {
+        "id": 1619,
+        "question": "Bir eserde sık sık tekrarlanan süsleyici öge",
+        "letter": "M",
+        "answer": "Motif"
+    },
+    {
+        "id": 337,
+        "question": "Benzer, aynı, kopya",
+        "letter": "N",
+        "answer": "nüsha"
+    },
+    {
+        "id": 997,
+        "question": "Silisin hidratlı ve jelatinli bütün türlerini kapsayan değerli bir mineral, panzehir taşı",
+        "letter": "O",
+        "answer": "opal"
+    },
+    {
+        "id": 922,
+        "question": "Korkak, Tabansız, Yüreksiz",
+        "letter": "Ö",
+        "answer": "ödlek"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 1635,
+        "question": "Evin duvarlarının suyu çekmesi ve ısı farkından dolayı su buharı oluşması",
+        "letter": "R",
+        "answer": "Rutubet"
+    },
+    {
+        "id": 412,
+        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "letter": "S",
+        "answer": "statü, statüsü"
+    },
+    {
+        "id": 1464,
+        "question": "Olması başka durumların gerçekleşmesini gerektiren şey, koşul",
+        "letter": "Ş",
+        "answer": "Şart, şartlar"
+    },
+    {
+        "id": 1650,
+        "question": "Lisans ve yüksek lisans yapan öğrencilerin bilimsel yöntemlere dayandırdıkları ve hazırladıkları makaleler",
+        "letter": "T",
+        "answer": "Tez"
+    },
+    {
+        "id": 1068,
+        "question": "Çok uzun",
+        "letter": "U",
+        "answer": "upuzun"
+    },
+    {
+        "id": 1566,
+        "question": "Mecazen; Delirmek, aklını yitirmek",
+        "letter": "Ü",
+        "answer": "Üşütmek, üşütme"
+    },
+    {
+        "id": 480,
+        "question": "Yapılması gerekli olan",
+        "letter": "V",
+        "answer": "vacip"
+    },
+    {
+        "id": 493,
+        "question": "Kötülüklerini söylemek, zemmetmek",
+        "letter": "Y",
+        "answer": "yermek"
+    },
+    {
+        "id": 1143,
+        "question": "Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim",
+        "letter": "Z",
+        "answer": "Zabıta"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 102,
+        "question": "Bir işin yabancısı olan, eli işe alışmamış, bir işi beceremeyen",
+        "letter": "A",
+        "answer": "acemi"
+    },
+    {
+        "id": 1556,
+        "question": "Bir yapının genellikle dışarıya doğru çıkmış, çevresi duvar veya parmaklıkla çevrili bölümü, ayazlık",
+        "letter": "B",
+        "answer": "Balkon"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1929,
+        "question": "ARGODA, “CEZAEVİ, HAPİSHANE” ANLAMINDA KULLANILAN SÖZCÜK",
+        "letter": "D",
+        "answer": "Delik"
+    },
+    {
+        "id": 68,
+        "question": "Malta, papaz, mürdüm gibi çeşitleri olan meyve",
+        "letter": "E",
+        "answer": "erik"
+    },
+    {
+        "id": 1913,
+        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
+        "letter": "F",
+        "answer": "Fasikül"
+    },
+    {
+        "id": 1790,
+        "question": "BENZERLERİ ARASINDA NİTELİKLERİ SEBEBİYLE ÜSTÜN TUTULAN, BEĞENİLEN, ÖNEM VERİLEN KİMSE VEYA ŞEY",
+        "letter": "G",
+        "answer": "Gözde"
+    },
+    {
+        "id": 249,
+        "question": "Aşağı görülen, değersiz",
+        "letter": "H",
+        "answer": "hakir"
+    },
+    {
+        "id": 601,
+        "question": "Gerçek yönünü ortaya çıkarma, kanıtlama",
+        "letter": "İ",
+        "answer": "İspat, ispatlama, ispatlamak, ispat etme, ispat etmek"
+    },
+    {
+        "id": 1186,
+        "question": "Hız kesici, tümsek",
+        "letter": "K",
+        "answer": "Kasis"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 626,
+        "question": "Birbirini kesen demiryolu hatlarının kesiştiği yer",
+        "letter": "M",
+        "answer": "Makas"
+    },
+    {
+        "id": 637,
+        "question": "Bir şeyin iyi veya kötü olma özelliği, kalite, özellik",
+        "letter": "N",
+        "answer": "Nitelik, niteliği"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 367,
+        "question": "Bir maddenin herhangi bir yolla elde edilmiş olan özü",
+        "letter": "Ö",
+        "answer": "özüt, özütü"
+    },
+    {
+        "id": 1802,
+        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
+        "letter": "P",
+        "answer": "Peksimet"
+    },
+    {
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "letter": "R",
+        "answer": "rekor"
+    },
+    {
+        "id": 1813,
+        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
+        "letter": "S",
+        "answer": "Solaryum"
+    },
+    {
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
+        "letter": "Ş",
+        "answer": "Şahsi"
+    },
+    {
+        "id": 720,
+        "question": "Tutum, idareli tüketme",
+        "letter": "T",
+        "answer": "Tasarruf, Tasaruf"
+    },
+    {
+        "id": 1067,
+        "question": "Uğraşılan şey, iş güç, meşgale",
+        "letter": "U",
+        "answer": "Uğraşı"
+    },
+    {
+        "id": 38,
+        "question": "Fakülteler topluluğu",
+        "letter": "Ü",
+        "answer": "ÜNİVERSİTE"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 491,
+        "question": "Dağın veya tepenin herhangi bir yanı",
+        "letter": "Y",
+        "answer": "yamaç"
+    },
+    {
+        "id": 1585,
+        "question": "Savaşta verilen kayıp",
+        "letter": "Z",
+        "answer": "Zayiat, zaiyat"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1183,
+        "question": "Yargı önünde kişiyi savunan kimse",
+        "letter": "A",
+        "answer": "Avukat"
+    },
+    {
+        "id": 1352,
+        "question": "Ağırlıkları tartmaya yarayan alet, kantar",
+        "letter": "B",
+        "answer": "Baskül"
+    },
+    {
+        "id": 1357,
+        "question": "Elindeki parayı harcamaya kıyamayan",
+        "letter": "C",
+        "answer": "Cimri, cimrilik"
+    },
+    {
+        "id": 1816,
+        "question": "MECAZEN; DİNÇLİĞİNİ KAYBETMEK, İHTİYARLAMAK",
+        "letter": "Ç",
+        "answer": "Çökme, Çökmek"
+    },
+    {
+        "id": 186,
+        "question": "İki kişi tarafından karşılıklı söylenen şarkı",
+        "letter": "D",
+        "answer": "düet"
+    },
+    {
+        "id": 1488,
+        "question": "Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı",
+        "letter": "E",
+        "answer": "Engizisyon, engizisyon mahkemesi, engizisyon mahkemeleri"
+    },
+    {
+        "id": 1320,
+        "question": "Genellikle boyna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "Fular"
+    },
+    {
+        "id": 1769,
+        "question": "BELLİ BİR BÜTÜNE GÖRE KALEME ALINAN METNİN SONUÇTAN ÖNCEKİ BÖLÜMÜ",
+        "letter": "G",
+        "answer": "Gelişme"
+    },
+    {
+        "id": 592,
+        "question": "Sürtünme kuvvetinin yağ basıncı ile sağlandığı fren tipi",
+        "letter": "H",
+        "answer": "Hidrolik, hidrolik fren"
+    },
+    {
+        "id": 1160,
+        "question": "Anlaşma, bağlaşma, birlik",
+        "letter": "İ",
+        "answer": "İttifak"
+    },
+    {
+        "id": 1207,
+        "question": "Tenis oynamak için düzenlemiş dikdörtgen biçiminde alan ",
+        "letter": "K",
+        "answer": "Kort"
+    },
+    {
+        "id": 1528,
+        "question": "Üzeri toprak veya otla örtülmüş saman yığını",
+        "letter": "L",
+        "answer": "Loda"
+    },
+    {
+        "id": 1613,
+        "question": "Kaçınması ve öngörülmesi söz konusu olmayan neden",
+        "letter": "M",
+        "answer": "Mücbir, mücbir sebep, mücbir sebepler"
+    },
+    {
+        "id": 334,
+        "question": "Korkak, alçak, mert olmayan",
+        "letter": "N",
+        "answer": "namert"
+    },
+    {
+        "id": 999,
+        "question": "Klavyelilerden farklı ses ton ve modlarına sahip olabilen çalgı",
+        "letter": "O",
+        "answer": "org"
+    },
+    {
+        "id": 903,
+        "question": "Fethiye yakınlarında, önemli bir turizm merkezi olan doğa harikası",
+        "letter": "Ö",
+        "answer": "Ölüdeniz, oludeniz"
+    },
+    {
+        "id": 374,
+        "question": "Parça, kısım",
+        "letter": "P",
+        "answer": "pare"
+    },
+    {
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "letter": "R",
+        "answer": "rekor"
+    },
+    {
+        "id": 1185,
+        "question": "Odun talaşının preslenmesi sonucu oluşan yonga levha",
+        "letter": "S",
+        "answer": "Sunta, suntalam"
+    },
+    {
+        "id": 420,
+        "question": "Kötülük, fenalık",
+        "letter": "Ş",
+        "answer": "şer"
+    },
+    {
+        "id": 711,
+        "question": "Verilen onayı gösteren belge",
+        "letter": "T",
+        "answer": "Tasdikname"
+    },
+    {
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "letter": "U",
+        "answer": "Uydu, uydusu"
+    },
+    {
+        "id": 868,
+        "question": "Bina eteği, etek duvarı veya subasman",
+        "letter": "Ü",
+        "answer": "Üstemel"
+    },
+    {
+        "id": 1504,
+        "question": "Açık, aydın, belli",
+        "letter": "V",
+        "answer": "Vazıh"
+    },
+    {
+        "id": 906,
+        "question": "Kısa kollu ceket, mont",
+        "letter": "Y",
+        "answer": "Yelek"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

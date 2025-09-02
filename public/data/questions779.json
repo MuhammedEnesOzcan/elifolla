@@ -1,0 +1,158 @@
+[
+    {
+        "id": 948,
+        "question": "Yarı yaş, yarı kuru nemli toprak",
+        "letter": "A",
+        "answer": "alatav"
+    },
+    {
+        "id": 1598,
+        "question": "Bir yemek adı olarak da kullanılan; Büyükbaş ve küçükbaş hayvanların kalın bağırsağı",
+        "letter": "B",
+        "answer": "Bumbar, bumbar dolması"
+    },
+    {
+        "id": 1305,
+        "question": "Yurt, baba ocağı gibi çok sevilen şeylerden ayrılmış olan, uzak kalmış olan",
+        "letter": "C",
+        "answer": "Cüda"
+    },
+    {
+        "id": 166,
+        "question": "Dağın bir noktasından kopup yuvarlanan ve yuvarlandıkça büyüyen kar kümesi",
+        "letter": "Ç",
+        "answer": "çığ"
+    },
+    {
+        "id": 1967,
+        "question": "BOZUK VE KUSURLU GİYSİLER VEYA EŞYALARIN GENEL ADI",
+        "letter": "D",
+        "answer": "DEFOLU"
+    },
+    {
+        "id": 1219,
+        "question": "Çok uzak ve yabancı ülkelerle ilgili ya da böyle ülkelerden gelmiş, getirilmiş",
+        "letter": "E",
+        "answer": "Egzotik, ekzotik"
+    },
+    {
+        "id": 1093,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "Facia"
+    },
+    {
+        "id": 1776,
+        "question": "SON BİLGİ VE DEĞİŞİKLİKLERİ DE EKLEYEREK YENİLEME",
+        "letter": "G",
+        "answer": "Güncelleme, Güncellemek"
+    },
+    {
+        "id": 975,
+        "question": "Birini aldatmak, yanıltmak için yapılan düzen, dolap, oyun, desise, entrika",
+        "letter": "H",
+        "answer": "Hile"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 281,
+        "question": "Silah, kılıç vb. şeylerde tutulacak yer, tutak, sap",
+        "letter": "K",
+        "answer": "kabza"
+    },
+    {
+        "id": 983,
+        "question": "Deniz kulağı",
+        "letter": "L",
+        "answer": "Lagün"
+    },
+    {
+        "id": 312,
+        "question": "Ev, dükkân, arazi vb. taşınmaz mal",
+        "letter": "M",
+        "answer": "mülk"
+    },
+    {
+        "id": 1242,
+        "question": "Düzyazı sanatı",
+        "letter": "N",
+        "answer": "Nesir, nesir sanatı"
+    },
+    {
+        "id": 341,
+        "question": "Yüksek ve alçaktan mermi atabilen kısa namlulu top",
+        "letter": "O",
+        "answer": "obüs"
+    },
+    {
+        "id": 1478,
+        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "letter": "Ö",
+        "answer": "Özerk"
+    },
+    {
+        "id": 1917,
+        "question": "ŞEKER, YUMURTA VE KREMANIN ÇIRPILARAK DONDURULMASIYLA HAZIRLANAN FRANSIZ TATLISI",
+        "letter": "P",
+        "answer": "Parfe"
+    },
+    {
+        "id": 1029,
+        "question": "Bir tiyatro sahnesinin önünde, ışık ve ışıldakların yerleştirildiği, izleyiciye en yakın yer",
+        "letter": "R",
+        "answer": "Ramp"
+    },
+    {
+        "id": 404,
+        "question": "Kale duvarı",
+        "letter": "S",
+        "answer": "sur"
+    },
+    {
+        "id": 699,
+        "question": "Ev, fabrika, baraj vb.nin yapımının sürdüğü yer",
+        "letter": "Ş",
+        "answer": "Şantiye, şantiye alanı"
+    },
+    {
+        "id": 709,
+        "question": "Bildiri, haber verme",
+        "letter": "T",
+        "answer": "Tebliğ, Tebliğ etme, Tebliğ etmek, Tebligat"
+    },
+    {
+        "id": 1069,
+        "question": "ele avuca sığmaz (kimse)",
+        "letter": "U",
+        "answer": "Uçarı"
+    },
+    {
+        "id": 461,
+        "question": "Üretilen yararlı şey",
+        "letter": "Ü",
+        "answer": "ürün"
+    },
+    {
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
+        "letter": "V",
+        "answer": "Virüs"
+    },
+    {
+        "id": 494,
+        "question": "Eni boyundan ve derinliğinden çok olan, basık ve geniş",
+        "letter": "Y",
+        "answer": "yayvan"
+    },
+    {
+        "id": 859,
+        "question": "Fotoğrafçılıkta, Değişken Odak Uzunluklu Objektif",
+        "letter": "Z",
+        "answer": "Zum, zoom"
+    }
+]

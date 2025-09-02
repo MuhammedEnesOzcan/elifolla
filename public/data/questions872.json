@@ -1,0 +1,158 @@
+[
+    {
+        "id": 117,
+        "question": "Sayı boncuğu",
+        "letter": "A",
+        "answer": "abaküs"
+    },
+    {
+        "id": 527,
+        "question": "Yanıltarak bir işten caydırmak",
+        "letter": "B",
+        "answer": "Blöf, blöf yapma, blöf yapmak"
+    },
+    {
+        "id": 533,
+        "question": "Mecbur bırakma, zoraki",
+        "letter": "C",
+        "answer": "Cebren, cebir"
+    },
+    {
+        "id": 544,
+        "question": "Derme çatma çadır, göçebe çadırı",
+        "letter": "Ç",
+        "answer": "Çerge"
+    },
+    {
+        "id": 185,
+        "question": "Evlerde çocuğa bakan kimse, daye",
+        "letter": "D",
+        "answer": "dadı"
+    },
+    {
+        "id": 1488,
+        "question": "Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı",
+        "letter": "E",
+        "answer": "Engizisyon, engizisyon mahkemesi, engizisyon mahkemeleri"
+    },
+    {
+        "id": 1226,
+        "question": "Herhangi bir konuda verilen kararın kısa bir özet haline getirilmesi, soruşturma evrakı",
+        "letter": "F",
+        "answer": "Fezleke"
+    },
+    {
+        "id": 1746,
+        "question": "Evlenmekte olan bir erkeğe düğün töreni sırasında verilen ad",
+        "letter": "G",
+        "answer": "Güvey"
+    },
+    {
+        "id": 975,
+        "question": "Birini aldatmak, yanıltmak için yapılan düzen, dolap, oyun, desise, entrika",
+        "letter": "H",
+        "answer": "Hile"
+    },
+    {
+        "id": 269,
+        "question": "Yararlanılan uygun şart veya durum, olanak",
+        "letter": "İ",
+        "answer": "imkan"
+    },
+    {
+        "id": 927,
+        "question": "Elektrik Akımı İletiminde Kullanılan Ve Yalıtkan Bir Madde İle Sarılı Bulunan Metal Tel",
+        "letter": "K",
+        "answer": "Kablo"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 1753,
+        "question": "Bir işin yapılması veya bir borcun ödenmesi için tanınan süre",
+        "letter": "M",
+        "answer": "Mühlet"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 996,
+        "question": "Özenli, düzgün, uygun",
+        "letter": "O",
+        "answer": "Onat"
+    },
+    {
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "letter": "Ö",
+        "answer": "ölmek, ölüm, ölme"
+    },
+    {
+        "id": 672,
+        "question": "Atış yeri, atış antrenman alanı",
+        "letter": "P",
+        "answer": "Poligon"
+    },
+    {
+        "id": 1273,
+        "question": "Yedi renkli yüzeyi olan zeka geliştirici küp oyuncak",
+        "letter": "R",
+        "answer": "Rubik, rubik küp, rubik küpü, rubik kübü"
+    },
+    {
+        "id": 1779,
+        "question": "NESNE ÖZELLİKLERİ BULUNMAYAN, DUYULARLA ALGILANMAYAN",
+        "letter": "S",
+        "answer": "Soyut"
+    },
+    {
+        "id": 423,
+        "question": "Bir çıkar karşılığı, uzlaşarak bir iş yapma, aldatma",
+        "letter": "Ş",
+        "answer": "şike, şike yapma, şike yapmak"
+    },
+    {
+        "id": 835,
+        "question": "Sabaha doğru çıkan hafif rüzgar",
+        "letter": "T",
+        "answer": "Tanyeli, tan, tan rüzgarı"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
+        "letter": "V",
+        "answer": "Virüs"
+    },
+    {
+        "id": 1239,
+        "question": "Bir parçadan oluşan, tek parça, bütün",
+        "letter": "Y",
+        "answer": "Yekpare"
+    },
+    {
+        "id": 1589,
+        "question": "Çok küçük parçacık",
+        "letter": "Z",
+        "answer": "Zerre"
+    }
+]

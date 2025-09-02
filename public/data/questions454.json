@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1082,
+        "question": "Anıtsal",
+        "letter": "A",
+        "answer": "Abidevi"
+    },
+    {
+        "id": 1287,
+        "question": "Verme, bağışlama",
+        "letter": "B",
+        "answer": "Bahşetme, bahşetmek"
+    },
+    {
+        "id": 536,
+        "question": "Kaçma, savuşma",
+        "letter": "C",
+        "answer": "Cızlam"
+    },
+    {
+        "id": 791,
+        "question": "Kim olduğunu hatırlamak, tanımak",
+        "letter": "Ç",
+        "answer": "Çıkarma, Çıkarmak"
+    },
+    {
+        "id": 941,
+        "question": "Ermenistan’ın para birimi",
+        "letter": "D",
+        "answer": "dram"
+    },
+    {
+        "id": 216,
+        "question": "Damar tıkanıklığı",
+        "letter": "E",
+        "answer": "emboli"
+    },
+    {
+        "id": 1780,
+        "question": "Sahneyi destekleyecek rol alan dekoratif oyuncu",
+        "letter": "F",
+        "answer": "Figüran, Figüran Oyuncu"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 805,
+        "question": "Atak tabiatlı küçük savaş gemisi",
+        "letter": "H",
+        "answer": "Hücumbot, Hücumbotu"
+    },
+    {
+        "id": 263,
+        "question": "Anlama yeteneği, anlayış, akıl erdirme",
+        "letter": "İ",
+        "answer": "idrak, idrak etme, idrak etmek, izan"
+    },
+    {
+        "id": 927,
+        "question": "Elektrik Akımı İletiminde Kullanılan Ve Yalıtkan Bir Madde İle Sarılı Bulunan Metal Tel",
+        "letter": "K",
+        "answer": "Kablo"
+    },
+    {
+        "id": 622,
+        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
+        "letter": "L",
+        "answer": "Liste"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 1881,
+        "question": "YÖRESEL AĞIZLARDA, “KÖTÜ, BERBAT, AKSİ, HUYSUZ KİŞİLERE” YÖNELİK KULLANILAN BİR SIFAT",
+        "letter": "N",
+        "answer": "Nalet"
+    },
+    {
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
+        "letter": "O",
+        "answer": "Opak"
+    },
+    {
+        "id": 660,
+        "question": "Bir kuruluşa bağlı alt bölümlerin bütünü, teşkilat",
+        "letter": "Ö",
+        "answer": "Örgüt"
+    },
+    {
+        "id": 668,
+        "question": "Bir ilacın telkine dayalı bir etki ortaya çıkarma hali",
+        "letter": "P",
+        "answer": "Plasebo, Plasebo etkisi"
+    },
+    {
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "letter": "R",
+        "answer": "rekor"
+    },
+    {
+        "id": 1185,
+        "question": "Odun talaşının preslenmesi sonucu oluşan yonga levha",
+        "letter": "S",
+        "answer": "Sunta, suntalam"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 1932,
+        "question": "EL ALTINDAN VE ÇOK YÜKSEK FAİZLE BORÇ PARA VERME İŞİ",
+        "letter": "T",
+        "answer": "Tefecilik, Tefeci"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 466,
+        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
+        "letter": "Ü",
+        "answer": "üslup"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 40,
+        "question": "Günlük kazanç",
+        "letter": "Y",
+        "answer": "yevmiye"
+    },
+    {
+        "id": 856,
+        "question": "Her Türlü Zevke Karşı Koyup Kendini İbadete Veren",
+        "letter": "Z",
+        "answer": "Zühtü, zuhtu"
+    }
+]

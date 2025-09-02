@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1754,
+        "question": "Anlaşmazlık konusunda çözüm için araya giren üçünçü kimse ya da kurum",
+        "letter": "A",
+        "answer": "Arabulucu"
+    },
+    {
+        "id": 1084,
+        "question": "Vücudun kasıktan tabana kadar olan bölümü",
+        "letter": "B",
+        "answer": "Bacak"
+    },
+    {
+        "id": 1362,
+        "question": "Aynı eğilimde olan, aynı görüşü paylaşan kimselerin oluşturduğu hareket",
+        "letter": "C",
+        "answer": "Cereyan, cereyan etme, cereyan etmek"
+    },
+    {
+        "id": 1453,
+        "question": "Birini yere düşürmek için ayağının önüne ayak uzatma",
+        "letter": "Ç",
+        "answer": "Çelme, çelme atmak, çelme atma, çelme takma, çelme takmak"
+    },
+    {
+        "id": 187,
+        "question": "İçi boş, her yanı kapalı, suyun üstünde yüzen bir tür büyük şamandıra",
+        "letter": "D",
+        "answer": "Duba"
+    },
+    {
+        "id": 1279,
+        "question": "Bitkilerden çıkarılan veya kimya yardımıyla çeşitli maddelerden elde edilen kokulu, uçucu sıvı",
+        "letter": "E",
+        "answer": "Esans, esansı"
+    },
+    {
+        "id": 1323,
+        "question": "Buzlu veya dondurulmuş olarak sunulan içki, meşrubat",
+        "letter": "F",
+        "answer": "Frape, frappe, frozen"
+    },
+    {
+        "id": 972,
+        "question": "Ülkeler veya şehirler arasında yapılan uzun yolculuk, seyahat",
+        "letter": "G",
+        "answer": "Gezi"
+    },
+    {
+        "id": 89,
+        "question": "Bir şirketin ortaklarından her biri",
+        "letter": "H",
+        "answer": "hissedar"
+    },
+    {
+        "id": 1555,
+        "question": "Bir şeyi belirtecek biçimde hareket etmek, belirleyici şekilde vurgulamak",
+        "letter": "İ",
+        "answer": "İşaretleme, işaretlemek"
+    },
+    {
+        "id": 1792,
+        "question": "Genellikle Türklere özgü, ters döndürülmüş kesik koni şeklinde, kürk, kumaş veya deriden şapka türü",
+        "letter": "K",
+        "answer": "Kalpak"
+    },
+    {
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
+        "letter": "L",
+        "answer": "Lift"
+    },
+    {
+        "id": 1748,
+        "question": "Başkalarının hatalarını hoşgörüyle karşılama erdemi",
+        "letter": "M",
+        "answer": "Müsamaha, müsamaha gösterme, müsamaha göstermek"
+    },
+    {
+        "id": 337,
+        "question": "Benzer, aynı, kopya",
+        "letter": "N",
+        "answer": "nüsha"
+    },
+    {
+        "id": 351,
+        "question": "Kişisel değer, şeref, itibar",
+        "letter": "O",
+        "answer": "onur"
+    },
+    {
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "letter": "Ö",
+        "answer": "ölmek, ölüm, ölme"
+    },
+    {
+        "id": 1181,
+        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "letter": "P",
+        "answer": "Peron"
+    },
+    {
+        "id": 676,
+        "question": "Emek harcamadan elde edilen kazanım",
+        "letter": "R",
+        "answer": "Rant, Rantçılık"
+    },
+    {
+        "id": 1272,
+        "question": "İlk üretilen uydu",
+        "letter": "S",
+        "answer": "Sputnik, sputnik uydusu, sputnik 1"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 1771,
+        "question": "KENDİSİ HASTALANMADAN O HASTALIĞIN SEBEBİ OLAN MİKROBU BAŞKASINA BULAŞTIRAN KİMSE VEYA HAYVAN",
+        "letter": "T",
+        "answer": "Taşıyıcı"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 725,
+        "question": "Birci, birlikten yana olan, tekil, birimsel",
+        "letter": "Ü",
+        "answer": "Üniter"
+    },
+    {
+        "id": 732,
+        "question": "Diğer adı petrol jelatini olan nemlendirici bakım ürünü",
+        "letter": "V",
+        "answer": "Vazelin, Vaseline"
+    },
+    {
+        "id": 735,
+        "question": "Balıklarda sırt yüzgeci",
+        "letter": "Y",
+        "answer": "Yele"
+    },
+    {
+        "id": 1588,
+        "question": "Bebeklere iç çamaşırı olarak giydirilen, ince pamukludan kısa ve kollu giysi",
+        "letter": "Z",
+        "answer": "Zıbın"
+    }
+]

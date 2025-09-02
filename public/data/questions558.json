@@ -1,0 +1,158 @@
+[
+    {
+        "id": 517,
+        "question": "Bir şeyi, bir olayı olduğundan büyük veya çok gösterme",
+        "letter": "A",
+        "answer": "Abartı, Abartma, Abartmak"
+    },
+    {
+        "id": 529,
+        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
+        "letter": "B",
+        "answer": "Bulanık"
+    },
+    {
+        "id": 1364,
+        "question": "Bilgisizlik, cahil olma durumu",
+        "letter": "C",
+        "answer": "Cehalet"
+    },
+    {
+        "id": 965,
+        "question": "Zaman dilimi, vakit",
+        "letter": "Ç",
+        "answer": "Çağ"
+    },
+    {
+        "id": 1231,
+        "question": "Otomobilin vites geçirmek için en sol tarafta ayak ile basılan pedalı",
+        "letter": "D",
+        "answer": "Debriyaj, debriaj, debriyaj pedalı, debriaj pedalı"
+    },
+    {
+        "id": 561,
+        "question": "Resim için çizimlerle yapılan ön çalışma, taslak",
+        "letter": "E",
+        "answer": "Eskiz"
+    },
+    {
+        "id": 1915,
+        "question": "DUYGUSAL İLİŞKİLERDE SINAMA VE SINANMA EVRESİ",
+        "letter": "F",
+        "answer": "Flört"
+    },
+    {
+        "id": 1428,
+        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+        "letter": "G",
+        "answer": "Gard"
+    },
+    {
+        "id": 246,
+        "question": "Kıskançlık, çekememezlik",
+        "letter": "H",
+        "answer": "haset, hasetlik"
+    },
+    {
+        "id": 265,
+        "question": "Eksik bir şeyi tamamlama, daha iyi duruma getirme, bütünleme",
+        "letter": "İ",
+        "answer": "ikmal, ikmâl"
+    },
+    {
+        "id": 811,
+        "question": "Üflemeli çoban çalgısı",
+        "letter": "K",
+        "answer": "Kaval"
+    },
+    {
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
+        "letter": "L",
+        "answer": "Lanse, lanse etme, lanse etmek"
+    },
+    {
+        "id": 308,
+        "question": "Yasaklama, engel olma",
+        "letter": "M",
+        "answer": "men, men etme, men etmek"
+    },
+    {
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "letter": "N",
+        "answer": "Nostalji, nostaliji"
+    },
+    {
+        "id": 997,
+        "question": "Silisin hidratlı ve jelatinli bütün türlerini kapsayan değerli bir mineral, panzehir taşı",
+        "letter": "O",
+        "answer": "opal"
+    },
+    {
+        "id": 1481,
+        "question": "Bir sorunu çözmek üzere öne sürülen görüş, düşünce, teklif",
+        "letter": "Ö",
+        "answer": "Öneri"
+    },
+    {
+        "id": 1734,
+        "question": "Engebeli yerlerden gelip geçenlerin ayak izlerinden oluşan, tekerlekli araç işlemeyen dar yol",
+        "letter": "P",
+        "answer": "Patika, patika yol"
+    },
+    {
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "letter": "R",
+        "answer": "rekor"
+    },
+    {
+        "id": 1789,
+        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
+        "letter": "S",
+        "answer": "Sarsıntı"
+    },
+    {
+        "id": 898,
+        "question": "Oda İçinde Tuğla Ya Da Taşdan Yapılmış Ocak",
+        "letter": "Ş",
+        "answer": "Şömine, somine"
+    },
+    {
+        "id": 1852,
+        "question": "KALIPTA PİŞEN BİR TÜR MEYVELİ PASTA",
+        "letter": "T",
+        "answer": "Tart, Turta"
+    },
+    {
+        "id": 1563,
+        "question": "Nükleer santrallerde en yaygın kullanılan ve radyoaktif atık bırakan yakıt",
+        "letter": "U",
+        "answer": "Uranyum"
+    },
+    {
+        "id": 458,
+        "question": "Herhangi bir topluluğu oluşturan bireylerden her biri",
+        "letter": "Ü",
+        "answer": "üye"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 734,
+        "question": "Su kıyısında yapılmış büyük, görkemli ev",
+        "letter": "Y",
+        "answer": "Yalı"
+    },
+    {
+        "id": 499,
+        "question": "Zor kullanarak ele geçirme",
+        "letter": "Z",
+        "answer": "zapt, zapt etme, zapt etmek"
+    }
+]

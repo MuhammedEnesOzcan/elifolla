@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1341,
+        "question": "Virüsün çoğalmasını engelleyen",
+        "letter": "A",
+        "answer": "Antiviral"
+    },
+    {
+        "id": 141,
+        "question": "Karşılıksız, emeksiz, parasız elde edilen, müft",
+        "letter": "B",
+        "answer": "beleş, bedava"
+    },
+    {
+        "id": 747,
+        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
+        "letter": "C",
+        "answer": "Cesaret, Cesaretlilik"
+    },
+    {
+        "id": 100,
+        "question": "Gayret, herhangi bir işi yapmak için harcanan güç ",
+        "letter": "Ç",
+        "answer": "çaba, çabalamak"
+    },
+    {
+        "id": 795,
+        "question": "Akan suyun hacmi",
+        "letter": "D",
+        "answer": "Debi, Debisi"
+    },
+    {
+        "id": 1414,
+        "question": "Özellikle bilginin temellerini ve doğruluk durumunu inceleme, sınama, yargılama",
+        "letter": "E",
+        "answer": "Eleştiri, eleştirme, eleştirmek"
+    },
+    {
+        "id": 222,
+        "question": "Genellikle boyuna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "fular"
+    },
+    {
+        "id": 238,
+        "question": "Değersiz, aşağı görülen, küçümsenen topluluk, derinti, sürü",
+        "letter": "G",
+        "answer": "güruh"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 262,
+        "question": "Yönetme, yönetim, çekip çevirme",
+        "letter": "İ",
+        "answer": "idare, idare etme, idare etmek"
+    },
+    {
+        "id": 605,
+        "question": "Garson kalfası",
+        "letter": "K",
+        "answer": "Komi"
+    },
+    {
+        "id": 302,
+        "question": "Bazı bitkilerin genellikle süt görünüşünde olan öz suyu",
+        "letter": "L",
+        "answer": "lateks"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
+        "letter": "O",
+        "answer": "Opak"
+    },
+    {
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "letter": "Ö",
+        "answer": "Önlem"
+    },
+    {
+        "id": 1802,
+        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
+        "letter": "P",
+        "answer": "Peksimet"
+    },
+    {
+        "id": 681,
+        "question": "Sporda veya oyunda yenilmiş olanın aynı rakiple oynadığı ikinci oyun",
+        "letter": "R",
+        "answer": "Rövanş, Rövanş maçı, Rovanş, Rovanş maçı"
+    },
+    {
+        "id": 1800,
+        "question": "Hareketlinin birim zamanda aldığı yol",
+        "letter": "S",
+        "answer": "Sürat"
+    },
+    {
+        "id": 424,
+        "question": "Okullarda aynı düzeydeki sınıflardan her biri",
+        "letter": "Ş",
+        "answer": "şube"
+    },
+    {
+        "id": 1060,
+        "question": "Türlü metallerden yapılmış, kopmaya karşı bir direnç gösteren ince uzun ip",
+        "letter": "T",
+        "answer": "tel"
+    },
+    {
+        "id": 722,
+        "question": "İnsana iyilik getirdiğine inanılan belirti",
+        "letter": "U",
+        "answer": "Uğur"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 870,
+        "question": "Bir vadi ya da ırmak üzerine kurulan yüksek ve uzun köprü",
+        "letter": "V",
+        "answer": "Viyadük, vıyaduk"
+    },
+    {
+        "id": 492,
+        "question": "Gösterişsiz, süssüz, sade, net",
+        "letter": "Y",
+        "answer": "yalın"
+    },
+    {
+        "id": 719,
+        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "letter": "Z",
+        "answer": "Zindan"
+    }
+]

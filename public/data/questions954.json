@@ -1,0 +1,158 @@
+[
+    {
+        "id": 517,
+        "question": "Bir şeyi, bir olayı olduğundan büyük veya çok gösterme",
+        "letter": "A",
+        "answer": "Abartı, Abartma, Abartmak"
+    },
+    {
+        "id": 525,
+        "question": "Kullanılması önlenmiş, el konulmuş",
+        "letter": "B",
+        "answer": "Bloke, bloke edilmiş, bloke olmuş"
+    },
+    {
+        "id": 787,
+        "question": "“Öfke, kızgınlık” anlamındaki bir erkek ismi",
+        "letter": "C",
+        "answer": "Celal"
+    },
+    {
+        "id": 1485,
+        "question": "Etkili, dikkat çeken, sansasyonel",
+        "letter": "Ç",
+        "answer": "Çarpıcı, çarpıcı olay"
+    },
+    {
+        "id": 1090,
+        "question": "\"Bir olay sebebiyle birden ayılmak, doğruyu anlamak\"",
+        "letter": "D",
+        "answer": "dank, dank etme, dank etmek, dank etmesi"
+    },
+    {
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
+        "letter": "E",
+        "answer": "emare"
+    },
+    {
+        "id": 1672,
+        "question": "Birdenbire, düşünmeden yapan",
+        "letter": "F",
+        "answer": "Fevri"
+    },
+    {
+        "id": 1427,
+        "question": "Amaç, hedef",
+        "letter": "G",
+        "answer": "Gaye"
+    },
+    {
+        "id": 1100,
+        "question": "Din buyruklarını yerine getirmek için hacca gitmiş Müslüman",
+        "letter": "H",
+        "answer": "hacı"
+    },
+    {
+        "id": 1712,
+        "question": "Bilgisayarların veri işleyen ve yazılım komutlarını gerçekleştiren devre elemanı",
+        "letter": "İ",
+        "answer": "İşlemci"
+    },
+    {
+        "id": 612,
+        "question": "Isıtmada kullanılan yakıtı düzenli ve ayarlı biçimde yakan araç",
+        "letter": "K",
+        "answer": "Kombi"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 1616,
+        "question": "Miras bırakan kimse",
+        "letter": "M",
+        "answer": "Muris"
+    },
+    {
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "letter": "N",
+        "answer": "Nostalji, nostaliji"
+    },
+    {
+        "id": 352,
+        "question": "Takıntılı (kimse)",
+        "letter": "O",
+        "answer": "obsesif"
+    },
+    {
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "letter": "Ö",
+        "answer": "Önlem"
+    },
+    {
+        "id": 1742,
+        "question": "Yerden kaynayarak çıkan su kaynağı",
+        "letter": "P",
+        "answer": "Pınar"
+    },
+    {
+        "id": 1032,
+        "question": "Pokerde, bir oyuncunun önündeki paranın tümü",
+        "letter": "R",
+        "answer": "rest"
+    },
+    {
+        "id": 694,
+        "question": "Sarmal biçiminde olan",
+        "letter": "S",
+        "answer": "Spiral"
+    },
+    {
+        "id": 1683,
+        "question": "Çoğunlukla saç yıkamakta kullanılan, kokulu ve bol köpüklü bir tür sıvı sabun",
+        "letter": "Ş",
+        "answer": "Şampuan"
+    },
+    {
+        "id": 1648,
+        "question": "Gençliği sebebiyle görgüsüz ve beceriksiz olan, çaylak",
+        "letter": "T",
+        "answer": "Toy"
+    },
+    {
+        "id": 1066,
+        "question": "Dik ve derin yamaç",
+        "letter": "U",
+        "answer": "Uçurum"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 1504,
+        "question": "Açık, aydın, belli",
+        "letter": "V",
+        "answer": "Vazıh"
+    },
+    {
+        "id": 488,
+        "question": "Yürüyerek giden kimse",
+        "letter": "Y",
+        "answer": "yaya"
+    },
+    {
+        "id": 1147,
+        "question": "Saf, tatlı su",
+        "letter": "Z",
+        "answer": "zülal"
+    }
+]

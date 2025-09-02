@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1926,
+        "question": "BOKSTA, BÜKÜK KOLLA AŞAĞIDAN YUKARIYA DOĞRU ÇENEYE ATILAN YUMRUK",
+        "letter": "A",
+        "answer": "Aparkat"
+    },
+    {
+        "id": 1920,
+        "question": "MİDENİN İSTİFRA SİNYALİ",
+        "letter": "B",
+        "answer": "Bulantı"
+    },
+    {
+        "id": 530,
+        "question": "Gösterişli, şatafatlı",
+        "letter": "C",
+        "answer": "Cafcaf, cafcaflı"
+    },
+    {
+        "id": 1548,
+        "question": "Eli veya kolu sakat olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çolak"
+    },
+    {
+        "id": 193,
+        "question": "Sıkıştırılmış hava içine püskürtülen yakıtla çalışan motor",
+        "letter": "D",
+        "answer": "dizel, dizel motor"
+    },
+    {
+        "id": 796,
+        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
+        "letter": "E",
+        "answer": "Elbette"
+    },
+    {
+        "id": 55,
+        "question": "Yeşil bitkilerin ışık enerjisiyle besin üretmesi",
+        "letter": "F",
+        "answer": "fotosentez"
+    },
+    {
+        "id": 1431,
+        "question": "Otomobil vb. taşıtların konulduğu üstü örtülü yer",
+        "letter": "G",
+        "answer": "Garaj"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 1944,
+        "question": "BİR ESERİN ARKASINDA YER ALAN ALFABETİK LİSTE",
+        "letter": "İ",
+        "answer": "İndeks"
+    },
+    {
+        "id": 605,
+        "question": "Garson kalfası",
+        "letter": "K",
+        "answer": "Komi"
+    },
+    {
+        "id": 615,
+        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
+        "letter": "L",
+        "answer": "Lümpen"
+    },
+    {
+        "id": 313,
+        "question": "Ara verme, duraklama",
+        "letter": "M",
+        "answer": "mola"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 1518,
+        "question": "Hızlı bir trafik akımı sağlamak amacıyla yapılan, çok şeritli, çift yönlü geniş yol, otoban",
+        "letter": "O",
+        "answer": "Otoyol"
+    },
+    {
+        "id": 1481,
+        "question": "Bir sorunu çözmek üzere öne sürülen görüş, düşünce, teklif",
+        "letter": "Ö",
+        "answer": "Öneri"
+    },
+    {
+        "id": 666,
+        "question": "Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha",
+        "letter": "P",
+        "answer": "Palet"
+    },
+    {
+        "id": 1642,
+        "question": "Tek bir sanatçının tek bir çalgı ile verdiği konser",
+        "letter": "R",
+        "answer": "Resital"
+    },
+    {
+        "id": 1800,
+        "question": "Hareketlinin birim zamanda aldığı yol",
+        "letter": "S",
+        "answer": "Sürat"
+    },
+    {
+        "id": 433,
+        "question": "Art düşünce, hile",
+        "letter": "Ş",
+        "answer": "şaibe, şike"
+    },
+    {
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "letter": "T",
+        "answer": "Taktik"
+    },
+    {
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
+        "letter": "U",
+        "answer": "Uzman, Usta"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 883,
+        "question": "Evleri kuşatan üstü kapalı ve camlı teras",
+        "letter": "V",
+        "answer": "Veranda"
+    },
+    {
+        "id": 1577,
+        "question": "Hacmine oranla ağırlığı çok olan",
+        "letter": "Y",
+        "answer": "Yoğun"
+    },
+    {
+        "id": 1586,
+        "question": "Dinç, canlı, diri, sağlam",
+        "letter": "Z",
+        "answer": "Zinde"
+    }
+]

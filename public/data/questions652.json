@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1155,
+        "question": "Gözleri görmeyen, eski dilde kör",
+        "letter": "A",
+        "answer": "Ama, Âmâ, Amâ"
+    },
+    {
+        "id": 1287,
+        "question": "Verme, bağışlama",
+        "letter": "B",
+        "answer": "Bahşetme, bahşetmek"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 543,
+        "question": "Aynı türden olmayan, türlü",
+        "letter": "Ç",
+        "answer": "Çeşit, Çeşitli"
+    },
+    {
+        "id": 184,
+        "question": "Zihinde beliren olayların, düşüncelerin bütünü, rüya",
+        "letter": "D",
+        "answer": "düş"
+    },
+    {
+        "id": 1211,
+        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
+        "letter": "E",
+        "answer": "Emekleme, emeklemek"
+    },
+    {
+        "id": 1285,
+        "question": "Uygun zaman, uygun durum veya şart, vesile, imkan, şans",
+        "letter": "F",
+        "answer": "Fırsat"
+    },
+    {
+        "id": 22,
+        "question": "Ahmaklık, anlayışsızlık, kalın kafalılık, bönlük",
+        "letter": "G",
+        "answer": "gabavet"
+    },
+    {
+        "id": 1965,
+        "question": "BİTKİLERİN DOĞAL OLARAK YERLEŞTİĞİ YER, YURT",
+        "letter": "H",
+        "answer": "HABİTAT"
+    },
+    {
+        "id": 958,
+        "question": "Uyarma",
+        "letter": "İ",
+        "answer": "ikaz, ikaz etme, ikaz etmek"
+    },
+    {
+        "id": 1795,
+        "question": "RUMCA KÖKENLİ “YIPRANMIŞ, ESKİ VE BAKIMSIZ” ANLAMLARINDA DAHA ÇOK ARAÇLAR, MAKİNELER İÇİN KULLANILAN SÖZCÜK",
+        "letter": "K",
+        "answer": "Külüstür"
+    },
+    {
+        "id": 985,
+        "question": "Tanrı'nın sevgi ve ilgisinden yoksun olma, beddua",
+        "letter": "L",
+        "answer": "Lanet, lanetleme, lanetlenme, lanetlenmek"
+    },
+    {
+        "id": 1763,
+        "question": "ÜRETİMDE BİR MAL ELDE EDİLİNCEYE KADAR HARCANAN DEĞERLERİN TOPLAMI",
+        "letter": "M",
+        "answer": "Maliyet"
+    },
+    {
+        "id": 993,
+        "question": "Hoş olmayan, hoşa gitmeyen, kötü, çirkin",
+        "letter": "N",
+        "answer": "Nahoş"
+    },
+    {
+        "id": 652,
+        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
+        "letter": "O",
+        "answer": "Odeon"
+    },
+    {
+        "id": 922,
+        "question": "Korkak, Tabansız, Yüreksiz",
+        "letter": "Ö",
+        "answer": "ödlek"
+    },
+    {
+        "id": 381,
+        "question": "Elektrik akımı almak için fişin sokulduğu yuva",
+        "letter": "P",
+        "answer": "priz"
+    },
+    {
+        "id": 399,
+        "question": "Mertebe, derece",
+        "letter": "R",
+        "answer": "rütbe"
+    },
+    {
+        "id": 1163,
+        "question": "Söylenmemesi gereken, giz",
+        "letter": "S",
+        "answer": "Sır"
+    },
+    {
+        "id": 428,
+        "question": "Gürültü patırtı",
+        "letter": "Ş",
+        "answer": "şamata"
+    },
+    {
+        "id": 1130,
+        "question": "Ölünün içine konulduğu sandık biçiminde araç, sal",
+        "letter": "T",
+        "answer": "tabut"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 873,
+        "question": "İdrarın dışarıya atılmasını sağlayan ve idrar torbasından sonraki idrar yol",
+        "letter": "Ü",
+        "answer": "Üretra"
+    },
+    {
+        "id": 477,
+        "question": "Döndürülerek bir yere sokulan burmalı çivi",
+        "letter": "V",
+        "answer": "vida"
+    },
+    {
+        "id": 496,
+        "question": "Enerji ve ısı ortaya çıkaran yanıcı madde",
+        "letter": "Y",
+        "answer": "yakıt"
+    },
+    {
+        "id": 508,
+        "question": "Çok koyu, karanlık",
+        "letter": "Z",
+        "answer": "zifiri, zifir"
+    }
+]

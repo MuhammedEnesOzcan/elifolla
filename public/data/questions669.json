@@ -1,0 +1,158 @@
+[
+    {
+        "id": 520,
+        "question": "Kana al rengini veren hücre",
+        "letter": "A",
+        "answer": "Alyuvar, Alyuvarlar, Alyuvar hücre"
+    },
+    {
+        "id": 150,
+        "question": "İstemeyerek bir yere gitme durumunda kalmak, dibe düşmek",
+        "letter": "B",
+        "answer": "boylamak"
+    },
+    {
+        "id": 915,
+        "question": "Sonu Olmayan, Sonsuz, Ebedi, Ölümsüz",
+        "letter": "C",
+        "answer": "Cavit"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 794,
+        "question": "Belli bir esasa göre verilen buyruk, talimat, yönerge",
+        "letter": "D",
+        "answer": "Direktif"
+    },
+    {
+        "id": 1227,
+        "question": "Tekrar eden ses, yankı",
+        "letter": "E",
+        "answer": "Eko"
+    },
+    {
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
+        "letter": "F",
+        "answer": "Ferah"
+    },
+    {
+        "id": 90,
+        "question": "Retina ve iris bulunan organımız",
+        "letter": "G",
+        "answer": "göz"
+    },
+    {
+        "id": 58,
+        "question": "Sebze, meyve, bakliyat gibi ürünlerin toptan satıldığı yer",
+        "letter": "H",
+        "answer": "Hal, Hâl"
+    },
+    {
+        "id": 600,
+        "question": "Bir yeri ele geçirme",
+        "letter": "İ",
+        "answer": "İşgal, işgal etme, işgal etmek"
+    },
+    {
+        "id": 288,
+        "question": "Savunma aracı, korumalık",
+        "letter": "K",
+        "answer": "kalkan"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 313,
+        "question": "Ara verme, duraklama",
+        "letter": "M",
+        "answer": "mola"
+    },
+    {
+        "id": 637,
+        "question": "Bir şeyin iyi veya kötü olma özelliği, kalite, özellik",
+        "letter": "N",
+        "answer": "Nitelik, niteliği"
+    },
+    {
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
+        "letter": "O",
+        "answer": "onay, onaylama, onaylamak"
+    },
+    {
+        "id": 762,
+        "question": "Belli bir kurala göre devam eden sayı ya da şekil dizisi",
+        "letter": "Ö",
+        "answer": "Örüntü"
+    },
+    {
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "letter": "P",
+        "answer": "plak"
+    },
+    {
+        "id": 1205,
+        "question": "TV'deki günlük veya haftalık izlenme oranı, izleniş durumu",
+        "letter": "R",
+        "answer": "Reyting, rating"
+    },
+    {
+        "id": 1813,
+        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
+        "letter": "S",
+        "answer": "Solaryum"
+    },
+    {
+        "id": 1058,
+        "question": "Genellikle bazı sporları yaparken giyilen, paçaları dizlerin yukarısında başlayan kısa pantolon",
+        "letter": "Ş",
+        "answer": "Şort"
+    },
+    {
+        "id": 704,
+        "question": "Kaynak aracılığıyla doğrulama, kontrol etme",
+        "letter": "T",
+        "answer": "Teyit, teyit etme, teyit etmek"
+    },
+    {
+        "id": 451,
+        "question": "Genel, halka açık",
+        "letter": "U",
+        "answer": "umumi"
+    },
+    {
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
+        "letter": "Ü",
+        "answer": "üvey"
+    },
+    {
+        "id": 474,
+        "question": "Sevgiyi sürdürme, sevgi, dostluk bağlılığı",
+        "letter": "V",
+        "answer": "vefa"
+    },
+    {
+        "id": 1581,
+        "question": "Kitapların, dergilerin, gazetelerin yayınlanıp hazırlandığı yer",
+        "letter": "Y",
+        "answer": "Yayınevi"
+    },
+    {
+        "id": 857,
+        "question": "Çiçek Açan - Çoban Yıldızı (Venüs)",
+        "letter": "Z",
+        "answer": "Zühre, zuhre"
+    }
+]

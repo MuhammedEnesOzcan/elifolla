@@ -1,0 +1,158 @@
+[
+    {
+        "id": 104,
+        "question": "Bir kaynağa dayanmayan, hayali",
+        "letter": "A",
+        "answer": "afaki, afâki"
+    },
+    {
+        "id": 147,
+        "question": "Daha kötü, çok kötü",
+        "letter": "B",
+        "answer": "beter"
+    },
+    {
+        "id": 154,
+        "question": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
+        "letter": "C",
+        "answer": "cila"
+    },
+    {
+        "id": 183,
+        "question": "Oy vermekten, eğilim göstermekten veya bir şey yapmaktan kaçınan, kararsız kimse",
+        "letter": "Ç",
+        "answer": "çekimser"
+    },
+    {
+        "id": 1812,
+        "question": "“YANLIŞ VEYA KUSURLU SESLER” İÇİN KULLANILAN MÜZİK TERİMİ",
+        "letter": "D",
+        "answer": "Detone"
+    },
+    {
+        "id": 1227,
+        "question": "Tekrar eden ses, yankı",
+        "letter": "E",
+        "answer": "Eko"
+    },
+    {
+        "id": 1285,
+        "question": "Uygun zaman, uygun durum veya şart, vesile, imkan, şans",
+        "letter": "F",
+        "answer": "Fırsat"
+    },
+    {
+        "id": 232,
+        "question": "Resmi bir törenden sonra yapılan büyük ve gösterişli şölen",
+        "letter": "G",
+        "answer": "gala"
+    },
+    {
+        "id": 1494,
+        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "letter": "H",
+        "answer": "Halef, halefi"
+    },
+    {
+        "id": 275,
+        "question": "İçine alma, içinde bulundurma, içerme",
+        "letter": "İ",
+        "answer": "ihtiva"
+    },
+    {
+        "id": 290,
+        "question": "Askeri birliği ve onunla ilgili işleri yönetme görevi, kumanda",
+        "letter": "K",
+        "answer": "komuta, komuta etme, komuta etmek"
+    },
+    {
+        "id": 1107,
+        "question": "Hanigillerden, Akdeniz ve Ege'de yaşayan lezzetli bir balık, kaya hanisi",
+        "letter": "L",
+        "answer": "lahos"
+    },
+    {
+        "id": 1193,
+        "question": "Genellikle çocukların kullandığı üflemeli ve klavyeli çalgı",
+        "letter": "M",
+        "answer": "Melodika"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 352,
+        "question": "Takıntılı (kimse)",
+        "letter": "O",
+        "answer": "obsesif"
+    },
+    {
+        "id": 366,
+        "question": "Bir kusurun hoş görülmesini gerektiren sebep, mazeret",
+        "letter": "Ö",
+        "answer": "özür"
+    },
+    {
+        "id": 821,
+        "question": "Birden ortaya çıkan, aşırı ve normalin dışına taşmış korku hali",
+        "letter": "P",
+        "answer": "panik"
+    },
+    {
+        "id": 683,
+        "question": "Yanlış, yozlaşmış, vb. şeylerin iyileştirilmesi veya köklü değiştirilmesi",
+        "letter": "R",
+        "answer": "Reform, Reform yapma, Reform yapmak"
+    },
+    {
+        "id": 1887,
+        "question": "ROMAN JARGONUNDA “PARA” ANLAMINDA KULLANILAN SÖZCÜK",
+        "letter": "S",
+        "answer": "Sipali"
+    },
+    {
+        "id": 1464,
+        "question": "Olması başka durumların gerçekleşmesini gerektiren şey, koşul",
+        "letter": "Ş",
+        "answer": "Şart, şartlar"
+    },
+    {
+        "id": 1253,
+        "question": "Bir haneyi, evi, yapıyı yenileme işlemi",
+        "letter": "T",
+        "answer": "Tadilat, tadilat yapma, tadilat yapmak"
+    },
+    {
+        "id": 1068,
+        "question": "Çok uzun",
+        "letter": "U",
+        "answer": "upuzun"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 730,
+        "question": "Kişinin hiçbir gerçekliğe ve temele dayanmayan duygulara kapılması",
+        "letter": "V",
+        "answer": "Vesvese"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 1146,
+        "question": "Güçsüz, zayıf, âciz",
+        "letter": "Z",
+        "answer": "zebun"
+    }
+]

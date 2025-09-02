@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1296,
+        "question": "Elektrik enerjisini kimyasal enerji olarak depolayıp ihtiyaç durumunda bu enerjiyi tekrar elektrik enerjisine çeviren cihaz",
+        "letter": "A",
+        "answer": "Akü"
+    },
+    {
+        "id": 526,
+        "question": "Geçidi kapamak için her türlü araçtan yararlanılarak yapılan engel",
+        "letter": "B",
+        "answer": "Barikat"
+    },
+    {
+        "id": 789,
+        "question": "Bir maddenin özü, değerli taş",
+        "letter": "C",
+        "answer": "Cevher"
+    },
+    {
+        "id": 543,
+        "question": "Aynı türden olmayan, türlü",
+        "letter": "Ç",
+        "answer": "Çeşit, Çeşitli"
+    },
+    {
+        "id": 112,
+        "question": "Müzik, ürün, hizmet gibi alanlarda kısa ön sunum",
+        "letter": "D",
+        "answer": "demo"
+    },
+    {
+        "id": 1409,
+        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
+        "letter": "E",
+        "answer": "Ergonomik"
+    },
+    {
+        "id": 1094,
+        "question": "Süslü, ayaklı fener",
+        "letter": "F",
+        "answer": "Fanus"
+    },
+    {
+        "id": 1492,
+        "question": "Bir malı sahibinin izni ve haberi olmadan zorla alma",
+        "letter": "G",
+        "answer": "Gasp, gasp etme, gasp etmek"
+    },
+    {
+        "id": 1442,
+        "question": "Sularda yaşayan canlıların hayatını inceleyen bilim dalı",
+        "letter": "H",
+        "answer": "Hidrobiyoloji"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 977,
+        "question": "Başlık, sipersiz şapka",
+        "letter": "K",
+        "answer": "Kep"
+    },
+    {
+        "id": 1832,
+        "question": "PORTATİF KÜÇÜK ÇOCUK TUVALETİ",
+        "letter": "L",
+        "answer": "Lazımlık"
+    },
+    {
+        "id": 313,
+        "question": "Ara verme, duraklama",
+        "letter": "M",
+        "answer": "mola"
+    },
+    {
+        "id": 987,
+        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
+        "letter": "N",
+        "answer": "Naz"
+    },
+    {
+        "id": 998,
+        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
+        "letter": "O",
+        "answer": "oya"
+    },
+    {
+        "id": 361,
+        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
+        "letter": "Ö",
+        "answer": "önem"
+    },
+    {
+        "id": 666,
+        "question": "Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha",
+        "letter": "P",
+        "answer": "Palet"
+    },
+    {
+        "id": 396,
+        "question": "Yönetme, düzenleme biçimi, düzen",
+        "letter": "R",
+        "answer": "rejim"
+    },
+    {
+        "id": 1123,
+        "question": "Geçen, önceki, eski",
+        "letter": "S",
+        "answer": "sabık, selef, selefi"
+    },
+    {
+        "id": 430,
+        "question": "Saydam, yalın, açık",
+        "letter": "Ş",
+        "answer": "şeffaf"
+    },
+    {
+        "id": 706,
+        "question": "Bağırıp çağırarak, alkışlayıp tempo tutarak yapılan destek",
+        "letter": "T",
+        "answer": "Tezahürat, Tezzahürat"
+    },
+    {
+        "id": 1071,
+        "question": "Yakışır, yaraşır, mutabık, mütenasip",
+        "letter": "U",
+        "answer": "uygun"
+    },
+    {
+        "id": 458,
+        "question": "Herhangi bir topluluğu oluşturan bireylerden her biri",
+        "letter": "Ü",
+        "answer": "üye"
+    },
+    {
+        "id": 1137,
+        "question": "Kent veya kasabada dış mahalle",
+        "letter": "V",
+        "answer": "varoş"
+    },
+    {
+        "id": 773,
+        "question": "Japon mafyası",
+        "letter": "Y",
+        "answer": "Yakuza"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

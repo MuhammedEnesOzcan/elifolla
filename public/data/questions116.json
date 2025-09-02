@@ -1,0 +1,158 @@
+[
+    {
+        "id": 75,
+        "question": "Dünya'nın en güneyinde yer alan kıta",
+        "letter": "A",
+        "answer": "Antarktika, Antartika"
+    },
+    {
+        "id": 1603,
+        "question": "Bir maaşın ayrıntılarını gösteren çizelge",
+        "letter": "B",
+        "answer": "Bordro"
+    },
+    {
+        "id": 962,
+        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "letter": "C",
+        "answer": "Cacık"
+    },
+    {
+        "id": 1873,
+        "question": "DOĞA KİRLİLİĞİ SORUNLARIYLA UĞRAŞAN KİMSE VEYA TOPLULUK",
+        "letter": "Ç",
+        "answer": "Çevreci"
+    },
+    {
+        "id": 556,
+        "question": "Gereği kadar pişmemiş",
+        "letter": "D",
+        "answer": "Diri"
+    },
+    {
+        "id": 798,
+        "question": "Yazıtları ve tarihi yapıtlardaki yazıları inceleyen bilim dalı",
+        "letter": "E",
+        "answer": "Epigrafi"
+    },
+    {
+        "id": 1489,
+        "question": "Etken, etmen",
+        "letter": "F",
+        "answer": "Faktör"
+    },
+    {
+        "id": 232,
+        "question": "Resmi bir törenden sonra yapılan büyük ve gösterişli şölen",
+        "letter": "G",
+        "answer": "gala"
+    },
+    {
+        "id": 1445,
+        "question": "Sürekli hayal kuran, hep hayal peşinde koşan (kimse)",
+        "letter": "H",
+        "answer": "Hayalperest, hayalperver"
+    },
+    {
+        "id": 258,
+        "question": "Bir konuda birinin inanmasını sağlama, inandırma, kandırma",
+        "letter": "İ",
+        "answer": "ikna"
+    },
+    {
+        "id": 1783,
+        "question": "KİTABIN, DERGİNİN İÇERİĞİNİ ÖZETLEYEN DIŞ YÜZÜ",
+        "letter": "K",
+        "answer": "Kapak"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 1617,
+        "question": "Denizlerde görülen bazı mikroorganizmalar tarafından üretilen kalın, yapışkan maddeler, Deniz salyası",
+        "letter": "M",
+        "answer": "Müsilaj"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 1736,
+        "question": "Elektrik sinyallerini görselleştirmek, ölçmek ve analiz etmek için kullanılan cihaz",
+        "letter": "O",
+        "answer": "Osiloskop"
+    },
+    {
+        "id": 663,
+        "question": "Bir işin ilerisini kestirme, tahmin etmek",
+        "letter": "Ö",
+        "answer": "Öngörü, Öngörmek"
+    },
+    {
+        "id": 1742,
+        "question": "Yerden kaynayarak çıkan su kaynağı",
+        "letter": "P",
+        "answer": "Pınar"
+    },
+    {
+        "id": 1121,
+        "question": "Herhangi bir işte, bir yarışta, birbirini geçmeye çalışan, aynı şeyi elde etmeye uğraşan",
+        "letter": "R",
+        "answer": "Rakip"
+    },
+    {
+        "id": 411,
+        "question": "Yoğun bir biçimde yapılan atak",
+        "letter": "S",
+        "answer": "salvo"
+    },
+    {
+        "id": 1459,
+        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "letter": "Ş",
+        "answer": "Şizofreni"
+    },
+    {
+        "id": 434,
+        "question": "Hükümdarların oturduğu büyük, süslü koltuk",
+        "letter": "T",
+        "answer": "taht"
+    },
+    {
+        "id": 69,
+        "question": "Tıraş için kullanılan açılır kapanır keskin bıçak",
+        "letter": "U",
+        "answer": "ustura"
+    },
+    {
+        "id": 1468,
+        "question": "Güvercinlerden, korularda yaşayan, eti için avlanan, boz renkli bir kuş (Streptopelia turtur)",
+        "letter": "Ü",
+        "answer": "Üveyik"
+    },
+    {
+        "id": 888,
+        "question": "Kedigillerden, kürkünden yararlanılan çok yırtıcı hayvan",
+        "letter": "V",
+        "answer": "Vaşak, vasak"
+    },
+    {
+        "id": 884,
+        "question": "Soğanlı et yemeği",
+        "letter": "Y",
+        "answer": "Yahni"
+    },
+    {
+        "id": 1590,
+        "question": "Taban, döşeme, yer",
+        "letter": "Z",
+        "answer": "Zemin"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 102,
+        "question": "Bir işin yabancısı olan, eli işe alışmamış, bir işi beceremeyen",
+        "letter": "A",
+        "answer": "acemi"
+    },
+    {
+        "id": 1601,
+        "question": "Genellikle bir şeyi tanıtmayı amaçlayan, sayfa sayısı az, küçük kitap",
+        "letter": "B",
+        "answer": "Broşür"
+    },
+    {
+        "id": 1358,
+        "question": "Bir eserin ayrı ayrı basılan bölümlerinden her biri",
+        "letter": "C",
+        "answer": "Cilt, cildi"
+    },
+    {
+        "id": 180,
+        "question": "Kadro, kademe, basamak ve derecelerin yer aldığı liste",
+        "letter": "Ç",
+        "answer": "çizelge"
+    },
+    {
+        "id": 189,
+        "question": "Perhiz, rejim",
+        "letter": "D",
+        "answer": "diyet"
+    },
+    {
+        "id": 1418,
+        "question": "Vücutta istenmeyen kılları alma",
+        "letter": "E",
+        "answer": "Epilasyon"
+    },
+    {
+        "id": 1328,
+        "question": "Bir dansı veya oyunu oluşturan ölçülü adımlarla beliren zincirleme hareketlerden her biri",
+        "letter": "F",
+        "answer": "Figür, figürler"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 594,
+        "question": "Sınır, uç noktası",
+        "letter": "H",
+        "answer": "Hudut"
+    },
+    {
+        "id": 952,
+        "question": "Bir köleyi özgürlüğüne kavuşturma",
+        "letter": "İ",
+        "answer": "itak"
+    },
+    {
+        "id": 283,
+        "question": "Mısırın taneleri atıldıktan sonra kalan sert bölüm",
+        "letter": "K",
+        "answer": "koçan"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 322,
+        "question": "Başvurulacak yer veya makam",
+        "letter": "M",
+        "answer": "merci"
+    },
+    {
+        "id": 1256,
+        "question": "Müzik seslerinin yazıya dökülmüş hali",
+        "letter": "N",
+        "answer": "Nota, notalandırma, notalandırmak, notalar"
+    },
+    {
+        "id": 649,
+        "question": "Birden çok kimse veya nesneyi ilgilendiren, müşterek",
+        "letter": "O",
+        "answer": "Ortak"
+    },
+    {
+        "id": 664,
+        "question": "Bir işi ileri tarihe atma, ertelemek",
+        "letter": "Ö",
+        "answer": "Öteleme, ötelemek"
+    },
+    {
+        "id": 1734,
+        "question": "Engebeli yerlerden gelip geçenlerin ayak izlerinden oluşan, tekerlekli araç işlemeyen dar yol",
+        "letter": "P",
+        "answer": "Patika, patika yol"
+    },
+    {
+        "id": 1634,
+        "question": "Hindistan, Nepal, Pakistan'da kullanılan para birimi",
+        "letter": "R",
+        "answer": "Rupi"
+    },
+    {
+        "id": 1042,
+        "question": "Sen zamirinin yönelme durumu",
+        "letter": "S",
+        "answer": "sana"
+    },
+    {
+        "id": 421,
+        "question": "Güzel, zarif, modaya uygun",
+        "letter": "Ş",
+        "answer": "şık"
+    },
+    {
+        "id": 1698,
+        "question": "Eski dilde tıp doktoru, hekim",
+        "letter": "T",
+        "answer": "Tabip"
+    },
+    {
+        "id": 1132,
+        "question": "Şalvarı bele bağlamak veya torba, kese vb. şeylerin ağzını büzmek için bunlara geçirilen bağ",
+        "letter": "U",
+        "answer": "uçkur"
+    },
+    {
+        "id": 879,
+        "question": "Geniş Anlamıyla Derş Ya Da Mukoza Altı Dokuları Meydanda Bırakan Kronik Yaralar",
+        "letter": "Ü",
+        "answer": "Ülser"
+    },
+    {
+        "id": 863,
+        "question": "Tahıl tanelerinin damıtılmasıyla elde edilen alkollü içki",
+        "letter": "V",
+        "answer": "Votka, vodka"
+    },
+    {
+        "id": 889,
+        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "letter": "Y",
+        "answer": "Yalak"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

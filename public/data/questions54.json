@@ -1,158 +1,158 @@
 [
     {
-        "id": 782,
-        "question": "Ruh biliminde karşıt duygu, sevimsizlik, soğukluk",
+        "id": 1302,
+        "question": "Bir işin yolunda gitmemesi durumu, elverişsizlik",
         "letter": "A",
-        "answer": "Antipati"
+        "answer": "Aksilik, aksi, aksilik çıkması"
     },
     {
-        "id": 1773,
-        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "id": 1184,
+        "question": "Hisse, menkul kıymetler vb. alınıp satıldığı organize piyasa",
         "letter": "B",
-        "answer": "Buluş"
+        "answer": "Borsa"
     },
     {
-        "id": 158,
-        "question": "Çok yakın, sıkı fıkı, pek içten (arkadaş)",
+        "id": 1365,
+        "question": "Hep birden, hep birlikte anlamlarındaki söz",
         "letter": "C",
-        "answer": "can ciğer"
+        "answer": "Cümleten"
     },
     {
-        "id": 545,
-        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "id": 1890,
+        "question": "“TORTU” KELİMESİNİN EŞ ANLAMLISI",
         "letter": "Ç",
-        "answer": "Çeviri"
+        "answer": "Çökelti"
     },
     {
-        "id": 1383,
-        "question": "Eşlerin baba ve analarının birbirlerine göre durumu",
+        "id": 1387,
+        "question": "Oyunda, atılan zarlardan ikisinin de beş benekli yüzünün üste gelmesi",
         "letter": "D",
-        "answer": "Dünür, dünürü, dünürlük"
+        "answer": "Dübeş"
     },
     {
-        "id": 208,
-        "question": "Belirti, iz, ipucu",
+        "id": 1238,
+        "question": "Kimyasal tepkimelerin hızını arttıran, canlı hücrelerde üretilen özel proteinler",
         "letter": "E",
-        "answer": "emare"
+        "answer": "Enzim, enzimler"
     },
     {
-        "id": 1321,
-        "question": "Tütünleme suretiyle kurutulmuş ringa balığı",
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
         "letter": "F",
-        "answer": "Frisa, firisa"
+        "answer": "FALSO"
     },
     {
-        "id": 802,
-        "question": "Pişirilerek kurutulmuş yuvarlak veya uzun biçimli peksimet",
+        "id": 1425,
+        "question": "Eksikliği duyulan şey, ihtiyaç",
         "letter": "G",
-        "answer": "Galeta, Grisini, Gevrek"
+        "answer": "Gereksinim, gerekli"
     },
     {
-        "id": 1247,
-        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
+        "id": 1965,
+        "question": "BİTKİLERİN DOĞAL OLARAK YERLEŞTİĞİ YER, YURT",
         "letter": "H",
-        "answer": "Hegemonya, hegamonya, hegomonya"
+        "answer": "HABİTAT"
     },
     {
-        "id": 1842,
-        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "id": 1101,
+        "question": "Bir düşünceyi anlatan bir veya birkaç cümlelik söz",
         "letter": "İ",
-        "answer": "İmtina, İmtina etme, İmtina etmek"
+        "answer": "İbare"
     },
     {
-        "id": 95,
-        "question": "Komutanı korgeneral olan askeri birlik",
+        "id": 1697,
+        "question": "GERÇEĞİN NE OLDUĞUNU TAM OLARAK KESTİREMEMEKTEN DOĞAN KARARSIZLIK, İŞKİL",
         "letter": "K",
-        "answer": "kolordu"
+        "answer": "Kuşku, kuşkulanma, kuşkulanmak"
     },
     {
-        "id": 928,
-        "question": "Çıkış yeri kolaylıkla bulunamayacak kadar karışık koridorları olan yapı",
+        "id": 1528,
+        "question": "Üzeri toprak veya otla örtülmüş saman yığını",
         "letter": "L",
-        "answer": "Labirent"
+        "answer": "Loda"
     },
     {
-        "id": 313,
-        "question": "Ara verme, duraklama",
+        "id": 325,
+        "question": "Konu, beklenmedik olay",
         "letter": "M",
-        "answer": "mola"
+        "answer": "mevzu"
     },
     {
-        "id": 329,
-        "question": "Bir yerden alıp başka bir yere iletme, aktarma, taşıma",
+        "id": 987,
+        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
         "letter": "N",
-        "answer": "nakil, nakil işlemi"
+        "answer": "Naz"
     },
     {
-        "id": 1516,
-        "question": "Elle yapılan kalın, seyrek dikiş",
+        "id": 1113,
+        "question": "Büyük ve süslü çadır, çerge",
         "letter": "O",
-        "answer": "Oyulga"
+        "answer": "Otağ"
     },
     {
-        "id": 1534,
-        "question": "Bir alışveriş ilişkisinde, borcu alacaklıya vermek, tediye etmek",
+        "id": 1689,
+        "question": "AYIRT EDİCİ BİR NİTELİĞİ OLAN",
         "letter": "Ö",
-        "answer": "Ödemek, Ödeme, ödeme yapma, ödeme yapmak"
+        "answer": "Özel, özellikli"
     },
     {
-        "id": 377,
-        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "id": 1802,
+        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
         "letter": "P",
-        "answer": "plak"
+        "answer": "Peksimet"
     },
     {
-        "id": 684,
-        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
+        "id": 679,
+        "question": "Bir mağazanın yalnız bir tür eşya satılan bölümü",
         "letter": "R",
-        "answer": "Rivayet"
+        "answer": "Reyon, reyonu"
     },
     {
-        "id": 1756,
-        "question": "Alt anlamı kimse, insan, tip olan Farsça kökenli kelime",
+        "id": 1934,
+        "question": "KENDİ GERÇEKLİĞİNİ YARATAN SANAT AKIMI, GERÇEKÜSTÜCÜLÜK",
         "letter": "S",
-        "answer": "Sima"
+        "answer": "Sürrealizm"
     },
     {
-        "id": 1459,
-        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "id": 1688,
+        "question": "Güneş doğmadan az önce beliren aydınlık",
         "letter": "Ş",
-        "answer": "Şizofreni"
+        "answer": "Şafak"
     },
     {
-        "id": 1154,
-        "question": "Diş taşı",
+        "id": 1157,
+        "question": "Arnavutluk'un başkenti",
         "letter": "T",
-        "answer": "tartar"
+        "answer": "Tiran, Tirana"
     },
     {
-        "id": 455,
-        "question": "Açıkgöz, kurnaz, cingöz",
+        "id": 445,
+        "question": "Boyutları normalden küçük",
         "letter": "U",
-        "answer": "uyanık"
+        "answer": "ufak"
     },
     {
-        "id": 849,
-        "question": "Bilim yada sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "id": 464,
+        "question": "Korkuya çabuk kapılan",
         "letter": "Ü",
-        "answer": "Üstad, üstat"
+        "answer": "ürkek"
     },
     {
-        "id": 715,
-        "question": "Genellikle sıvı şeyleri koymakta kullanılan, silindir biçiminde ve üstü kapalı, metal kap",
+        "id": 1138,
+        "question": "Tehlikeli durum",
         "letter": "V",
-        "answer": "Varil"
+        "answer": "varta, vuku, vukuat"
     },
     {
-        "id": 718,
-        "question": "Üstünde yaşadığımız gök cismi",
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
         "letter": "Y",
-        "answer": "Yer küre"
+        "answer": "yaban"
     },
     {
-        "id": 503,
-        "question": "Acımasız ve haksız davranan, zulmeden",
+        "id": 843,
+        "question": "Telli Bir Çalgıyı Acemice Çalarak Çıkarılan Çirkin Sesin Adı",
         "letter": "Z",
-        "answer": "zalim, zorba"
+        "answer": "Zımbırtı, zimbirti"
     }
 ]

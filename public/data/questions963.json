@@ -1,0 +1,158 @@
+[
+    {
+        "id": 85,
+        "question": "Şubatın 29 çektiği yıla ne denir",
+        "letter": "A",
+        "answer": "Artık yıl, Artık"
+    },
+    {
+        "id": 1744,
+        "question": "Geminin rüzgar almayan yanı",
+        "letter": "B",
+        "answer": "Boca"
+    },
+    {
+        "id": 1369,
+        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
+        "letter": "C",
+        "answer": "Cemre, cemre düşmesi"
+    },
+    {
+        "id": 168,
+        "question": "Yasa dışı işler yapmak veya etrafındakileri korkutmak amacıyla bir araya gelmiş topluluk",
+        "letter": "Ç",
+        "answer": "çete"
+    },
+    {
+        "id": 557,
+        "question": "Doluluğunu, gücünü yitirme",
+        "letter": "D",
+        "answer": "Deşarj, deşarj olma, deşarj olmak"
+    },
+    {
+        "id": 560,
+        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "letter": "E",
+        "answer": "Edip"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 1776,
+        "question": "SON BİLGİ VE DEĞİŞİKLİKLERİ DE EKLEYEREK YENİLEME",
+        "letter": "G",
+        "answer": "Güncelleme, Güncellemek"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
+        "letter": "İ",
+        "answer": "İşletme"
+    },
+    {
+        "id": 1697,
+        "question": "GERÇEĞİN NE OLDUĞUNU TAM OLARAK KESTİREMEMEKTEN DOĞAN KARARSIZLIK, İŞKİL",
+        "letter": "K",
+        "answer": "Kuşku, kuşkulanma, kuşkulanmak"
+    },
+    {
+        "id": 919,
+        "question": "Türklere özgü bir şekerleme",
+        "letter": "L",
+        "answer": "Lokum"
+    },
+    {
+        "id": 1215,
+        "question": "Güneşe en yakın gezegen",
+        "letter": "M",
+        "answer": "Merkür, merkür gezegeni"
+    },
+    {
+        "id": 637,
+        "question": "Bir şeyin iyi veya kötü olma özelliği, kalite, özellik",
+        "letter": "N",
+        "answer": "Nitelik, niteliği"
+    },
+    {
+        "id": 1517,
+        "question": "Alçak iskemle",
+        "letter": "O",
+        "answer": "Oturak"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 1734,
+        "question": "Engebeli yerlerden gelip geçenlerin ayak izlerinden oluşan, tekerlekli araç işlemeyen dar yol",
+        "letter": "P",
+        "answer": "Patika, patika yol"
+    },
+    {
+        "id": 1234,
+        "question": "Marie Curie tarafından bulunan radyoaktif element",
+        "letter": "R",
+        "answer": "Radyum"
+    },
+    {
+        "id": 1779,
+        "question": "NESNE ÖZELLİKLERİ BULUNMAYAN, DUYULARLA ALGILANMAYAN",
+        "letter": "S",
+        "answer": "Soyut"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 709,
+        "question": "Bildiri, haber verme",
+        "letter": "T",
+        "answer": "Tebliğ, Tebliğ etme, Tebliğ etmek, Tebligat"
+    },
+    {
+        "id": 447,
+        "question": "Uysal bir biçimde",
+        "letter": "U",
+        "answer": "uslu"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 881,
+        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
+        "letter": "V",
+        "answer": "Vernik, vernık"
+    },
+    {
+        "id": 491,
+        "question": "Dağın veya tepenin herhangi bir yanı",
+        "letter": "Y",
+        "answer": "yamaç"
+    },
+    {
+        "id": 942,
+        "question": "Zirkonyum'un simgesi",
+        "letter": "Z",
+        "answer": "zr"
+    }
+]

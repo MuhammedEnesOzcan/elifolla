@@ -1,0 +1,158 @@
+[
+    {
+        "id": 75,
+        "question": "Dünya'nın en güneyinde yer alan kıta",
+        "letter": "A",
+        "answer": "Antarktika, Antartika"
+    },
+    {
+        "id": 1788,
+        "question": "ÖNÜNDEKİ GENİŞ BIÇAKLA TOPRAĞI SIYIRIP KALDIRAN, TEKERLEKLİ VEYA PALETLİ BİR YOL MAKİNESİ",
+        "letter": "B",
+        "answer": "Buldozer"
+    },
+    {
+        "id": 1377,
+        "question": "Mahkemede oturum, duruşma",
+        "letter": "C",
+        "answer": "Celse"
+    },
+    {
+        "id": 1544,
+        "question": "Bazı toprakların yüzünde beyaz bir katman durumunda toplanan ve eskiden barut yapmakta kullanılan potaslı, sutlu tuz",
+        "letter": "Ç",
+        "answer": "Çorak"
+    },
+    {
+        "id": 1743,
+        "question": "Uluslararası ilişkileri düzenleyen antlaşmalar bütünü",
+        "letter": "D",
+        "answer": "Diplomasi"
+    },
+    {
+        "id": 1415,
+        "question": "Bir malın niteliğini belirtmek, özelliklerini göstermek amacıyla, o malın parasız verilen veya gönderilen parçası",
+        "letter": "E",
+        "answer": "Eşantiyon"
+    },
+    {
+        "id": 222,
+        "question": "Genellikle boyuna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "fular"
+    },
+    {
+        "id": 800,
+        "question": "Abartılı, aldatıcı ve yapay davranış",
+        "letter": "G",
+        "answer": "Gösteriş, Gösterişli"
+    },
+    {
+        "id": 754,
+        "question": "Hem et hem de otla beslenen canlılar",
+        "letter": "H",
+        "answer": "Hepçil, Hepobur"
+    },
+    {
+        "id": 264,
+        "question": "Bir şeyi armağan olarak verme, sunma",
+        "letter": "İ",
+        "answer": "ikram, ikram etme, ikram etmek"
+    },
+    {
+        "id": 1265,
+        "question": "Bir şeyin oyuk durumunda bulunan iç bölümü",
+        "letter": "K",
+        "answer": "Kovuk, kovuğu"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 1622,
+        "question": "Hayatın güldürücü yönünü ortaya çıkaran sanat türü",
+        "letter": "M",
+        "answer": "Mizah"
+    },
+    {
+        "id": 913,
+        "question": "Kıskandırmak ya da inat olsun diye yapılan iş",
+        "letter": "N",
+        "answer": "Nispet, nıspet"
+    },
+    {
+        "id": 995,
+        "question": "Plastik, tahta, mika vb. maddelerden yapılmış taşlarla oynanan ve konkene benzeyen bir tür oyun",
+        "letter": "O",
+        "answer": "okey"
+    },
+    {
+        "id": 1533,
+        "question": "Tazminat",
+        "letter": "Ö",
+        "answer": "Ödence"
+    },
+    {
+        "id": 1181,
+        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "letter": "P",
+        "answer": "Peron"
+    },
+    {
+        "id": 679,
+        "question": "Bir mağazanın yalnız bir tür eşya satılan bölümü",
+        "letter": "R",
+        "answer": "Reyon, reyonu"
+    },
+    {
+        "id": 406,
+        "question": "Dik, çıkması ve geçilmesi güç (yer)",
+        "letter": "S",
+        "answer": "sarp"
+    },
+    {
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
+        "letter": "Ş",
+        "answer": "Şahsiyet"
+    },
+    {
+        "id": 1063,
+        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
+        "letter": "T",
+        "answer": "Takı"
+    },
+    {
+        "id": 723,
+        "question": "Uyuşma, mutabakat, konsensüs",
+        "letter": "U",
+        "answer": "Uzlaşı, uzlaşma, uzlaşmak"
+    },
+    {
+        "id": 1702,
+        "question": "Bir peygambere inanıp onun yolunu seçen kimselerin tümü",
+        "letter": "Ü",
+        "answer": "Ümmet, Ümmed"
+    },
+    {
+        "id": 732,
+        "question": "Diğer adı petrol jelatini olan nemlendirici bakım ürünü",
+        "letter": "V",
+        "answer": "Vazelin, Vaseline"
+    },
+    {
+        "id": 1140,
+        "question": "Dik, sarp",
+        "letter": "Y",
+        "answer": "yalçın"
+    },
+    {
+        "id": 1587,
+        "question": "İç içe geçen sehpa",
+        "letter": "Z",
+        "answer": "Zigon, zigon sehpa"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1662,
+        "question": "Şaşkınlıktan sersemleşmek",
+        "letter": "A",
+        "answer": "Afallamak, afallama"
+    },
+    {
+        "id": 128,
+        "question": "Sağ ayağı sol uyluğun, sol ayağı sağ uyluğun altına alarak oturma biçimi",
+        "letter": "B",
+        "answer": "bağdaş"
+    },
+    {
+        "id": 1530,
+        "question": "Adam öldürme",
+        "letter": "C",
+        "answer": "Cinayet"
+    },
+    {
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
+        "letter": "Ç",
+        "answer": "Çapak"
+    },
+    {
+        "id": 555,
+        "question": "Uluslararası ilişkilerde ülkesini temsil etmekle görevlendirilmiş kimse",
+        "letter": "D",
+        "answer": "Diplomat, Dış işleri bakanı"
+    },
+    {
+        "id": 1418,
+        "question": "Vücutta istenmeyen kılları alma",
+        "letter": "E",
+        "answer": "Epilasyon"
+    },
+    {
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
+        "letter": "F",
+        "answer": "Ferah"
+    },
+    {
+        "id": 1174,
+        "question": "Biçim, desen ya da çizgilerle gösterme, anlatma",
+        "letter": "G",
+        "answer": "Grafik"
+    },
+    {
+        "id": 248,
+        "question": "Dışta kalmak üzere, dışında sayılmak üzere, müstesna",
+        "letter": "H",
+        "answer": "hariç"
+    },
+    {
+        "id": 1817,
+        "question": "Bir kardeşini de beraberinde getiren bebeklerin birbirine göre varoluşsal durumu",
+        "letter": "İ",
+        "answer": "İkiz, ikizlik"
+    },
+    {
+        "id": 278,
+        "question": "Çocuk yuvası",
+        "letter": "K",
+        "answer": "kreş"
+    },
+    {
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "letter": "L",
+        "answer": "Logo"
+    },
+    {
+        "id": 325,
+        "question": "Konu, beklenmedik olay",
+        "letter": "M",
+        "answer": "mevzu"
+    },
+    {
+        "id": 337,
+        "question": "Benzer, aynı, kopya",
+        "letter": "N",
+        "answer": "nüsha"
+    },
+    {
+        "id": 349,
+        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
+        "letter": "O",
+        "answer": "onbaşı"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 1156,
+        "question": "Tank tekeri, zorlu arazilerde gitmeye yarayan araç",
+        "letter": "P",
+        "answer": "Palet, paletli"
+    },
+    {
+        "id": 402,
+        "question": "Samimi olmayan, teklifli, ciddi",
+        "letter": "R",
+        "answer": "resmi"
+    },
+    {
+        "id": 1824,
+        "question": "Bir şeyin yalnız kenar çizgileriyle tek renk olarak beliren görüntüsü, gölge",
+        "letter": "S",
+        "answer": "Silüet"
+    },
+    {
+        "id": 423,
+        "question": "Bir çıkar karşılığı, uzlaşarak bir iş yapma, aldatma",
+        "letter": "Ş",
+        "answer": "şike, şike yapma, şike yapmak"
+    },
+    {
+        "id": 436,
+        "question": "Bir taşınmazın üstündeki mülkiyet hakkını gösteren belge",
+        "letter": "T",
+        "answer": "tapu, tapu belgesi"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 1506,
+        "question": "Geliş, gelme",
+        "letter": "V",
+        "answer": "Vürut"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 504,
+        "question": "Savaşta kazanılan başarı",
+        "letter": "Z",
+        "answer": "zafer"
+    }
+]

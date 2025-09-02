@@ -1,0 +1,158 @@
+[
+    {
+        "id": 514,
+        "question": "Bazı gök cisimlerinin etrafını saran gaz tabakası",
+        "letter": "A",
+        "answer": "Atmosfer"
+    },
+    {
+        "id": 1351,
+        "question": "Deniz, havuz vb. yerlere girerken veya güneşlenirken giyilen, iki parçadan oluşan kadın giysisi",
+        "letter": "B",
+        "answer": "Bikini"
+    },
+    {
+        "id": 152,
+        "question": "Geçerli olan, yürürlükte olan",
+        "letter": "C",
+        "answer": "cari, câri"
+    },
+    {
+        "id": 1200,
+        "question": "Evlenecekler için hazırlanan yada alınan ev eşyalarının tümü",
+        "letter": "Ç",
+        "answer": "Çeyiz"
+    },
+    {
+        "id": 1402,
+        "question": "Üniversitelerde bir fakültenin yönetiminden sorumlu profesör",
+        "letter": "D",
+        "answer": "Dekan"
+    },
+    {
+        "id": 565,
+        "question": "Saf dışı bırakmak",
+        "letter": "E",
+        "answer": "Ekarte, Ekarte etme, Ekarte etmek"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 1431,
+        "question": "Otomobil vb. taşıtların konulduğu üstü örtülü yer",
+        "letter": "G",
+        "answer": "Garaj"
+    },
+    {
+        "id": 1965,
+        "question": "BİTKİLERİN DOĞAL OLARAK YERLEŞTİĞİ YER, YURT",
+        "letter": "H",
+        "answer": "HABİTAT"
+    },
+    {
+        "id": 272,
+        "question": "Barınma amacıyla bir yerde oturma",
+        "letter": "İ",
+        "answer": "ikamet, ikamet etme, ikamet etmek"
+    },
+    {
+        "id": 285,
+        "question": "Taşıtların uğrayacakları kazadan doğacak zararların tamamının karşılanması için yapılan sigorta türü",
+        "letter": "K",
+        "answer": "kasko, kasko sigortası"
+    },
+    {
+        "id": 919,
+        "question": "Türklere özgü bir şekerleme",
+        "letter": "L",
+        "answer": "Lokum"
+    },
+    {
+        "id": 1633,
+        "question": "Toprak altına, üstüne veya suyun içine yerleştirilen patlayıcı madde",
+        "letter": "M",
+        "answer": "Mayın"
+    },
+    {
+        "id": 332,
+        "question": "Sıra ile belirli süre bir yeri bekleme işi",
+        "letter": "N",
+        "answer": "nöbet, nöbet tutma, nöbet tutmak"
+    },
+    {
+        "id": 996,
+        "question": "Özenli, düzgün, uygun",
+        "letter": "O",
+        "answer": "Onat"
+    },
+    {
+        "id": 1537,
+        "question": "En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek",
+        "letter": "Ö",
+        "answer": "Ölçmek, ölçme, ölçüm"
+    },
+    {
+        "id": 1118,
+        "question": "Büyük harita, plan veya modeli oluşturan ayrı parçalardan her biri",
+        "letter": "P",
+        "answer": "pafta"
+    },
+    {
+        "id": 680,
+        "question": "İzin belgesi",
+        "letter": "R",
+        "answer": "Ruhsat, Ruhsat belgesi"
+    },
+    {
+        "id": 405,
+        "question": "Gidilen yol üzerinde olmayan, sapılarak varılan",
+        "letter": "S",
+        "answer": "sapa"
+    },
+    {
+        "id": 1458,
+        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
+        "letter": "Ş",
+        "answer": "Şurup"
+    },
+    {
+        "id": 712,
+        "question": "Sıcak kaplıca suyu",
+        "letter": "T",
+        "answer": "Termal, termal su, termal kaynak suyu"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 1468,
+        "question": "Güvercinlerden, korularda yaşayan, eti için avlanan, boz renkli bir kuş (Streptopelia turtur)",
+        "letter": "Ü",
+        "answer": "Üveyik"
+    },
+    {
+        "id": 887,
+        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "letter": "V",
+        "answer": "Veba"
+    },
+    {
+        "id": 716,
+        "question": "Gidilen yerde geceyi geçirme",
+        "letter": "Y",
+        "answer": "Yatı, Yatıya kalma, Yatıya kalmak"
+    },
+    {
+        "id": 508,
+        "question": "Çok koyu, karanlık",
+        "letter": "Z",
+        "answer": "zifiri, zifir"
+    }
+]

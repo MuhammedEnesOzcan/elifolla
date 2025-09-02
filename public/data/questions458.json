@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1665,
+        "question": "Bir müzik programında genellikle en son sahneye çıkan, alanında çok ünlü olan sanatçı",
+        "letter": "A",
+        "answer": "Assolist"
+    },
+    {
+        "id": 1356,
+        "question": "Bir şeyin gerçek sebebi gizlenerek ileri sürülen uydurma sebep",
+        "letter": "B",
+        "answer": "Bahane, bahane etme, bahane etmek, bahane sunma, bahane sunmak"
+    },
+    {
+        "id": 747,
+        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
+        "letter": "C",
+        "answer": "Cesaret, Cesaretlilik"
+    },
+    {
+        "id": 176,
+        "question": "İnsan bedeninde bulunan enerjiyi tüm vücuda dağıttığına inanılan enerji noktaları",
+        "letter": "Ç",
+        "answer": "çakra, çakralar"
+    },
+    {
+        "id": 1090,
+        "question": "\"Bir olay sebebiyle birden ayılmak, doğruyu anlamak\"",
+        "letter": "D",
+        "answer": "dank, dank etme, dank etmek, dank etmesi"
+    },
+    {
+        "id": 1406,
+        "question": "Toprak, kül gibi toz durumunda bulunan şeyleri hafifçe kazıp karıştırmak",
+        "letter": "E",
+        "answer": "Eşelemek, eşeleme"
+    },
+    {
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "letter": "F",
+        "answer": "Freze"
+    },
+    {
+        "id": 235,
+        "question": "Sözde, sanki",
+        "letter": "G",
+        "answer": "güya, gûya"
+    },
+    {
+        "id": 1442,
+        "question": "Sularda yaşayan canlıların hayatını inceleyen bilim dalı",
+        "letter": "H",
+        "answer": "Hidrobiyoloji"
+    },
+    {
+        "id": 1160,
+        "question": "Anlaşma, bağlaşma, birlik",
+        "letter": "İ",
+        "answer": "İttifak"
+    },
+    {
+        "id": 1265,
+        "question": "Bir şeyin oyuk durumunda bulunan iç bölümü",
+        "letter": "K",
+        "answer": "Kovuk, kovuğu"
+    },
+    {
+        "id": 618,
+        "question": "Bir kimsenin, kendisine iş verilmeye uygunluğu",
+        "letter": "L",
+        "answer": "Liyakat, Liyakatli, Liyakatliliği"
+    },
+    {
+        "id": 817,
+        "question": "Birbirine uyan, aralarında anlaşmazlık olmayan anlamındaki eski bir söz",
+        "letter": "M",
+        "answer": "Mutabık"
+    },
+    {
+        "id": 1758,
+        "question": "Bir olayın doğurduğu başka bir olay veya durum",
+        "letter": "N",
+        "answer": "Netice"
+    },
+    {
+        "id": 30,
+        "question": "Düz ve geniş arazi",
+        "letter": "O",
+        "answer": "Ova"
+    },
+    {
+        "id": 658,
+        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
+        "letter": "Ö",
+        "answer": "Özenti, Özentilik, Özenme, Özenmek"
+    },
+    {
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "letter": "P",
+        "answer": "plak"
+    },
+    {
+        "id": 1906,
+        "question": "BASKETBOLDA, SAYI OLMAYAN BİR ATIŞTAN SONRA POTADAN SEKEN TOPUN HAVADAYKEN YAKALANMASI",
+        "letter": "R",
+        "answer": "Ribaund"
+    },
+    {
+        "id": 404,
+        "question": "Kale duvarı",
+        "letter": "S",
+        "answer": "sur"
+    },
+    {
+        "id": 1685,
+        "question": "İsrail para birimi",
+        "letter": "Ş",
+        "answer": "Şekel"
+    },
+    {
+        "id": 709,
+        "question": "Bildiri, haber verme",
+        "letter": "T",
+        "answer": "Tebliğ, Tebliğ etme, Tebliğ etmek, Tebligat"
+    },
+    {
+        "id": 447,
+        "question": "Uysal bir biçimde",
+        "letter": "U",
+        "answer": "uslu"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 1567,
+        "question": "Miras bırakılan kimse, mirasçı",
+        "letter": "V",
+        "answer": "Varis"
+    },
+    {
+        "id": 1719,
+        "question": "Öğrencilerin topluca kaldıkları geçici ikametgah ",
+        "letter": "Y",
+        "answer": "Yurt"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

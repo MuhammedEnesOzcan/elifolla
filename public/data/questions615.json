@@ -1,0 +1,158 @@
+[
+    {
+        "id": 948,
+        "question": "Yarı yaş, yarı kuru nemli toprak",
+        "letter": "A",
+        "answer": "alatav"
+    },
+    {
+        "id": 146,
+        "question": "Bir kümenin her elemanı",
+        "letter": "B",
+        "answer": "birim"
+    },
+    {
+        "id": 153,
+        "question": "Keder, Zulüm",
+        "letter": "C",
+        "answer": "cefa"
+    },
+    {
+        "id": 181,
+        "question": "Silahlı büyük kavga, arbede",
+        "letter": "Ç",
+        "answer": "çatışma"
+    },
+    {
+        "id": 556,
+        "question": "Gereği kadar pişmemiş",
+        "letter": "D",
+        "answer": "Diri"
+    },
+    {
+        "id": 210,
+        "question": "Zaman içinde birdenbire olmayan, kesintisiz, niteliksel ve niceliksel gelişme süreci",
+        "letter": "E",
+        "answer": "evrim"
+    },
+    {
+        "id": 224,
+        "question": "Talih, baht, şans",
+        "letter": "F",
+        "answer": "felek"
+    },
+    {
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
+        "letter": "G",
+        "answer": "Gelir"
+    },
+    {
+        "id": 1099,
+        "question": "Adalete uygun bir biçimde, doğrulukla, adilane",
+        "letter": "H",
+        "answer": "Hakça"
+    },
+    {
+        "id": 1692,
+        "question": "“TRAFİĞİ ÇOK OLAN, CANLI, HAREKETLİ, YOĞUN VE KALABALIK” ANLAMLARINDA KULLANILAN BİR SÖZ",
+        "letter": "İ",
+        "answer": "İşlek, işlek yol, işlek cadde"
+    },
+    {
+        "id": 277,
+        "question": "Cam veya seramikten yapılmış, kulplu, büyük bardak",
+        "letter": "K",
+        "answer": "kupa"
+    },
+    {
+        "id": 1704,
+        "question": "Meyve ve bazı bitkiler ile alkol, esans karışımından yapılan şekerli içki",
+        "letter": "L",
+        "answer": "Likör"
+    },
+    {
+        "id": 320,
+        "question": "Korunmak için özel olarak yapılıp yüze geçirilen nesne",
+        "letter": "M",
+        "answer": "maske"
+    },
+    {
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
+        "letter": "N",
+        "answer": "nihai"
+    },
+    {
+        "id": 999,
+        "question": "Klavyelilerden farklı ses ton ve modlarına sahip olabilen çalgı",
+        "letter": "O",
+        "answer": "org"
+    },
+    {
+        "id": 661,
+        "question": "Kötü bir durumun ya da olayın duyulmasını gizlemek",
+        "letter": "Ö",
+        "answer": "Örtbas, Örtbas etmek"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 1122,
+        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
+        "letter": "R",
+        "answer": "rapor"
+    },
+    {
+        "id": 1894,
+        "question": "Fotoğrafçı İşyeri",
+        "letter": "S",
+        "answer": "Stüdyo"
+    },
+    {
+        "id": 1678,
+        "question": "Almanya ve Avusturya'da hükûmet başkanı ünvanı",
+        "letter": "Ş",
+        "answer": "Şansölye"
+    },
+    {
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "letter": "T",
+        "answer": "Taktik"
+    },
+    {
+        "id": 1559,
+        "question": "Mecazen; Her hangi bir işi yapmak istemeyen, tembel, miskin",
+        "letter": "U",
+        "answer": "Uyuşuk"
+    },
+    {
+        "id": 1471,
+        "question": "Havlamak",
+        "letter": "Ü",
+        "answer": "Ürümek"
+    },
+    {
+        "id": 1569,
+        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "letter": "V",
+        "answer": "Varyete"
+    },
+    {
+        "id": 487,
+        "question": "Delik ve yırtığı uygun bir parça ile onarma, kapatma",
+        "letter": "Y",
+        "answer": "yama, yama yapma, yama yapmak, yamalama, yamalamak"
+    },
+    {
+        "id": 1591,
+        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "letter": "Z",
+        "answer": "Zarar, ziyan"
+    }
+]

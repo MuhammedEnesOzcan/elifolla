@@ -1,0 +1,158 @@
+[
+    {
+        "id": 107,
+        "question": "Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri",
+        "letter": "A",
+        "answer": "akran"
+    },
+    {
+        "id": 1344,
+        "question": "İhtiyarlık yüzünden sağlıklı düşünememe durumuna gelme",
+        "letter": "B",
+        "answer": "Bunama, bunamak, bunaklık, bunak olma, bunak olmak"
+    },
+    {
+        "id": 1364,
+        "question": "Bilgisizlik, cahil olma durumu",
+        "letter": "C",
+        "answer": "Cehalet"
+    },
+    {
+        "id": 1873,
+        "question": "DOĞA KİRLİLİĞİ SORUNLARIYLA UĞRAŞAN KİMSE VEYA TOPLULUK",
+        "letter": "Ç",
+        "answer": "Çevreci"
+    },
+    {
+        "id": 1716,
+        "question": "Zor koşullarda asıl oyuncu yerine aynı rol için oynatılan yedek oyuncu",
+        "letter": "D",
+        "answer": "Dublör"
+    },
+    {
+        "id": 1949,
+        "question": "İNSAN GELİŞİMİ İÇİN GEREKLİ BİLGİ VE BECERİYİ KAZANDIRAN, KİŞİLİĞİ GELİŞTİREN HER TÜR ETKİNLİK",
+        "letter": "E",
+        "answer": "Eğitim"
+    },
+    {
+        "id": 1325,
+        "question": "Eskiden topları ateşlemekte kullanılan kaytan biçiminde tutuşturucu madde",
+        "letter": "F",
+        "answer": "Fitil"
+    },
+    {
+        "id": 1427,
+        "question": "Amaç, hedef",
+        "letter": "G",
+        "answer": "Gaye"
+    },
+    {
+        "id": 251,
+        "question": "Ayak bileğine takılan bilezik",
+        "letter": "H",
+        "answer": "halhal"
+    },
+    {
+        "id": 599,
+        "question": "Açıkça bildirme, açıkça duyurma",
+        "letter": "İ",
+        "answer": "İlan, ilan etme, ilan etmek, ilan verme, ilan vermek"
+    },
+    {
+        "id": 1828,
+        "question": "ARAPÇA KÖKENLİSİ \"HÜVİYET\" OLAN KELİMENİN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Kimlik"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 1945,
+        "question": "HALAYBAŞI AKSESUARI",
+        "letter": "M",
+        "answer": "Mendil"
+    },
+    {
+        "id": 338,
+        "question": "Yararsız, boşuna, boş yere",
+        "letter": "N",
+        "answer": "nafile"
+    },
+    {
+        "id": 999,
+        "question": "Klavyelilerden farklı ses ton ve modlarına sahip olabilen çalgı",
+        "letter": "O",
+        "answer": "org"
+    },
+    {
+        "id": 932,
+        "question": "Eleman, unsur",
+        "letter": "Ö",
+        "answer": "öge, öğe"
+    },
+    {
+        "id": 1710,
+        "question": "Akciğerdeki hava keseciklerinin iltihap ile dolması, Zatürre",
+        "letter": "P",
+        "answer": "Pnömoni"
+    },
+    {
+        "id": 33,
+        "question": "Yüksek basınçtan, alçak basınca doğru olan hava akımları",
+        "letter": "R",
+        "answer": "Rüzgar"
+    },
+    {
+        "id": 403,
+        "question": "Derinliği az, dibi yüzeyine yakın olan",
+        "letter": "S",
+        "answer": "sığ"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 1809,
+        "question": "TOPRAK ALTINDA YETİŞEN, TADI, KOKUSU VE YÜKSEK FİYATIYLA DA ÜNLÜ BİR MANTAR TÜRÜ",
+        "letter": "T",
+        "answer": "Trüf, Trüf mantarı"
+    },
+    {
+        "id": 452,
+        "question": "Kalçadan dize kadar olan bacak bölümü",
+        "letter": "U",
+        "answer": "uyluk"
+    },
+    {
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
+        "letter": "Ü",
+        "answer": "üvey"
+    },
+    {
+        "id": 1506,
+        "question": "Geliş, gelme",
+        "letter": "V",
+        "answer": "Vürut"
+    },
+    {
+        "id": 496,
+        "question": "Enerji ve ısı ortaya çıkaran yanıcı madde",
+        "letter": "Y",
+        "answer": "yakıt"
+    },
+    {
+        "id": 1142,
+        "question": "Aşırı deli, çılgın",
+        "letter": "Z",
+        "answer": "Zırdeli, zırzop"
+    }
+]

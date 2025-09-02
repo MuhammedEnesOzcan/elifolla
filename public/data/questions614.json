@@ -1,0 +1,158 @@
+[
+    {
+        "id": 107,
+        "question": "Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri",
+        "letter": "A",
+        "answer": "akran"
+    },
+    {
+        "id": 1085,
+        "question": "Bateri çalmaya yarayan ince, kısa çubuk",
+        "letter": "B",
+        "answer": "Baget"
+    },
+    {
+        "id": 531,
+        "question": "Uygun, yerinde sayılan, yakışık alan",
+        "letter": "C",
+        "answer": "Caiz"
+    },
+    {
+        "id": 1544,
+        "question": "Bazı toprakların yüzünde beyaz bir katman durumunda toplanan ve eskiden barut yapmakta kullanılan potaslı, sutlu tuz",
+        "letter": "Ç",
+        "answer": "Çorak"
+    },
+    {
+        "id": 74,
+        "question": "Kabıyla birlikte tartılan nesnelerin kabının ağırlığı",
+        "letter": "D",
+        "answer": "dara, darası"
+    },
+    {
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "letter": "E",
+        "answer": "ezel"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 230,
+        "question": "Tasa, kaygı, üzüntü",
+        "letter": "G",
+        "answer": "gam"
+    },
+    {
+        "id": 591,
+        "question": "Merkezi vücut sıcaklığının 35°C altına düşmesi",
+        "letter": "H",
+        "answer": "Hipotermi"
+    },
+    {
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
+        "letter": "İ",
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
+    },
+    {
+        "id": 1905,
+        "question": "Soğuk mevsim kıyafetlerinin tümü",
+        "letter": "K",
+        "answer": "Kışlık"
+    },
+    {
+        "id": 918,
+        "question": "Hiç tuzu olmayan yumuşak krem peynir",
+        "letter": "L",
+        "answer": "Labne"
+    },
+    {
+        "id": 634,
+        "question": "Akla uygun, doğru düşünülmüş",
+        "letter": "M",
+        "answer": "Mantıklı"
+    },
+    {
+        "id": 1767,
+        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
+        "letter": "N",
+        "answer": "Numara, Numara yapma, Numara yapmak"
+    },
+    {
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "letter": "O",
+        "answer": "Ofris"
+    },
+    {
+        "id": 1482,
+        "question": "Bir yargıya varmak veya değer vermek için başvurulan ilke, kıstas, mısdak, kriter",
+        "letter": "Ö",
+        "answer": "Ölçüt"
+    },
+    {
+        "id": 1761,
+        "question": "Çalışma saati bitiminde işi bırakma",
+        "letter": "P",
+        "answer": "Paydos, paydos etme, paydos etmek"
+    },
+    {
+        "id": 385,
+        "question": "Gerçek olmayan davranış, gösteriş",
+        "letter": "R",
+        "answer": "rol"
+    },
+    {
+        "id": 830,
+        "question": "Toplumda büyük yankı uyandıran utanç verici olay ya da durum",
+        "letter": "S",
+        "answer": "Skandal"
+    },
+    {
+        "id": 430,
+        "question": "Saydam, yalın, açık",
+        "letter": "Ş",
+        "answer": "şeffaf"
+    },
+    {
+        "id": 721,
+        "question": "Bir şeyi bir kimseye veya bir yere ayırma",
+        "letter": "T",
+        "answer": "Tahsis, tahsis etme, tahsis etmek"
+    },
+    {
+        "id": 723,
+        "question": "Uyuşma, mutabakat, konsensüs",
+        "letter": "U",
+        "answer": "Uzlaşı, uzlaşma, uzlaşmak"
+    },
+    {
+        "id": 1316,
+        "question": "Derinleştirmeden, yüzeysel olarak",
+        "letter": "Ü",
+        "answer": "Üstten"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 953,
+        "question": "Tibet öküzü",
+        "letter": "Y",
+        "answer": "yak, yak sığırı"
+    },
+    {
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
+        "letter": "Z",
+        "answer": "Züğürt, züürt, zürt, zügürt"
+    }
+]

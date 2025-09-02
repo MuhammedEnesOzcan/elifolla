@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1332,
+        "question": "Gök bilimi",
+        "letter": "A",
+        "answer": "Astronomi"
+    },
+    {
+        "id": 1799,
+        "question": "YÖRESEL AĞIZLARDA “KAZ VE ÖRDEK YAVRULARI” İÇİN KULLANILAN BİR SÖZCÜK",
+        "letter": "B",
+        "answer": "Badi"
+    },
+    {
+        "id": 153,
+        "question": "Keder, Zulüm",
+        "letter": "C",
+        "answer": "cefa"
+    },
+    {
+        "id": 165,
+        "question": "Bir eksenin döndürdüğü tekerlek biçimindeki makine parçası",
+        "letter": "Ç",
+        "answer": "çark"
+    },
+    {
+        "id": 1403,
+        "question": "Titreşimin bir ortam içinde yayılma hareketi",
+        "letter": "D",
+        "answer": "Dalga, dalga frekansı, dalga boyu"
+    },
+    {
+        "id": 1267,
+        "question": "Rüzgarın bir yönden diğer yöne akması durumu",
+        "letter": "E",
+        "answer": "Esmek, esmesi, esme, esinti"
+    },
+    {
+        "id": 1292,
+        "question": "Bahçıvanlıkta, tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze ya da körpe çiçek",
+        "letter": "F",
+        "answer": "Fide"
+    },
+    {
+        "id": 1433,
+        "question": "Pek, çok, pek çok, güçlü bir biçimde, etkili olarak",
+        "letter": "G",
+        "answer": "Gayet"
+    },
+    {
+        "id": 15,
+        "question": "Hristiyan ve İslam inançlarına göre dünyada var olan ilk kadın",
+        "letter": "H",
+        "answer": "havva"
+    },
+    {
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
+        "letter": "İ",
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
+    },
+    {
+        "id": 285,
+        "question": "Taşıtların uğrayacakları kazadan doğacak zararların tamamının karşılanması için yapılan sigorta türü",
+        "letter": "K",
+        "answer": "kasko, kasko sigortası"
+    },
+    {
+        "id": 1705,
+        "question": "Sıvıları ölçmede kullanılan, bir desimetreküp hacminde ölçü birimi ",
+        "letter": "L",
+        "answer": "Litre"
+    },
+    {
+        "id": 1619,
+        "question": "Bir eserde sık sık tekrarlanan süsleyici öge",
+        "letter": "M",
+        "answer": "Motif"
+    },
+    {
+        "id": 329,
+        "question": "Bir yerden alıp başka bir yere iletme, aktarma, taşıma",
+        "letter": "N",
+        "answer": "nakil, nakil işlemi"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 666,
+        "question": "Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha",
+        "letter": "P",
+        "answer": "Palet"
+    },
+    {
+        "id": 1025,
+        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
+        "letter": "R",
+        "answer": "run"
+    },
+    {
+        "id": 1934,
+        "question": "KENDİ GERÇEKLİĞİNİ YARATAN SANAT AKIMI, GERÇEKÜSTÜCÜLÜK",
+        "letter": "S",
+        "answer": "Sürrealizm"
+    },
+    {
+        "id": 923,
+        "question": "Daha çok cami avlularında bulunan havuz",
+        "letter": "Ş",
+        "answer": "Şadırvan"
+    },
+    {
+        "id": 711,
+        "question": "Verilen onayı gösteren belge",
+        "letter": "T",
+        "answer": "Tasdikname"
+    },
+    {
+        "id": 456,
+        "question": "Gökyüzünde tanımlanamayan cisim",
+        "letter": "U",
+        "answer": "ufo"
+    },
+    {
+        "id": 1565,
+        "question": "Birlikçi, birlikten yana, birleştirici (siyaset)",
+        "letter": "Ü",
+        "answer": "Üniter, üniter devlet"
+    },
+    {
+        "id": 732,
+        "question": "Diğer adı petrol jelatini olan nemlendirici bakım ürünü",
+        "letter": "V",
+        "answer": "Vazelin, Vaseline"
+    },
+    {
+        "id": 773,
+        "question": "Japon mafyası",
+        "letter": "Y",
+        "answer": "Yakuza"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1808,
+        "question": "Gürültülü çatışma, kavga",
+        "letter": "A",
+        "answer": "Arbede"
+    },
+    {
+        "id": 1356,
+        "question": "Bir şeyin gerçek sebebi gizlenerek ileri sürülen uydurma sebep",
+        "letter": "B",
+        "answer": "Bahane, bahane etme, bahane etmek, bahane sunma, bahane sunmak"
+    },
+    {
+        "id": 915,
+        "question": "Sonu Olmayan, Sonsuz, Ebedi, Ölümsüz",
+        "letter": "C",
+        "answer": "Cavit"
+    },
+    {
+        "id": 540,
+        "question": "Sözlerin veya davranışların birbirini tutmaması",
+        "letter": "Ç",
+        "answer": "Çelişki"
+    },
+    {
+        "id": 1089,
+        "question": "Kavga, gürültülü bağrışıp çağrışma",
+        "letter": "D",
+        "answer": "Dalaş, dalaşı"
+    },
+    {
+        "id": 1417,
+        "question": "Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku",
+        "letter": "E",
+        "answer": "Epitelyum"
+    },
+    {
+        "id": 1968,
+        "question": "KURAL İHLALİ SONRASI, KALEYE DOĞRUDAN ŞUT ÇEKİLEN SERBEST VURUŞ",
+        "letter": "F",
+        "answer": "FRİKİK"
+    },
+    {
+        "id": 1896,
+        "question": "DÜZENSİZ, RAHATSIZ EDİCİ YÜKSEK SES VEYA SESLER BÜTÜNÜ",
+        "letter": "G",
+        "answer": "Gürültü"
+    },
+    {
+        "id": 805,
+        "question": "Atak tabiatlı küçük savaş gemisi",
+        "letter": "H",
+        "answer": "Hücumbot, Hücumbotu"
+    },
+    {
+        "id": 264,
+        "question": "Bir şeyi armağan olarak verme, sunma",
+        "letter": "İ",
+        "answer": "ikram, ikram etme, ikram etmek"
+    },
+    {
+        "id": 1943,
+        "question": "Bir şeyin üstünü kaplayan ve onu dış etkilere karşı koruyan, kendiliğinden oluşmuş sertçe bölüm",
+        "letter": "K",
+        "answer": "Kabuk"
+    },
+    {
+        "id": 984,
+        "question": "Duvarları taş veya tuğladan, üstü taş bir kapakla örtülü mezar",
+        "letter": "L",
+        "answer": "Lahit"
+    },
+    {
+        "id": 956,
+        "question": "Mendelevyum'un simgesi",
+        "letter": "M",
+        "answer": "md"
+    },
+    {
+        "id": 1256,
+        "question": "Müzik seslerinin yazıya dökülmüş hali",
+        "letter": "N",
+        "answer": "Nota, notalandırma, notalandırmak, notalar"
+    },
+    {
+        "id": 820,
+        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
+        "letter": "O",
+        "answer": "Otlak, otlak arazi, ova"
+    },
+    {
+        "id": 899,
+        "question": "Serbest, Hiçbir Koşula Bağlı Olmayan",
+        "letter": "Ö",
+        "answer": "Özgür, ozgur"
+    },
+    {
+        "id": 1020,
+        "question": "Giysilerde bazı yerlerden içeriye doğru daraltılarak dikilmiş bölüm",
+        "letter": "P",
+        "answer": "pens"
+    },
+    {
+        "id": 396,
+        "question": "Yönetme, düzenleme biçimi, düzen",
+        "letter": "R",
+        "answer": "rejim"
+    },
+    {
+        "id": 1835,
+        "question": "MECAZ ANLAMDA HABER VERMEDEN SESSİZCE GİDİVERME",
+        "letter": "S",
+        "answer": "Sıvışma, Sıvışmak, Sıyrılma, Sıyrılmak"
+    },
+    {
+        "id": 419,
+        "question": "Yetki ve sorumluluğu olan, yöneten kimse",
+        "letter": "Ş",
+        "answer": "şef"
+    },
+    {
+        "id": 1819,
+        "question": "Askerlik görevini bitirenleri ordudan bırakma",
+        "letter": "T",
+        "answer": "Terhis, terhis olma, terhis olmak, terhis etme, terhis etmek"
+    },
+    {
+        "id": 1513,
+        "question": "Bir nesnenin uzayda kapladığı yer, vüsat",
+        "letter": "U",
+        "answer": "Uzam"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "letter": "V",
+        "answer": "Vizyoner, Vizyonlu"
+    },
+    {
+        "id": 837,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte, Yürürlükteki"
+    },
+    {
+        "id": 1720,
+        "question": "Olayların oluş ve akış sırasını belirleyen kavram",
+        "letter": "Z",
+        "answer": "Zaman, zaman kavramı"
+    }
+]

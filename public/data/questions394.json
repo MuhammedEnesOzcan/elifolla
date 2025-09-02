@@ -1,0 +1,158 @@
+[
+    {
+        "id": 122,
+        "question": "Acındıracak, acı verecek nitelikte olan, dokunaklı, üzücü",
+        "letter": "A",
+        "answer": "acıklı, acınası"
+    },
+    {
+        "id": 1286,
+        "question": "Dolu olmayan alan, aralık",
+        "letter": "B",
+        "answer": "Boşluk, boş, boş alan"
+    },
+    {
+        "id": 1149,
+        "question": "Dokumacılıkta, çözgü makinesinde çözgü ipliği bobinlerinin desen ve renk sırasına göre yerleştirildiği sehpa",
+        "letter": "C",
+        "answer": "cağlık"
+    },
+    {
+        "id": 1452,
+        "question": "Yenilen yaş veya kuru yemiş vb. şeyler",
+        "letter": "Ç",
+        "answer": "Çerez, çerezler"
+    },
+    {
+        "id": 553,
+        "question": "Sınır dışı etme, uzaklaştırma",
+        "letter": "D",
+        "answer": "Deport, deport etme, deport etmek"
+    },
+    {
+        "id": 202,
+        "question": "Bir devleti başka bir devlet katında temsil eden kimse, sefir",
+        "letter": "E",
+        "answer": "elçi"
+    },
+    {
+        "id": 1672,
+        "question": "Birdenbire, düşünmeden yapan",
+        "letter": "F",
+        "answer": "Fevri"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 252,
+        "question": "Niteliği değişmemiş, aslına uygun olan",
+        "letter": "H",
+        "answer": "hakiki"
+    },
+    {
+        "id": 952,
+        "question": "Bir köleyi özgürlüğüne kavuşturma",
+        "letter": "İ",
+        "answer": "itak"
+    },
+    {
+        "id": 1857,
+        "question": "GEMİLERDE BULUNAN ODALARA VERİLEN İSİM",
+        "letter": "K",
+        "answer": "Kamara"
+    },
+    {
+        "id": 1528,
+        "question": "Üzeri toprak veya otla örtülmüş saman yığını",
+        "letter": "L",
+        "answer": "Loda"
+    },
+    {
+        "id": 57,
+        "question": "Türkçede adı tek heceli olan tek ay",
+        "letter": "M",
+        "answer": "mart"
+    },
+    {
+        "id": 337,
+        "question": "Benzer, aynı, kopya",
+        "letter": "N",
+        "answer": "nüsha"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 1169,
+        "question": "Perdeayaklılardan evcil ve yabanisi de bulunan su kuşu",
+        "letter": "Ö",
+        "answer": "Ördek"
+    },
+    {
+        "id": 957,
+        "question": "Canlı bir organizmanın oluşturduğu ona özel bir renk veren kimyasal madde",
+        "letter": "P",
+        "answer": "pigment"
+    },
+    {
+        "id": 1637,
+        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "letter": "R",
+        "answer": "Röntgen"
+    },
+    {
+        "id": 1185,
+        "question": "Odun talaşının preslenmesi sonucu oluşan yonga levha",
+        "letter": "S",
+        "answer": "Sunta, suntalam"
+    },
+    {
+        "id": 1681,
+        "question": "Üzerine uzanılabilecek biçimde ayarlanan bir tür taşınabilir koltuk",
+        "letter": "Ş",
+        "answer": "Şezlong"
+    },
+    {
+        "id": 1932,
+        "question": "EL ALTINDAN VE ÇOK YÜKSEK FAİZLE BORÇ PARA VERME İŞİ",
+        "letter": "T",
+        "answer": "Tefecilik, Tefeci"
+    },
+    {
+        "id": 1078,
+        "question": "Yufka açılırken hamurun tahtaya yapışmaması için serpilen kalın un",
+        "letter": "U",
+        "answer": "Uğra"
+    },
+    {
+        "id": 1315,
+        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "letter": "Ü",
+        "answer": "Ütopik"
+    },
+    {
+        "id": 1569,
+        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "letter": "V",
+        "answer": "Varyete"
+    },
+    {
+        "id": 486,
+        "question": "Hayvan yiyeceği",
+        "letter": "Y",
+        "answer": "yem"
+    },
+    {
+        "id": 736,
+        "question": "\"Kara Kekik\" olarak bilinen yabani ot çeşidi, baharat",
+        "letter": "Z",
+        "answer": "Zahter, zahter otu"
+    }
+]

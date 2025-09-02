@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1302,
+        "question": "Bir işin yolunda gitmemesi durumu, elverişsizlik",
+        "letter": "A",
+        "answer": "Aksilik, aksi, aksilik çıkması"
+    },
+    {
+        "id": 522,
+        "question": "İşçilerin başlarına giydikleri, metal veya plastikten yapılmış koruyucu başlık",
+        "letter": "B",
+        "answer": "Baret"
+    },
+    {
+        "id": 1149,
+        "question": "Dokumacılıkta, çözgü makinesinde çözgü ipliği bobinlerinin desen ve renk sırasına göre yerleştirildiği sehpa",
+        "letter": "C",
+        "answer": "cağlık"
+    },
+    {
+        "id": 540,
+        "question": "Sözlerin veya davranışların birbirini tutmaması",
+        "letter": "Ç",
+        "answer": "Çelişki"
+    },
+    {
+        "id": 556,
+        "question": "Gereği kadar pişmemiş",
+        "letter": "D",
+        "answer": "Diri"
+    },
+    {
+        "id": 1409,
+        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
+        "letter": "E",
+        "answer": "Ergonomik"
+    },
+    {
+        "id": 1311,
+        "question": "Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik, anekdot",
+        "letter": "F",
+        "answer": "Fıkra"
+    },
+    {
+        "id": 1434,
+        "question": "Kamıştan yapılmış çift düdük ve tulumdan oluşan, tiz sesli, nefesli, İskoçların millî çalgısı",
+        "letter": "G",
+        "answer": "Gayda"
+    },
+    {
+        "id": 254,
+        "question": "Zarla oynanan oyunlarda zarların tek benekli yönlerinin üste gelmesi",
+        "letter": "H",
+        "answer": "hepyek"
+    },
+    {
+        "id": 1962,
+        "question": "BİR KONU HAKKINDA KARŞI TARAFTAN ALINAN NEZAKET GÖSTERGESİ İZİN, DESTUR",
+        "letter": "İ",
+        "answer": "İCAZET"
+    },
+    {
+        "id": 70,
+        "question": "Ünlü masala göre tavşanı yarışta geçen hayvan",
+        "letter": "K",
+        "answer": "kaplumbağa"
+    },
+    {
+        "id": 297,
+        "question": "Nilüfer cinsinden birçok bitkiye verilen genel ad",
+        "letter": "L",
+        "answer": "lotus"
+    },
+    {
+        "id": 1289,
+        "question": "Beceri, ustalık, hüner",
+        "letter": "M",
+        "answer": "Maharet, maharetlilik, marifet"
+    },
+    {
+        "id": 641,
+        "question": "Sinir sisteminin uyarıyı iletmekle görevli anatomik ve işlevsel birimi",
+        "letter": "N",
+        "answer": "Nöron, nöronlar"
+    },
+    {
+        "id": 351,
+        "question": "Kişisel değer, şeref, itibar",
+        "letter": "O",
+        "answer": "onur"
+    },
+    {
+        "id": 1482,
+        "question": "Bir yargıya varmak veya değer vermek için başvurulan ilke, kıstas, mısdak, kriter",
+        "letter": "Ö",
+        "answer": "Ölçüt"
+    },
+    {
+        "id": 379,
+        "question": "Bir işin gerçekleştirilmesi için uyulması tasarlanan düzen",
+        "letter": "P",
+        "answer": "plan"
+    },
+    {
+        "id": 1037,
+        "question": "Aruz ölçülerinden biri",
+        "letter": "R",
+        "answer": "Remel"
+    },
+    {
+        "id": 1317,
+        "question": "Bir şeye ayrılan, uygun görülen veya rastlayan zaman",
+        "letter": "S",
+        "answer": "Sıra"
+    },
+    {
+        "id": 923,
+        "question": "Daha çok cami avlularında bulunan havuz",
+        "letter": "Ş",
+        "answer": "Şadırvan"
+    },
+    {
+        "id": 436,
+        "question": "Bir taşınmazın üstündeki mülkiyet hakkını gösteren belge",
+        "letter": "T",
+        "answer": "tapu, tapu belgesi"
+    },
+    {
+        "id": 1067,
+        "question": "Uğraşılan şey, iş güç, meşgale",
+        "letter": "U",
+        "answer": "Uğraşı"
+    },
+    {
+        "id": 849,
+        "question": "Bilim yada sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "Üstad, üstat"
+    },
+    {
+        "id": 1569,
+        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "letter": "V",
+        "answer": "Varyete"
+    },
+    {
+        "id": 1576,
+        "question": "\"Aksi takdirde\" anlamında kullanılan bir söz",
+        "letter": "Y",
+        "answer": "Yoksa"
+    },
+    {
+        "id": 1143,
+        "question": "Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim",
+        "letter": "Z",
+        "answer": "Zabıta"
+    }
+]

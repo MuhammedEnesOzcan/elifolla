@@ -1,0 +1,158 @@
+[
+    {
+        "id": 122,
+        "question": "Acındıracak, acı verecek nitelikte olan, dokunaklı, üzücü",
+        "letter": "A",
+        "answer": "acıklı, acınası"
+    },
+    {
+        "id": 132,
+        "question": "Yeni doğmuş, ana sütüyle beslenen sığır yavrusu",
+        "letter": "B",
+        "answer": "buzağı"
+    },
+    {
+        "id": 531,
+        "question": "Uygun, yerinde sayılan, yakışık alan",
+        "letter": "C",
+        "answer": "Caiz"
+    },
+    {
+        "id": 166,
+        "question": "Dağın bir noktasından kopup yuvarlanan ve yuvarlandıkça büyüyen kar kümesi",
+        "letter": "Ç",
+        "answer": "çığ"
+    },
+    {
+        "id": 1743,
+        "question": "Uluslararası ilişkileri düzenleyen antlaşmalar bütünü",
+        "letter": "D",
+        "answer": "Diplomasi"
+    },
+    {
+        "id": 1404,
+        "question": "Kanunlar yönünden insanlar arasında ayrım bulunmaması durumu",
+        "letter": "E",
+        "answer": "Eşitlik, eşitlik hakkı"
+    },
+    {
+        "id": 1189,
+        "question": "Yenen, fetheden kimse",
+        "letter": "F",
+        "answer": "Fatih"
+    },
+    {
+        "id": 802,
+        "question": "Pişirilerek kurutulmuş yuvarlak veya uzun biçimli peksimet",
+        "letter": "G",
+        "answer": "Galeta, Grisini, Gevrek"
+    },
+    {
+        "id": 1437,
+        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "letter": "H",
+        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+    },
+    {
+        "id": 1604,
+        "question": "Bir kimsenin ya da bir şeyin benzerlerinden ayrı tutulması durumu",
+        "letter": "İ",
+        "answer": "İstisna, istisnai"
+    },
+    {
+        "id": 1938,
+        "question": "Yüzme ve atletizm yarışmaları içerisinde her yarışmacıya ayrılan bölüm ya da şerit",
+        "letter": "K",
+        "answer": "Kulvar"
+    },
+    {
+        "id": 624,
+        "question": "Çok sulu ve fazla pişmiş pilav/pirinç",
+        "letter": "L",
+        "answer": "Lapa, Lapa pilav, Lapa pirinç"
+    },
+    {
+        "id": 630,
+        "question": "Dayanaksız, delilsiz, arkası boş olan",
+        "letter": "M",
+        "answer": "Mesnetsiz, mesnetsiz iddia"
+    },
+    {
+        "id": 636,
+        "question": "Boks maçında yumruk etkisiyle yere düşme ve devam edememek",
+        "letter": "N",
+        "answer": "Nakavt, nakavt olma, nakavt olmak"
+    },
+    {
+        "id": 344,
+        "question": "İçinde su biriken çukur yer, doğal kuyu",
+        "letter": "O",
+        "answer": "obruk, oyuk, oymak"
+    },
+    {
+        "id": 1478,
+        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "letter": "Ö",
+        "answer": "Özerk"
+    },
+    {
+        "id": 821,
+        "question": "Birden ortaya çıkan, aşırı ve normalin dışına taşmış korku hali",
+        "letter": "P",
+        "answer": "panik"
+    },
+    {
+        "id": 1034,
+        "question": "Demir, tahta yüzeylerdeki boya, pas vb.ni çıkarma, pürüzleri gidermek amacıyla kullanılan iri dişli bir törpü",
+        "letter": "R",
+        "answer": "raspa"
+    },
+    {
+        "id": 403,
+        "question": "Derinliği az, dibi yüzeyine yakın olan",
+        "letter": "S",
+        "answer": "sığ"
+    },
+    {
+        "id": 427,
+        "question": "İstek, heves",
+        "letter": "Ş",
+        "answer": "şevk"
+    },
+    {
+        "id": 1809,
+        "question": "TOPRAK ALTINDA YETİŞEN, TADI, KOKUSU VE YÜKSEK FİYATIYLA DA ÜNLÜ BİR MANTAR TÜRÜ",
+        "letter": "T",
+        "answer": "Trüf, Trüf mantarı"
+    },
+    {
+        "id": 1078,
+        "question": "Yufka açılırken hamurun tahtaya yapışmaması için serpilen kalın un",
+        "letter": "U",
+        "answer": "Uğra"
+    },
+    {
+        "id": 1566,
+        "question": "Mecazen; Delirmek, aklını yitirmek",
+        "letter": "Ü",
+        "answer": "Üşütmek, üşütme"
+    },
+    {
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "letter": "V",
+        "answer": "Vizyoner, Vizyonlu"
+    },
+    {
+        "id": 953,
+        "question": "Tibet öküzü",
+        "letter": "Y",
+        "answer": "yak, yak sığırı"
+    },
+    {
+        "id": 942,
+        "question": "Zirkonyum'un simgesi",
+        "letter": "Z",
+        "answer": "zr"
+    }
+]

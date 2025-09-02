@@ -1,0 +1,158 @@
+[
+    {
+        "id": 948,
+        "question": "Yarı yaş, yarı kuru nemli toprak",
+        "letter": "A",
+        "answer": "alatav"
+    },
+    {
+        "id": 528,
+        "question": "Yorgun, bitkin düşmüş olan",
+        "letter": "B",
+        "answer": "Bitap, bitap halde"
+    },
+    {
+        "id": 158,
+        "question": "Çok yakın, sıkı fıkı, pek içten (arkadaş)",
+        "letter": "C",
+        "answer": "can ciğer"
+    },
+    {
+        "id": 790,
+        "question": "Düşman kıyılarına asker indirme işi",
+        "letter": "Ç",
+        "answer": "Çıkarma, çıkarma yapmak, çıkarma yapma"
+    },
+    {
+        "id": 1217,
+        "question": "Bir devletin resmi para biriminin diğer ülke dövizleri karşısında değer kaybettirilmesi ",
+        "letter": "D",
+        "answer": "Devaülasyon, develasyon, devalasyon, devolasyon, devalüasyon"
+    },
+    {
+        "id": 1219,
+        "question": "Çok uzak ve yabancı ülkelerle ilgili ya da böyle ülkelerden gelmiş, getirilmiş",
+        "letter": "E",
+        "answer": "Egzotik, ekzotik"
+    },
+    {
+        "id": 225,
+        "question": "Ancak, ama, lakin",
+        "letter": "F",
+        "answer": "fakat"
+    },
+    {
+        "id": 1424,
+        "question": "Buzul bilimi",
+        "letter": "G",
+        "answer": "Glasiyoloji, Glasyoloji"
+    },
+    {
+        "id": 1248,
+        "question": "Pandemiyle hayatımıza girmiş, eğitimin hem çevrimiçi hem de yüzyüze yapılması durumu",
+        "letter": "H",
+        "answer": "Hibrit, hibrit eğitim"
+    },
+    {
+        "id": 264,
+        "question": "Bir şeyi armağan olarak verme, sunma",
+        "letter": "İ",
+        "answer": "ikram, ikram etme, ikram etmek"
+    },
+    {
+        "id": 73,
+        "question": "Rusça, Bulgarca gibi Slav dillerinin yazımında kullanılan alfabe",
+        "letter": "K",
+        "answer": "Kiril, Kiril Alfabesi"
+    },
+    {
+        "id": 618,
+        "question": "Bir kimsenin, kendisine iş verilmeye uygunluğu",
+        "letter": "L",
+        "answer": "Liyakat, Liyakatli, Liyakatliliği"
+    },
+    {
+        "id": 625,
+        "question": "Ayrı bir yeri olan, üstün, seçkin",
+        "letter": "M",
+        "answer": "Mümtaz"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 653,
+        "question": "Yaş bakımından üç kardeşin büyüğü ile küçüğü arasında bulunan",
+        "letter": "O",
+        "answer": "Ortanca, ortanca çocuk, ortanca kardeş"
+    },
+    {
+        "id": 662,
+        "question": "Yıpratmak, eskitmek, hırpalamak, zedelemek",
+        "letter": "Ö",
+        "answer": "Örselemek, örseleme"
+    },
+    {
+        "id": 88,
+        "question": "Üstüne mumlar konan doğum günü tatlısı",
+        "letter": "P",
+        "answer": "pasta"
+    },
+    {
+        "id": 1637,
+        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "letter": "R",
+        "answer": "Röntgen"
+    },
+    {
+        "id": 1789,
+        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
+        "letter": "S",
+        "answer": "Sarsıntı"
+    },
+    {
+        "id": 67,
+        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "letter": "Ş",
+        "answer": "Şanlıurfa, Şanlı Urfa"
+    },
+    {
+        "id": 1277,
+        "question": "Genel adıyla \"Yolculuk edilen araç\"",
+        "letter": "T",
+        "answer": "Taşıt"
+    },
+    {
+        "id": 451,
+        "question": "Genel, halka açık",
+        "letter": "U",
+        "answer": "umumi"
+    },
+    {
+        "id": 468,
+        "question": "Gerçekleştirilmesi imkânsız tasarı veya düşünce",
+        "letter": "Ü",
+        "answer": "ütopya, ütopik"
+    },
+    {
+        "id": 867,
+        "question": "Elektromotor Gücün Ya Da Gerilimin Birimi",
+        "letter": "V",
+        "answer": "Volt"
+    },
+    {
+        "id": 497,
+        "question": "Yıkılmış olan, harap, viran",
+        "letter": "Y",
+        "answer": "yıkık"
+    },
+    {
+        "id": 1167,
+        "question": "En yüksek nokta, tepe",
+        "letter": "Z",
+        "answer": "Zirve"
+    }
+]

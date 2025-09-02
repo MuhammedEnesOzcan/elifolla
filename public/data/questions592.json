@@ -1,0 +1,158 @@
+[
+    {
+        "id": 107,
+        "question": "Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri",
+        "letter": "A",
+        "answer": "akran"
+    },
+    {
+        "id": 523,
+        "question": "Havaya atılmış, uçurulmuş",
+        "letter": "B",
+        "answer": "Berhava"
+    },
+    {
+        "id": 1148,
+        "question": "Yerde ve tel, at, bisiklet, ip vb. üzerinde dengeye dayanan, tehlikeli, heyecan verici gösteriler yapan kimse, akrobat",
+        "letter": "C",
+        "answer": "cambaz"
+    },
+    {
+        "id": 539,
+        "question": "Adı çözen kişilerce konulmuş olan iplik demeti",
+        "letter": "Ç",
+        "answer": "Çile"
+    },
+    {
+        "id": 795,
+        "question": "Akan suyun hacmi",
+        "letter": "D",
+        "answer": "Debi, Debisi"
+    },
+    {
+        "id": 1723,
+        "question": "Enfeksiyon sonucu hasta olan kişi, enfenksiyon bulaşmış",
+        "letter": "E",
+        "answer": "Enfekte"
+    },
+    {
+        "id": 1968,
+        "question": "KURAL İHLALİ SONRASI, KALEYE DOĞRUDAN ŞUT ÇEKİLEN SERBEST VURUŞ",
+        "letter": "F",
+        "answer": "FRİKİK"
+    },
+    {
+        "id": 753,
+        "question": "Bitkilerin büyümesi için gerekli gıdayı ihtiva eden madde",
+        "letter": "G",
+        "answer": "Gübre"
+    },
+    {
+        "id": 1794,
+        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "letter": "H",
+        "answer": "Hasılat"
+    },
+    {
+        "id": 601,
+        "question": "Gerçek yönünü ortaya çıkarma, kanıtlama",
+        "letter": "İ",
+        "answer": "İspat, ispatlama, ispatlamak, ispat etme, ispat etmek"
+    },
+    {
+        "id": 76,
+        "question": "Para biriktirmek için kullanılan deliği olan kutu",
+        "letter": "K",
+        "answer": "kumbara"
+    },
+    {
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
+        "letter": "L",
+        "answer": "Lunapark"
+    },
+    {
+        "id": 1619,
+        "question": "Bir eserde sık sık tekrarlanan süsleyici öge",
+        "letter": "M",
+        "answer": "Motif"
+    },
+    {
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "letter": "N",
+        "answer": "Noter"
+    },
+    {
+        "id": 999,
+        "question": "Klavyelilerden farklı ses ton ve modlarına sahip olabilen çalgı",
+        "letter": "O",
+        "answer": "org"
+    },
+    {
+        "id": 1533,
+        "question": "Tazminat",
+        "letter": "Ö",
+        "answer": "Ödence"
+    },
+    {
+        "id": 822,
+        "question": "Haftanın belli günleri seyyar satıcıların sergi açtıkları sokak veya alan",
+        "letter": "P",
+        "answer": "Pazar, Pazaryeri"
+    },
+    {
+        "id": 826,
+        "question": "İrade dışı sinir etkinliği",
+        "letter": "R",
+        "answer": "Refleks"
+    },
+    {
+        "id": 1235,
+        "question": "Karaciğer tarafından üretilen sindirim sıvısı",
+        "letter": "S",
+        "answer": "Safra, safra sıvısı"
+    },
+    {
+        "id": 419,
+        "question": "Yetki ve sorumluluğu olan, yöneten kimse",
+        "letter": "Ş",
+        "answer": "şef"
+    },
+    {
+        "id": 1819,
+        "question": "Askerlik görevini bitirenleri ordudan bırakma",
+        "letter": "T",
+        "answer": "Terhis, terhis olma, terhis olmak, terhis etme, terhis etmek"
+    },
+    {
+        "id": 1512,
+        "question": "Bütün varlıkların içinde bulunduğu sonsuz boşluk, feza, mekân",
+        "letter": "U",
+        "answer": "Uzay"
+    },
+    {
+        "id": 873,
+        "question": "İdrarın dışarıya atılmasını sağlayan ve idrar torbasından sonraki idrar yol",
+        "letter": "Ü",
+        "answer": "Üretra"
+    },
+    {
+        "id": 483,
+        "question": "Sürekli bir yönde gidip gelme, yürüme, dolaşma",
+        "letter": "V",
+        "answer": "volta, volta atma, volta atmak"
+    },
+    {
+        "id": 837,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte, Yürürlükteki"
+    },
+    {
+        "id": 1142,
+        "question": "Aşırı deli, çılgın",
+        "letter": "Z",
+        "answer": "Zırdeli, zırzop"
+    }
+]

@@ -1,87 +1,87 @@
 [
     {
-        "id": 110,
-        "question": "Bir akort oluşturan seslerin birbiri arkasından çalınması",
+        "id": 512,
+        "question": "Denizin kıyıdan uzakça olan yeri",
         "letter": "A",
-        "answer": "arpej"
+        "answer": "Açık"
     },
     {
-        "id": 133,
-        "question": "Belirli bir davranışta bulunmaya zorlayıcı söz, buyuru, emir, ferman",
+        "id": 784,
+        "question": "Yazı ya da sözle canlandırmak",
         "letter": "B",
-        "answer": "buyruk"
+        "answer": "Betimleme, Betimlemek"
     },
     {
-        "id": 1365,
-        "question": "Hep birden, hep birlikte anlamlarındaki söz",
+        "id": 1364,
+        "question": "Bilgisizlik, cahil olma durumu",
         "letter": "C",
-        "answer": "Cümleten"
+        "answer": "Cehalet"
     },
     {
-        "id": 748,
-        "question": "Araçların trafikte üstünlük sağlamak için kullandığı kırmızı-mavi ışıklar",
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
         "letter": "Ç",
-        "answer": "Çakar, çakar lamba, çakar lambası"
+        "answer": "çakar"
     },
     {
-        "id": 188,
-        "question": "Doğrudan doğruya olmayan, dolayısıyla olan, vasıtalı, bilvasıta, endirekt",
+        "id": 941,
+        "question": "Ermenistan’ın para birimi",
         "letter": "D",
-        "answer": "dolaylı, dolambaçlı"
+        "answer": "dram"
     },
     {
-        "id": 560,
-        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "id": 1415,
+        "question": "Bir malın niteliğini belirtmek, özelliklerini göstermek amacıyla, o malın parasız verilen veya gönderilen parçası",
         "letter": "E",
-        "answer": "Edip"
+        "answer": "Eşantiyon"
     },
     {
-        "id": 1674,
-        "question": "Malzemesi marka sahibi tarafından karşılanarak başka bir firmaya yaptırılan mal",
+        "id": 225,
+        "question": "Ancak, ama, lakin",
         "letter": "F",
-        "answer": "Fason"
+        "answer": "fakat"
     },
     {
-        "id": 1428,
-        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+        "id": 1863,
+        "question": "YEMEK YENİLEN, GÖSTERİ İZLENEN, MÜZİK DİNLENEN, BAZEN OYUN SERGİLENEN EĞLENCE YERİ",
         "letter": "G",
-        "answer": "Gard"
+        "answer": "Gazino"
     },
     {
-        "id": 1440,
-        "question": "Dildeki bir sesi gösteren ve alfabeyi oluşturan işaretlerden her biri",
+        "id": 1443,
+        "question": "Mecazen; Yasa dışı yollarla zimmetine para veya mal geçirmek",
         "letter": "H",
-        "answer": "Harf"
+        "answer": "Hortumlama, hortumlamak"
     },
     {
-        "id": 1607,
-        "question": "Üreticiden aldığı malları tezgah ve taşıma araçları ile cadde ve sokaklarda pazarlayan kimse ",
+        "id": 263,
+        "question": "Anlama yeteneği, anlayış, akıl erdirme",
         "letter": "İ",
-        "answer": "İşportacı"
+        "answer": "idrak, idrak etme, idrak etmek, izan"
     },
     {
-        "id": 1499,
-        "question": "Yanan şeylerden artakalan toz madde",
+        "id": 1935,
+        "question": "Hem taşıt hem konut olarak kullanılan üstü kapalı araç",
         "letter": "K",
-        "answer": "Kül, küller"
+        "answer": "Karavan"
     },
     {
-        "id": 1958,
-        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
+        "id": 307,
+        "question": "Doku bozukluğu",
         "letter": "L",
-        "answer": "Lift"
+        "answer": "lezyon"
     },
     {
-        "id": 1851,
-        "question": "RESTORANLARDA SOFRAYA ÇIKARILACAK YEMEKLERİN HEPSİ",
+        "id": 1753,
+        "question": "Bir işin yapılması veya bir borcun ödenmesi için tanınan süre",
         "letter": "M",
-        "answer": "Menü"
+        "answer": "Mühlet"
     },
     {
-        "id": 640,
-        "question": "Söz, konuşma, söylev",
+        "id": 913,
+        "question": "Kıskandırmak ya da inat olsun diye yapılan iş",
         "letter": "N",
-        "answer": "Nutuk, Nutuk okuma, Nutuk okumak"
+        "answer": "Nispet, nıspet"
     },
     {
         "id": 1969,
@@ -90,69 +90,69 @@
         "answer": "OLGU"
     },
     {
-        "id": 1009,
-        "question": "Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey, mavera",
+        "id": 658,
+        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
         "letter": "Ö",
-        "answer": "Öte"
+        "answer": "Özenti, Özentilik, Özenme, Özenmek"
     },
     {
-        "id": 373,
-        "question": "Kimyasal enerjiyi elektrik enerjisine çeviren araç",
+        "id": 1181,
+        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
         "letter": "P",
-        "answer": "pil"
+        "answer": "Peron"
     },
     {
-        "id": 676,
-        "question": "Emek harcamadan elde edilen kazanım",
+        "id": 1815,
+        "question": "ÇAYI YAPILAN, TOHUMLARI ANASON GİBİ KULLANILAN BİR BİTKİ",
         "letter": "R",
-        "answer": "Rant, Rantçılık"
+        "answer": "Rezene"
     },
     {
-        "id": 409,
-        "question": "Depolanmış, yığın",
+        "id": 1263,
+        "question": "Kadın veya çocuklarda en ince ses, sesi böyle olan sanatçı",
         "letter": "S",
-        "answer": "stok, stoklanmış"
+        "answer": "Soprano"
     },
     {
-        "id": 1464,
-        "question": "Olması başka durumların gerçekleşmesini gerektiren şey, koşul",
+        "id": 1462,
+        "question": "Etkisi çok olan, zorlu, aşırı",
         "letter": "Ş",
-        "answer": "Şart, şartlar"
+        "answer": "Şiddetli"
     },
     {
-        "id": 708,
-        "question": "Bir diğer söylemle \"Doğa\"",
+        "id": 1061,
+        "question": "Birçok spor oyununda kullanılan, türlü büyüklükte, genellikle kauçuktan yapılmış yuvarlak nesne",
         "letter": "T",
-        "answer": "Tabiat"
+        "answer": "top"
     },
     {
-        "id": 453,
-        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "id": 1563,
+        "question": "Nükleer santrallerde en yaygın kullanılan ve radyoaktif atık bırakan yakıt",
         "letter": "U",
-        "answer": "uyruk"
+        "answer": "Uranyum"
     },
     {
-        "id": 464,
-        "question": "Korkuya çabuk kapılan",
+        "id": 727,
+        "question": "Her yandan çokça bir araya gelmek, toplanmak, birikmek",
         "letter": "Ü",
-        "answer": "ürkek"
+        "answer": "Üşüşme, Üşüşmek"
     },
     {
-        "id": 39,
-        "question": "Güneş sistemindeki en sıcak gezegen",
+        "id": 1137,
+        "question": "Kent veya kasabada dış mahalle",
         "letter": "V",
-        "answer": "venüs"
+        "answer": "varoş"
     },
     {
-        "id": 1140,
-        "question": "Dik, sarp",
+        "id": 733,
+        "question": "Alışamamak, yabancılık çekmek",
         "letter": "Y",
-        "answer": "yalçın"
+        "answer": "Yadırgama, Yadırgamak"
     },
     {
-        "id": 860,
-        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "id": 506,
+        "question": "Zorunlu, gerekli",
         "letter": "Z",
-        "answer": "Zorba"
+        "answer": "zaruri"
     }
 ]

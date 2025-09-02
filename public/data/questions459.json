@@ -1,0 +1,158 @@
+[
+    {
+        "id": 106,
+        "question": "Bir uyarıyı, bir tehlikeyi bildirmek için verilen işaret",
+        "letter": "A",
+        "answer": "alarm"
+    },
+    {
+        "id": 1352,
+        "question": "Ağırlıkları tartmaya yarayan alet, kantar",
+        "letter": "B",
+        "answer": "Baskül"
+    },
+    {
+        "id": 1888,
+        "question": "MECAZEN, “GELİŞTİRİLEBİLİR YETENEK, İYİ YETENEK” ANLAMLARINA GELEN SÖZCÜK",
+        "letter": "C",
+        "answer": "Cevher, Cevherli"
+    },
+    {
+        "id": 167,
+        "question": "Kumluk, susuz ve ıssız geniş arazi, sahra, badiye",
+        "letter": "Ç",
+        "answer": "çöl"
+    },
+    {
+        "id": 191,
+        "question": "Herhangi bir olayın birden fazla tekrarlanması",
+        "letter": "D",
+        "answer": "döngü, devir"
+    },
+    {
+        "id": 1279,
+        "question": "Bitkilerden çıkarılan veya kimya yardımıyla çeşitli maddelerden elde edilen kokulu, uçucu sıvı",
+        "letter": "E",
+        "answer": "Esans, esansı"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 971,
+        "question": "Sonbahar",
+        "letter": "G",
+        "answer": "Güz"
+    },
+    {
+        "id": 973,
+        "question": "Yere veya mobilya üstüne serilmek, duvara gerilmek için, genellikle yünden dokunan, kısa ve sık tüylü, nakışlı, kalın yaygı",
+        "letter": "H",
+        "answer": "Halı"
+    },
+    {
+        "id": 1607,
+        "question": "Üreticiden aldığı malları tezgah ve taşıma araçları ile cadde ve sokaklarda pazarlayan kimse ",
+        "letter": "İ",
+        "answer": "İşportacı"
+    },
+    {
+        "id": 605,
+        "question": "Garson kalfası",
+        "letter": "K",
+        "answer": "Komi"
+    },
+    {
+        "id": 615,
+        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
+        "letter": "L",
+        "answer": "Lümpen"
+    },
+    {
+        "id": 310,
+        "question": "Bir emek karşılığında aylık, haftalık gibi verilen ödenek",
+        "letter": "M",
+        "answer": "maaş"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 1535,
+        "question": "Bilimde bir düzenli görüşü oluşturan ilke ve dogmaların bütünü, meslek, doktrin",
+        "letter": "Ö",
+        "answer": "Öğreti"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 1805,
+        "question": "OSMANLIDA MALİYE İŞLEMLERİNDE KULLANILAN, GÜNEŞ YILI ESASINA DAYALI BİR TAKVİM TÜRÜ",
+        "letter": "R",
+        "answer": "Rumi, Rumi Takvim"
+    },
+    {
+        "id": 407,
+        "question": "Güldürü niteliğinde kısa oyun",
+        "letter": "S",
+        "answer": "skeç"
+    },
+    {
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
+        "letter": "Ş",
+        "answer": "Şahsi"
+    },
+    {
+        "id": 1647,
+        "question": "Başladığı noktada biten, bir veya daha fazla yere önceden belirlenmiş bir programa göre yapılan seyahat",
+        "letter": "T",
+        "answer": "Tur"
+    },
+    {
+        "id": 451,
+        "question": "Genel, halka açık",
+        "letter": "U",
+        "answer": "umumi"
+    },
+    {
+        "id": 769,
+        "question": "Korkunun yarattığı serinlik",
+        "letter": "Ü",
+        "answer": "Ürperti, Ürpermek"
+    },
+    {
+        "id": 484,
+        "question": "Eski dilde \"Anne\"",
+        "letter": "V",
+        "answer": "Valide"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 719,
+        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "letter": "Z",
+        "answer": "Zindan"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1660,
+        "question": "Baştan çıkarmak, doğru yoldan saptırmak",
+        "letter": "A",
+        "answer": "Ayartmak, ayartma"
+    },
+    {
+        "id": 1254,
+        "question": "Uzağı görme, seziş, sezgi, uyanıklık",
+        "letter": "B",
+        "answer": "Basiret, basiretli, basiretlilik"
+    },
+    {
+        "id": 538,
+        "question": "Sayılar teorisini, geometriyi ve analizi içine alan bir matematik dalı",
+        "letter": "C",
+        "answer": "Cebir"
+    },
+    {
+        "id": 169,
+        "question": "Çam vb. reçineli ağaçların yağlı ve çabuk yanmaya elverişli bölümü",
+        "letter": "Ç",
+        "answer": "çıra"
+    },
+    {
+        "id": 793,
+        "question": "Para basılan yer",
+        "letter": "D",
+        "answer": "Darphane"
+    },
+    {
+        "id": 1211,
+        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
+        "letter": "E",
+        "answer": "Emekleme, emeklemek"
+    },
+    {
+        "id": 1292,
+        "question": "Bahçıvanlıkta, tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze ya da körpe çiçek",
+        "letter": "F",
+        "answer": "Fide"
+    },
+    {
+        "id": 1424,
+        "question": "Buzul bilimi",
+        "letter": "G",
+        "answer": "Glasiyoloji, Glasyoloji"
+    },
+    {
+        "id": 247,
+        "question": "Nişan alınacak yer, nişangah",
+        "letter": "H",
+        "answer": "hedef"
+    },
+    {
+        "id": 265,
+        "question": "Eksik bir şeyi tamamlama, daha iyi duruma getirme, bütünleme",
+        "letter": "İ",
+        "answer": "ikmal, ikmâl"
+    },
+    {
+        "id": 1938,
+        "question": "Yüzme ve atletizm yarışmaları içerisinde her yarışmacıya ayrılan bölüm ya da şerit",
+        "letter": "K",
+        "answer": "Kulvar"
+    },
+    {
+        "id": 291,
+        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
+        "letter": "L",
+        "answer": "loş"
+    },
+    {
+        "id": 1289,
+        "question": "Beceri, ustalık, hüner",
+        "letter": "M",
+        "answer": "Maharet, maharetlilik, marifet"
+    },
+    {
+        "id": 339,
+        "question": "Tavsiye, öğüt",
+        "letter": "N",
+        "answer": "nasihat"
+    },
+    {
+        "id": 93,
+        "question": "Bir ülkenin askeri kuvvetlerinin tümü",
+        "letter": "O",
+        "answer": "ordu"
+    },
+    {
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "letter": "Ö",
+        "answer": "ölmek, ölüm, ölme"
+    },
+    {
+        "id": 1916,
+        "question": "MATEMATİKTE, BAYAĞI KESİRLERDEKİ ÇİZGİ ALTI SAYISI",
+        "letter": "P",
+        "answer": "Payda"
+    },
+    {
+        "id": 1641,
+        "question": "Eski yapıları onarma",
+        "letter": "R",
+        "answer": "Restore, restorasyon, restore etme, restore etmek"
+    },
+    {
+        "id": 1044,
+        "question": "Sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su",
+        "letter": "S",
+        "answer": "sel"
+    },
+    {
+        "id": 832,
+        "question": "Sesi tanımlayan sözlerden oluşmuş “çabucak” anlamında kullanılan bir kelime",
+        "letter": "Ş",
+        "answer": "Şipşak"
+    },
+    {
+        "id": 1698,
+        "question": "Eski dilde tıp doktoru, hekim",
+        "letter": "T",
+        "answer": "Tabip"
+    },
+    {
+        "id": 1072,
+        "question": "Fikir, sanat ve endüstri alanlarında çok büyük bir gelişme göstermiş olan, medeni, mütemeddin",
+        "letter": "U",
+        "answer": "uygar"
+    },
+    {
+        "id": 880,
+        "question": "Hastalıkları iyileştirdiğine inanılan soluk",
+        "letter": "Ü",
+        "answer": "Üfürük, üfürme"
+    },
+    {
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "letter": "V",
+        "answer": "Vize, vize belgesi"
+    },
+    {
+        "id": 947,
+        "question": "Köpek ve ineklere yedirilmek üzere un ve kepekle hazırlanan yiyecek",
+        "letter": "Y",
+        "answer": "yal, yem"
+    },
+    {
+        "id": 1245,
+        "question": "Eski dilde deprem",
+        "letter": "Z",
+        "answer": "Zelzele"
+    }
+]

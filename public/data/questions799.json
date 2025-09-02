@@ -1,0 +1,158 @@
+[
+    {
+        "id": 512,
+        "question": "Denizin kıyıdan uzakça olan yeri",
+        "letter": "A",
+        "answer": "Açık"
+    },
+    {
+        "id": 529,
+        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
+        "letter": "B",
+        "answer": "Bulanık"
+    },
+    {
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
+        "letter": "C",
+        "answer": "Cenah"
+    },
+    {
+        "id": 1200,
+        "question": "Evlenecekler için hazırlanan yada alınan ev eşyalarının tümü",
+        "letter": "Ç",
+        "answer": "Çeyiz"
+    },
+    {
+        "id": 1743,
+        "question": "Uluslararası ilişkileri düzenleyen antlaşmalar bütünü",
+        "letter": "D",
+        "answer": "Diplomasi"
+    },
+    {
+        "id": 1419,
+        "question": "Gereğinden fazla artış, pahalılaşma",
+        "letter": "E",
+        "answer": "Enflasyon, enflasyon oranı"
+    },
+    {
+        "id": 799,
+        "question": "Yürekler acısı, trajik anlamındaki söz",
+        "letter": "F",
+        "answer": "Feci, facia"
+    },
+    {
+        "id": 1431,
+        "question": "Otomobil vb. taşıtların konulduğu üstü örtülü yer",
+        "letter": "G",
+        "answer": "Garaj"
+    },
+    {
+        "id": 1495,
+        "question": "Satrançta taş sürme işi",
+        "letter": "H",
+        "answer": "Hamle, hamle yapma, hamle yapmak"
+    },
+    {
+        "id": 264,
+        "question": "Bir şeyi armağan olarak verme, sunma",
+        "letter": "İ",
+        "answer": "ikram, ikram etme, ikram etmek"
+    },
+    {
+        "id": 1928,
+        "question": "ADI MECAZEN, CASUSLUK VE HAİNLİKLE ÖZDEŞLEŞEN BİR MEMELİ HAYVAN",
+        "letter": "K",
+        "answer": "Köstebek"
+    },
+    {
+        "id": 1526,
+        "question": "Su samurundan elde edilen post",
+        "letter": "L",
+        "answer": "Lutr"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 638,
+        "question": "Sıklığı az olan, seyrek",
+        "letter": "N",
+        "answer": "Nadir"
+    },
+    {
+        "id": 649,
+        "question": "Birden çok kimse veya nesneyi ilgilendiren, müşterek",
+        "letter": "O",
+        "answer": "Ortak"
+    },
+    {
+        "id": 1537,
+        "question": "En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek",
+        "letter": "Ö",
+        "answer": "Ölçmek, ölçme, ölçüm"
+    },
+    {
+        "id": 32,
+        "question": "Yer altından çıkartılan, yağa benzer, sıvı formda bulunan ham madde",
+        "letter": "P",
+        "answer": "Petrol"
+    },
+    {
+        "id": 1025,
+        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
+        "letter": "R",
+        "answer": "run"
+    },
+    {
+        "id": 693,
+        "question": "Bir bütün meydana getiren planlar dizisi",
+        "letter": "S",
+        "answer": "Sekans"
+    },
+    {
+        "id": 1846,
+        "question": "YAPRAKLARI HER MEVSİM YEŞİL KALAN, BAHÇELERDE SÜS BİTKİSİ OLARAK YETİŞTİRİLEN, SARIMSI RENKLİ BİR TÜR AĞAÇÇIK",
+        "letter": "Ş",
+        "answer": "Şimşir"
+    },
+    {
+        "id": 1554,
+        "question": "Laboratuvarlarda türlü işlerde kullanılan, bir ucu kapalı cam boru",
+        "letter": "T",
+        "answer": "Tüp"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 874,
+        "question": "İnsanların ihtiyaçlarını karşılamak için yeni ürünler ortaya koyması",
+        "letter": "Ü",
+        "answer": "Üretim, üretme, üretmek"
+    },
+    {
+        "id": 890,
+        "question": "Giysilerde omuzların dik durması için konulan parça",
+        "letter": "V",
+        "answer": "Vatka"
+    },
+    {
+        "id": 837,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte, Yürürlükteki"
+    },
+    {
+        "id": 737,
+        "question": "Hoşluk, güzellik, incelik, zarif olma",
+        "letter": "Z",
+        "answer": "Zarafet, Zerafet"
+    }
+]

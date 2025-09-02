@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1301,
+        "question": "Dalları çardak üzerine yayılan üzüm vb. bitkiler",
+        "letter": "A",
+        "answer": "Asma, asma ağacı"
+    },
+    {
+        "id": 146,
+        "question": "Bir kümenin her elemanı",
+        "letter": "B",
+        "answer": "birim"
+    },
+    {
+        "id": 538,
+        "question": "Sayılar teorisini, geometriyi ve analizi içine alan bir matematik dalı",
+        "letter": "C",
+        "answer": "Cebir"
+    },
+    {
+        "id": 1859,
+        "question": "AYAKLA ÇİĞNENDİĞİNDE YA DA DUVARA SÜRTÜLDÜĞÜNDE PATLAYAN EĞLENCE FİŞEĞİ",
+        "letter": "Ç",
+        "answer": "Çatapat"
+    },
+    {
+        "id": 555,
+        "question": "Uluslararası ilişkilerde ülkesini temsil etmekle görevlendirilmiş kimse",
+        "letter": "D",
+        "answer": "Diplomat, Dış işleri bakanı"
+    },
+    {
+        "id": 212,
+        "question": "Bütünleşmiş, dahili",
+        "letter": "E",
+        "answer": "entegre"
+    },
+    {
+        "id": 1489,
+        "question": "Etken, etmen",
+        "letter": "F",
+        "answer": "Faktör"
+    },
+    {
+        "id": 1701,
+        "question": "Yadırganacak bir yönü olma durumu, yadırgatıcılık, tuhaflık",
+        "letter": "G",
+        "answer": "Garabet"
+    },
+    {
+        "id": 1494,
+        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "letter": "H",
+        "answer": "Halef, halefi"
+    },
+    {
+        "id": 1197,
+        "question": "Gerçeğine benzetilerek yapılmış olan süs eşyası",
+        "letter": "İ",
+        "answer": "İmitasyon"
+    },
+    {
+        "id": 1255,
+        "question": "Başparmak piyanosu da denen müzik aleti",
+        "letter": "K",
+        "answer": "Kalimba"
+    },
+    {
+        "id": 1528,
+        "question": "Üzeri toprak veya otla örtülmüş saman yığını",
+        "letter": "L",
+        "answer": "Loda"
+    },
+    {
+        "id": 1763,
+        "question": "ÜRETİMDE BİR MAL ELDE EDİLİNCEYE KADAR HARCANAN DEĞERLERİN TOPLAMI",
+        "letter": "M",
+        "answer": "Maliyet"
+    },
+    {
+        "id": 1767,
+        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
+        "letter": "N",
+        "answer": "Numara, Numara yapma, Numara yapmak"
+    },
+    {
+        "id": 1736,
+        "question": "Elektrik sinyallerini görselleştirmek, ölçmek ve analiz etmek için kullanılan cihaz",
+        "letter": "O",
+        "answer": "Osiloskop"
+    },
+    {
+        "id": 762,
+        "question": "Belli bir kurala göre devam eden sayı ya da şekil dizisi",
+        "letter": "Ö",
+        "answer": "Örüntü"
+    },
+    {
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "letter": "P",
+        "answer": "plak"
+    },
+    {
+        "id": 764,
+        "question": "Selam ya da teşekkür anlamına eğilme ya da diz kırma biçiminde yapılan hareket",
+        "letter": "R",
+        "answer": "Reverans"
+    },
+    {
+        "id": 1050,
+        "question": "Sebze, meyve vb. satmak için kurulmuş, eğreti, derme çatma dükkân",
+        "letter": "S",
+        "answer": "Salaş"
+    },
+    {
+        "id": 1058,
+        "question": "Genellikle bazı sporları yaparken giyilen, paçaları dizlerin yukarısında başlayan kısa pantolon",
+        "letter": "Ş",
+        "answer": "Şort"
+    },
+    {
+        "id": 1064,
+        "question": "Şişe gibi dar delikleri tıkamaya yarayan mantar, cam, tahta veya plastikten tıkaç",
+        "letter": "T",
+        "answer": "tapa, tıpa"
+    },
+    {
+        "id": 450,
+        "question": "Bilgiçlik taslayan (kimse)",
+        "letter": "U",
+        "answer": "ukala"
+    },
+    {
+        "id": 1316,
+        "question": "Derinleştirmeden, yüzeysel olarak",
+        "letter": "Ü",
+        "answer": "Üstten"
+    },
+    {
+        "id": 875,
+        "question": "Foseptik Kuyularındaki Pis Suları Çekmeye Yarayan Makine",
+        "letter": "V",
+        "answer": "Vidanjör, vıdanjor"
+    },
+    {
+        "id": 889,
+        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "letter": "Y",
+        "answer": "Yalak"
+    },
+    {
+        "id": 1956,
+        "question": "Ağaçlardan elde edilen, eriyiği yapıştırıcı olarak kullanılan renksiz veya sarı kırmızımtırak renkte biçimsiz madde",
+        "letter": "Z",
+        "answer": "Zamk"
+    }
+]

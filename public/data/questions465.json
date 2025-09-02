@@ -1,0 +1,158 @@
+[
+    {
+        "id": 955,
+        "question": "\"Kutup\", \"Boz gibi türleri bulunan iri gövdeli yırtıcı hayvan",
+        "letter": "A",
+        "answer": "ayı, ayi"
+    },
+    {
+        "id": 1348,
+        "question": "Kaldırımların kenarlarında bulunan taşlar",
+        "letter": "B",
+        "answer": "Bordür"
+    },
+    {
+        "id": 156,
+        "question": "Bir devlet veya kuruluşun gizli amaçları için çalışan kimse, ajan",
+        "letter": "C",
+        "answer": "casus"
+    },
+    {
+        "id": 165,
+        "question": "Bir eksenin döndürdüğü tekerlek biçimindeki makine parçası",
+        "letter": "Ç",
+        "answer": "çark"
+    },
+    {
+        "id": 1382,
+        "question": "Bedensel veya ruhsal dengenin değişmesi sonucu ortaya çıkan ve canlıyı türlü tepkilere sürükleyebilen içten gelen gerilim",
+        "letter": "D",
+        "answer": "Dürtü"
+    },
+    {
+        "id": 214,
+        "question": "Yalnız belirli duraklarda duran tren, otobüs veya gemi",
+        "letter": "E",
+        "answer": "ekspres"
+    },
+    {
+        "id": 1326,
+        "question": "Tüzel kişiliği olsun olmasın bir ekonomik etkinlik birimi",
+        "letter": "F",
+        "answer": "Firma"
+    },
+    {
+        "id": 1262,
+        "question": "Huzursuz, kaygılı, sinirli kimse",
+        "letter": "G",
+        "answer": "Gergin"
+    },
+    {
+        "id": 250,
+        "question": "Hırsız, haydut, eşkıya",
+        "letter": "H",
+        "answer": "harami, haramiler"
+    },
+    {
+        "id": 267,
+        "question": "Gereksiz yere para, zaman, emek vb.ni harcama, savurganlık",
+        "letter": "İ",
+        "answer": "israf, israf etme, israf etmek"
+    },
+    {
+        "id": 287,
+        "question": "Posta, kargo, mektup vb. gönderileri alıcıya ulaştıran kimse",
+        "letter": "K",
+        "answer": "kurye"
+    },
+    {
+        "id": 623,
+        "question": "Eğlence yerlerinde veya parlamento salonlarında özel bölme",
+        "letter": "L",
+        "answer": "Loca"
+    },
+    {
+        "id": 1839,
+        "question": "BİR BÖLGEYE ÖZGÜ OLAN, BÖLGESEL, YER, MAHAL",
+        "letter": "M",
+        "answer": "Mevzi, Mevzii"
+    },
+    {
+        "id": 1252,
+        "question": "Hastalığın yeniden ortaya çıkma, tekrarlaması durumu",
+        "letter": "N",
+        "answer": "Nüks, nüks etme, nüks etmesi, nüks etmek"
+    },
+    {
+        "id": 996,
+        "question": "Özenli, düzgün, uygun",
+        "letter": "O",
+        "answer": "Onat"
+    },
+    {
+        "id": 370,
+        "question": "Benzeri yapılacak olan, benzetilmek istenen şey, model",
+        "letter": "Ö",
+        "answer": "örnek"
+    },
+    {
+        "id": 384,
+        "question": "Çeşitli sporlarda kullanılan ölçüsü ve değeri değişken birim",
+        "letter": "P",
+        "answer": "puan"
+    },
+    {
+        "id": 390,
+        "question": "Üzerinde boks yapılan, çevresi kordonla çevrilmiş yer",
+        "letter": "R",
+        "answer": "ring"
+    },
+    {
+        "id": 416,
+        "question": "Çok bulunmayan, az rastlanan, nadir",
+        "letter": "S",
+        "answer": "seyrek"
+    },
+    {
+        "id": 1459,
+        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "letter": "Ş",
+        "answer": "Şizofreni"
+    },
+    {
+        "id": 713,
+        "question": "Büyük ölçüde, çok miktarda yapılan (alışveriş)",
+        "letter": "T",
+        "answer": "Toptan, toptan alışveriş"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 872,
+        "question": "Bulaşıcı Hastalıklara Yol Açan Mikrop",
+        "letter": "V",
+        "answer": "Virüs, vırus"
+    },
+    {
+        "id": 491,
+        "question": "Dağın veya tepenin herhangi bir yanı",
+        "letter": "Y",
+        "answer": "yamaç"
+    },
+    {
+        "id": 1956,
+        "question": "Ağaçlardan elde edilen, eriyiği yapıştırıcı olarak kullanılan renksiz veya sarı kırmızımtırak renkte biçimsiz madde",
+        "letter": "Z",
+        "answer": "Zamk"
+    }
+]

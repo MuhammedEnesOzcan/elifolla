@@ -1,0 +1,158 @@
+[
+    {
+        "id": 512,
+        "question": "Denizin kıyıdan uzakça olan yeri",
+        "letter": "A",
+        "answer": "Açık"
+    },
+    {
+        "id": 1346,
+        "question": "Orta ve Güney Anadolu'nun birçok bölgesinde bir türkü ezgisi",
+        "letter": "B",
+        "answer": "Bozlak, bozlak türküsü"
+    },
+    {
+        "id": 1532,
+        "question": "Ezilmiş havuç içine fındık, şeker vb. eklenerek yapılan bir tür tatlı",
+        "letter": "C",
+        "answer": "Cezerye"
+    },
+    {
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
+        "letter": "Ç",
+        "answer": "Çapak"
+    },
+    {
+        "id": 186,
+        "question": "İki kişi tarafından karşılıklı söylenen şarkı",
+        "letter": "D",
+        "answer": "düet"
+    },
+    {
+        "id": 566,
+        "question": "Bilirkişi tarafından yapılan inceleme",
+        "letter": "E",
+        "answer": "Ekspertiz, Ekspertiz raporu"
+    },
+    {
+        "id": 570,
+        "question": "Olağandan bol, aşırı çoklukta bulunma durumu",
+        "letter": "F",
+        "answer": "Furya, fazla, fazlaca, fazlalık"
+    },
+    {
+        "id": 1966,
+        "question": "Tavla oyununda elinde kırık taşı bulunan oyuncunun attığı, uygun olmayan zar",
+        "letter": "G",
+        "answer": "GELE"
+    },
+    {
+        "id": 974,
+        "question": "Hiçbir işe yaramadan yok olma, boşa gitme",
+        "letter": "H",
+        "answer": "Heba, heba olma, heba olmak, heba olması"
+    },
+    {
+        "id": 1610,
+        "question": "Bir bedelin ödenmesi sırasında yapılan indirim",
+        "letter": "İ",
+        "answer": "İskonto, iskonto uygulama, iskonto uygulamak"
+    },
+    {
+        "id": 1777,
+        "question": "Genellikle spor aktivitesinde kullanılan, tek kişilik, uzun, dar, kürekle çekilerek giden, hafif tekne",
+        "letter": "K",
+        "answer": "Kano"
+    },
+    {
+        "id": 300,
+        "question": "Yasal olan",
+        "letter": "L",
+        "answer": "legal"
+    },
+    {
+        "id": 1624,
+        "question": "Duyguları, düşünceleri belirtecek biçimde yüzde beliren kımıldanışlar, hareketler",
+        "letter": "M",
+        "answer": "Mimik, mimikler"
+    },
+    {
+        "id": 638,
+        "question": "Sıklığı az olan, seyrek",
+        "letter": "N",
+        "answer": "Nadir"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 762,
+        "question": "Belli bir kurala göre devam eden sayı ya da şekil dizisi",
+        "letter": "Ö",
+        "answer": "Örüntü"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 398,
+        "question": "Havalimanında uçuşun gecikme durumu",
+        "letter": "R",
+        "answer": "rötar"
+    },
+    {
+        "id": 405,
+        "question": "Gidilen yol üzerinde olmayan, sapılarak varılan",
+        "letter": "S",
+        "answer": "sapa"
+    },
+    {
+        "id": 699,
+        "question": "Ev, fabrika, baraj vb.nin yapımının sürdüğü yer",
+        "letter": "Ş",
+        "answer": "Şantiye, şantiye alanı"
+    },
+    {
+        "id": 1927,
+        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
+        "letter": "T",
+        "answer": "Takıntı, Takıntılık, Takma, Takmak"
+    },
+    {
+        "id": 776,
+        "question": "Yağmur Getirmeyen Fırtına",
+        "letter": "U",
+        "answer": "Urağan, uragan"
+    },
+    {
+        "id": 1565,
+        "question": "Birlikçi, birlikten yana, birleştirici (siyaset)",
+        "letter": "Ü",
+        "answer": "Üniter, üniter devlet"
+    },
+    {
+        "id": 887,
+        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "letter": "V",
+        "answer": "Veba"
+    },
+    {
+        "id": 947,
+        "question": "Köpek ve ineklere yedirilmek üzere un ve kepekle hazırlanan yiyecek",
+        "letter": "Y",
+        "answer": "yal, yem"
+    },
+    {
+        "id": 1145,
+        "question": "Hor görülme, alçalma",
+        "letter": "Z",
+        "answer": "Zillet"
+    }
+]

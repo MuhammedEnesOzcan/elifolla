@@ -1,0 +1,158 @@
+[
+    {
+        "id": 110,
+        "question": "Bir akort oluşturan seslerin birbiri arkasından çalınması",
+        "letter": "A",
+        "answer": "arpej"
+    },
+    {
+        "id": 1209,
+        "question": "Aynı zamanda Muğla'nın bir ilçesi de olan, apartmanların genellikle zeminin altında bulunan katı ",
+        "letter": "B",
+        "answer": "Bodrum, bodrum kat, bodrum katı"
+    },
+    {
+        "id": 154,
+        "question": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
+        "letter": "C",
+        "answer": "cila"
+    },
+    {
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
+        "letter": "Ç",
+        "answer": "Çaça"
+    },
+    {
+        "id": 1768,
+        "question": "BİR DEVLETİN BAŞKA DEVLETLERLE İLGİLİ HER TÜRLÜ ETKİNLİĞİ, HARİCİYE",
+        "letter": "D",
+        "answer": "Dışişleri"
+    },
+    {
+        "id": 201,
+        "question": "Bir işte yetkili olan, bir işi yapan, erbap",
+        "letter": "E",
+        "answer": "ehil, ehli"
+    },
+    {
+        "id": 1672,
+        "question": "Birdenbire, düşünmeden yapan",
+        "letter": "F",
+        "answer": "Fevri"
+    },
+    {
+        "id": 1427,
+        "question": "Amaç, hedef",
+        "letter": "G",
+        "answer": "Gaye"
+    },
+    {
+        "id": 1439,
+        "question": "Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz",
+        "letter": "H",
+        "answer": "Haşa"
+    },
+    {
+        "id": 755,
+        "question": "Ticari hezimet",
+        "letter": "İ",
+        "answer": "İflas, iflas etme, iflas etmek"
+    },
+    {
+        "id": 1814,
+        "question": "KAFA DERİSİNDE OLUŞAN KÜÇÜK, BEYAZ PULCUKLAR",
+        "letter": "K",
+        "answer": "Kepek"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 1878,
+        "question": "Seçkin kişilerin yaşantılarını konu alan yayın",
+        "letter": "M",
+        "answer": "Magazin"
+    },
+    {
+        "id": 333,
+        "question": "İstenilen düzende olan, düzene uygun olan",
+        "letter": "N",
+        "answer": "nizami"
+    },
+    {
+        "id": 1188,
+        "question": "Yazarın kendi yaşam öyküsünün anlattığı edebiyat türü",
+        "letter": "O",
+        "answer": "Otobiyografi"
+    },
+    {
+        "id": 1537,
+        "question": "En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek",
+        "letter": "Ö",
+        "answer": "Ölçmek, ölçme, ölçüm"
+    },
+    {
+        "id": 1937,
+        "question": "Hastalıkla ilgili hücrelerdeki, dokulardaki ve organlardaki yapısal ve işlevsel değişikliklerin tanınması, araştırılması ve incelenmesiyle ilgilenen bilim dalı",
+        "letter": "P",
+        "answer": "Patoloji, Pataloji"
+    },
+    {
+        "id": 387,
+        "question": "Zarara uğrama tehlikesi",
+        "letter": "R",
+        "answer": "risk"
+    },
+    {
+        "id": 405,
+        "question": "Gidilen yol üzerinde olmayan, sapılarak varılan",
+        "letter": "S",
+        "answer": "sapa"
+    },
+    {
+        "id": 697,
+        "question": "Bir diğer adı \"Enjektör\" olan nesne",
+        "letter": "Ş",
+        "answer": "Şırınga"
+    },
+    {
+        "id": 713,
+        "question": "Büyük ölçüde, çok miktarda yapılan (alışveriş)",
+        "letter": "T",
+        "answer": "Toptan, toptan alışveriş"
+    },
+    {
+        "id": 455,
+        "question": "Açıkgöz, kurnaz, cingöz",
+        "letter": "U",
+        "answer": "uyanık"
+    },
+    {
+        "id": 1468,
+        "question": "Güvercinlerden, korularda yaşayan, eti için avlanan, boz renkli bir kuş (Streptopelia turtur)",
+        "letter": "Ü",
+        "answer": "Üveyik"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 1576,
+        "question": "\"Aksi takdirde\" anlamında kullanılan bir söz",
+        "letter": "Y",
+        "answer": "Yoksa"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

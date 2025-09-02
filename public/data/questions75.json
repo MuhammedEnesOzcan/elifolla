@@ -1,0 +1,158 @@
+[
+    {
+        "id": 108,
+        "question": "İki şey arasında bağlantı kuran kimse, vasıta",
+        "letter": "A",
+        "answer": "aracı, ara bulucu"
+    },
+    {
+        "id": 1342,
+        "question": "Kuruluş veya yetkili kişilerce herhangi bir durumla ilgili olarak süreli veya süresiz yayımlanan duyuru",
+        "letter": "B",
+        "answer": "Bülten"
+    },
+    {
+        "id": 962,
+        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "letter": "C",
+        "answer": "Cacık"
+    },
+    {
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
+        "letter": "Ç",
+        "answer": "Çaça"
+    },
+    {
+        "id": 1187,
+        "question": "Bir yeri daha önce görmüş olma veya bir olayı daha önce yaşamış olma hissi",
+        "letter": "D",
+        "answer": "Dejavu"
+    },
+    {
+        "id": 1417,
+        "question": "Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku",
+        "letter": "E",
+        "answer": "Epitelyum"
+    },
+    {
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "letter": "F",
+        "answer": "Fidan"
+    },
+    {
+        "id": 1422,
+        "question": "Gece kalmadan aynı gün dönmek üzere yapılan ziyaret ya da gezi",
+        "letter": "G",
+        "answer": "Günübirlik"
+    },
+    {
+        "id": 1794,
+        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "letter": "H",
+        "answer": "Hasılat"
+    },
+    {
+        "id": 1198,
+        "question": "Sığınma, sığınma hakkı",
+        "letter": "İ",
+        "answer": "İltica, iltica hakkı"
+    },
+    {
+        "id": 1499,
+        "question": "Yanan şeylerden artakalan toz madde",
+        "letter": "K",
+        "answer": "Kül, küller"
+    },
+    {
+        "id": 1703,
+        "question": "Yıkanmak için kullanılan bitki telleri demeti veya türlü ipliklerden yapılmış örgü",
+        "letter": "L",
+        "answer": "Lif"
+    },
+    {
+        "id": 1630,
+        "question": "Güç, kuvvet, derman, takat",
+        "letter": "M",
+        "answer": "Mecal"
+    },
+    {
+        "id": 1256,
+        "question": "Müzik seslerinin yazıya dökülmüş hali",
+        "letter": "N",
+        "answer": "Nota, notalandırma, notalandırmak, notalar"
+    },
+    {
+        "id": 907,
+        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
+        "letter": "O",
+        "answer": "Obje"
+    },
+    {
+        "id": 369,
+        "question": "Yalnız kendine özgü bir nitelik taşıyan, orijinal",
+        "letter": "Ö",
+        "answer": "Özgün"
+    },
+    {
+        "id": 379,
+        "question": "Bir işin gerçekleştirilmesi için uyulması tasarlanan düzen",
+        "letter": "P",
+        "answer": "plan"
+    },
+    {
+        "id": 1031,
+        "question": "Yakışır, yerinde, uygun",
+        "letter": "R",
+        "answer": "Reva"
+    },
+    {
+        "id": 1291,
+        "question": "Görev, yetki vb.ni kötüye kullanma",
+        "letter": "S",
+        "answer": "Suistimal, suistimal etme, suistimal etmek"
+    },
+    {
+        "id": 1459,
+        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "letter": "Ş",
+        "answer": "Şizofreni"
+    },
+    {
+        "id": 1717,
+        "question": "Atmosferin yere temas eden en alt katı",
+        "letter": "T",
+        "answer": "Troposfer"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 1566,
+        "question": "Mecazen; Delirmek, aklını yitirmek",
+        "letter": "Ü",
+        "answer": "Üşütmek, üşütme"
+    },
+    {
+        "id": 867,
+        "question": "Elektromotor Gücün Ya Da Gerilimin Birimi",
+        "letter": "V",
+        "answer": "Volt"
+    },
+    {
+        "id": 497,
+        "question": "Yıkılmış olan, harap, viran",
+        "letter": "Y",
+        "answer": "yıkık"
+    },
+    {
+        "id": 1245,
+        "question": "Eski dilde deprem",
+        "letter": "Z",
+        "answer": "Zelzele"
+    }
+]

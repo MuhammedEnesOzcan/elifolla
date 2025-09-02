@@ -1,0 +1,158 @@
+[
+    {
+        "id": 120,
+        "question": "Rütbeyi göstermek için üniformaların omuzlarına takılan işaretli parça",
+        "letter": "A",
+        "answer": "apolet"
+    },
+    {
+        "id": 1230,
+        "question": "Birdenbire ortaya çıkan tehlikeli durum",
+        "letter": "B",
+        "answer": "Badire, badire atlatma, badire atlatmak"
+    },
+    {
+        "id": 80,
+        "question": "Cem Karaca'nın şarkısında bahsettiği Gülhane parkındaki ağaç",
+        "letter": "C",
+        "answer": "Ceviz, Ceviz Ağacı"
+    },
+    {
+        "id": 99,
+        "question": "Bulunulan çağın anlayışına, şartlarına uygun olan, modern, muasır",
+        "letter": "Ç",
+        "answer": "çağdaş"
+    },
+    {
+        "id": 112,
+        "question": "Müzik, ürün, hizmet gibi alanlarda kısa ön sunum",
+        "letter": "D",
+        "answer": "demo"
+    },
+    {
+        "id": 203,
+        "question": "Emek sonucu ortaya konan ürün, yapıt",
+        "letter": "E",
+        "answer": "eser"
+    },
+    {
+        "id": 1674,
+        "question": "Malzemesi marka sahibi tarafından karşılanarak başka bir firmaya yaptırılan mal",
+        "letter": "F",
+        "answer": "Fason"
+    },
+    {
+        "id": 1821,
+        "question": "Sindirim sisteminden sıvı veya hava geçerken bir iç ses çıkarma olayı",
+        "letter": "G",
+        "answer": "Guruldama, Guruldamak"
+    },
+    {
+        "id": 245,
+        "question": "Karşılıksız vermek, bağış",
+        "letter": "H",
+        "answer": "hibe, hibe etmek"
+    },
+    {
+        "id": 1555,
+        "question": "Bir şeyi belirtecek biçimde hareket etmek, belirleyici şekilde vurgulamak",
+        "letter": "İ",
+        "answer": "İşaretleme, işaretlemek"
+    },
+    {
+        "id": 606,
+        "question": "Kara ile suyun birleştiği yer",
+        "letter": "K",
+        "answer": "Kıyı"
+    },
+    {
+        "id": 918,
+        "question": "Hiç tuzu olmayan yumuşak krem peynir",
+        "letter": "L",
+        "answer": "Labne"
+    },
+    {
+        "id": 1289,
+        "question": "Beceri, ustalık, hüner",
+        "letter": "M",
+        "answer": "Maharet, maharetlilik, marifet"
+    },
+    {
+        "id": 1767,
+        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
+        "letter": "N",
+        "answer": "Numara, Numara yapma, Numara yapmak"
+    },
+    {
+        "id": 1760,
+        "question": "Beklenilen zaman gelinceye kadar zaman geçirmek",
+        "letter": "O",
+        "answer": "Oyalanma, Oyalanmak"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 1707,
+        "question": "Hristiyan din adamı, peder",
+        "letter": "P",
+        "answer": "Papaz"
+    },
+    {
+        "id": 1906,
+        "question": "BASKETBOLDA, SAYI OLMAYAN BİR ATIŞTAN SONRA POTADAN SEKEN TOPUN HAVADAYKEN YAKALANMASI",
+        "letter": "R",
+        "answer": "Ribaund"
+    },
+    {
+        "id": 414,
+        "question": "Bazı tedavi yöntemlerinin uygulanması için ayrılan süre",
+        "letter": "S",
+        "answer": "seans"
+    },
+    {
+        "id": 699,
+        "question": "Ev, fabrika, baraj vb.nin yapımının sürdüğü yer",
+        "letter": "Ş",
+        "answer": "Şantiye, şantiye alanı"
+    },
+    {
+        "id": 1735,
+        "question": "Bir dildeki ifadeleri baska bir dile aktaran kimse",
+        "letter": "T",
+        "answer": "Tercüman"
+    },
+    {
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
+        "letter": "U",
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
+    },
+    {
+        "id": 1472,
+        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
+        "letter": "Ü",
+        "answer": "Ürkmek"
+    },
+    {
+        "id": 1568,
+        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "letter": "V",
+        "answer": "Vardiya"
+    },
+    {
+        "id": 491,
+        "question": "Dağın veya tepenin herhangi bir yanı",
+        "letter": "Y",
+        "answer": "yamaç"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

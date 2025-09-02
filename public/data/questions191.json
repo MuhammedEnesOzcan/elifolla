@@ -1,0 +1,158 @@
+[
+    {
+        "id": 779,
+        "question": "Üstünlük, kazanım, yarar",
+        "letter": "A",
+        "answer": "Avantaj"
+    },
+    {
+        "id": 140,
+        "question": "Yaşama veya iş görme isteğini yitirmiş",
+        "letter": "B",
+        "answer": "Bezgin, bezmiş, bitap"
+    },
+    {
+        "id": 1365,
+        "question": "Hep birden, hep birlikte anlamlarındaki söz",
+        "letter": "C",
+        "answer": "Cümleten"
+    },
+    {
+        "id": 175,
+        "question": "Taklit olan, sahte",
+        "letter": "Ç",
+        "answer": "çakma"
+    },
+    {
+        "id": 1394,
+        "question": "Doldurularak yapılan yemek",
+        "letter": "D",
+        "answer": "Dolma"
+    },
+    {
+        "id": 1409,
+        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
+        "letter": "E",
+        "answer": "Ergonomik"
+    },
+    {
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
+        "letter": "F",
+        "answer": "fünye"
+    },
+    {
+        "id": 1434,
+        "question": "Kamıştan yapılmış çift düdük ve tulumdan oluşan, tiz sesli, nefesli, İskoçların millî çalgısı",
+        "letter": "G",
+        "answer": "Gayda"
+    },
+    {
+        "id": 587,
+        "question": "Hem ev, konut hem de ev halkı anlamında kullanılan bir söz",
+        "letter": "H",
+        "answer": "Hane"
+    },
+    {
+        "id": 1607,
+        "question": "Üreticiden aldığı malları tezgah ve taşıma araçları ile cadde ve sokaklarda pazarlayan kimse ",
+        "letter": "İ",
+        "answer": "İşportacı"
+    },
+    {
+        "id": 290,
+        "question": "Askeri birliği ve onunla ilgili işleri yönetme görevi, kumanda",
+        "letter": "K",
+        "answer": "komuta, komuta etme, komuta etmek"
+    },
+    {
+        "id": 1107,
+        "question": "Hanigillerden, Akdeniz ve Ege'de yaşayan lezzetli bir balık, kaya hanisi",
+        "letter": "L",
+        "answer": "lahos"
+    },
+    {
+        "id": 1620,
+        "question": "Taş, toprak vb. değersiz yapı döküntüsü",
+        "letter": "M",
+        "answer": "Moloz"
+    },
+    {
+        "id": 1256,
+        "question": "Müzik seslerinin yazıya dökülmüş hali",
+        "letter": "N",
+        "answer": "Nota, notalandırma, notalandırmak, notalar"
+    },
+    {
+        "id": 30,
+        "question": "Düz ve geniş arazi",
+        "letter": "O",
+        "answer": "Ova"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 666,
+        "question": "Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha",
+        "letter": "P",
+        "answer": "Palet"
+    },
+    {
+        "id": 1864,
+        "question": "YÜZEYDE KALMAYIP DERİNE İNEN, ASIL KONUYU DA İÇİNE ALAN, KÖKTEN",
+        "letter": "R",
+        "answer": "Radikal"
+    },
+    {
+        "id": 1876,
+        "question": "İKİ VEYA DAHA ÇOK ŞEY ARASINDA KONUM, BİÇİM VE BELİRLİ BİR EKSENE GÖRE ÖLÇÜ UYGUNLUĞU",
+        "letter": "S",
+        "answer": "Simetri"
+    },
+    {
+        "id": 1688,
+        "question": "Güneş doğmadan az önce beliren aydınlık",
+        "letter": "Ş",
+        "answer": "Şafak"
+    },
+    {
+        "id": 1063,
+        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
+        "letter": "T",
+        "answer": "Takı"
+    },
+    {
+        "id": 1073,
+        "question": "Akla uygun, yalnız akla dayanan, akli, rasyonel",
+        "letter": "U",
+        "answer": "Ussal"
+    },
+    {
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
+        "letter": "Ü",
+        "answer": "Ütülmek"
+    },
+    {
+        "id": 1138,
+        "question": "Tehlikeli durum",
+        "letter": "V",
+        "answer": "varta, vuku, vukuat"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 1293,
+        "question": "Bir suçu işlediği düşünülen ve hakkında soruşturma devam eden kişi",
+        "letter": "Z",
+        "answer": "Zanlı, zanli"
+    }
+]

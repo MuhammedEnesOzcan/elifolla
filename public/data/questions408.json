@@ -1,0 +1,158 @@
+[
+    {
+        "id": 105,
+        "question": "Işık saçacak beyazlığa varıncaya kadar ısıtılmış olan",
+        "letter": "A",
+        "answer": "akkor"
+    },
+    {
+        "id": 1084,
+        "question": "Vücudun kasıktan tabana kadar olan bölümü",
+        "letter": "B",
+        "answer": "Bacak"
+    },
+    {
+        "id": 789,
+        "question": "Bir maddenin özü, değerli taş",
+        "letter": "C",
+        "answer": "Cevher"
+    },
+    {
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
+        "letter": "Ç",
+        "answer": "Çaça"
+    },
+    {
+        "id": 1396,
+        "question": "Sıkıştırılmış hava içine püskürtülen mazotla çalışan motor",
+        "letter": "D",
+        "answer": "Dizel, dizel motor"
+    },
+    {
+        "id": 563,
+        "question": "Öğrenci yurt dışı değişim programı",
+        "letter": "E",
+        "answer": "Erasmus"
+    },
+    {
+        "id": 227,
+        "question": "Satıcının alıcıya verdiği hesap pusulası",
+        "letter": "F",
+        "answer": "fatura, fiş"
+    },
+    {
+        "id": 237,
+        "question": "Her zaman gülümseyen, mütebessim",
+        "letter": "G",
+        "answer": "güleç"
+    },
+    {
+        "id": 1965,
+        "question": "BİTKİLERİN DOĞAL OLARAK YERLEŞTİĞİ YER, YURT",
+        "letter": "H",
+        "answer": "HABİTAT"
+    },
+    {
+        "id": 1161,
+        "question": "Danışma, beyin fırtınası, karşılıklı tartışma",
+        "letter": "İ",
+        "answer": "İstişare"
+    },
+    {
+        "id": 812,
+        "question": "Başkalarına belli etmeden, gizlice yapılan şey",
+        "letter": "K",
+        "answer": "Kaçamak"
+    },
+    {
+        "id": 300,
+        "question": "Yasal olan",
+        "letter": "L",
+        "answer": "legal"
+    },
+    {
+        "id": 815,
+        "question": "Bir şeyi iflah olmaz, onmaz hale getirmek",
+        "letter": "M",
+        "answer": "Mahvetmek, Mahvetme"
+    },
+    {
+        "id": 637,
+        "question": "Bir şeyin iyi veya kötü olma özelliği, kalite, özellik",
+        "letter": "N",
+        "answer": "Nitelik, niteliği"
+    },
+    {
+        "id": 347,
+        "question": "Yiyecek, içecek gibi şeylerin alınabildiği mekanik veya elektrikli araç",
+        "letter": "O",
+        "answer": "otomat"
+    },
+    {
+        "id": 1536,
+        "question": "Tatlı sularda yaşayan, kamçı biçimindeki uzantısı ile hareket eden mekik biçimindeki bir hücreli",
+        "letter": "Ö",
+        "answer": "Öglena"
+    },
+    {
+        "id": 1916,
+        "question": "MATEMATİKTE, BAYAĞI KESİRLERDEKİ ÇİZGİ ALTI SAYISI",
+        "letter": "P",
+        "answer": "Payda"
+    },
+    {
+        "id": 389,
+        "question": "Bir gemi veya uçağın gidiş yönü, izleyeceği yol",
+        "letter": "R",
+        "answer": "rota"
+    },
+    {
+        "id": 1281,
+        "question": "Gösteriş için bir şeyi daha iyi veya daha güzel yapmak için eklenen şey",
+        "letter": "S",
+        "answer": "Süs, süs ekleme, süsleme"
+    },
+    {
+        "id": 1846,
+        "question": "YAPRAKLARI HER MEVSİM YEŞİL KALAN, BAHÇELERDE SÜS BİTKİSİ OLARAK YETİŞTİRİLEN, SARIMSI RENKLİ BİR TÜR AĞAÇÇIK",
+        "letter": "Ş",
+        "answer": "Şimşir"
+    },
+    {
+        "id": 1253,
+        "question": "Bir haneyi, evi, yapıyı yenileme işlemi",
+        "letter": "T",
+        "answer": "Tadilat, tadilat yapma, tadilat yapmak"
+    },
+    {
+        "id": 776,
+        "question": "Yağmur Getirmeyen Fırtına",
+        "letter": "U",
+        "answer": "Urağan, uragan"
+    },
+    {
+        "id": 1508,
+        "question": "Bir ülküye çıkar gütmeden bağlı olan, idealist",
+        "letter": "Ü",
+        "answer": "Ülkücü"
+    },
+    {
+        "id": 1708,
+        "question": "Kökeni fransızca olup evlerin giriş kısmında ve ayakkabı, mont vb. şeylerin konulduğu yer",
+        "letter": "V",
+        "answer": "Vestiyer"
+    },
+    {
+        "id": 1579,
+        "question": "Bir işte hiyerarşik düzende daha üstte bulunan, karar verme hakkına sahip olan, daha tecrübeli kimse",
+        "letter": "Y",
+        "answer": "Yetkili, yetki sahibi"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

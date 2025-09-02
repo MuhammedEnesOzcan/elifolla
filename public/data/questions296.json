@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1808,
+        "question": "Gürültülü çatışma, kavga",
+        "letter": "A",
+        "answer": "Arbede"
+    },
+    {
+        "id": 136,
+        "question": "Orkestrada vurmalı çalgı takımı, davul",
+        "letter": "B",
+        "answer": "bateri"
+    },
+    {
+        "id": 1086,
+        "question": "Şehir içinde ana yol",
+        "letter": "C",
+        "answer": "cadde"
+    },
+    {
+        "id": 1545,
+        "question": "Yüzü çiçek hastalığından kalma küçük yara izleri taşıyan, aşırı çiçek bozuğu olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çopur"
+    },
+    {
+        "id": 1398,
+        "question": "Aynı cinsten onluk bir küme",
+        "letter": "D",
+        "answer": "Deste"
+    },
+    {
+        "id": 79,
+        "question": "Kırkpınar yağlı güreşlerinin yapıldığı ilimiz",
+        "letter": "E",
+        "answer": "edirne"
+    },
+    {
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
+        "letter": "F",
+        "answer": "Ferah"
+    },
+    {
+        "id": 1850,
+        "question": "PASLANMAKTAN KORUMAK İÇİN ERİMİŞ ÇİNKOYA BATIRILARAK KAPLANMIŞ OLAN",
+        "letter": "G",
+        "answer": "Galvanize, Galvanizli"
+    },
+    {
+        "id": 1721,
+        "question": "Mahkeme lideri, hüküm veren",
+        "letter": "H",
+        "answer": "Hakim"
+    },
+    {
+        "id": 1953,
+        "question": "ACI VE ÜZÜNTÜYÜ BELİRTEN KESİK KESİK SESLER",
+        "letter": "İ",
+        "answer": "İnilti"
+    },
+    {
+        "id": 1922,
+        "question": "FRANSIZCA KÖKENLİ “KONTRAST” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Karşıtlık"
+    },
+    {
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
+        "letter": "L",
+        "answer": "leziz"
+    },
+    {
+        "id": 1625,
+        "question": "Bir şeyi anlamak veya öğrenmek için duyulan istek",
+        "letter": "M",
+        "answer": "Merak"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "letter": "O",
+        "answer": "Orada, orda"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 1264,
+        "question": "Arıların besin kaynağı, bitkilerin üreme organlarının başlıklarında bulunan üreme hücreleri",
+        "letter": "P",
+        "answer": "Polen"
+    },
+    {
+        "id": 1034,
+        "question": "Demir, tahta yüzeylerdeki boya, pas vb.ni çıkarma, pürüzleri gidermek amacıyla kullanılan iri dişli bir törpü",
+        "letter": "R",
+        "answer": "raspa"
+    },
+    {
+        "id": 412,
+        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
+        "letter": "S",
+        "answer": "statü, statüsü"
+    },
+    {
+        "id": 1466,
+        "question": "Birbirine paralel görme ekseni olmayan (göz veya kimse)",
+        "letter": "Ş",
+        "answer": "Şaşı"
+    },
+    {
+        "id": 1970,
+        "question": "BİR ŞEYİ RESMİ OLARAK KAYDETME, KÜTÜĞE GEÇİRME",
+        "letter": "T",
+        "answer": "TESCİL, TESCİLLEME, TESCİLLEMEK"
+    },
+    {
+        "id": 1558,
+        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "letter": "U",
+        "answer": "Ulus"
+    },
+    {
+        "id": 880,
+        "question": "Hastalıkları iyileştirdiğine inanılan soluk",
+        "letter": "Ü",
+        "answer": "Üfürük, üfürme"
+    },
+    {
+        "id": 887,
+        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "letter": "V",
+        "answer": "Veba"
+    },
+    {
+        "id": 716,
+        "question": "Gidilen yerde geceyi geçirme",
+        "letter": "Y",
+        "answer": "Yatı, Yatıya kalma, Yatıya kalmak"
+    },
+    {
+        "id": 842,
+        "question": "Zeki, anlayış sahibi",
+        "letter": "Z",
+        "answer": "Zeren"
+    }
+]

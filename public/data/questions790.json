@@ -1,0 +1,158 @@
+[
+    {
+        "id": 123,
+        "question": "Rütbesi general ile aynı olan deniz subayı",
+        "letter": "A",
+        "answer": "amiral"
+    },
+    {
+        "id": 129,
+        "question": "Veteriner hekim",
+        "letter": "B",
+        "answer": "baytar"
+    },
+    {
+        "id": 534,
+        "question": "Ameliyat yapan uzman hekim, operatör",
+        "letter": "C",
+        "answer": "Cerrah"
+    },
+    {
+        "id": 542,
+        "question": "Ucu yassı ve eğri, büyük iğne",
+        "letter": "Ç",
+        "answer": "Çuvaldız"
+    },
+    {
+        "id": 1382,
+        "question": "Bedensel veya ruhsal dengenin değişmesi sonucu ortaya çıkan ve canlıyı türlü tepkilere sürükleyebilen içten gelen gerilim",
+        "letter": "D",
+        "answer": "Dürtü"
+    },
+    {
+        "id": 1267,
+        "question": "Rüzgarın bir yönden diğer yöne akması durumu",
+        "letter": "E",
+        "answer": "Esmek, esmesi, esme, esinti"
+    },
+    {
+        "id": 568,
+        "question": "Aynı olmayan, değişik",
+        "letter": "F",
+        "answer": "Farklı"
+    },
+    {
+        "id": 1431,
+        "question": "Otomobil vb. taşıtların konulduğu üstü örtülü yer",
+        "letter": "G",
+        "answer": "Garaj"
+    },
+    {
+        "id": 1965,
+        "question": "BİTKİLERİN DOĞAL OLARAK YERLEŞTİĞİ YER, YURT",
+        "letter": "H",
+        "answer": "HABİTAT"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 287,
+        "question": "Posta, kargo, mektup vb. gönderileri alıcıya ulaştıran kimse",
+        "letter": "K",
+        "answer": "kurye"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 1933,
+        "question": "SOMUT YASALARIN ÖTESİNDE OLAN BİR FELSEFE DALI",
+        "letter": "M",
+        "answer": "Metafizik"
+    },
+    {
+        "id": 988,
+        "question": "Açıklık, açık ve kesin yargı",
+        "letter": "N",
+        "answer": "nas"
+    },
+    {
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "letter": "O",
+        "answer": "Ofris"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 670,
+        "question": "Kişiye onur nişanesi olarak verilen küçük levha",
+        "letter": "P",
+        "answer": "Plaket"
+    },
+    {
+        "id": 1635,
+        "question": "Evin duvarlarının suyu çekmesi ve ısı farkından dolayı su buharı oluşması",
+        "letter": "R",
+        "answer": "Rutubet"
+    },
+    {
+        "id": 1039,
+        "question": "Klasik Türk müziğinde bir birleşik makam",
+        "letter": "S",
+        "answer": "saba"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 1063,
+        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
+        "letter": "T",
+        "answer": "Takı"
+    },
+    {
+        "id": 896,
+        "question": "Orta Asya'da Büyük Devlet Ve Uygarlık Kurmuş, Yazılı Anıtlarla Sanat Yapıtları Bırakmış Olan Bir Türk Ulusu",
+        "letter": "U",
+        "answer": "Uygur, uygurlar"
+    },
+    {
+        "id": 848,
+        "question": "Erkeklerin Sıçaktan Korunmak İçin Başlarına Sardıkları Büyük Mendil",
+        "letter": "Ü",
+        "answer": "Üslük"
+    },
+    {
+        "id": 476,
+        "question": "Karşı çıkma, engelleme, reddetme",
+        "letter": "V",
+        "answer": "veto, veto etme, veto etmek"
+    },
+    {
+        "id": 840,
+        "question": "Akarsuyun aktığı yer, mecra",
+        "letter": "Y",
+        "answer": "Yatak, yatağı"
+    },
+    {
+        "id": 1290,
+        "question": "Keyifli, eğlenceli olan",
+        "letter": "Z",
+        "answer": "Zevkli, zevk"
+    }
+]

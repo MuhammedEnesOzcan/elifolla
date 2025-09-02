@@ -1,0 +1,158 @@
+[
+    {
+        "id": 101,
+        "question": "Tasavvufta manevi üst bir rütbe",
+        "letter": "A",
+        "answer": "abdal"
+    },
+    {
+        "id": 1202,
+        "question": "Divan edebiyatında 2 dizelik şiir birimi",
+        "letter": "B",
+        "answer": "Beyit"
+    },
+    {
+        "id": 158,
+        "question": "Çok yakın, sıkı fıkı, pek içten (arkadaş)",
+        "letter": "C",
+        "answer": "can ciğer"
+    },
+    {
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
+        "letter": "Ç",
+        "answer": "çakar"
+    },
+    {
+        "id": 1388,
+        "question": "Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva",
+        "letter": "D",
+        "answer": "Dübel"
+    },
+    {
+        "id": 200,
+        "question": "Boyut, ölçü",
+        "letter": "E",
+        "answer": "ebat"
+    },
+    {
+        "id": 219,
+        "question": "İstenilen şeylerin yazılması, doldurulması için hazırlanmış basılı belge",
+        "letter": "F",
+        "answer": "form"
+    },
+    {
+        "id": 1422,
+        "question": "Gece kalmadan aynı gün dönmek üzere yapılan ziyaret ya da gezi",
+        "letter": "G",
+        "answer": "Günübirlik"
+    },
+    {
+        "id": 253,
+        "question": "Çok güzel el yazısı yazan sanatçı",
+        "letter": "H",
+        "answer": "hattat"
+    },
+    {
+        "id": 257,
+        "question": "Örnek alınan, en çok hayranlık duyulan kimse",
+        "letter": "İ",
+        "answer": "idol"
+    },
+    {
+        "id": 1499,
+        "question": "Yanan şeylerden artakalan toz madde",
+        "letter": "K",
+        "answer": "Kül, küller"
+    },
+    {
+        "id": 293,
+        "question": "Bulgar para birimi",
+        "letter": "L",
+        "answer": "leva"
+    },
+    {
+        "id": 1627,
+        "question": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki)",
+        "letter": "M",
+        "answer": "Melez"
+    },
+    {
+        "id": 994,
+        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
+        "letter": "N",
+        "answer": "naip"
+    },
+    {
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "letter": "O",
+        "answer": "Ofris"
+    },
+    {
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "letter": "Ö",
+        "answer": "Önlem"
+    },
+    {
+        "id": 1179,
+        "question": "Zehrin etkisini ortadan kaldırabilme özelliği olan madde ",
+        "letter": "P",
+        "answer": "Panzehir"
+    },
+    {
+        "id": 1872,
+        "question": "BİR DAİREDE YARIÇAP UZUNLUĞUNDAKİ YAY PARÇASINI GÖREN MERKEZ AÇIYA, EŞİT AÇI ÖLÇME BİRİMİ",
+        "letter": "R",
+        "answer": "Radyan"
+    },
+    {
+        "id": 1876,
+        "question": "İKİ VEYA DAHA ÇOK ŞEY ARASINDA KONUM, BİÇİM VE BELİRLİ BİR EKSENE GÖRE ÖLÇÜ UYGUNLUĞU",
+        "letter": "S",
+        "answer": "Simetri"
+    },
+    {
+        "id": 424,
+        "question": "Okullarda aynı düzeydeki sınıflardan her biri",
+        "letter": "Ş",
+        "answer": "şube"
+    },
+    {
+        "id": 1911,
+        "question": "“BİR KABIN TAŞIYABİLDİĞİ EN FAZLA MİKTARI” İFADE EDEN SÖZ",
+        "letter": "T",
+        "answer": "Tepeleme"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 1504,
+        "question": "Açık, aydın, belli",
+        "letter": "V",
+        "answer": "Vazıh"
+    },
+    {
+        "id": 1579,
+        "question": "Bir işte hiyerarşik düzende daha üstte bulunan, karar verme hakkına sahip olan, daha tecrübeli kimse",
+        "letter": "Y",
+        "answer": "Yetkili, yetki sahibi"
+    },
+    {
+        "id": 508,
+        "question": "Çok koyu, karanlık",
+        "letter": "Z",
+        "answer": "zifiri, zifir"
+    }
+]

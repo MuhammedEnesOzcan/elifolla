@@ -1,0 +1,158 @@
+[
+    {
+        "id": 516,
+        "question": "Bir çok müzikal kayıt bulunduran çalışma",
+        "letter": "A",
+        "answer": "Albüm"
+    },
+    {
+        "id": 523,
+        "question": "Havaya atılmış, uçurulmuş",
+        "letter": "B",
+        "answer": "Berhava"
+    },
+    {
+        "id": 1365,
+        "question": "Hep birden, hep birlikte anlamlarındaki söz",
+        "letter": "C",
+        "answer": "Cümleten"
+    },
+    {
+        "id": 178,
+        "question": "Kişileri taşımak için kullanılan, insan gücüyle işleyen iki tekerlekli araç",
+        "letter": "Ç",
+        "answer": "çekçek"
+    },
+    {
+        "id": 557,
+        "question": "Doluluğunu, gücünü yitirme",
+        "letter": "D",
+        "answer": "Deşarj, deşarj olma, deşarj olmak"
+    },
+    {
+        "id": 1407,
+        "question": "Kaynatılarak koyu kıvamlı duruma getirilen sert İtalyan kahvesi",
+        "letter": "E",
+        "answer": "Espresso"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 970,
+        "question": "Oluşması genellikle tektonik, volkanik vb. olaylara bağlı olan, toprakla çevrili, derin ve geniş, tuzlu veya tuzsuz durgun su örtüsü",
+        "letter": "G",
+        "answer": "Göl"
+    },
+    {
+        "id": 1443,
+        "question": "Mecazen; Yasa dışı yollarla zimmetine para veya mal geçirmek",
+        "letter": "H",
+        "answer": "Hortumlama, hortumlamak"
+    },
+    {
+        "id": 600,
+        "question": "Bir yeri ele geçirme",
+        "letter": "İ",
+        "answer": "İşgal, işgal etme, işgal etmek"
+    },
+    {
+        "id": 1186,
+        "question": "Hız kesici, tümsek",
+        "letter": "K",
+        "answer": "Kasis"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 28,
+        "question": "Doku ve organların yapısını inceleyen bilim dalı",
+        "letter": "M",
+        "answer": "morfoloji"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 1536,
+        "question": "Tatlı sularda yaşayan, kamçı biçimindeki uzantısı ile hareket eden mekik biçimindeki bir hücreli",
+        "letter": "Ö",
+        "answer": "Öglena"
+    },
+    {
+        "id": 824,
+        "question": "Yufka biçiminde kurutulmuş meyve ezmesi",
+        "letter": "P",
+        "answer": "Pestil"
+    },
+    {
+        "id": 391,
+        "question": "Yol, yöntem, usul",
+        "letter": "R",
+        "answer": "racon"
+    },
+    {
+        "id": 1826,
+        "question": "EN AZ İKİ KİŞİ ARASINDA DÜZENLENEN, BİR TARAFIN ÖBÜRÜNE ÖDEME YAPMA YÜKÜMLÜLÜĞÜNÜ BEYAN ETTİĞİ KÂĞIT",
+        "letter": "S",
+        "answer": "Senet"
+    },
+    {
+        "id": 1459,
+        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "letter": "Ş",
+        "answer": "Şizofreni"
+    },
+    {
+        "id": 951,
+        "question": "Sayım. Toplanma",
+        "letter": "T",
+        "answer": "tadat"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 888,
+        "question": "Kedigillerden, kürkünden yararlanılan çok yırtıcı hayvan",
+        "letter": "V",
+        "answer": "Vaşak, vasak"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 1303,
+        "question": "Çapkın, kadın düşünü anlamlarındaki bir söz",
+        "letter": "Z",
+        "answer": "Zampara"
+    }
+]

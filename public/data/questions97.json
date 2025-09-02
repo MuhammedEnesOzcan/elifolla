@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1654,
+        "question": "Bir şeyin umulduğundan az olduğu yargısına varmak, az görmek, az bulmak",
+        "letter": "A",
+        "answer": "Azımsamak, azımsama"
+    },
+    {
+        "id": 1766,
+        "question": "Dal, kol, bölüm; ihtisas alanı",
+        "letter": "B",
+        "answer": "Branş"
+    },
+    {
+        "id": 155,
+        "question": "Topluluk, zümre",
+        "letter": "C",
+        "answer": "Camia, cemiyet"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1486,
+        "question": "Yarar, çıkar amacıyla veya alışkanlıkla bir yere sık uğramak",
+        "letter": "D",
+        "answer": "Dadanmak"
+    },
+    {
+        "id": 207,
+        "question": "Benzer, eş, denk, daha önce benzeri görülen",
+        "letter": "E",
+        "answer": "emsal"
+    },
+    {
+        "id": 1326,
+        "question": "Tüzel kişiliği olsun olmasın bir ekonomik etkinlik birimi",
+        "letter": "F",
+        "answer": "Firma"
+    },
+    {
+        "id": 581,
+        "question": "Tek kürekle suda yürütülen geleneksel bir Venedik aracı",
+        "letter": "G",
+        "answer": "Gondol"
+    },
+    {
+        "id": 975,
+        "question": "Birini aldatmak, yanıltmak için yapılan düzen, dolap, oyun, desise, entrika",
+        "letter": "H",
+        "answer": "Hile"
+    },
+    {
+        "id": 1607,
+        "question": "Üreticiden aldığı malları tezgah ve taşıma araçları ile cadde ve sokaklarda pazarlayan kimse ",
+        "letter": "İ",
+        "answer": "İşportacı"
+    },
+    {
+        "id": 1857,
+        "question": "GEMİLERDE BULUNAN ODALARA VERİLEN İSİM",
+        "letter": "K",
+        "answer": "Kamara"
+    },
+    {
+        "id": 299,
+        "question": "Önder, şef",
+        "letter": "L",
+        "answer": "lider"
+    },
+    {
+        "id": 626,
+        "question": "Birbirini kesen demiryolu hatlarının kesiştiği yer",
+        "letter": "M",
+        "answer": "Makas"
+    },
+    {
+        "id": 988,
+        "question": "Açıklık, açık ve kesin yargı",
+        "letter": "N",
+        "answer": "nas"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 903,
+        "question": "Fethiye yakınlarında, önemli bir turizm merkezi olan doğa harikası",
+        "letter": "Ö",
+        "answer": "Ölüdeniz, oludeniz"
+    },
+    {
+        "id": 674,
+        "question": "Suyu alınmış her tür yiyecek maddesinin artığı",
+        "letter": "P",
+        "answer": "Posa, posası"
+    },
+    {
+        "id": 1034,
+        "question": "Demir, tahta yüzeylerdeki boya, pas vb.ni çıkarma, pürüzleri gidermek amacıyla kullanılan iri dişli bir törpü",
+        "letter": "R",
+        "answer": "raspa"
+    },
+    {
+        "id": 34,
+        "question": "Yüz, çehre",
+        "letter": "S",
+        "answer": "Surat, Sima"
+    },
+    {
+        "id": 1681,
+        "question": "Üzerine uzanılabilecek biçimde ayarlanan bir tür taşınabilir koltuk",
+        "letter": "Ş",
+        "answer": "Şezlong"
+    },
+    {
+        "id": 435,
+        "question": "Yasaklanarak korunan (nesne, kelime, davranış)",
+        "letter": "T",
+        "answer": "tabu"
+    },
+    {
+        "id": 847,
+        "question": "Bir düşünceyi, bir tasarıyı ya da bir kuramı gerçekleştirme",
+        "letter": "U",
+        "answer": "Uygulama, uygulamak"
+    },
+    {
+        "id": 1871,
+        "question": "BİR DEVLETİN BAŞKA BİR DEVLET İÇİN, TANIDIĞI SÜREDE İSTEKLERİNİN YERİNE GETİRİLMESİ İÇİN VERDİĞİ NOTA",
+        "letter": "Ü",
+        "answer": "Ültimatom"
+    },
+    {
+        "id": 1304,
+        "question": "Şehrin mülki amiri",
+        "letter": "V",
+        "answer": "Vali, valilik"
+    },
+    {
+        "id": 904,
+        "question": "Yeni doğmuş hayvan",
+        "letter": "Y",
+        "answer": "Yavru"
+    },
+    {
+        "id": 504,
+        "question": "Savaşta kazanılan başarı",
+        "letter": "Z",
+        "answer": "zafer"
+    }
+]

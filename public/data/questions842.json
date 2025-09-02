@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1670,
+        "question": "Bir ülkede ayrı soydan veya inançtan olan ve sayıca az bulunan topluluk",
+        "letter": "A",
+        "answer": "Azınlık"
+    },
+    {
+        "id": 82,
+        "question": "Fenike uygarlığı'nın doğduğu Lübnan'ın başkenti",
+        "letter": "B",
+        "answer": "beyrut"
+    },
+    {
+        "id": 1086,
+        "question": "Şehir içinde ana yol",
+        "letter": "C",
+        "answer": "cadde"
+    },
+    {
+        "id": 1873,
+        "question": "DOĞA KİRLİLİĞİ SORUNLARIYLA UĞRAŞAN KİMSE VEYA TOPLULUK",
+        "letter": "Ç",
+        "answer": "Çevreci"
+    },
+    {
+        "id": 112,
+        "question": "Müzik, ürün, hizmet gibi alanlarda kısa ön sunum",
+        "letter": "D",
+        "answer": "demo"
+    },
+    {
+        "id": 1416,
+        "question": "Araçlarla koruma işi",
+        "letter": "E",
+        "answer": "Eskortluk, eskort"
+    },
+    {
+        "id": 1189,
+        "question": "Yenen, fetheden kimse",
+        "letter": "F",
+        "answer": "Fatih"
+    },
+    {
+        "id": 90,
+        "question": "Retina ve iris bulunan organımız",
+        "letter": "G",
+        "answer": "göz"
+    },
+    {
+        "id": 807,
+        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
+        "letter": "H",
+        "answer": "Hüsran"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 278,
+        "question": "Çocuk yuvası",
+        "letter": "K",
+        "answer": "kreş"
+    },
+    {
+        "id": 1706,
+        "question": "Yeni doğum yapmış kadın",
+        "letter": "L",
+        "answer": "Lohusa"
+    },
+    {
+        "id": 319,
+        "question": "Bir olayın, bir durumun etkisinde veya karşısında bulunan",
+        "letter": "M",
+        "answer": "maruz, maruz kalan"
+    },
+    {
+        "id": 993,
+        "question": "Hoş olmayan, hoşa gitmeyen, kötü, çirkin",
+        "letter": "N",
+        "answer": "Nahoş"
+    },
+    {
+        "id": 1001,
+        "question": "Erkek çocuk",
+        "letter": "O",
+        "answer": "Oğlan"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 1883,
+        "question": "KUMAŞIN BELLİ ÖLÇÜDE BİÇİLMESİNE YARAYAN KÂĞIT KALIP",
+        "letter": "P",
+        "answer": "Patron"
+    },
+    {
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "letter": "R",
+        "answer": "rekor"
+    },
+    {
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "letter": "S",
+        "answer": "Sahaf"
+    },
+    {
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "letter": "Ş",
+        "answer": "Şakak"
+    },
+    {
+        "id": 1064,
+        "question": "Şişe gibi dar delikleri tıkamaya yarayan mantar, cam, tahta veya plastikten tıkaç",
+        "letter": "T",
+        "answer": "tapa, tıpa"
+    },
+    {
+        "id": 452,
+        "question": "Kalçadan dize kadar olan bacak bölümü",
+        "letter": "U",
+        "answer": "uyluk"
+    },
+    {
+        "id": 728,
+        "question": "Bir düşünce veya istek üzerinde durmak, direnmek, ısrar etmek",
+        "letter": "Ü",
+        "answer": "Üsteleme, Üstelemek"
+    },
+    {
+        "id": 1136,
+        "question": "Değer, kıymet",
+        "letter": "V",
+        "answer": "valör"
+    },
+    {
+        "id": 839,
+        "question": "Sayıyı yukarı ya da aşağı değiştirerek tüm sayı haline getirme",
+        "letter": "Y",
+        "answer": "Yuvarlama, Yuvarlamak"
+    },
+    {
+        "id": 501,
+        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
+        "letter": "Z",
+        "answer": "zırh"
+    }
+]

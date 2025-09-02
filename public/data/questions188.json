@@ -1,0 +1,158 @@
+[
+    {
+        "id": 96,
+        "question": "Vücudun bazı maddelere reaksiyon göstermesi sonucu oluşan duyarlılık",
+        "letter": "A",
+        "answer": "alerji"
+    },
+    {
+        "id": 1165,
+        "question": "Enine göre boyu kısa olan, kısa boylu ve tıknaz",
+        "letter": "B",
+        "answer": "Bodur"
+    },
+    {
+        "id": 157,
+        "question": "Alımlı, uygun",
+        "letter": "C",
+        "answer": "cazip"
+    },
+    {
+        "id": 1087,
+        "question": "Herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor",
+        "letter": "Ç",
+        "answer": "Çaba"
+    },
+    {
+        "id": 1383,
+        "question": "Eşlerin baba ve analarının birbirlerine göre durumu",
+        "letter": "D",
+        "answer": "Dünür, dünürü, dünürlük"
+    },
+    {
+        "id": 565,
+        "question": "Saf dışı bırakmak",
+        "letter": "E",
+        "answer": "Ekarte, Ekarte etme, Ekarte etmek"
+    },
+    {
+        "id": 71,
+        "question": "Satrançta sadece çapraz hareket edebilen taş",
+        "letter": "F",
+        "answer": "fil"
+    },
+    {
+        "id": 1430,
+        "question": "Makine yağı",
+        "letter": "G",
+        "answer": "Gres, gres yağ, gres yağı"
+    },
+    {
+        "id": 1437,
+        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "letter": "H",
+        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+    },
+    {
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
+        "letter": "İ",
+        "answer": "İşletme"
+    },
+    {
+        "id": 1186,
+        "question": "Hız kesici, tümsek",
+        "letter": "K",
+        "answer": "Kasis"
+    },
+    {
+        "id": 303,
+        "question": "İnsanın davranışlarının temelini oluşturan cinsel içgüdü",
+        "letter": "L",
+        "answer": "libido"
+    },
+    {
+        "id": 322,
+        "question": "Başvurulacak yer veya makam",
+        "letter": "M",
+        "answer": "merci"
+    },
+    {
+        "id": 1256,
+        "question": "Müzik seslerinin yazıya dökülmüş hali",
+        "letter": "N",
+        "answer": "Nota, notalandırma, notalandırmak, notalar"
+    },
+    {
+        "id": 348,
+        "question": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+        "letter": "O",
+        "answer": "obur"
+    },
+    {
+        "id": 663,
+        "question": "Bir işin ilerisini kestirme, tahmin etmek",
+        "letter": "Ö",
+        "answer": "Öngörü, Öngörmek"
+    },
+    {
+        "id": 822,
+        "question": "Haftanın belli günleri seyyar satıcıların sergi açtıkları sokak veya alan",
+        "letter": "P",
+        "answer": "Pazar, Pazaryeri"
+    },
+    {
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
+        "letter": "R",
+        "answer": "Rivayet"
+    },
+    {
+        "id": 1281,
+        "question": "Gösteriş için bir şeyi daha iyi veya daha güzel yapmak için eklenen şey",
+        "letter": "S",
+        "answer": "Süs, süs ekleme, süsleme"
+    },
+    {
+        "id": 1680,
+        "question": "İnce yufkaların içine kaymak konulup üstüne dövülmüş fıstık serpilerek yapılan bir tür baklava",
+        "letter": "Ş",
+        "answer": "Şöbiyet"
+    },
+    {
+        "id": 1875,
+        "question": "İÇİNDE BULUNMASI GEREKEN ŞEYLER BULUNMAYAN, BOMBOŞ",
+        "letter": "T",
+        "answer": "Tamtakır"
+    },
+    {
+        "id": 776,
+        "question": "Yağmur Getirmeyen Fırtına",
+        "letter": "U",
+        "answer": "Urağan, uragan"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 483,
+        "question": "Sürekli bir yönde gidip gelme, yürüme, dolaşma",
+        "letter": "V",
+        "answer": "volta, volta atma, volta atmak"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 1747,
+        "question": "Sıkıntı veya güçlükle yapılma durumu",
+        "letter": "Z",
+        "answer": "Zahmet, zahmetli"
+    }
+]

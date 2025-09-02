@@ -1,158 +1,158 @@
 [
     {
-        "id": 1918,
-        "question": "“SERBEST, HÜR, ÖZGÜR” ANLAMLARINDA FARSÇA KÖKENLİ BİR SÖZCÜK",
+        "id": 1926,
+        "question": "BOKSTA, BÜKÜK KOLLA AŞAĞIDAN YUKARIYA DOĞRU ÇENEYE ATILAN YUMRUK",
         "letter": "A",
-        "answer": "Azat, Azad, Azade"
+        "answer": "Aparkat"
     },
     {
-        "id": 1209,
-        "question": "Aynı zamanda Muğla'nın bir ilçesi de olan, apartmanların genellikle zeminin altında bulunan katı ",
+        "id": 82,
+        "question": "Fenike uygarlığı'nın doğduğu Lübnan'ın başkenti",
         "letter": "B",
-        "answer": "Bodrum, bodrum kat, bodrum katı"
+        "answer": "beyrut"
     },
     {
-        "id": 531,
-        "question": "Uygun, yerinde sayılan, yakışık alan",
+        "id": 1309,
+        "question": "Canlı, neşeli ve sokulgan",
         "letter": "C",
-        "answer": "Caiz"
+        "answer": "Civelek"
     },
     {
-        "id": 180,
-        "question": "Kadro, kademe, basamak ve derecelerin yer aldığı liste",
+        "id": 1451,
+        "question": "Bilgisayarda yazılan bir metnin kâğıda dökülmüş biçimi",
         "letter": "Ç",
-        "answer": "çizelge"
+        "answer": "Çıktı, çıktısı"
     },
     {
-        "id": 1402,
-        "question": "Üniversitelerde bir fakültenin yönetiminden sorumlu profesör",
+        "id": 189,
+        "question": "Perhiz, rejim",
         "letter": "D",
-        "answer": "Dekan"
+        "answer": "diyet"
     },
     {
-        "id": 562,
-        "question": "Çeşitli renk ve büyüklükteki karelerden oluşan (desen veya kumaş)",
+        "id": 1408,
+        "question": "hastalığın nedeni, kökeni. Hastalık nedenleri ile uğraşan bilim dalı",
         "letter": "E",
-        "answer": "Ekose, Ekoseli"
+        "answer": "Etiyoloji"
     },
     {
-        "id": 1321,
-        "question": "Tütünleme suretiyle kurutulmuş ringa balığı",
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
         "letter": "F",
-        "answer": "Frisa, firisa"
+        "answer": "Freze"
     },
     {
-        "id": 1821,
-        "question": "Sindirim sisteminden sıvı veya hava geçerken bir iç ses çıkarma olayı",
+        "id": 1493,
+        "question": "Bazı saatlerde belirli zamanları bildiren zil düzeneği",
         "letter": "G",
-        "answer": "Guruldama, Guruldamak"
+        "answer": "Gonk, gong"
     },
     {
-        "id": 252,
-        "question": "Niteliği değişmemiş, aslına uygun olan",
+        "id": 1175,
+        "question": "Görev ve yapı bakımından canlılığın bütün özelliklerini gösteren en küçük birim",
         "letter": "H",
-        "answer": "hakiki"
+        "answer": "Hücre"
     },
     {
-        "id": 1607,
-        "question": "Üreticiden aldığı malları tezgah ve taşıma araçları ile cadde ve sokaklarda pazarlayan kimse ",
+        "id": 268,
+        "question": "Kabul etmeme, tanımama",
         "letter": "İ",
-        "answer": "İşportacı"
+        "answer": "inkar, inkar etme, inkar etmek"
     },
     {
-        "id": 605,
-        "question": "Garson kalfası",
+        "id": 95,
+        "question": "Komutanı korgeneral olan askeri birlik",
         "letter": "K",
-        "answer": "Komi"
+        "answer": "kolordu"
     },
     {
-        "id": 1455,
-        "question": "Eklembacaklılarda yaşamın ilk evresi",
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
         "letter": "L",
-        "answer": "Larva, larva dönemi"
+        "answer": "lisans"
     },
     {
-        "id": 1193,
-        "question": "Genellikle çocukların kullandığı üflemeli ve klavyeli çalgı",
+        "id": 1622,
+        "question": "Hayatın güldürücü yönünü ortaya çıkaran sanat türü",
         "letter": "M",
-        "answer": "Melodika"
+        "answer": "Mizah"
     },
     {
-        "id": 1520,
-        "question": "Bir şeyin özü, çekirdek",
+        "id": 636,
+        "question": "Boks maçında yumruk etkisiyle yere düşme ve devam edememek",
         "letter": "N",
-        "answer": "Nüve"
+        "answer": "Nakavt, nakavt olma, nakavt olmak"
     },
     {
-        "id": 995,
-        "question": "Plastik, tahta, mika vb. maddelerden yapılmış taşlarla oynanan ve konkene benzeyen bir tür oyun",
+        "id": 1889,
+        "question": "KAVİMLER GÖÇÜYLE BAŞLAYAN TARİHİ DÖNEM",
         "letter": "O",
-        "answer": "okey"
+        "answer": "Ortaçağ"
     },
     {
-        "id": 1480,
-        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
         "letter": "Ö",
-        "answer": "Önlem"
+        "answer": "Örk"
     },
     {
-        "id": 1761,
-        "question": "Çalışma saati bitiminde işi bırakma",
+        "id": 381,
+        "question": "Elektrik akımı almak için fişin sokulduğu yuva",
         "letter": "P",
-        "answer": "Paydos, paydos etme, paydos etmek"
+        "answer": "priz"
     },
     {
-        "id": 680,
-        "question": "İzin belgesi",
+        "id": 675,
+        "question": "İstek, arz, ilgi, itibar",
         "letter": "R",
-        "answer": "Ruhsat, Ruhsat belgesi"
+        "answer": "Rağbet"
     },
     {
-        "id": 405,
-        "question": "Gidilen yol üzerinde olmayan, sapılarak varılan",
+        "id": 81,
+        "question": "Çatal biçiminde, taş atmaya yarayan ilkel alet",
         "letter": "S",
-        "answer": "sapa"
+        "answer": "sapan"
     },
     {
-        "id": 700,
-        "question": "Bir alanla ilgili olarak oluşturulan danışma kurulu",
+        "id": 695,
+        "question": "Motorlu taşıt iskeleti",
         "letter": "Ş",
-        "answer": "Şura"
+        "answer": "Şasi, Şase"
     },
     {
-        "id": 708,
-        "question": "Bir diğer söylemle \"Doğa\"",
+        "id": 704,
+        "question": "Kaynak aracılığıyla doğrulama, kontrol etme",
         "letter": "T",
-        "answer": "Tabiat"
+        "answer": "Teyit, teyit etme, teyit etmek"
     },
     {
-        "id": 1557,
-        "question": "Erkek hizmetçi",
+        "id": 1066,
+        "question": "Dik ve derin yamaç",
         "letter": "U",
-        "answer": "Uşak"
+        "answer": "Uçurum"
     },
     {
-        "id": 457,
-        "question": "Tanınma durumu, san, şöhret, şan",
+        "id": 864,
+        "question": "Olması istenmeyen olaylardan doğan ruh tedirginliği",
         "letter": "Ü",
-        "answer": "Ün"
+        "answer": "Üzüntü"
     },
     {
-        "id": 1838,
-        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
+        "id": 473,
+        "question": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi",
         "letter": "V",
-        "answer": "Virüs"
+        "answer": "vali"
     },
     {
-        "id": 901,
-        "question": "Özel gezinti gemisi",
+        "id": 950,
+        "question": "Rüzgar",
         "letter": "Y",
-        "answer": "Yat"
+        "answer": "Yel"
     },
     {
-        "id": 1595,
-        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "id": 841,
+        "question": "Kimse, kişi",
         "letter": "Z",
-        "answer": "Zonklama, zonklamak"
+        "answer": "Zat"
     }
 ]

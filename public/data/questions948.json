@@ -1,0 +1,158 @@
+[
+    {
+        "id": 782,
+        "question": "Ruh biliminde karşıt duygu, sevimsizlik, soğukluk",
+        "letter": "A",
+        "answer": "Antipati"
+    },
+    {
+        "id": 149,
+        "question": "`Aferin, yaşa` anlamlarında beğeni bildiren bir söz",
+        "letter": "B",
+        "answer": "bravo"
+    },
+    {
+        "id": 159,
+        "question": "Kazanmak, cebine indirmek, çalmak",
+        "letter": "C",
+        "answer": "ceplemek, cukkalamak"
+    },
+    {
+        "id": 100,
+        "question": "Gayret, herhangi bir işi yapmak için harcanan güç ",
+        "letter": "Ç",
+        "answer": "çaba, çabalamak"
+    },
+    {
+        "id": 1786,
+        "question": "KARDİYOVASKÜLER VE LENFATİK SİSTEMİN TÜRKÇE KÖKENLİ ADI",
+        "letter": "D",
+        "answer": "Dolaşım, Dolaşım sistemi"
+    },
+    {
+        "id": 565,
+        "question": "Saf dışı bırakmak",
+        "letter": "E",
+        "answer": "Ekarte, Ekarte etme, Ekarte etmek"
+    },
+    {
+        "id": 574,
+        "question": "Dönem sonu sınavı",
+        "letter": "F",
+        "answer": "Final, Final sınavı"
+    },
+    {
+        "id": 581,
+        "question": "Tek kürekle suda yürütülen geleneksel bir Venedik aracı",
+        "letter": "G",
+        "answer": "Gondol"
+    },
+    {
+        "id": 926,
+        "question": "İp, Urgan",
+        "letter": "H",
+        "answer": "Habl, halat"
+    },
+    {
+        "id": 1606,
+        "question": "Birine güler yüz gösterme, hatırını sorma, tatlı davranma",
+        "letter": "İ",
+        "answer": "İltifat, iltifat etme, iltifat etmek"
+    },
+    {
+        "id": 1834,
+        "question": "İNSANLARIN RAHATÇA OTURUP DİNLENMESİ İÇİN TASARLANMIŞ OTURMA EŞYASI",
+        "letter": "K",
+        "answer": "Koltuk"
+    },
+    {
+        "id": 620,
+        "question": "Fazlalık, gereksiz, yersiz",
+        "letter": "L",
+        "answer": "Lüzumsuz, Luzumsuz"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 1111,
+        "question": "At nalı yapan demirci",
+        "letter": "N",
+        "answer": "Nalbant"
+    },
+    {
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
+        "letter": "O",
+        "answer": "Ozalit"
+    },
+    {
+        "id": 663,
+        "question": "Bir işin ilerisini kestirme, tahmin etmek",
+        "letter": "Ö",
+        "answer": "Öngörü, Öngörmek"
+    },
+    {
+        "id": 1264,
+        "question": "Arıların besin kaynağı, bitkilerin üreme organlarının başlıklarında bulunan üreme hücreleri",
+        "letter": "P",
+        "answer": "Polen"
+    },
+    {
+        "id": 1640,
+        "question": "Müzikte durakların düzenli bir biçimde tekrarlanmasından doğan ses uygunluğu",
+        "letter": "R",
+        "answer": "Ritim, ritm"
+    },
+    {
+        "id": 1752,
+        "question": "Vücuttaki işlevsel bir bozukluğun veya hastalığın belirlenmesine yarayan işaret",
+        "letter": "S",
+        "answer": "Semptom"
+    },
+    {
+        "id": 700,
+        "question": "Bir alanla ilgili olarak oluşturulan danışma kurulu",
+        "letter": "Ş",
+        "answer": "Şura"
+    },
+    {
+        "id": 36,
+        "question": "1500 km²'lik yüzeyi ile Türkiye'nin ikinci büyük gölü ",
+        "letter": "T",
+        "answer": "Tuz Gölü, Tuz"
+    },
+    {
+        "id": 1073,
+        "question": "Akla uygun, yalnız akla dayanan, akli, rasyonel",
+        "letter": "U",
+        "answer": "Ussal"
+    },
+    {
+        "id": 465,
+        "question": "Bilim veya sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "üstat, üstad"
+    },
+    {
+        "id": 475,
+        "question": "Gözlem ve deneye dayalı araştırmanın sonuçları",
+        "letter": "V",
+        "answer": "veri, veri seti"
+    },
+    {
+        "id": 838,
+        "question": "Dokunarak incelemek",
+        "letter": "Y",
+        "answer": "Yoklamak"
+    },
+    {
+        "id": 738,
+        "question": "Boşuna harcama, zarar",
+        "letter": "Z",
+        "answer": "Ziyan, ziyan etme, ziyan etmek"
+    }
+]

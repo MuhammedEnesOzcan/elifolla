@@ -1,158 +1,158 @@
 [
     {
-        "id": 1341,
-        "question": "Virüsün çoğalmasını engelleyen",
+        "id": 1900,
+        "question": "“ÇOK BİLEN KİMSE” ANLAMINDA ARAPÇA KÖKENLİ BİR SIFAT",
         "letter": "A",
-        "answer": "Antiviral"
+        "answer": "Alim"
     },
     {
-        "id": 1209,
-        "question": "Aynı zamanda Muğla'nın bir ilçesi de olan, apartmanların genellikle zeminin altında bulunan katı ",
+        "id": 1348,
+        "question": "Kaldırımların kenarlarında bulunan taşlar",
         "letter": "B",
-        "answer": "Bodrum, bodrum kat, bodrum katı"
+        "answer": "Bordür"
     },
     {
-        "id": 532,
-        "question": "Heyecanlı, coşkulu ve atik kimse",
+        "id": 153,
+        "question": "Keder, Zulüm",
         "letter": "C",
-        "answer": "Cevval"
+        "answer": "cefa"
     },
     {
-        "id": 1547,
-        "question": "Balık kılçığı",
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
         "letter": "Ç",
-        "answer": "Çopra"
+        "answer": "Çapak"
     },
     {
-        "id": 77,
-        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
+        "id": 188,
+        "question": "Doğrudan doğruya olmayan, dolayısıyla olan, vasıtalı, bilvasıta, endirekt",
         "letter": "D",
-        "answer": "daktilo"
+        "answer": "dolaylı, dolambaçlı"
     },
     {
-        "id": 1413,
-        "question": "Ücret karşılığı eşyayı koruyan kimse",
+        "id": 750,
+        "question": "Kazalara alınmış tedbirler",
         "letter": "E",
-        "answer": "Emanetçi"
+        "answer": "Emniyet"
     },
     {
-        "id": 218,
-        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+        "id": 1285,
+        "question": "Uygun zaman, uygun durum veya şart, vesile, imkan, şans",
         "letter": "F",
-        "answer": "file"
+        "answer": "Fırsat"
     },
     {
-        "id": 1896,
-        "question": "DÜZENSİZ, RAHATSIZ EDİCİ YÜKSEK SES VEYA SESLER BÜTÜNÜ",
+        "id": 582,
+        "question": "Dikkatli ve planlı olarak ele alınıp incelenme durumu",
         "letter": "G",
-        "answer": "Gürültü"
+        "answer": "Gözlem, Gözlem yapma, Gözlem yapmak"
     },
     {
-        "id": 89,
-        "question": "Bir şirketin ortaklarından her biri",
+        "id": 254,
+        "question": "Zarla oynanan oyunlarda zarların tek benekli yönlerinin üste gelmesi",
         "letter": "H",
-        "answer": "hissedar"
+        "answer": "hepyek"
     },
     {
-        "id": 1161,
-        "question": "Danışma, beyin fırtınası, karşılıklı tartışma",
+        "id": 267,
+        "question": "Gereksiz yere para, zaman, emek vb.ni harcama, savurganlık",
         "letter": "İ",
-        "answer": "İstişare"
+        "answer": "israf, israf etme, israf etmek"
     },
     {
-        "id": 1190,
-        "question": "Üzerinde harfler, rakamlar, işaretler ve bazı işlevleri bulunan bilgisayar giriş ögesi",
+        "id": 279,
+        "question": "Üstün nitelikli, üstün yetenekli",
         "letter": "K",
-        "answer": "Klavye"
+        "answer": "klas, kalifiyeli, kalifiye"
     },
     {
-        "id": 918,
-        "question": "Hiç tuzu olmayan yumuşak krem peynir",
+        "id": 1612,
+        "question": "Yanardağların ağzından fışkırıp akan, soğuyunca donan erimiş madde",
         "letter": "L",
-        "answer": "Labne"
+        "answer": "Lav"
     },
     {
-        "id": 1615,
-        "question": "Bir diğer söylemle; Önemli, gerekli",
+        "id": 1715,
+        "question": "Savurgan, tutumsuz, israf yapan ",
         "letter": "M",
-        "answer": "Mühim"
+        "answer": "Müsrif"
     },
     {
-        "id": 339,
-        "question": "Tavsiye, öğüt",
+        "id": 326,
+        "question": "Açık seçik olan, anlaşılmaz yanı bulunmayan",
         "letter": "N",
-        "answer": "nasihat"
+        "answer": "net"
     },
     {
-        "id": 344,
-        "question": "İçinde su biriken çukur yer, doğal kuyu",
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
         "letter": "O",
-        "answer": "obruk, oyuk, oymak"
+        "answer": "Otostop"
     },
     {
-        "id": 358,
-        "question": "Bir vakitte yenilen yemek",
+        "id": 658,
+        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
         "letter": "Ö",
-        "answer": "öğün"
+        "answer": "Özenti, Özentilik, Özenme, Özenmek"
     },
     {
-        "id": 377,
-        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "id": 673,
+        "question": "Söz dalaşı",
         "letter": "P",
-        "answer": "plak"
+        "answer": "Polemik"
     },
     {
-        "id": 1805,
-        "question": "OSMANLIDA MALİYE İŞLEMLERİNDE KULLANILAN, GÜNEŞ YILI ESASINA DAYALI BİR TAKVİM TÜRÜ",
+        "id": 385,
+        "question": "Gerçek olmayan davranış, gösteriş",
         "letter": "R",
-        "answer": "Rumi, Rumi Takvim"
+        "answer": "rol"
     },
     {
-        "id": 1317,
-        "question": "Bir şeye ayrılan, uygun görülen veya rastlayan zaman",
+        "id": 1789,
+        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
         "letter": "S",
-        "answer": "Sıra"
+        "answer": "Sarsıntı"
     },
     {
-        "id": 67,
-        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "id": 420,
+        "question": "Kötülük, fenalık",
         "letter": "Ş",
-        "answer": "Şanlıurfa, Şanlı Urfa"
+        "answer": "şer"
     },
     {
-        "id": 1875,
-        "question": "İÇİNDE BULUNMASI GEREKEN ŞEYLER BULUNMAYAN, BOMBOŞ",
+        "id": 836,
+        "question": "Bulunduğu kaba sığmayıp kenarları aşmak",
         "letter": "T",
-        "answer": "Tamtakır"
+        "answer": "Taşma, Taşmak, Taşması"
     },
     {
-        "id": 1074,
-        "question": "Türk müziğinde ana makamlardan biri",
+        "id": 1066,
+        "question": "Dik ve derin yamaç",
         "letter": "U",
-        "answer": "Uşşak"
+        "answer": "Uçurum"
     },
     {
-        "id": 459,
-        "question": "Çok uçta, kenarda veya kıyıda köşede olan",
+        "id": 876,
+        "question": "Türlü Duyguları Anlatan Veya Bir Doğa Sesini Yansıtan Kelime",
         "letter": "Ü",
-        "answer": "ücra"
+        "answer": "Ünlem"
     },
     {
-        "id": 771,
-        "question": "Araç, taşıt anlamlarındaki söz",
+        "id": 1251,
+        "question": "Orta, iki şeyin ortasında olan, ortalama",
         "letter": "V",
-        "answer": "Vasıta"
+        "answer": "Vasat"
     },
     {
-        "id": 1950,
-        "question": "ESKİ EVLERDEKİ YATAK, YORGAN DEPOSU",
+        "id": 492,
+        "question": "Gösterişsiz, süssüz, sade, net",
         "letter": "Y",
-        "answer": "Yüklük"
+        "answer": "yalın"
     },
     {
-        "id": 1587,
-        "question": "İç içe geçen sehpa",
+        "id": 1720,
+        "question": "Olayların oluş ve akış sırasını belirleyen kavram",
         "letter": "Z",
-        "answer": "Zigon, zigon sehpa"
+        "answer": "Zaman, zaman kavramı"
     }
 ]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1661,
+        "question": "Davranışları ölçülü, olgun (kimse), vakur, ciddi",
+        "letter": "A",
+        "answer": "Ağırbaşlı"
+    },
+    {
+        "id": 1209,
+        "question": "Aynı zamanda Muğla'nın bir ilçesi de olan, apartmanların genellikle zeminin altında bulunan katı ",
+        "letter": "B",
+        "answer": "Bodrum, bodrum kat, bodrum katı"
+    },
+    {
+        "id": 964,
+        "question": "Cam ticaretini veya cam takmayı meslek edinmiş kimse",
+        "letter": "C",
+        "answer": "Camcı"
+    },
+    {
+        "id": 19,
+        "question": "Ağaç dallarından çatılmış gölgelik",
+        "letter": "Ç",
+        "answer": "çardak"
+    },
+    {
+        "id": 1168,
+        "question": "Bir elektrik devresinde akım akışına karşı oluşan etkinin ölçümü",
+        "letter": "D",
+        "answer": "Direnç"
+    },
+    {
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
+        "letter": "E",
+        "answer": "Endoskop"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 1424,
+        "question": "Buzul bilimi",
+        "letter": "G",
+        "answer": "Glasiyoloji, Glasyoloji"
+    },
+    {
+        "id": 594,
+        "question": "Sınır, uç noktası",
+        "letter": "H",
+        "answer": "Hudut"
+    },
+    {
+        "id": 259,
+        "question": "Açıklama durumu",
+        "letter": "İ",
+        "answer": "izah, izah etme, izah etme"
+    },
+    {
+        "id": 1206,
+        "question": "Güzel yazı yazma sanatı",
+        "letter": "K",
+        "answer": "Kaligrafi"
+    },
+    {
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
+        "letter": "L",
+        "answer": "Lanse, lanse etme, lanse etmek"
+    },
+    {
+        "id": 1957,
+        "question": "Tekrarlanmış, Yinelenmiş",
+        "letter": "M",
+        "answer": "Mükerrer"
+    },
+    {
+        "id": 643,
+        "question": "Örnek ya da göstermelik ürün",
+        "letter": "N",
+        "answer": "Numune"
+    },
+    {
+        "id": 340,
+        "question": "Göçebelerin konak yeri",
+        "letter": "O",
+        "answer": "oba"
+    },
+    {
+        "id": 932,
+        "question": "Eleman, unsur",
+        "letter": "Ö",
+        "answer": "öge, öğe"
+    },
+    {
+        "id": 674,
+        "question": "Suyu alınmış her tür yiyecek maddesinin artığı",
+        "letter": "P",
+        "answer": "Posa, posası"
+    },
+    {
+        "id": 1638,
+        "question": "Motorlu taşıtlarda motorun en az yakıtla çalışma ayarı",
+        "letter": "R",
+        "answer": "Rölanti"
+    },
+    {
+        "id": 765,
+        "question": "İşlerine önem vermeyen, ihmalkâr",
+        "letter": "S",
+        "answer": "Savsak"
+    },
+    {
+        "id": 1685,
+        "question": "İsrail para birimi",
+        "letter": "Ş",
+        "answer": "Şekel"
+    },
+    {
+        "id": 1717,
+        "question": "Atmosferin yere temas eden en alt katı",
+        "letter": "T",
+        "answer": "Troposfer"
+    },
+    {
+        "id": 1561,
+        "question": "Merkezi sinir sistemine etki ederek farkındalığı, dikkati ve uyanıklığı artıran ilaçlar ya da maddeler",
+        "letter": "U",
+        "answer": "Uyarıcı, uyarıcı ilaçlar, uyarıcı maddeler"
+    },
+    {
+        "id": 465,
+        "question": "Bilim veya sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "üstat, üstad"
+    },
+    {
+        "id": 1867,
+        "question": "Tramvay Sürücüsü",
+        "letter": "V",
+        "answer": "Vatman"
+    },
+    {
+        "id": 492,
+        "question": "Gösterişsiz, süssüz, sade, net",
+        "letter": "Y",
+        "answer": "yalın"
+    },
+    {
+        "id": 843,
+        "question": "Telli Bir Çalgıyı Acemice Çalarak Çıkarılan Çirkin Sesin Adı",
+        "letter": "Z",
+        "answer": "Zımbırtı, zimbirti"
+    }
+]

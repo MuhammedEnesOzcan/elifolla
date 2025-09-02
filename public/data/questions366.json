@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1670,
+        "question": "Bir ülkede ayrı soydan veya inançtan olan ve sayıca az bulunan topluluk",
+        "letter": "A",
+        "answer": "Azınlık"
+    },
+    {
+        "id": 1709,
+        "question": "Karaoğlan lakaplı eski türk siyasetçi",
+        "letter": "B",
+        "answer": "Bülent Ecevit"
+    },
+    {
+        "id": 1653,
+        "question": "Yeryüzünü fiziksel, ekonomik, beşerî, siyasal yönlerden inceleyen bilim",
+        "letter": "C",
+        "answer": "Coğrafya"
+    },
+    {
+        "id": 544,
+        "question": "Derme çatma çadır, göçebe çadırı",
+        "letter": "Ç",
+        "answer": "Çerge"
+    },
+    {
+        "id": 1152,
+        "question": "En son il olan şehrimiz",
+        "letter": "D",
+        "answer": "Düzce"
+    },
+    {
+        "id": 202,
+        "question": "Bir devleti başka bir devlet katında temsil eden kimse, sefir",
+        "letter": "E",
+        "answer": "elçi"
+    },
+    {
+        "id": 226,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "facia, feci"
+    },
+    {
+        "id": 243,
+        "question": "Sonradan verilecek bir ceza ile korkutma, yıldırma, tehdit",
+        "letter": "G",
+        "answer": "gözdağı"
+    },
+    {
+        "id": 254,
+        "question": "Zarla oynanan oyunlarda zarların tek benekli yönlerinin üste gelmesi",
+        "letter": "H",
+        "answer": "hepyek"
+    },
+    {
+        "id": 1817,
+        "question": "Bir kardeşini de beraberinde getiren bebeklerin birbirine göre varoluşsal durumu",
+        "letter": "İ",
+        "answer": "İkiz, ikizlik"
+    },
+    {
+        "id": 1499,
+        "question": "Yanan şeylerden artakalan toz madde",
+        "letter": "K",
+        "answer": "Kül, küller"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 1947,
+        "question": "Yıldızların durumundan ve devinimlerinden anlam çıkarmak suretiyle, falcılık yapan kişi",
+        "letter": "M",
+        "answer": "Müneccim"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 761,
+        "question": "Canlıyı oluşturan organlar bütünü",
+        "letter": "O",
+        "answer": "Organizma"
+    },
+    {
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "letter": "Ö",
+        "answer": "özel"
+    },
+    {
+        "id": 1014,
+        "question": "Resim ve fotoğrafta duruş",
+        "letter": "P",
+        "answer": "poz"
+    },
+    {
+        "id": 1028,
+        "question": "Rüşvet veren kimse",
+        "letter": "R",
+        "answer": "Raşi"
+    },
+    {
+        "id": 418,
+        "question": "Sefalet çeken, yoksul",
+        "letter": "S",
+        "answer": "sefil, sersefil"
+    },
+    {
+        "id": 1688,
+        "question": "Güneş doğmadan az önce beliren aydınlık",
+        "letter": "Ş",
+        "answer": "Şafak"
+    },
+    {
+        "id": 709,
+        "question": "Bildiri, haber verme",
+        "letter": "T",
+        "answer": "Tebliğ, Tebliğ etme, Tebliğ etmek, Tebligat"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 849,
+        "question": "Bilim yada sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "Üstad, üstat"
+    },
+    {
+        "id": 471,
+        "question": "Bir işi yerine getirmek için verilen söz",
+        "letter": "V",
+        "answer": "vaat"
+    },
+    {
+        "id": 1553,
+        "question": "Birçok kimsenin veya nesnenin bir araya gelmesiyle oluşan kalabalık, küme, kitle, kütle",
+        "letter": "Y",
+        "answer": "Yığın"
+    },
+    {
+        "id": 1145,
+        "question": "Hor görülme, alçalma",
+        "letter": "Z",
+        "answer": "Zillet"
+    }
+]

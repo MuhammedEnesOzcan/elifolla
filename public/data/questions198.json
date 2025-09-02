@@ -1,0 +1,158 @@
+[
+    {
+        "id": 96,
+        "question": "Vücudun bazı maddelere reaksiyon göstermesi sonucu oluşan duyarlılık",
+        "letter": "A",
+        "answer": "alerji"
+    },
+    {
+        "id": 1601,
+        "question": "Genellikle bir şeyi tanıtmayı amaçlayan, sayfa sayısı az, küçük kitap",
+        "letter": "B",
+        "answer": "Broşür"
+    },
+    {
+        "id": 1923,
+        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "letter": "C",
+        "answer": "Cıvık"
+    },
+    {
+        "id": 1890,
+        "question": "“TORTU” KELİMESİNİN EŞ ANLAMLISI",
+        "letter": "Ç",
+        "answer": "Çökelti"
+    },
+    {
+        "id": 1268,
+        "question": "Bütün siyasi yetkileri kendinde toplamış bulunan kimse, zorba",
+        "letter": "D",
+        "answer": "Diktatör, dikta"
+    },
+    {
+        "id": 204,
+        "question": "Tutsak, köle",
+        "letter": "E",
+        "answer": "esir"
+    },
+    {
+        "id": 229,
+        "question": "Tanıtma filmi",
+        "letter": "F",
+        "answer": "fragman"
+    },
+    {
+        "id": 800,
+        "question": "Abartılı, aldatıcı ve yapay davranış",
+        "letter": "G",
+        "answer": "Gösteriş, Gösterişli"
+    },
+    {
+        "id": 1158,
+        "question": "At yetiştirilen çiftlik",
+        "letter": "H",
+        "answer": "Hara"
+    },
+    {
+        "id": 603,
+        "question": "Gereği yokken, genellikle kendini göstermek için işe karışan (kimse)",
+        "letter": "İ",
+        "answer": "İşgüzar, İşgûzar"
+    },
+    {
+        "id": 977,
+        "question": "Başlık, sipersiz şapka",
+        "letter": "K",
+        "answer": "Kep"
+    },
+    {
+        "id": 1526,
+        "question": "Su samurundan elde edilen post",
+        "letter": "L",
+        "answer": "Lutr"
+    },
+    {
+        "id": 318,
+        "question": "On kişilik asker birliği",
+        "letter": "M",
+        "answer": "manga"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 352,
+        "question": "Takıntılı (kimse)",
+        "letter": "O",
+        "answer": "obsesif"
+    },
+    {
+        "id": 659,
+        "question": "Nesnelerin gerçeğine değil, bireyin düşünce ve duygularına dayanan",
+        "letter": "Ö",
+        "answer": "Öznel"
+    },
+    {
+        "id": 1901,
+        "question": "MEKSİKA, KOLOMBİYA, ARJANTİN GİBİ ÜLKELERİN PARA BİRİMİ",
+        "letter": "P",
+        "answer": "Peso"
+    },
+    {
+        "id": 826,
+        "question": "İrade dışı sinir etkinliği",
+        "letter": "R",
+        "answer": "Refleks"
+    },
+    {
+        "id": 1806,
+        "question": "At Bakıcısı",
+        "letter": "S",
+        "answer": "Seyis"
+    },
+    {
+        "id": 695,
+        "question": "Motorlu taşıt iskeleti",
+        "letter": "Ş",
+        "answer": "Şasi, Şase"
+    },
+    {
+        "id": 1129,
+        "question": "Verimsiz duruma getirme, sonuçsuz bırakma, kısırlaştırma",
+        "letter": "T",
+        "answer": "takim"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
+        "letter": "Ü",
+        "answer": "ülke"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 1772,
+        "question": "Bazı bitki türlerinde besinler için depolama organı olarak kullanılan genişlemiş yapılar",
+        "letter": "Y",
+        "answer": "Yumru, Yumrular"
+    },
+    {
+        "id": 850,
+        "question": "Dermansızlık, Zayıf nokta",
+        "letter": "Z",
+        "answer": "Zafiyet, zafıyet"
+    }
+]

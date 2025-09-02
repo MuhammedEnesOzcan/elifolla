@@ -1,0 +1,158 @@
+[
+    {
+        "id": 113,
+        "question": "İki veya daha çok renkli",
+        "letter": "A",
+        "answer": "alaca"
+    },
+    {
+        "id": 529,
+        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
+        "letter": "B",
+        "answer": "Bulanık"
+    },
+    {
+        "id": 915,
+        "question": "Sonu Olmayan, Sonsuz, Ebedi, Ölümsüz",
+        "letter": "C",
+        "answer": "Cavit"
+    },
+    {
+        "id": 1873,
+        "question": "DOĞA KİRLİLİĞİ SORUNLARIYLA UĞRAŞAN KİMSE VEYA TOPLULUK",
+        "letter": "Ç",
+        "answer": "Çevreci"
+    },
+    {
+        "id": 1716,
+        "question": "Zor koşullarda asıl oyuncu yerine aynı rol için oynatılan yedek oyuncu",
+        "letter": "D",
+        "answer": "Dublör"
+    },
+    {
+        "id": 566,
+        "question": "Bilirkişi tarafından yapılan inceleme",
+        "letter": "E",
+        "answer": "Ekspertiz, Ekspertiz raporu"
+    },
+    {
+        "id": 1673,
+        "question": "Verilmiş bir yargıyı kaldırma, bozma",
+        "letter": "F",
+        "answer": "Fesih, fesh etme, fesh etmek"
+    },
+    {
+        "id": 1491,
+        "question": "Gereken önemi vermemek, üstünde durmadan başından savmak",
+        "letter": "G",
+        "answer": "Geçiştirmek, geçiştirme"
+    },
+    {
+        "id": 1098,
+        "question": "Kur'an'ı bütünüyle ezbere bilen kimse",
+        "letter": "H",
+        "answer": "Hafız"
+    },
+    {
+        "id": 1101,
+        "question": "Bir düşünceyi anlatan bir veya birkaç cümlelik söz",
+        "letter": "İ",
+        "answer": "İbare"
+    },
+    {
+        "id": 1952,
+        "question": "KALBUR, TEL ELEK GİBİ ŞEYLERİN TAHTA ÇEMBERİ",
+        "letter": "K",
+        "answer": "Kasnak"
+    },
+    {
+        "id": 618,
+        "question": "Bir kimsenin, kendisine iş verilmeye uygunluğu",
+        "letter": "L",
+        "answer": "Liyakat, Liyakatli, Liyakatliliği"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 637,
+        "question": "Bir şeyin iyi veya kötü olma özelliği, kalite, özellik",
+        "letter": "N",
+        "answer": "Nitelik, niteliği"
+    },
+    {
+        "id": 998,
+        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
+        "letter": "O",
+        "answer": "oya"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 763,
+        "question": "Konum ya da duruş biçimi",
+        "letter": "P",
+        "answer": "Pozisyon"
+    },
+    {
+        "id": 398,
+        "question": "Havalimanında uçuşun gecikme durumu",
+        "letter": "R",
+        "answer": "rötar"
+    },
+    {
+        "id": 829,
+        "question": "Bütün geceyi uyumadan geçirmek",
+        "letter": "S",
+        "answer": "Sabahlama, Sabahlamak"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 1059,
+        "question": "Doğu Anadolu ile Azerbaycan'da çalınan bir çalgı türü",
+        "letter": "T",
+        "answer": "tar"
+    },
+    {
+        "id": 1557,
+        "question": "Erkek hizmetçi",
+        "letter": "U",
+        "answer": "Uşak"
+    },
+    {
+        "id": 879,
+        "question": "Geniş Anlamıyla Derş Ya Da Mukoza Altı Dokuları Meydanda Bırakan Kronik Yaralar",
+        "letter": "Ü",
+        "answer": "Ülser"
+    },
+    {
+        "id": 472,
+        "question": "İki dağ arasındaki çukurca arazi veya geçit",
+        "letter": "V",
+        "answer": "vadi"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 1720,
+        "question": "Olayların oluş ve akış sırasını belirleyen kavram",
+        "letter": "Z",
+        "answer": "Zaman, zaman kavramı"
+    }
+]

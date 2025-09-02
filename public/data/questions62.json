@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1820,
+        "question": "Giysiyi bütünleyen çanta, kemer vb. gibi şeyler",
+        "letter": "A",
+        "answer": "Aksesuar, Aksessuar"
+    },
+    {
+        "id": 1209,
+        "question": "Aynı zamanda Muğla'nın bir ilçesi de olan, apartmanların genellikle zeminin altında bulunan katı ",
+        "letter": "B",
+        "answer": "Bodrum, bodrum kat, bodrum katı"
+    },
+    {
+        "id": 1362,
+        "question": "Aynı eğilimde olan, aynı görüşü paylaşan kimselerin oluşturduğu hareket",
+        "letter": "C",
+        "answer": "Cereyan, cereyan etme, cereyan etmek"
+    },
+    {
+        "id": 1540,
+        "question": "Sağlam ve dayanıklı olmayan",
+        "letter": "Ç",
+        "answer": "Çürük"
+    },
+    {
+        "id": 193,
+        "question": "Sıkıştırılmış hava içine püskürtülen yakıtla çalışan motor",
+        "letter": "D",
+        "answer": "dizel, dizel motor"
+    },
+    {
+        "id": 209,
+        "question": "Çok gerekli, vazgeçilmez",
+        "letter": "E",
+        "answer": "elzem"
+    },
+    {
+        "id": 219,
+        "question": "İstenilen şeylerin yazılması, doldurulması için hazırlanmış basılı belge",
+        "letter": "F",
+        "answer": "form"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 248,
+        "question": "Dışta kalmak üzere, dışında sayılmak üzere, müstesna",
+        "letter": "H",
+        "answer": "hariç"
+    },
+    {
+        "id": 259,
+        "question": "Açıklama durumu",
+        "letter": "İ",
+        "answer": "izah, izah etme, izah etme"
+    },
+    {
+        "id": 1105,
+        "question": "Halk hizmeti gören devlet organlarının tümü",
+        "letter": "K",
+        "answer": "kamu"
+    },
+    {
+        "id": 617,
+        "question": "Çok dar bir ışık huzmesi üreten optik araç",
+        "letter": "L",
+        "answer": "Lazer"
+    },
+    {
+        "id": 1933,
+        "question": "SOMUT YASALARIN ÖTESİNDE OLAN BİR FELSEFE DALI",
+        "letter": "M",
+        "answer": "Metafizik"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 648,
+        "question": "İyimser, pesimist karşıtı",
+        "letter": "O",
+        "answer": "Optimist"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "letter": "P",
+        "answer": "plak"
+    },
+    {
+        "id": 680,
+        "question": "İzin belgesi",
+        "letter": "R",
+        "answer": "Ruhsat, Ruhsat belgesi"
+    },
+    {
+        "id": 1752,
+        "question": "Vücuttaki işlevsel bir bozukluğun veya hastalığın belirlenmesine yarayan işaret",
+        "letter": "S",
+        "answer": "Semptom"
+    },
+    {
+        "id": 1462,
+        "question": "Etkisi çok olan, zorlu, aşırı",
+        "letter": "Ş",
+        "answer": "Şiddetli"
+    },
+    {
+        "id": 713,
+        "question": "Büyük ölçüde, çok miktarda yapılan (alışveriş)",
+        "letter": "T",
+        "answer": "Toptan, toptan alışveriş"
+    },
+    {
+        "id": 1071,
+        "question": "Yakışır, yaraşır, mutabık, mütenasip",
+        "letter": "U",
+        "answer": "uygun"
+    },
+    {
+        "id": 1468,
+        "question": "Güvercinlerden, korularda yaşayan, eti için avlanan, boz renkli bir kuş (Streptopelia turtur)",
+        "letter": "Ü",
+        "answer": "Üveyik"
+    },
+    {
+        "id": 478,
+        "question": "Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç",
+        "letter": "V",
+        "answer": "vinç"
+    },
+    {
+        "id": 884,
+        "question": "Soğanlı et yemeği",
+        "letter": "Y",
+        "answer": "Yahni"
+    },
+    {
+        "id": 1303,
+        "question": "Çapkın, kadın düşünü anlamlarındaki bir söz",
+        "letter": "Z",
+        "answer": "Zampara"
+    }
+]

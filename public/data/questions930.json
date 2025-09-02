@@ -1,0 +1,158 @@
+[
+    {
+        "id": 781,
+        "question": "Sembol niteliğindeki yapı",
+        "letter": "A",
+        "answer": "Abide, Anıt"
+    },
+    {
+        "id": 527,
+        "question": "Yanıltarak bir işten caydırmak",
+        "letter": "B",
+        "answer": "Blöf, blöf yapma, blöf yapmak"
+    },
+    {
+        "id": 962,
+        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "letter": "C",
+        "answer": "Cacık"
+    },
+    {
+        "id": 180,
+        "question": "Kadro, kademe, basamak ve derecelerin yer aldığı liste",
+        "letter": "Ç",
+        "answer": "çizelge"
+    },
+    {
+        "id": 1386,
+        "question": "İçinden hava veya buhar geçirildiğinde keskin ses çıkaran ve işaret vermek için kullanılan araç",
+        "letter": "D",
+        "answer": "Düdük"
+    },
+    {
+        "id": 211,
+        "question": "Genellikle iplik durumuna getirilebilir lifli madde",
+        "letter": "E",
+        "answer": "elyaf"
+    },
+    {
+        "id": 572,
+        "question": "Bir kimseyi veya bir yeri koruyan kimse",
+        "letter": "F",
+        "answer": "Fedai"
+    },
+    {
+        "id": 800,
+        "question": "Abartılı, aldatıcı ve yapay davranış",
+        "letter": "G",
+        "answer": "Gösteriş, Gösterişli"
+    },
+    {
+        "id": 592,
+        "question": "Sürtünme kuvvetinin yağ basıncı ile sağlandığı fren tipi",
+        "letter": "H",
+        "answer": "Hidrolik, hidrolik fren"
+    },
+    {
+        "id": 1182,
+        "question": "Birlikte el birliği ile yapılan",
+        "letter": "İ",
+        "answer": "İmece, imece usulü, imece usulüyle, imece usulü ile"
+    },
+    {
+        "id": 1857,
+        "question": "GEMİLERDE BULUNAN ODALARA VERİLEN İSİM",
+        "letter": "K",
+        "answer": "Kamara"
+    },
+    {
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
+        "letter": "L",
+        "answer": "Larva, larva dönemi"
+    },
+    {
+        "id": 625,
+        "question": "Ayrı bir yeri olan, üstün, seçkin",
+        "letter": "M",
+        "answer": "Mümtaz"
+    },
+    {
+        "id": 960,
+        "question": "Az şey, az",
+        "letter": "N",
+        "answer": "nebze"
+    },
+    {
+        "id": 999,
+        "question": "Klavyelilerden farklı ses ton ve modlarına sahip olabilen çalgı",
+        "letter": "O",
+        "answer": "org"
+    },
+    {
+        "id": 1006,
+        "question": "Küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı",
+        "letter": "Ö",
+        "answer": "Öcü"
+    },
+    {
+        "id": 374,
+        "question": "Parça, kısım",
+        "letter": "P",
+        "answer": "pare"
+    },
+    {
+        "id": 680,
+        "question": "İzin belgesi",
+        "letter": "R",
+        "answer": "Ruhsat, Ruhsat belgesi"
+    },
+    {
+        "id": 1270,
+        "question": "Tarihte ilk yazılı metinlere sahip olan medeniyet",
+        "letter": "S",
+        "answer": "Sümer, Sümerler"
+    },
+    {
+        "id": 1464,
+        "question": "Olması başka durumların gerçekleşmesini gerektiren şey, koşul",
+        "letter": "Ş",
+        "answer": "Şart, şartlar"
+    },
+    {
+        "id": 1266,
+        "question": "Rastgelme, rastlantı sonucu",
+        "letter": "T",
+        "answer": "Tesadüf, tesadüfi, tesadüf eseri, tesadüfen"
+    },
+    {
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "letter": "U",
+        "answer": "uyruk"
+    },
+    {
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
+        "letter": "Ü",
+        "answer": "ücret"
+    },
+    {
+        "id": 1567,
+        "question": "Miras bırakılan kimse, mirasçı",
+        "letter": "V",
+        "answer": "Varis"
+    },
+    {
+        "id": 773,
+        "question": "Japon mafyası",
+        "letter": "Y",
+        "answer": "Yakuza"
+    },
+    {
+        "id": 41,
+        "question": "Ses telleri olmayan hayvan",
+        "letter": "Z",
+        "answer": "Zürafa"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1240,
+        "question": "Ameliyatlarda işlemden önce bölgenin uyuşturulması",
+        "letter": "A",
+        "answer": "Anestezi, aneztezi, anestesi"
+    },
+    {
+        "id": 1297,
+        "question": "Bir şeyin iyi gelişmesi, iyi bir durumda kalması için verilen emek",
+        "letter": "B",
+        "answer": "Bakım, bakım yapma, bakım yapmak"
+    },
+    {
+        "id": 80,
+        "question": "Cem Karaca'nın şarkısında bahsettiği Gülhane parkındaki ağaç",
+        "letter": "C",
+        "answer": "Ceviz, Ceviz Ağacı"
+    },
+    {
+        "id": 1449,
+        "question": "Diz kapaklarına kadar çıkan bir çeşit ayakkabı",
+        "letter": "Ç",
+        "answer": "Çizme"
+    },
+    {
+        "id": 1383,
+        "question": "Eşlerin baba ve analarının birbirlerine göre durumu",
+        "letter": "D",
+        "answer": "Dünür, dünürü, dünürlük"
+    },
+    {
+        "id": 1410,
+        "question": "Mal ve değerlere ait döküm",
+        "letter": "E",
+        "answer": "Envanter"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 1225,
+        "question": "Özel olarak, özel bir biçimde",
+        "letter": "H",
+        "answer": "Hususi"
+    },
+    {
+        "id": 268,
+        "question": "Kabul etmeme, tanımama",
+        "letter": "İ",
+        "answer": "inkar, inkar etme, inkar etmek"
+    },
+    {
+        "id": 287,
+        "question": "Posta, kargo, mektup vb. gönderileri alıcıya ulaştıran kimse",
+        "letter": "K",
+        "answer": "kurye"
+    },
+    {
+        "id": 928,
+        "question": "Çıkış yeri kolaylıkla bulunamayacak kadar karışık koridorları olan yapı",
+        "letter": "L",
+        "answer": "Labirent"
+    },
+    {
+        "id": 1627,
+        "question": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki)",
+        "letter": "M",
+        "answer": "Melez"
+    },
+    {
+        "id": 990,
+        "question": "Güzel, uyumlu ses, ezgi, melodi",
+        "letter": "N",
+        "answer": "Nağme"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 1901,
+        "question": "MEKSİKA, KOLOMBİYA, ARJANTİN GİBİ ÜLKELERİN PARA BİRİMİ",
+        "letter": "P",
+        "answer": "Peso"
+    },
+    {
+        "id": 390,
+        "question": "Üzerinde boks yapılan, çevresi kordonla çevrilmiş yer",
+        "letter": "R",
+        "answer": "ring"
+    },
+    {
+        "id": 407,
+        "question": "Güldürü niteliğinde kısa oyun",
+        "letter": "S",
+        "answer": "skeç"
+    },
+    {
+        "id": 1055,
+        "question": "Şiir söyleyen veya yazan kimse",
+        "letter": "Ş",
+        "answer": "Şair"
+    },
+    {
+        "id": 437,
+        "question": "Güzel sanatlarda üslup, stil, konsept",
+        "letter": "T",
+        "answer": "tarz"
+    },
+    {
+        "id": 451,
+        "question": "Genel, halka açık",
+        "letter": "U",
+        "answer": "umumi"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 1500,
+        "question": "Genellikle dağlık bölgelerde, yazın havası iyi ve serin olan, hayvan otlatma veya dinlenme yeri",
+        "letter": "Y",
+        "answer": "Yayla"
+    },
+    {
+        "id": 851,
+        "question": "Sarı renkli, kökleri ile birlikte toplanan, kökü bir baharat türü olan bitki",
+        "letter": "Z",
+        "answer": "Zencefil, zencefıl"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1240,
+        "question": "Ameliyatlarda işlemden önce bölgenin uyuşturulması",
+        "letter": "A",
+        "answer": "Anestezi, aneztezi, anestesi"
+    },
+    {
+        "id": 744,
+        "question": "Bir cismin herhangi bir yöndeki uzanımı",
+        "letter": "B",
+        "answer": "Boyut, boyutu"
+    },
+    {
+        "id": 1372,
+        "question": "İnce, yuvarlak kesilerek kızartılmış patates",
+        "letter": "C",
+        "answer": "Cips"
+    },
+    {
+        "id": 170,
+        "question": "Hayatı boyunca birçok sıkıntı ve üzüntü çekmiş (kimse)",
+        "letter": "Ç",
+        "answer": "çilekeş"
+    },
+    {
+        "id": 1398,
+        "question": "Aynı cinsten onluk bir küme",
+        "letter": "D",
+        "answer": "Deste"
+    },
+    {
+        "id": 565,
+        "question": "Saf dışı bırakmak",
+        "letter": "E",
+        "answer": "Ekarte, Ekarte etme, Ekarte etmek"
+    },
+    {
+        "id": 1189,
+        "question": "Yenen, fetheden kimse",
+        "letter": "F",
+        "answer": "Fatih"
+    },
+    {
+        "id": 1424,
+        "question": "Buzul bilimi",
+        "letter": "G",
+        "answer": "Glasiyoloji, Glasyoloji"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 1228,
+        "question": "İnsanları bir yere yerleştirme, yurtlandırma",
+        "letter": "İ",
+        "answer": "İskan, iskan etme, iskan etmek"
+    },
+    {
+        "id": 611,
+        "question": "Giyilen kıyafetlerin birbiriyle uyum içinde olması",
+        "letter": "K",
+        "answer": "Kombin, Kombin yapma, kombin yapmak"
+    },
+    {
+        "id": 1832,
+        "question": "PORTATİF KÜÇÜK ÇOCUK TUVALETİ",
+        "letter": "L",
+        "answer": "Lazımlık"
+    },
+    {
+        "id": 1763,
+        "question": "ÜRETİMDE BİR MAL ELDE EDİLİNCEYE KADAR HARCANAN DEĞERLERİN TOPLAMI",
+        "letter": "M",
+        "answer": "Maliyet"
+    },
+    {
+        "id": 1675,
+        "question": "Etki altına alma, söz geçirme, güçlü olma",
+        "letter": "N",
+        "answer": "Nüfuz, nüfuz etme, nüfuz etmek"
+    },
+    {
+        "id": 348,
+        "question": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+        "letter": "O",
+        "answer": "obur"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 1860,
+        "question": "\"HEMEN ARDINDAN\" ANLAMINDA KULLANILAN KELİME",
+        "letter": "P",
+        "answer": "Peşisıra, Peşpeşe"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 1921,
+        "question": "“EKSTREM” SÖZCÜĞÜNÜN KARŞILIĞI OLAN SÖZ DİZİSİ",
+        "letter": "S",
+        "answer": "Sıradışı"
+    },
+    {
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
+        "letter": "Ş",
+        "answer": "Şahsi"
+    },
+    {
+        "id": 1154,
+        "question": "Diş taşı",
+        "letter": "T",
+        "answer": "tartar"
+    },
+    {
+        "id": 847,
+        "question": "Bir düşünceyi, bir tasarıyı ya da bir kuramı gerçekleştirme",
+        "letter": "U",
+        "answer": "Uygulama, uygulamak"
+    },
+    {
+        "id": 861,
+        "question": "Sivrisineğe benzer çok küçük bir sinek türü",
+        "letter": "Ü",
+        "answer": "Üvez"
+    },
+    {
+        "id": 866,
+        "question": "Futbolda Top Yere Değmeden Yapılan Vuruş",
+        "letter": "V",
+        "answer": "Vole"
+    },
+    {
+        "id": 487,
+        "question": "Delik ve yırtığı uygun bir parça ile onarma, kapatma",
+        "letter": "Y",
+        "answer": "yama, yama yapma, yama yapmak, yamalama, yamalamak"
+    },
+    {
+        "id": 1591,
+        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "letter": "Z",
+        "answer": "Zarar, ziyan"
+    }
+]

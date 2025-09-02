@@ -1,158 +1,158 @@
 [
     {
-        "id": 1657,
-        "question": "Belli bir süre sonra inilip başka bir taşıta binilmesini gerektiren seyahat",
+        "id": 1081,
+        "question": "Masa başında uydurulup gerçekmiş gibi yayımlanan yalan haber",
         "letter": "A",
-        "answer": "Aktarmalı, aktarmalı seyahat"
+        "answer": "Asparagas, asparagas haber"
     },
     {
-        "id": 1837,
-        "question": "ARAPÇA KÖKENLİ \"MATBAA\" SÖZCÜĞÜNÜN TÜRKÇE EŞ ANLAMLISI",
+        "id": 1220,
+        "question": "Atış bilimi, mermi ve füzelerin hareketlerini inceleyen bir bilim dalı",
         "letter": "B",
-        "answer": "Basımevi"
+        "answer": "Balistik, balistik bilimi"
     },
     {
-        "id": 531,
-        "question": "Uygun, yerinde sayılan, yakışık alan",
+        "id": 1309,
+        "question": "Canlı, neşeli ve sokulgan",
         "letter": "C",
-        "answer": "Caiz"
+        "answer": "Civelek"
     },
     {
-        "id": 1451,
-        "question": "Bilgisayarda yazılan bir metnin kâğıda dökülmüş biçimi",
+        "id": 183,
+        "question": "Oy vermekten, eğilim göstermekten veya bir şey yapmaktan kaçınan, kararsız kimse",
         "letter": "Ç",
-        "answer": "Çıktı, çıktısı"
+        "answer": "çekimser"
     },
     {
-        "id": 1392,
-        "question": "Aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü",
+        "id": 194,
+        "question": "Açık sözlü",
         "letter": "D",
-        "answer": "Dosya, doküman"
+        "answer": "dobra"
     },
     {
-        "id": 1411,
-        "question": "Zorluğa sahip olarak düz olmayan bir yeri bulunan arazi türü",
+        "id": 79,
+        "question": "Kırkpınar yağlı güreşlerinin yapıldığı ilimiz",
         "letter": "E",
-        "answer": "Engebeli, engebeli arazi"
+        "answer": "edirne"
     },
     {
-        "id": 1329,
-        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "id": 1968,
+        "question": "KURAL İHLALİ SONRASI, KALEYE DOĞRUDAN ŞUT ÇEKİLEN SERBEST VURUŞ",
         "letter": "F",
-        "answer": "Fidan"
+        "answer": "FRİKİK"
     },
     {
-        "id": 1421,
-        "question": "İzmir yöresinde simitin diğer adı",
+        "id": 582,
+        "question": "Dikkatli ve planlı olarak ele alınıp incelenme durumu",
         "letter": "G",
-        "answer": "Gevrek"
+        "answer": "Gözlem, Gözlem yapma, Gözlem yapmak"
     },
     {
-        "id": 1229,
-        "question": "Yakını görememe kusuru",
+        "id": 807,
+        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
         "letter": "H",
-        "answer": "Hipermetrop, hipermetropluk"
+        "answer": "Hüsran"
     },
     {
-        "id": 809,
-        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
+        "id": 1712,
+        "question": "Bilgisayarların veri işleyen ve yazılım komutlarını gerçekleştiren devre elemanı",
         "letter": "İ",
-        "answer": "İşletme"
+        "answer": "İşlemci"
     },
     {
-        "id": 1282,
-        "question": "İş bakımından üstün tecrübeye sahip olan",
+        "id": 1288,
+        "question": "Mukayese etmek, karşılaştırmak",
         "letter": "K",
-        "answer": "Kıdemli, kıdem sahibi, kalifiye, kalifiye eleman"
+        "answer": "Kıyaslamak, kıyaslama, kıyas yapma, kıyas yapmak"
     },
     {
-        "id": 623,
-        "question": "Eğlence yerlerinde veya parlamento salonlarında özel bölme",
+        "id": 291,
+        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
         "letter": "L",
-        "answer": "Loca"
+        "answer": "loş"
     },
     {
-        "id": 57,
-        "question": "Türkçede adı tek heceli olan tek ay",
+        "id": 628,
+        "question": "Ruh hali, mizaç, hal, anlık hal durumu",
         "letter": "M",
-        "answer": "mart"
+        "answer": "Mod, moral"
     },
     {
-        "id": 1676,
-        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
         "letter": "N",
-        "answer": "Noter"
+        "answer": "Nostalji, nostaliji"
     },
     {
-        "id": 1003,
-        "question": "On açısı, on kenarı olan çokgen",
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
         "letter": "O",
-        "answer": "Ongen"
+        "answer": "onay, onaylama, onaylamak"
     },
     {
-        "id": 358,
-        "question": "Bir vakitte yenilen yemek",
+        "id": 660,
+        "question": "Bir kuruluşa bağlı alt bölümlerin bütünü, teşkilat",
         "letter": "Ö",
-        "answer": "öğün"
+        "answer": "Örgüt"
     },
     {
-        "id": 1023,
-        "question": "Baykuşgillerden, orman, dağ ve kayalıklarda yaşayan, uzunluğu 65 cm, sırtı koyu kahverengi bir kuş türü",
+        "id": 673,
+        "question": "Söz dalaşı",
         "letter": "P",
-        "answer": "Puhu"
+        "answer": "Polemik"
     },
     {
-        "id": 1635,
-        "question": "Evin duvarlarının suyu çekmesi ve ısı farkından dolayı su buharı oluşması",
+        "id": 395,
+        "question": "Orta kaldırım",
         "letter": "R",
-        "answer": "Rutubet"
+        "answer": "refüj"
     },
     {
-        "id": 1940,
-        "question": "Öğretmenin diyaloğa dayalı yaptığı sınav biçimi",
+        "id": 1948,
+        "question": "MECAZEN, “AKIL SAĞLIĞINI YİTİRMEK” ANLAMINA GELEN SÖZ",
         "letter": "S",
-        "answer": "Sözlü"
+        "answer": "Sıyırma, Sıyırmak"
     },
     {
-        "id": 424,
-        "question": "Okullarda aynı düzeydeki sınıflardan her biri",
+        "id": 423,
+        "question": "Bir çıkar karşılığı, uzlaşarak bir iş yapma, aldatma",
         "letter": "Ş",
-        "answer": "şube"
+        "answer": "şike, şike yapma, şike yapmak"
     },
     {
-        "id": 1749,
-        "question": "Demokratik hak ve özgürlüklerin baskı altında tutulduğu devlet düzeni",
+        "id": 1771,
+        "question": "KENDİSİ HASTALANMADAN O HASTALIĞIN SEBEBİ OLAN MİKROBU BAŞKASINA BULAŞTIRAN KİMSE VEYA HAYVAN",
         "letter": "T",
-        "answer": "Totaliter, Totaliter Rejim, Totalitarizm, Totalirite"
+        "answer": "Taşıyıcı"
     },
     {
-        "id": 1072,
-        "question": "Fikir, sanat ve endüstri alanlarında çok büyük bir gelişme göstermiş olan, medeni, mütemeddin",
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
         "letter": "U",
-        "answer": "uygar"
+        "answer": "Uzman, Usta"
     },
     {
-        "id": 729,
-        "question": "Özen göstermeden, gelişigüzel, baştan savma yapılan",
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
         "letter": "Ü",
-        "answer": "Üstünkörü"
+        "answer": "Ütülmek"
     },
     {
-        "id": 472,
-        "question": "İki dağ arasındaki çukurca arazi veya geçit",
+        "id": 771,
+        "question": "Araç, taşıt anlamlarındaki söz",
         "letter": "V",
-        "answer": "vadi"
+        "answer": "Vasıta"
     },
     {
-        "id": 486,
-        "question": "Hayvan yiyeceği",
+        "id": 1936,
+        "question": "Doğum tarihi ve saati dikkate alınarak yapılan hesaplama ile ortaya çıkan burç",
         "letter": "Y",
-        "answer": "yem"
+        "answer": "Yükselen, Yükselen burç"
     },
     {
-        "id": 511,
-        "question": "Saçma, saçma sapan, boş, anlamsız söz",
+        "id": 502,
+        "question": "Aldatıcı şey, tuzak, hile",
         "letter": "Z",
-        "answer": "zırva"
+        "answer": "zoka"
     }
 ]

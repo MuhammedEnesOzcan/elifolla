@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1261,
+        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
+        "letter": "A",
+        "answer": "Aperatif, aparatif, aperetif, Aperitif"
+    },
+    {
+        "id": 745,
+        "question": "Kısa süreli beklenmedik saldırı",
+        "letter": "B",
+        "answer": "Baskın, Baskın yeme, Baskın yemek, Basılma, Basılmak"
+    },
+    {
+        "id": 1372,
+        "question": "İnce, yuvarlak kesilerek kızartılmış patates",
+        "letter": "C",
+        "answer": "Cips"
+    },
+    {
+        "id": 966,
+        "question": "Bir kimsenin, satın aldığı hizmet veya ürün karşılığında para yerine verdiği ve karşılığı banka hesabından ödenen yazılı belge",
+        "letter": "Ç",
+        "answer": "Çek"
+    },
+    {
+        "id": 553,
+        "question": "Sınır dışı etme, uzaklaştırma",
+        "letter": "D",
+        "answer": "Deport, deport etme, deport etmek"
+    },
+    {
+        "id": 211,
+        "question": "Genellikle iplik durumuna getirilebilir lifli madde",
+        "letter": "E",
+        "answer": "elyaf"
+    },
+    {
+        "id": 1327,
+        "question": "Bir sanık, tutuklu veya hükümlünün gözcülerin elinden kurtulması",
+        "letter": "F",
+        "answer": "Firar, firari, firar etme, firar etmek, firar etmesi"
+    },
+    {
+        "id": 241,
+        "question": "Öfke, kızgınlık, hiddet",
+        "letter": "G",
+        "answer": "gazap"
+    },
+    {
+        "id": 588,
+        "question": "İlgi ile karşılanabilecek haber",
+        "letter": "H",
+        "answer": "Havadis"
+    },
+    {
+        "id": 269,
+        "question": "Yararlanılan uygun şart veya durum, olanak",
+        "letter": "İ",
+        "answer": "imkan"
+    },
+    {
+        "id": 757,
+        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "letter": "K",
+        "answer": "Komisyon, Kar, Kâr"
+    },
+    {
+        "id": 297,
+        "question": "Nilüfer cinsinden birçok bitkiye verilen genel ad",
+        "letter": "L",
+        "answer": "lotus"
+    },
+    {
+        "id": 1166,
+        "question": "Küçük, ufak tefek, zarif",
+        "letter": "M",
+        "answer": "Minyon"
+    },
+    {
+        "id": 339,
+        "question": "Tavsiye, öğüt",
+        "letter": "N",
+        "answer": "nasihat"
+    },
+    {
+        "id": 997,
+        "question": "Silisin hidratlı ve jelatinli bütün türlerini kapsayan değerli bir mineral, panzehir taşı",
+        "letter": "O",
+        "answer": "opal"
+    },
+    {
+        "id": 1116,
+        "question": "Birim kabul edilen herhangi bir şeyin alabildiği kadar ölçü",
+        "letter": "Ö",
+        "answer": "Ölçek"
+    },
+    {
+        "id": 1012,
+        "question": "İç içe geçen veya birbiri üzerine gelen parçaları tutturmaya yarayan bir tür tahta veya metal çivi",
+        "letter": "P",
+        "answer": "Pim"
+    },
+    {
+        "id": 1646,
+        "question": "Hastanelerde hastanın yanında kalan, hastaya yardımcı olan kimse",
+        "letter": "R",
+        "answer": "Refakatçi"
+    },
+    {
+        "id": 1192,
+        "question": "Yalnız bir türe özgü olan",
+        "letter": "S",
+        "answer": "Spesifik"
+    },
+    {
+        "id": 1055,
+        "question": "Şiir söyleyen veya yazan kimse",
+        "letter": "Ş",
+        "answer": "Şair"
+    },
+    {
+        "id": 440,
+        "question": "Herhangi bir konuda verilen gizli bilgi",
+        "letter": "T",
+        "answer": "tüyo, tüyo verme, tüyo vermek"
+    },
+    {
+        "id": 1558,
+        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "letter": "U",
+        "answer": "Ulus"
+    },
+    {
+        "id": 1702,
+        "question": "Bir peygambere inanıp onun yolunu seçen kimselerin tümü",
+        "letter": "Ü",
+        "answer": "Ümmet, Ümmed"
+    },
+    {
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "letter": "V",
+        "answer": "Vize, vize belgesi"
+    },
+    {
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
+        "letter": "Y",
+        "answer": "Yassı"
+    },
+    {
+        "id": 503,
+        "question": "Acımasız ve haksız davranan, zulmeden",
+        "letter": "Z",
+        "answer": "zalim, zorba"
+    }
+]

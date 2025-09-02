@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1162,
+        "question": "Birden fazla sıralı halde iki tarafı ağaçlı yol",
+        "letter": "A",
+        "answer": "Alle, Alle yol"
+    },
+    {
+        "id": 127,
+        "question": "Bağlama işinde kullanılan şerit biçiminde bağ",
+        "letter": "B",
+        "answer": "bağcık"
+    },
+    {
+        "id": 962,
+        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "letter": "C",
+        "answer": "Cacık"
+    },
+    {
+        "id": 1544,
+        "question": "Bazı toprakların yüzünde beyaz bir katman durumunda toplanan ve eskiden barut yapmakta kullanılan potaslı, sutlu tuz",
+        "letter": "Ç",
+        "answer": "Çorak"
+    },
+    {
+        "id": 1718,
+        "question": "Bir ülkeyi zora ve baskıya dayanarak yöneten kimse",
+        "letter": "D",
+        "answer": "Despot, Dikta, Diktatör"
+    },
+    {
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
+        "letter": "E",
+        "answer": "emare"
+    },
+    {
+        "id": 1292,
+        "question": "Bahçıvanlıkta, tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze ya da körpe çiçek",
+        "letter": "F",
+        "answer": "Fide"
+    },
+    {
+        "id": 802,
+        "question": "Pişirilerek kurutulmuş yuvarlak veya uzun biçimli peksimet",
+        "letter": "G",
+        "answer": "Galeta, Grisini, Gevrek"
+    },
+    {
+        "id": 1247,
+        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
+        "letter": "H",
+        "answer": "Hegemonya, hegamonya, hegomonya"
+    },
+    {
+        "id": 601,
+        "question": "Gerçek yönünü ortaya çıkarma, kanıtlama",
+        "letter": "İ",
+        "answer": "İspat, ispatlama, ispatlamak, ispat etme, ispat etmek"
+    },
+    {
+        "id": 1233,
+        "question": "Bir düzlemdeki konum, coğrafik konum",
+        "letter": "K",
+        "answer": "Koordinat, kordinat"
+    },
+    {
+        "id": 1706,
+        "question": "Yeni doğum yapmış kadın",
+        "letter": "L",
+        "answer": "Lohusa"
+    },
+    {
+        "id": 1624,
+        "question": "Duyguları, düşünceleri belirtecek biçimde yüzde beliren kımıldanışlar, hareketler",
+        "letter": "M",
+        "answer": "Mimik, mimikler"
+    },
+    {
+        "id": 339,
+        "question": "Tavsiye, öğüt",
+        "letter": "N",
+        "answer": "nasihat"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "letter": "Ö",
+        "answer": "Örk"
+    },
+    {
+        "id": 1734,
+        "question": "Engebeli yerlerden gelip geçenlerin ayak izlerinden oluşan, tekerlekli araç işlemeyen dar yol",
+        "letter": "P",
+        "answer": "Patika, patika yol"
+    },
+    {
+        "id": 393,
+        "question": "Gemi, tren, kışla, yatılı okul vb. yerlerde üst üste yapılan yatak yeri",
+        "letter": "R",
+        "answer": "ranza"
+    },
+    {
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "letter": "S",
+        "answer": "Sahaf"
+    },
+    {
+        "id": 1126,
+        "question": "Düşen su damlasının çıkardığı ses",
+        "letter": "Ş",
+        "answer": "şıp"
+    },
+    {
+        "id": 1852,
+        "question": "KALIPTA PİŞEN BİR TÜR MEYVELİ PASTA",
+        "letter": "T",
+        "answer": "Tart, Turta"
+    },
+    {
+        "id": 1073,
+        "question": "Akla uygun, yalnız akla dayanan, akli, rasyonel",
+        "letter": "U",
+        "answer": "Ussal"
+    },
+    {
+        "id": 848,
+        "question": "Erkeklerin Sıçaktan Korunmak İçin Başlarına Sardıkları Büyük Mendil",
+        "letter": "Ü",
+        "answer": "Üslük"
+    },
+    {
+        "id": 877,
+        "question": "Bir Yasanın, Bir Kararın Yürürlüğe Girmesine Karşı Çıkma Hakkı",
+        "letter": "V",
+        "answer": "Veto"
+    },
+    {
+        "id": 494,
+        "question": "Eni boyundan ve derinliğinden çok olan, basık ve geniş",
+        "letter": "Y",
+        "answer": "yayvan"
+    },
+    {
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "letter": "Z",
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
+    }
+]

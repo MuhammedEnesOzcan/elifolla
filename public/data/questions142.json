@@ -1,0 +1,158 @@
+[
+    {
+        "id": 519,
+        "question": "Tatar yayı veya kurmalı yay denen uzak mesafe silahı",
+        "letter": "A",
+        "answer": "Arbalet"
+    },
+    {
+        "id": 528,
+        "question": "Yorgun, bitkin düşmüş olan",
+        "letter": "B",
+        "answer": "Bitap, bitap halde"
+    },
+    {
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
+        "letter": "C",
+        "answer": "Cenah"
+    },
+    {
+        "id": 165,
+        "question": "Bir eksenin döndürdüğü tekerlek biçimindeki makine parçası",
+        "letter": "Ç",
+        "answer": "çark"
+    },
+    {
+        "id": 1187,
+        "question": "Bir yeri daha önce görmüş olma veya bir olayı daha önce yaşamış olma hissi",
+        "letter": "D",
+        "answer": "Dejavu"
+    },
+    {
+        "id": 215,
+        "question": "Gündüz ile gecenin eşit olma durumu",
+        "letter": "E",
+        "answer": "ekinoks"
+    },
+    {
+        "id": 1489,
+        "question": "Etken, etmen",
+        "letter": "F",
+        "answer": "Faktör"
+    },
+    {
+        "id": 1174,
+        "question": "Biçim, desen ya da çizgilerle gösterme, anlatma",
+        "letter": "G",
+        "answer": "Grafik"
+    },
+    {
+        "id": 246,
+        "question": "Kıskançlık, çekememezlik",
+        "letter": "H",
+        "answer": "haset, hasetlik"
+    },
+    {
+        "id": 1692,
+        "question": "“TRAFİĞİ ÇOK OLAN, CANLI, HAREKETLİ, YOĞUN VE KALABALIK” ANLAMLARINDA KULLANILAN BİR SÖZ",
+        "letter": "İ",
+        "answer": "İşlek, işlek yol, işlek cadde"
+    },
+    {
+        "id": 976,
+        "question": "Gözlerin üzerinde kemerli birer çizgi oluşturan kısa kıllar",
+        "letter": "K",
+        "answer": "Kaş"
+    },
+    {
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
+        "letter": "L",
+        "answer": "Lift"
+    },
+    {
+        "id": 1629,
+        "question": "İletişim ortamı, iletişim araçları",
+        "letter": "M",
+        "answer": "Medya"
+    },
+    {
+        "id": 916,
+        "question": "Durgun sularda ya da havuzlarda yetişen, geniş yapraklı su bitkisi",
+        "letter": "N",
+        "answer": "Nilüfer, nılufer"
+    },
+    {
+        "id": 1188,
+        "question": "Yazarın kendi yaşam öyküsünün anlattığı edebiyat türü",
+        "letter": "O",
+        "answer": "Otobiyografi"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "letter": "P",
+        "answer": "plak"
+    },
+    {
+        "id": 1646,
+        "question": "Hastanelerde hastanın yanında kalan, hastaya yardımcı olan kimse",
+        "letter": "R",
+        "answer": "Refakatçi"
+    },
+    {
+        "id": 1806,
+        "question": "At Bakıcısı",
+        "letter": "S",
+        "answer": "Seyis"
+    },
+    {
+        "id": 1462,
+        "question": "Etkisi çok olan, zorlu, aşırı",
+        "letter": "Ş",
+        "answer": "Şiddetli"
+    },
+    {
+        "id": 56,
+        "question": "Kara tahtaya yazı yazmak için kullanılan kireçli çubuk",
+        "letter": "T",
+        "answer": "Tebeşir"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 864,
+        "question": "Olması istenmeyen olaylardan doğan ruh tedirginliği",
+        "letter": "Ü",
+        "answer": "Üzüntü"
+    },
+    {
+        "id": 472,
+        "question": "İki dağ arasındaki çukurca arazi veya geçit",
+        "letter": "V",
+        "answer": "vadi"
+    },
+    {
+        "id": 839,
+        "question": "Sayıyı yukarı ya da aşağı değiştirerek tüm sayı haline getirme",
+        "letter": "Y",
+        "answer": "Yuvarlama, Yuvarlamak"
+    },
+    {
+        "id": 858,
+        "question": "Üflemeli bir çalgı",
+        "letter": "Z",
+        "answer": "Zurna"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1727,
+        "question": "Ay yüzeyine yapılan ilk insanlı uzay uçuşu projesi",
+        "letter": "A",
+        "answer": "Apollo, apollo 11"
+    },
+    {
+        "id": 128,
+        "question": "Sağ ayağı sol uyluğun, sol ayağı sağ uyluğun altına alarak oturma biçimi",
+        "letter": "B",
+        "answer": "bağdaş"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 1087,
+        "question": "Herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor",
+        "letter": "Ç",
+        "answer": "Çaba"
+    },
+    {
+        "id": 1390,
+        "question": "Üstü şekerli, renkli ve parlak bir madde ile kaplanmış hap",
+        "letter": "D",
+        "answer": "Draje"
+    },
+    {
+        "id": 1822,
+        "question": "Bir evin gelinlerinin birbirine göre akrabalık durumu",
+        "letter": "E",
+        "answer": "Elti, Eltilik"
+    },
+    {
+        "id": 1326,
+        "question": "Tüzel kişiliği olsun olmasın bir ekonomik etkinlik birimi",
+        "letter": "F",
+        "answer": "Firma"
+    },
+    {
+        "id": 1423,
+        "question": "Gök gözlemleri yapan, gök cisimlerini ve olaylarını inceleyen yer, rasathane",
+        "letter": "G",
+        "answer": "Gözlemevi"
+    },
+    {
+        "id": 247,
+        "question": "Nişan alınacak yer, nişangah",
+        "letter": "H",
+        "answer": "hedef"
+    },
+    {
+        "id": 1804,
+        "question": "Dinlenme, rahat etme",
+        "letter": "İ",
+        "answer": "İstirahat, İstirahat etme, İstirahat etmek"
+    },
+    {
+        "id": 1928,
+        "question": "ADI MECAZEN, CASUSLUK VE HAİNLİKLE ÖZDEŞLEŞEN BİR MEMELİ HAYVAN",
+        "letter": "K",
+        "answer": "Köstebek"
+    },
+    {
+        "id": 985,
+        "question": "Tanrı'nın sevgi ve ilgisinden yoksun olma, beddua",
+        "letter": "L",
+        "answer": "Lanet, lanetleme, lanetlenme, lanetlenmek"
+    },
+    {
+        "id": 1614,
+        "question": "Sevindirici haber verileceği zaman söylenen bir söz",
+        "letter": "M",
+        "answer": "Müjde, müjdemi isterim"
+    },
+    {
+        "id": 336,
+        "question": "Ortak bir özellik gösteren kimselerin bütünü, popülasyon",
+        "letter": "N",
+        "answer": "nüfus"
+    },
+    {
+        "id": 998,
+        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
+        "letter": "O",
+        "answer": "oya"
+    },
+    {
+        "id": 1169,
+        "question": "Perdeayaklılardan evcil ve yabanisi de bulunan su kuşu",
+        "letter": "Ö",
+        "answer": "Ördek"
+    },
+    {
+        "id": 373,
+        "question": "Kimyasal enerjiyi elektrik enerjisine çeviren araç",
+        "letter": "P",
+        "answer": "pil"
+    },
+    {
+        "id": 826,
+        "question": "İrade dışı sinir etkinliği",
+        "letter": "R",
+        "answer": "Refleks"
+    },
+    {
+        "id": 1123,
+        "question": "Geçen, önceki, eski",
+        "letter": "S",
+        "answer": "sabık, selef, selefi"
+    },
+    {
+        "id": 1054,
+        "question": "Bir makinenin dönme hareketini öteki parçalara aktaran ve ucuna dişli çarklar, tekerlekler veya pervane bağlanan demir mil",
+        "letter": "Ş",
+        "answer": "Şaft"
+    },
+    {
+        "id": 440,
+        "question": "Herhangi bir konuda verilen gizli bilgi",
+        "letter": "T",
+        "answer": "tüyo, tüyo verme, tüyo vermek"
+    },
+    {
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
+        "letter": "U",
+        "answer": "Uzman, Usta"
+    },
+    {
+        "id": 1702,
+        "question": "Bir peygambere inanıp onun yolunu seçen kimselerin tümü",
+        "letter": "Ü",
+        "answer": "Ümmet, Ümmed"
+    },
+    {
+        "id": 473,
+        "question": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi",
+        "letter": "V",
+        "answer": "vali"
+    },
+    {
+        "id": 486,
+        "question": "Hayvan yiyeceği",
+        "letter": "Y",
+        "answer": "yem"
+    },
+    {
+        "id": 1290,
+        "question": "Keyifli, eğlenceli olan",
+        "letter": "Z",
+        "answer": "Zevkli, zevk"
+    }
+]

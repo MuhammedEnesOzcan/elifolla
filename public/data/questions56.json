@@ -1,158 +1,158 @@
 [
     {
-        "id": 512,
-        "question": "Denizin kıyıdan uzakça olan yeri",
+        "id": 1669,
+        "question": "Burgu ile delinerek açılan ve suyu yükseğe fışkırtan kuyu",
         "letter": "A",
-        "answer": "Açık"
+        "answer": "Artezyen"
     },
     {
-        "id": 1195,
-        "question": "Çiçek demeti",
+        "id": 1083,
+        "question": "Erkek kümes hayvanlarının en iri ve yaşlı olanı",
         "letter": "B",
-        "answer": "Buket"
+        "answer": "Babaç"
     },
     {
-        "id": 1888,
-        "question": "MECAZEN, “GELİŞTİRİLEBİLİR YETENEK, İYİ YETENEK” ANLAMLARINA GELEN SÖZCÜK",
+        "id": 154,
+        "question": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
         "letter": "C",
-        "answer": "Cevher, Cevherli"
+        "answer": "cila"
     },
     {
-        "id": 791,
-        "question": "Kim olduğunu hatırlamak, tanımak",
+        "id": 99,
+        "question": "Bulunulan çağın anlayışına, şartlarına uygun olan, modern, muasır",
         "letter": "Ç",
-        "answer": "Çıkarma, Çıkarmak"
+        "answer": "çağdaş"
     },
     {
-        "id": 1196,
-        "question": "Aynı cinsten olan bir nesnenin on ikisini içeren bir birim",
+        "id": 550,
+        "question": "Gregor Samsa karakterinin yer aldığı Franz Kafka romanı",
         "letter": "D",
-        "answer": "Düzine"
+        "answer": "Dönüşüm"
     },
     {
-        "id": 1949,
-        "question": "İNSAN GELİŞİMİ İÇİN GEREKLİ BİLGİ VE BECERİYİ KAZANDIRAN, KİŞİLİĞİ GELİŞTİREN HER TÜR ETKİNLİK",
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
         "letter": "E",
-        "answer": "Eğitim"
+        "answer": "Endoskop"
     },
     {
-        "id": 1913,
-        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
+        "id": 218,
+        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
         "letter": "F",
-        "answer": "Fasikül"
+        "answer": "file"
     },
     {
-        "id": 240,
-        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "id": 1899,
+        "question": "İLAÇ DESTEĞİ İLE DE YAPILAN AĞIZ VE BOĞAZ BANYOSU",
         "letter": "G",
-        "answer": "gonca"
+        "answer": "Gargara"
     },
     {
-        "id": 807,
-        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
+        "id": 590,
+        "question": "Bir mala icra dairesi tarafından el konulması",
         "letter": "H",
-        "answer": "Hüsran"
+        "answer": "Haciz, haciz işlemi, haczetmek, haciz etme, haciz etmek"
     },
     {
-        "id": 271,
-        "question": "Yerine koyma, yerine kullanma",
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
         "letter": "İ",
-        "answer": "ikame"
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
     },
     {
-        "id": 1818,
-        "question": "Alışverişte durgunluk",
+        "id": 608,
+        "question": "Büyük taarruzda karargah olarak kullanılan tepe",
         "letter": "K",
-        "answer": "Kesat, kesatlık, kesat iş, kesat işler"
+        "answer": "Kocatepe, Koca"
     },
     {
-        "id": 303,
-        "question": "İnsanın davranışlarının temelini oluşturan cinsel içgüdü",
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
         "letter": "L",
-        "answer": "libido"
+        "answer": "Logo"
     },
     {
-        "id": 320,
-        "question": "Korunmak için özel olarak yapılıp yüze geçirilen nesne",
+        "id": 625,
+        "question": "Ayrı bir yeri olan, üstün, seçkin",
         "letter": "M",
-        "answer": "maske"
+        "answer": "Mümtaz"
     },
     {
-        "id": 1110,
-        "question": "Az görülür, görülmedik, seyrek görülen, çok değerli",
+        "id": 994,
+        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
         "letter": "N",
-        "answer": "nadide, nadir"
+        "answer": "naip"
     },
     {
-        "id": 1515,
-        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "id": 648,
+        "question": "İyimser, pesimist karşıtı",
         "letter": "O",
-        "answer": "Oyuncu"
+        "answer": "Optimist"
     },
     {
-        "id": 1480,
-        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "id": 372,
+        "question": "Bir iş için ayrılan belli para, tahsisat",
         "letter": "Ö",
-        "answer": "Önlem"
+        "answer": "ödenek"
     },
     {
-        "id": 669,
-        "question": "İş merkezi",
+        "id": 957,
+        "question": "Canlı bir organizmanın oluşturduğu ona özel bir renk veren kimyasal madde",
         "letter": "P",
-        "answer": "Plaza"
+        "answer": "pigment"
     },
     {
-        "id": 1864,
-        "question": "YÜZEYDE KALMAYIP DERİNE İNEN, ASIL KONUYU DA İÇİNE ALAN, KÖKTEN",
+        "id": 1031,
+        "question": "Yakışır, yerinde, uygun",
         "letter": "R",
-        "answer": "Radikal"
+        "answer": "Reva"
     },
     {
-        "id": 1235,
-        "question": "Karaciğer tarafından üretilen sindirim sıvısı",
+        "id": 408,
+        "question": "Bir müzik parçasının bir kişi tarafından söylenmesi veya çalınması",
         "letter": "S",
-        "answer": "Safra, safra sıvısı"
+        "answer": "solo"
     },
     {
-        "id": 419,
-        "question": "Yetki ve sorumluluğu olan, yöneten kimse",
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
         "letter": "Ş",
-        "answer": "şef"
+        "answer": "şirket"
     },
     {
-        "id": 436,
-        "question": "Bir taşınmazın üstündeki mülkiyet hakkını gösteren belge",
+        "id": 64,
+        "question": "Hava sıcaklığını ölçmeye yarayan alet",
         "letter": "T",
-        "answer": "tapu, tapu belgesi"
+        "answer": "termometre"
     },
     {
-        "id": 1564,
-        "question": "Aklında kalmamak, hatırlamamak",
+        "id": 778,
+        "question": "Zafer, Üstünlük Sağlama, Yenme",
         "letter": "U",
-        "answer": "Unutmak, unutma"
+        "answer": "utku"
     },
     {
-        "id": 1473,
-        "question": "Oyunda, yenilmek, kaybetmek",
+        "id": 1468,
+        "question": "Güvercinlerden, korularda yaşayan, eti için avlanan, boz renkli bir kuş (Streptopelia turtur)",
         "letter": "Ü",
-        "answer": "Ütülmek"
+        "answer": "Üveyik"
     },
     {
-        "id": 1567,
-        "question": "Miras bırakılan kimse, mirasçı",
+        "id": 866,
+        "question": "Futbolda Top Yere Değmeden Yapılan Vuruş",
         "letter": "V",
-        "answer": "Varis"
+        "answer": "Vole"
     },
     {
-        "id": 839,
-        "question": "Sayıyı yukarı ya da aşağı değiştirerek tüm sayı haline getirme",
+        "id": 716,
+        "question": "Gidilen yerde geceyi geçirme",
         "letter": "Y",
-        "answer": "Yuvarlama, Yuvarlamak"
+        "answer": "Yatı, Yatıya kalma, Yatıya kalmak"
     },
     {
-        "id": 1595,
-        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "id": 1589,
+        "question": "Çok küçük parçacık",
         "letter": "Z",
-        "answer": "Zonklama, zonklamak"
+        "answer": "Zerre"
     }
 ]

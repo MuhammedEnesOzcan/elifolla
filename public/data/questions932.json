@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1670,
+        "question": "Bir ülkede ayrı soydan veya inançtan olan ve sayıca az bulunan topluluk",
+        "letter": "A",
+        "answer": "Azınlık"
+    },
+    {
+        "id": 141,
+        "question": "Karşılıksız, emeksiz, parasız elde edilen, müft",
+        "letter": "B",
+        "answer": "beleş, bedava"
+    },
+    {
+        "id": 532,
+        "question": "Heyecanlı, coşkulu ve atik kimse",
+        "letter": "C",
+        "answer": "Cevval"
+    },
+    {
+        "id": 547,
+        "question": "Atomda proton ve nötronun bulunduğu merkezi kısım",
+        "letter": "Ç",
+        "answer": "Çekirdek"
+    },
+    {
+        "id": 1392,
+        "question": "Aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü",
+        "letter": "D",
+        "answer": "Dosya, doküman"
+    },
+    {
+        "id": 1409,
+        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
+        "letter": "E",
+        "answer": "Ergonomik"
+    },
+    {
+        "id": 1915,
+        "question": "DUYGUSAL İLİŞKİLERDE SINAMA VE SINANMA EVRESİ",
+        "letter": "F",
+        "answer": "Flört"
+    },
+    {
+        "id": 1426,
+        "question": "İspiyonlamak",
+        "letter": "G",
+        "answer": "Gammazlamak"
+    },
+    {
+        "id": 252,
+        "question": "Niteliği değişmemiş, aslına uygun olan",
+        "letter": "H",
+        "answer": "hakiki"
+    },
+    {
+        "id": 257,
+        "question": "Örnek alınan, en çok hayranlık duyulan kimse",
+        "letter": "İ",
+        "answer": "idol"
+    },
+    {
+        "id": 610,
+        "question": "Araştırma ve incelemede yararlanılan belge, referans",
+        "letter": "K",
+        "answer": "Kaynak"
+    },
+    {
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
+        "letter": "L",
+        "answer": "leziz"
+    },
+    {
+        "id": 632,
+        "question": "Ara, aralık, uzaklık",
+        "letter": "M",
+        "answer": "Mesafe"
+    },
+    {
+        "id": 326,
+        "question": "Açık seçik olan, anlaşılmaz yanı bulunmayan",
+        "letter": "N",
+        "answer": "net"
+    },
+    {
+        "id": 653,
+        "question": "Yaş bakımından üç kardeşin büyüğü ile küçüğü arasında bulunan",
+        "letter": "O",
+        "answer": "Ortanca, ortanca çocuk, ortanca kardeş"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 822,
+        "question": "Haftanın belli günleri seyyar satıcıların sergi açtıkları sokak veya alan",
+        "letter": "P",
+        "answer": "Pazar, Pazaryeri"
+    },
+    {
+        "id": 1037,
+        "question": "Aruz ölçülerinden biri",
+        "letter": "R",
+        "answer": "Remel"
+    },
+    {
+        "id": 765,
+        "question": "İşlerine önem vermeyen, ihmalkâr",
+        "letter": "S",
+        "answer": "Savsak"
+    },
+    {
+        "id": 701,
+        "question": "Bir kara yolunda trafik çizgileri ile ayrılmış bölümlerden her biri",
+        "letter": "Ş",
+        "answer": "Şerit"
+    },
+    {
+        "id": 767,
+        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "letter": "T",
+        "answer": "Takılmak"
+    },
+    {
+        "id": 1077,
+        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "letter": "U",
+        "answer": "ucuz"
+    },
+    {
+        "id": 465,
+        "question": "Bilim veya sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "üstat, üstad"
+    },
+    {
+        "id": 867,
+        "question": "Elektromotor Gücün Ya Da Gerilimin Birimi",
+        "letter": "V",
+        "answer": "Volt"
+    },
+    {
+        "id": 733,
+        "question": "Alışamamak, yabancılık çekmek",
+        "letter": "Y",
+        "answer": "Yadırgama, Yadırgamak"
+    },
+    {
+        "id": 1167,
+        "question": "En yüksek nokta, tepe",
+        "letter": "Z",
+        "answer": "Zirve"
+    }
+]

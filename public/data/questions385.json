@@ -1,0 +1,158 @@
+[
+    {
+        "id": 120,
+        "question": "Rütbeyi göstermek için üniformaların omuzlarına takılan işaretli parça",
+        "letter": "A",
+        "answer": "apolet"
+    },
+    {
+        "id": 1083,
+        "question": "Erkek kümes hayvanlarının en iri ve yaşlı olanı",
+        "letter": "B",
+        "answer": "Babaç"
+    },
+    {
+        "id": 535,
+        "question": "Gerçekten, hakikaten anlamlarındaki bir söz",
+        "letter": "C",
+        "answer": "Cidden"
+    },
+    {
+        "id": 1762,
+        "question": "Her zaman menfaati doğrultusunda hareket eden kişi",
+        "letter": "Ç",
+        "answer": "Çıkarcı"
+    },
+    {
+        "id": 548,
+        "question": "Şeker hastalığı",
+        "letter": "D",
+        "answer": "Diyabet"
+    },
+    {
+        "id": 1092,
+        "question": "Yemiş koparırken dalları çekmeye veya kovandan bal almaya yarayan araç",
+        "letter": "E",
+        "answer": "Eğiç"
+    },
+    {
+        "id": 752,
+        "question": "Anlayış, seziş, sezgi",
+        "letter": "F",
+        "answer": "Feraset"
+    },
+    {
+        "id": 90,
+        "question": "Retina ve iris bulunan organımız",
+        "letter": "G",
+        "answer": "göz"
+    },
+    {
+        "id": 1225,
+        "question": "Özel olarak, özel bir biçimde",
+        "letter": "H",
+        "answer": "Hususi"
+    },
+    {
+        "id": 1944,
+        "question": "BİR ESERİN ARKASINDA YER ALAN ALFABETİK LİSTE",
+        "letter": "İ",
+        "answer": "İndeks"
+    },
+    {
+        "id": 1206,
+        "question": "Güzel yazı yazma sanatı",
+        "letter": "K",
+        "answer": "Kaligrafi"
+    },
+    {
+        "id": 1832,
+        "question": "PORTATİF KÜÇÜK ÇOCUK TUVALETİ",
+        "letter": "L",
+        "answer": "Lazımlık"
+    },
+    {
+        "id": 1619,
+        "question": "Bir eserde sık sık tekrarlanan süsleyici öge",
+        "letter": "M",
+        "answer": "Motif"
+    },
+    {
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "letter": "N",
+        "answer": "Noter"
+    },
+    {
+        "id": 1736,
+        "question": "Elektrik sinyallerini görselleştirmek, ölçmek ve analiz etmek için kullanılan cihaz",
+        "letter": "O",
+        "answer": "Osiloskop"
+    },
+    {
+        "id": 358,
+        "question": "Bir vakitte yenilen yemek",
+        "letter": "Ö",
+        "answer": "öğün"
+    },
+    {
+        "id": 1023,
+        "question": "Baykuşgillerden, orman, dağ ve kayalıklarda yaşayan, uzunluğu 65 cm, sırtı koyu kahverengi bir kuş türü",
+        "letter": "P",
+        "answer": "Puhu"
+    },
+    {
+        "id": 764,
+        "question": "Selam ya da teşekkür anlamına eğilme ya da diz kırma biçiminde yapılan hareket",
+        "letter": "R",
+        "answer": "Reverans"
+    },
+    {
+        "id": 1232,
+        "question": "Yanılarak, yanlışlıkla",
+        "letter": "S",
+        "answer": "Sehven"
+    },
+    {
+        "id": 1682,
+        "question": "Çorba ve pilavda kullanılan, türlü biçimlerde kesilerek kurutulmuş buğday unu hamuru",
+        "letter": "Ş",
+        "answer": "Şehriye"
+    },
+    {
+        "id": 720,
+        "question": "Tutum, idareli tüketme",
+        "letter": "T",
+        "answer": "Tasarruf, Tasaruf"
+    },
+    {
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "letter": "U",
+        "answer": "uyruk"
+    },
+    {
+        "id": 725,
+        "question": "Birci, birlikten yana olan, tekil, birimsel",
+        "letter": "Ü",
+        "answer": "Üniter"
+    },
+    {
+        "id": 1506,
+        "question": "Geliş, gelme",
+        "letter": "V",
+        "answer": "Vürut"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 1143,
+        "question": "Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim",
+        "letter": "Z",
+        "answer": "Zabıta"
+    }
+]

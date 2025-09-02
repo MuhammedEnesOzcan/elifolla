@@ -1,0 +1,158 @@
+[
+    {
+        "id": 75,
+        "question": "Dünya'nın en güneyinde yer alan kıta",
+        "letter": "A",
+        "answer": "Antarktika, Antartika"
+    },
+    {
+        "id": 959,
+        "question": "Egemenliğini tanıma",
+        "letter": "B",
+        "answer": "biat, biat etme, biat etmek"
+    },
+    {
+        "id": 157,
+        "question": "Alımlı, uygun",
+        "letter": "C",
+        "answer": "cazip"
+    },
+    {
+        "id": 539,
+        "question": "Adı çözen kişilerce konulmuş olan iplik demeti",
+        "letter": "Ç",
+        "answer": "Çile"
+    },
+    {
+        "id": 1387,
+        "question": "Oyunda, atılan zarlardan ikisinin de beş benekli yüzünün üste gelmesi",
+        "letter": "D",
+        "answer": "Dübeş"
+    },
+    {
+        "id": 1219,
+        "question": "Çok uzak ve yabancı ülkelerle ilgili ya da böyle ülkelerden gelmiş, getirilmiş",
+        "letter": "E",
+        "answer": "Egzotik, ekzotik"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 1426,
+        "question": "İspiyonlamak",
+        "letter": "G",
+        "answer": "Gammazlamak"
+    },
+    {
+        "id": 1248,
+        "question": "Pandemiyle hayatımıza girmiş, eğitimin hem çevrimiçi hem de yüzyüze yapılması durumu",
+        "letter": "H",
+        "answer": "Hibrit, hibrit eğitim"
+    },
+    {
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
+        "letter": "İ",
+        "answer": "İşletme"
+    },
+    {
+        "id": 285,
+        "question": "Taşıtların uğrayacakları kazadan doğacak zararların tamamının karşılanması için yapılan sigorta türü",
+        "letter": "K",
+        "answer": "kasko, kasko sigortası"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 632,
+        "question": "Ara, aralık, uzaklık",
+        "letter": "M",
+        "answer": "Mesafe"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 1534,
+        "question": "Bir alışveriş ilişkisinde, borcu alacaklıya vermek, tediye etmek",
+        "letter": "Ö",
+        "answer": "Ödemek, Ödeme, ödeme yapma, ödeme yapmak"
+    },
+    {
+        "id": 376,
+        "question": "Bir başkasına bağımlılığı olan",
+        "letter": "P",
+        "answer": "peyk"
+    },
+    {
+        "id": 1634,
+        "question": "Hindistan, Nepal, Pakistan'da kullanılan para birimi",
+        "letter": "R",
+        "answer": "Rupi"
+    },
+    {
+        "id": 691,
+        "question": "Hastayı bulunduğu hastaneden başka bir yere gönderme",
+        "letter": "S",
+        "answer": "Sevk, Sevk etme, Sevk etmek"
+    },
+    {
+        "id": 432,
+        "question": "Belli bir amaçla düzenlenen eğlence",
+        "letter": "Ş",
+        "answer": "şölen, şenlik"
+    },
+    {
+        "id": 1819,
+        "question": "Askerlik görevini bitirenleri ordudan bırakma",
+        "letter": "T",
+        "answer": "Terhis, terhis olma, terhis olmak, terhis etme, terhis etmek"
+    },
+    {
+        "id": 1513,
+        "question": "Bir nesnenin uzayda kapladığı yer, vüsat",
+        "letter": "U",
+        "answer": "Uzam"
+    },
+    {
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
+        "letter": "Ü",
+        "answer": "Üzenti"
+    },
+    {
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
+        "letter": "V",
+        "answer": "Virüs"
+    },
+    {
+        "id": 1584,
+        "question": "Bir işten elde edilen iyi sonuç, fayda",
+        "letter": "Y",
+        "answer": "Yarar"
+    },
+    {
+        "id": 739,
+        "question": "Gerçekleşeceği düşünülmeyen, hesapta olmayan, umulmadık",
+        "letter": "Z",
+        "answer": "Zuhurat, Zuhurât"
+    }
+]

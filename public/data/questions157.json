@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1727,
+        "question": "Ay yüzeyine yapılan ilk insanlı uzay uçuşu projesi",
+        "letter": "A",
+        "answer": "Apollo, apollo 11"
+    },
+    {
+        "id": 1766,
+        "question": "Dal, kol, bölüm; ihtisas alanı",
+        "letter": "B",
+        "answer": "Branş"
+    },
+    {
+        "id": 1371,
+        "question": "Hayvanlarda tür, çeşit",
+        "letter": "C",
+        "answer": "Cins, cinsleri"
+    },
+    {
+        "id": 1548,
+        "question": "Eli veya kolu sakat olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çolak"
+    },
+    {
+        "id": 1393,
+        "question": "Taşıma araçlarındaki kasa",
+        "letter": "D",
+        "answer": "Dorse"
+    },
+    {
+        "id": 1236,
+        "question": "Gizlerle, sırlarla örtülü olan, gizemli",
+        "letter": "E",
+        "answer": "Esrarengiz"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
+        "letter": "G",
+        "answer": "Gelir"
+    },
+    {
+        "id": 594,
+        "question": "Sınır, uç noktası",
+        "letter": "H",
+        "answer": "Hudut"
+    },
+    {
+        "id": 1609,
+        "question": "Bir sonuç çıkarmak için verileri yöntemli bir biçimde toplayıp sayı olarak belirtme",
+        "letter": "İ",
+        "answer": "İstatistik, istatistik bilimi, istatistik çıkarma, istatistik çıkarmak"
+    },
+    {
+        "id": 1928,
+        "question": "ADI MECAZEN, CASUSLUK VE HAİNLİKLE ÖZDEŞLEŞEN BİR MEMELİ HAYVAN",
+        "letter": "K",
+        "answer": "Köstebek"
+    },
+    {
+        "id": 1457,
+        "question": "Elektronikte erime noktaları düşük metalleri tutturma işlemi",
+        "letter": "L",
+        "answer": "Lehim, lehimleme, lehimlemek, lehin yapma, lehim yapmak"
+    },
+    {
+        "id": 313,
+        "question": "Ara verme, duraklama",
+        "letter": "M",
+        "answer": "mola"
+    },
+    {
+        "id": 640,
+        "question": "Söz, konuşma, söylev",
+        "letter": "N",
+        "answer": "Nutuk, Nutuk okuma, Nutuk okumak"
+    },
+    {
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "letter": "O",
+        "answer": "Orada, orda"
+    },
+    {
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
+        "letter": "Ö",
+        "answer": "Öbür, Öbürü"
+    },
+    {
+        "id": 1012,
+        "question": "İç içe geçen veya birbiri üzerine gelen parçaları tutturmaya yarayan bir tür tahta veya metal çivi",
+        "letter": "P",
+        "answer": "Pim"
+    },
+    {
+        "id": 1036,
+        "question": "Hayvanın başlığı, yuları ve gemi",
+        "letter": "R",
+        "answer": "Reşme"
+    },
+    {
+        "id": 765,
+        "question": "İşlerine önem vermeyen, ihmalkâr",
+        "letter": "S",
+        "answer": "Savsak"
+    },
+    {
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
+        "letter": "Ş",
+        "answer": "Şahsiyet"
+    },
+    {
+        "id": 1847,
+        "question": "İRİ İRİ DOĞRANMIŞ İŞKEMBEDEN YAPILAN BİR TÜR ÇORBA",
+        "letter": "T",
+        "answer": "Tuzlama, Tuzlama çorba, Tuzlama çorbası"
+    },
+    {
+        "id": 1079,
+        "question": "Birinin yapmakla yükümlü olduğu iş, görev",
+        "letter": "U",
+        "answer": "uhde"
+    },
+    {
+        "id": 714,
+        "question": "En fazla çeşide sahip olan meyve türü",
+        "letter": "Ü",
+        "answer": "Üzüm"
+    },
+    {
+        "id": 875,
+        "question": "Foseptik Kuyularındaki Pis Suları Çekmeye Yarayan Makine",
+        "letter": "V",
+        "answer": "Vidanjör, vıdanjor"
+    },
+    {
+        "id": 1579,
+        "question": "Bir işte hiyerarşik düzende daha üstte bulunan, karar verme hakkına sahip olan, daha tecrübeli kimse",
+        "letter": "Y",
+        "answer": "Yetkili, yetki sahibi"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1658,
+        "question": "Bilginler, yazarlar, sanatçılar kurulu",
+        "letter": "A",
+        "answer": "Akademi"
+    },
+    {
+        "id": 1602,
+        "question": "Alım ve de satım işleri ile ilgilenmekte olan şirketlere aracılıklar yapan komisyoncu",
+        "letter": "B",
+        "answer": "Broker"
+    },
+    {
+        "id": 1530,
+        "question": "Adam öldürme",
+        "letter": "C",
+        "answer": "Cinayet"
+    },
+    {
+        "id": 547,
+        "question": "Atomda proton ve nötronun bulunduğu merkezi kısım",
+        "letter": "Ç",
+        "answer": "Çekirdek"
+    },
+    {
+        "id": 198,
+        "question": "Başkalarını çekiştirmek ve kınamak üzere yapılan konuşma, gıybet",
+        "letter": "D",
+        "answer": "dedikodu"
+    },
+    {
+        "id": 1267,
+        "question": "Rüzgarın bir yönden diğer yöne akması durumu",
+        "letter": "E",
+        "answer": "Esmek, esmesi, esme, esinti"
+    },
+    {
+        "id": 220,
+        "question": "Belirli nesneler veya durumlar karşısında duyulan olağan dışı güçlü korku",
+        "letter": "F",
+        "answer": "fobi"
+    },
+    {
+        "id": 1896,
+        "question": "DÜZENSİZ, RAHATSIZ EDİCİ YÜKSEK SES VEYA SESLER BÜTÜNÜ",
+        "letter": "G",
+        "answer": "Gürültü"
+    },
+    {
+        "id": 1225,
+        "question": "Özel olarak, özel bir biçimde",
+        "letter": "H",
+        "answer": "Hususi"
+    },
+    {
+        "id": 1498,
+        "question": "Alınacak tedbirleri uygulamama, savsaklama",
+        "letter": "İ",
+        "answer": "İhmal, ihmalkarlık, ihmal etme, ihmal etmek"
+    },
+    {
+        "id": 26,
+        "question": "Dar dik yamaçlı ve derin vadi",
+        "letter": "K",
+        "answer": "Kanyon"
+    },
+    {
+        "id": 984,
+        "question": "Duvarları taş veya tuğladan, üstü taş bir kapakla örtülü mezar",
+        "letter": "L",
+        "answer": "Lahit"
+    },
+    {
+        "id": 1933,
+        "question": "SOMUT YASALARIN ÖTESİNDE OLAN BİR FELSEFE DALI",
+        "letter": "M",
+        "answer": "Metafizik"
+    },
+    {
+        "id": 328,
+        "question": "Tarafsız, yansız, eşit ya da ortada",
+        "letter": "N",
+        "answer": "nötr"
+    },
+    {
+        "id": 654,
+        "question": "Kendini kontrol edebilen sürücüsüz araç",
+        "letter": "O",
+        "answer": "Otonom, Otonom araç, Otonom araba"
+    },
+    {
+        "id": 361,
+        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
+        "letter": "Ö",
+        "answer": "önem"
+    },
+    {
+        "id": 382,
+        "question": "Ezerek veya süzgeçten geçirilerek elde edilmiş gıda",
+        "letter": "P",
+        "answer": "püre"
+    },
+    {
+        "id": 676,
+        "question": "Emek harcamadan elde edilen kazanım",
+        "letter": "R",
+        "answer": "Rant, Rantçılık"
+    },
+    {
+        "id": 1948,
+        "question": "MECAZEN, “AKIL SAĞLIĞINI YİTİRMEK” ANLAMINA GELEN SÖZ",
+        "letter": "S",
+        "answer": "Sıyırma, Sıyırmak"
+    },
+    {
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "letter": "Ş",
+        "answer": "Şakak"
+    },
+    {
+        "id": 1128,
+        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "letter": "T",
+        "answer": "tabak"
+    },
+    {
+        "id": 892,
+        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "letter": "U",
+        "answer": "Uzman"
+    },
+    {
+        "id": 1474,
+        "question": "Altyapı üzerine kurulan, oturmaya veya üretime yarayan yapıların tümü",
+        "letter": "Ü",
+        "answer": "Üstyapı"
+    },
+    {
+        "id": 1504,
+        "question": "Açık, aydın, belli",
+        "letter": "V",
+        "answer": "Vazıh"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 736,
+        "question": "\"Kara Kekik\" olarak bilinen yabani ot çeşidi, baharat",
+        "letter": "Z",
+        "answer": "Zahter, zahter otu"
+    }
+]

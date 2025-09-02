@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1820,
+        "question": "Giysiyi bütünleyen çanta, kemer vb. gibi şeyler",
+        "letter": "A",
+        "answer": "Aksesuar, Aksessuar"
+    },
+    {
+        "id": 148,
+        "question": "Bir müzik eserini oluşturan ezgilerin bütünü",
+        "letter": "B",
+        "answer": "beste"
+    },
+    {
+        "id": 789,
+        "question": "Bir maddenin özü, değerli taş",
+        "letter": "C",
+        "answer": "Cevher"
+    },
+    {
+        "id": 791,
+        "question": "Kim olduğunu hatırlamak, tanımak",
+        "letter": "Ç",
+        "answer": "Çıkarma, Çıkarmak"
+    },
+    {
+        "id": 1210,
+        "question": "Ayın tamamlanmış hali, parlak tam ay",
+        "letter": "D",
+        "answer": "Dolunay"
+    },
+    {
+        "id": 1404,
+        "question": "Kanunlar yönünden insanlar arasında ayrım bulunmaması durumu",
+        "letter": "E",
+        "answer": "Eşitlik, eşitlik hakkı"
+    },
+    {
+        "id": 21,
+        "question": "Ağlayıp sızlama, bağırıp çağırma",
+        "letter": "F",
+        "answer": "Feryat, Figan, Feryat figan"
+    },
+    {
+        "id": 1745,
+        "question": "Zengin maden yatakları sebebiyle bir zamanlar \"altın sahili\" ismiyle anılan Afrika ülkesi",
+        "letter": "G",
+        "answer": "Gana, Ghana"
+    },
+    {
+        "id": 1853,
+        "question": "METAL, PLASTİK VEYA AHŞAPTAN YAPILMIŞ ÇEŞİTLİ KULLANIM ALANLARI OLAN ÇEMBER",
+        "letter": "H",
+        "answer": "Halka"
+    },
+    {
+        "id": 261,
+        "question": "Bildirme, bildirim, haber verme",
+        "letter": "İ",
+        "answer": "ihbar, ihbar etme, ihbar etmek"
+    },
+    {
+        "id": 1222,
+        "question": "Damla, damlayan şey",
+        "letter": "K",
+        "answer": "Katre"
+    },
+    {
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "letter": "L",
+        "answer": "Logo"
+    },
+    {
+        "id": 758,
+        "question": "Eksiksiz, kusursuz ve yetkin durumda olan",
+        "letter": "M",
+        "answer": "Mükemmel, müthiş"
+    },
+    {
+        "id": 1767,
+        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
+        "letter": "N",
+        "answer": "Numara, Numara yapma, Numara yapmak"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 354,
+        "question": "Dokularda, hücreler arası boşluklarda aşırı miktarda sıvı birikmesi",
+        "letter": "Ö",
+        "answer": "ödem"
+    },
+    {
+        "id": 384,
+        "question": "Çeşitli sporlarda kullanılan ölçüsü ve değeri değişken birim",
+        "letter": "P",
+        "answer": "puan"
+    },
+    {
+        "id": 393,
+        "question": "Gemi, tren, kışla, yatılı okul vb. yerlerde üst üste yapılan yatak yeri",
+        "letter": "R",
+        "answer": "ranza"
+    },
+    {
+        "id": 1124,
+        "question": "Acı, yoksulluk, haksızlık vb. üzücü durumlar karşısında ses çıkarmadan onların geçmesini bekleme erdemi, dayanç",
+        "letter": "S",
+        "answer": "sabır"
+    },
+    {
+        "id": 1679,
+        "question": "Ulusal ve uluslararası bir yarışmada ilk dereceyi alan, birinci olan kimse veya takım",
+        "letter": "Ş",
+        "answer": "Şampiyon"
+    },
+    {
+        "id": 1750,
+        "question": "Dini referanslar dikkate alınarak yönetilen hükümet sistemi",
+        "letter": "T",
+        "answer": "Teokrasi"
+    },
+    {
+        "id": 456,
+        "question": "Gökyüzünde tanımlanamayan cisim",
+        "letter": "U",
+        "answer": "ufo"
+    },
+    {
+        "id": 1474,
+        "question": "Altyapı üzerine kurulan, oturmaya veya üretime yarayan yapıların tümü",
+        "letter": "Ü",
+        "answer": "Üstyapı"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 496,
+        "question": "Enerji ve ısı ortaya çıkaran yanıcı madde",
+        "letter": "Y",
+        "answer": "yakıt"
+    },
+    {
+        "id": 498,
+        "question": "Bir şeyin fiyatını artırma, bindirim",
+        "letter": "Z",
+        "answer": "zam"
+    }
+]

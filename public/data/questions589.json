@@ -1,0 +1,158 @@
+[
+    {
+        "id": 105,
+        "question": "Işık saçacak beyazlığa varıncaya kadar ısıtılmış olan",
+        "letter": "A",
+        "answer": "akkor"
+    },
+    {
+        "id": 1862,
+        "question": "BİR EYLEMİ PERVASIZCA, ÇEKİNMEDEN VE SAKINMADAN YAPMAK",
+        "letter": "B",
+        "answer": "Bodoslama"
+    },
+    {
+        "id": 1309,
+        "question": "Canlı, neşeli ve sokulgan",
+        "letter": "C",
+        "answer": "Civelek"
+    },
+    {
+        "id": 544,
+        "question": "Derme çatma çadır, göçebe çadırı",
+        "letter": "Ç",
+        "answer": "Çerge"
+    },
+    {
+        "id": 185,
+        "question": "Evlerde çocuğa bakan kimse, daye",
+        "letter": "D",
+        "answer": "dadı"
+    },
+    {
+        "id": 1404,
+        "question": "Kanunlar yönünden insanlar arasında ayrım bulunmaması durumu",
+        "letter": "E",
+        "answer": "Eşitlik, eşitlik hakkı"
+    },
+    {
+        "id": 575,
+        "question": "Ses, akım vb. için birim zamandaki titreşim sayısı, titreşim sıklığı",
+        "letter": "F",
+        "answer": "Frekans"
+    },
+    {
+        "id": 584,
+        "question": "Seçkin, seçilmiş, seçme",
+        "letter": "G",
+        "answer": "Güzide, Gûzide"
+    },
+    {
+        "id": 1496,
+        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "letter": "H",
+        "answer": "Hamak"
+    },
+    {
+        "id": 258,
+        "question": "Bir konuda birinin inanmasını sağlama, inandırma, kandırma",
+        "letter": "İ",
+        "answer": "ikna"
+    },
+    {
+        "id": 1233,
+        "question": "Bir düzlemdeki konum, coğrafik konum",
+        "letter": "K",
+        "answer": "Koordinat, kordinat"
+    },
+    {
+        "id": 621,
+        "question": "Kelime, sözlük",
+        "letter": "L",
+        "answer": "Lügat, Lugat, Lûgat"
+    },
+    {
+        "id": 1892,
+        "question": "Bilgisayarın telefon hattına bağlanarak internete bağlanmasını sağlayan aygıt",
+        "letter": "M",
+        "answer": "Modem"
+    },
+    {
+        "id": 638,
+        "question": "Sıklığı az olan, seyrek",
+        "letter": "N",
+        "answer": "Nadir"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 659,
+        "question": "Nesnelerin gerçeğine değil, bireyin düşünce ve duygularına dayanan",
+        "letter": "Ö",
+        "answer": "Öznel"
+    },
+    {
+        "id": 1271,
+        "question": "\"Sokrates'in Savunması\" adlı eseri yazan ünlü filozof",
+        "letter": "P",
+        "answer": "Platon"
+    },
+    {
+        "id": 1273,
+        "question": "Yedi renkli yüzeyi olan zeka geliştirici küp oyuncak",
+        "letter": "R",
+        "answer": "Rubik, rubik küp, rubik küpü, rubik kübü"
+    },
+    {
+        "id": 415,
+        "question": "Bir şey bildirmek için verilen işaret",
+        "letter": "S",
+        "answer": "sinyal"
+    },
+    {
+        "id": 1126,
+        "question": "Düşen su damlasının çıkardığı ses",
+        "letter": "Ş",
+        "answer": "şıp"
+    },
+    {
+        "id": 704,
+        "question": "Kaynak aracılığıyla doğrulama, kontrol etme",
+        "letter": "T",
+        "answer": "Teyit, teyit etme, teyit etmek"
+    },
+    {
+        "id": 1068,
+        "question": "Çok uzun",
+        "letter": "U",
+        "answer": "upuzun"
+    },
+    {
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
+        "letter": "Ü",
+        "answer": "üvey"
+    },
+    {
+        "id": 471,
+        "question": "Bir işi yerine getirmek için verilen söz",
+        "letter": "V",
+        "answer": "vaat"
+    },
+    {
+        "id": 884,
+        "question": "Soğanlı et yemeği",
+        "letter": "Y",
+        "answer": "Yahni"
+    },
+    {
+        "id": 1142,
+        "question": "Aşırı deli, çılgın",
+        "letter": "Z",
+        "answer": "Zırdeli, zırzop"
+    }
+]

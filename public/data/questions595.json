@@ -1,0 +1,158 @@
+[
+    {
+        "id": 85,
+        "question": "Şubatın 29 çektiği yıla ne denir",
+        "letter": "A",
+        "answer": "Artık yıl, Artık"
+    },
+    {
+        "id": 1352,
+        "question": "Ağırlıkları tartmaya yarayan alet, kantar",
+        "letter": "B",
+        "answer": "Baskül"
+    },
+    {
+        "id": 1086,
+        "question": "Şehir içinde ana yol",
+        "letter": "C",
+        "answer": "cadde"
+    },
+    {
+        "id": 181,
+        "question": "Silahlı büyük kavga, arbede",
+        "letter": "Ç",
+        "answer": "çatışma"
+    },
+    {
+        "id": 1382,
+        "question": "Bedensel veya ruhsal dengenin değişmesi sonucu ortaya çıkan ve canlıyı türlü tepkilere sürükleyebilen içten gelen gerilim",
+        "letter": "D",
+        "answer": "Dürtü"
+    },
+    {
+        "id": 1091,
+        "question": "Bireyler, fertler",
+        "letter": "E",
+        "answer": "Efrat"
+    },
+    {
+        "id": 218,
+        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+        "letter": "F",
+        "answer": "file"
+    },
+    {
+        "id": 1436,
+        "question": "Yerkürenin geometrik olmayan gerçek biçimi",
+        "letter": "G",
+        "answer": "Geoit"
+    },
+    {
+        "id": 1225,
+        "question": "Özel olarak, özel bir biçimde",
+        "letter": "H",
+        "answer": "Hususi"
+    },
+    {
+        "id": 269,
+        "question": "Yararlanılan uygun şart veya durum, olanak",
+        "letter": "İ",
+        "answer": "imkan"
+    },
+    {
+        "id": 757,
+        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "letter": "K",
+        "answer": "Komisyon, Kar, Kâr"
+    },
+    {
+        "id": 983,
+        "question": "Deniz kulağı",
+        "letter": "L",
+        "answer": "Lagün"
+    },
+    {
+        "id": 1613,
+        "question": "Kaçınması ve öngörülmesi söz konusu olmayan neden",
+        "letter": "M",
+        "answer": "Mücbir, mücbir sebep, mücbir sebepler"
+    },
+    {
+        "id": 54,
+        "question": "Afrika'nın en uzun nehri",
+        "letter": "N",
+        "answer": "Nil, Nil nehri"
+    },
+    {
+        "id": 1677,
+        "question": "Defterde, bir araya getirilmiş belli sayıda yaprakların oluşturduğu bölümlerden oluşan",
+        "letter": "O",
+        "answer": "Ortalı, orta"
+    },
+    {
+        "id": 31,
+        "question": "Yaşam, hayat",
+        "letter": "Ö",
+        "answer": "Ömür"
+    },
+    {
+        "id": 1860,
+        "question": "\"HEMEN ARDINDAN\" ANLAMINDA KULLANILAN KELİME",
+        "letter": "P",
+        "answer": "Peşisıra, Peşpeşe"
+    },
+    {
+        "id": 1029,
+        "question": "Bir tiyatro sahnesinin önünde, ışık ve ışıldakların yerleştirildiği, izleyiciye en yakın yer",
+        "letter": "R",
+        "answer": "Ramp"
+    },
+    {
+        "id": 1125,
+        "question": "Düşen, düşmüş",
+        "letter": "S",
+        "answer": "sakıt"
+    },
+    {
+        "id": 898,
+        "question": "Oda İçinde Tuğla Ya Da Taşdan Yapılmış Ocak",
+        "letter": "Ş",
+        "answer": "Şömine, somine"
+    },
+    {
+        "id": 1060,
+        "question": "Türlü metallerden yapılmış, kopmaya karşı bir direnç gösteren ince uzun ip",
+        "letter": "T",
+        "answer": "tel"
+    },
+    {
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
+        "letter": "U",
+        "answer": "Uzman, Usta"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 480,
+        "question": "Yapılması gerekli olan",
+        "letter": "V",
+        "answer": "vacip"
+    },
+    {
+        "id": 1580,
+        "question": "Sınırlı bir yerle ilgili olan, bölgesel, lokal",
+        "letter": "Y",
+        "answer": "Yerel, yöresel"
+    },
+    {
+        "id": 853,
+        "question": "Kabe yakınında bulunan kuyu ve bu kuyunun Müslümanlarca kutsal sayılan suyu",
+        "letter": "Z",
+        "answer": "Zemzem"
+    }
+]

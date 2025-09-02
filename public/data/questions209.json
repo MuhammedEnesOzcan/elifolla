@@ -1,0 +1,158 @@
+[
+    {
+        "id": 103,
+        "question": "Süreli yayınları, parasını önceden ödeyerek alma işi",
+        "letter": "A",
+        "answer": "abone, abonelik, abone olma, abone olmak"
+    },
+    {
+        "id": 1354,
+        "question": "Evlilik hayatının ilk ayı veya ilk günleri",
+        "letter": "B",
+        "answer": "Balayı"
+    },
+    {
+        "id": 1376,
+        "question": "Bir soruya, bir isteğe, bir söz veya yazıya verilen karşılık, yanıt",
+        "letter": "C",
+        "answer": "Cevap, cevap verme, cevap vermek, cevaplama, cevaplamak"
+    },
+    {
+        "id": 540,
+        "question": "Sözlerin veya davranışların birbirini tutmaması",
+        "letter": "Ç",
+        "answer": "Çelişki"
+    },
+    {
+        "id": 749,
+        "question": "Dozu düzenleme, ayarlama",
+        "letter": "D",
+        "answer": "dozaj"
+    },
+    {
+        "id": 203,
+        "question": "Emek sonucu ortaya konan ürün, yapıt",
+        "letter": "E",
+        "answer": "eser"
+    },
+    {
+        "id": 799,
+        "question": "Yürekler acısı, trajik anlamındaki söz",
+        "letter": "F",
+        "answer": "Feci, facia"
+    },
+    {
+        "id": 1423,
+        "question": "Gök gözlemleri yapan, gök cisimlerini ve olaylarını inceleyen yer, rasathane",
+        "letter": "G",
+        "answer": "Gözlemevi"
+    },
+    {
+        "id": 89,
+        "question": "Bir şirketin ortaklarından her biri",
+        "letter": "H",
+        "answer": "hissedar"
+    },
+    {
+        "id": 53,
+        "question": "Yemek yeme isteği",
+        "letter": "İ",
+        "answer": "İştah"
+    },
+    {
+        "id": 1255,
+        "question": "Başparmak piyanosu da denen müzik aleti",
+        "letter": "K",
+        "answer": "Kalimba"
+    },
+    {
+        "id": 1456,
+        "question": "Bir kimseye uygun olan, yaraşan",
+        "letter": "L",
+        "answer": "Layık, layığı"
+    },
+    {
+        "id": 627,
+        "question": "Vapur hatlarında yolculuk yapanların genellikle simitle beslediği kuş",
+        "letter": "M",
+        "answer": "Martı"
+    },
+    {
+        "id": 326,
+        "question": "Açık seçik olan, anlaşılmaz yanı bulunmayan",
+        "letter": "N",
+        "answer": "net"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "letter": "Ö",
+        "answer": "Örk"
+    },
+    {
+        "id": 1019,
+        "question": "Telli sazları çalmaya yarayan ve kemik, boynuz vb. şeylerden yapılan çalma aracı, mızrap, çalgıç",
+        "letter": "P",
+        "answer": "pena"
+    },
+    {
+        "id": 1644,
+        "question": "Medya sektöründe bir yayını yöneten ekip",
+        "letter": "R",
+        "answer": "Reji, reji ekibi"
+    },
+    {
+        "id": 1756,
+        "question": "Alt anlamı kimse, insan, tip olan Farsça kökenli kelime",
+        "letter": "S",
+        "answer": "Sima"
+    },
+    {
+        "id": 1678,
+        "question": "Almanya ve Avusturya'da hükûmet başkanı ünvanı",
+        "letter": "Ş",
+        "answer": "Şansölye"
+    },
+    {
+        "id": 1903,
+        "question": "YUMUŞAK ÇELİKTEN YAPILMIŞ ÜZERİ KALAY KAPLI İNCE SAC",
+        "letter": "T",
+        "answer": "Teneke"
+    },
+    {
+        "id": 1070,
+        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
+        "letter": "U",
+        "answer": "Uçkun"
+    },
+    {
+        "id": 469,
+        "question": "Ayrıca, bir de, bundan başka",
+        "letter": "Ü",
+        "answer": "üstelik"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 1237,
+        "question": "\"Veya, ya da\" eş anlamlısı",
+        "letter": "Y",
+        "answer": "Yahut"
+    },
+    {
+        "id": 499,
+        "question": "Zor kullanarak ele geçirme",
+        "letter": "Z",
+        "answer": "zapt, zapt etme, zapt etmek"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 104,
+        "question": "Bir kaynağa dayanmayan, hayali",
+        "letter": "A",
+        "answer": "afaki, afâki"
+    },
+    {
+        "id": 42,
+        "question": "Türk halk müziğinde en çok popüler telli çalgı",
+        "letter": "B",
+        "answer": "Bağlama"
+    },
+    {
+        "id": 530,
+        "question": "Gösterişli, şatafatlı",
+        "letter": "C",
+        "answer": "Cafcaf, cafcaflı"
+    },
+    {
+        "id": 1546,
+        "question": "Ucu topuzlu değnek",
+        "letter": "Ç",
+        "answer": "Çomak"
+    },
+    {
+        "id": 1929,
+        "question": "ARGODA, “CEZAEVİ, HAPİSHANE” ANLAMINDA KULLANILAN SÖZCÜK",
+        "letter": "D",
+        "answer": "Delik"
+    },
+    {
+        "id": 1410,
+        "question": "Mal ve değerlere ait döküm",
+        "letter": "E",
+        "answer": "Envanter"
+    },
+    {
+        "id": 217,
+        "question": "Çalışır durumda olan, etkin",
+        "letter": "F",
+        "answer": "faal"
+    },
+    {
+        "id": 86,
+        "question": "Sinema, stad gibi etkinlik alanlarında bilet alınan yer",
+        "letter": "G",
+        "answer": "gişe"
+    },
+    {
+        "id": 587,
+        "question": "Hem ev, konut hem de ev halkı anlamında kullanılan bir söz",
+        "letter": "H",
+        "answer": "Hane"
+    },
+    {
+        "id": 1497,
+        "question": "Ülke adına makamlara sunulmak üzere toplanmış taktik içerikli bilgiler",
+        "letter": "İ",
+        "answer": "İstihbarat"
+    },
+    {
+        "id": 977,
+        "question": "Başlık, sipersiz şapka",
+        "letter": "K",
+        "answer": "Kep"
+    },
+    {
+        "id": 615,
+        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
+        "letter": "L",
+        "answer": "Lümpen"
+    },
+    {
+        "id": 319,
+        "question": "Bir olayın, bir durumun etkisinde veya karşısında bulunan",
+        "letter": "M",
+        "answer": "maruz, maruz kalan"
+    },
+    {
+        "id": 991,
+        "question": "Petrolden 100-250 °C arasında damıtılan ürün",
+        "letter": "N",
+        "answer": "Nafta"
+    },
+    {
+        "id": 761,
+        "question": "Canlıyı oluşturan organlar bütünü",
+        "letter": "O",
+        "answer": "Organizma"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 1264,
+        "question": "Arıların besin kaynağı, bitkilerin üreme organlarının başlıklarında bulunan üreme hücreleri",
+        "letter": "P",
+        "answer": "Polen"
+    },
+    {
+        "id": 1037,
+        "question": "Aruz ölçülerinden biri",
+        "letter": "R",
+        "answer": "Remel"
+    },
+    {
+        "id": 1921,
+        "question": "“EKSTREM” SÖZCÜĞÜNÜN KARŞILIĞI OLAN SÖZ DİZİSİ",
+        "letter": "S",
+        "answer": "Sıradışı"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 438,
+        "question": "Üzüntülü düşünce durumu, kaygı, endişe",
+        "letter": "T",
+        "answer": "tasa, tasalanma, tasalanmak"
+    },
+    {
+        "id": 723,
+        "question": "Uyuşma, mutabakat, konsensüs",
+        "letter": "U",
+        "answer": "Uzlaşı, uzlaşma, uzlaşmak"
+    },
+    {
+        "id": 864,
+        "question": "Olması istenmeyen olaylardan doğan ruh tedirginliği",
+        "letter": "Ü",
+        "answer": "Üzüntü"
+    },
+    {
+        "id": 471,
+        "question": "Bir işi yerine getirmek için verilen söz",
+        "letter": "V",
+        "answer": "vaat"
+    },
+    {
+        "id": 773,
+        "question": "Japon mafyası",
+        "letter": "Y",
+        "answer": "Yakuza"
+    },
+    {
+        "id": 1591,
+        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "letter": "Z",
+        "answer": "Zarar, ziyan"
+    }
+]

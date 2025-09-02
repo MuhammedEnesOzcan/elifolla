@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1656,
+        "question": "Alfabe sırasına göre dizilmiş",
+        "letter": "A",
+        "answer": "Alfabetik"
+    },
+    {
+        "id": 135,
+        "question": "Yapılan bir hizmete ödenen ücretten ayrı olarak fazladan verilen para",
+        "letter": "B",
+        "answer": "bahşiş"
+    },
+    {
+        "id": 1366,
+        "question": "Kümes hayvanlarının yumurtadan yeni çıkmış yavrusu",
+        "letter": "C",
+        "answer": "Civciv"
+    },
+    {
+        "id": 1540,
+        "question": "Sağlam ve dayanıklı olmayan",
+        "letter": "Ç",
+        "answer": "Çürük"
+    },
+    {
+        "id": 1941,
+        "question": "YAPILARIN KABA AĞAÇ İŞLERİNİ YAPAN USTA",
+        "letter": "D",
+        "answer": "Dülger, Dülger Ustası"
+    },
+    {
+        "id": 215,
+        "question": "Gündüz ile gecenin eşit olma durumu",
+        "letter": "E",
+        "answer": "ekinoks"
+    },
+    {
+        "id": 1292,
+        "question": "Bahçıvanlıkta, tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze ya da körpe çiçek",
+        "letter": "F",
+        "answer": "Fide"
+    },
+    {
+        "id": 1961,
+        "question": "SANAT ESERLERİNİN SERGİLENDİĞİ BÜYÜK SALON",
+        "letter": "G",
+        "answer": "Galeri"
+    },
+    {
+        "id": 1440,
+        "question": "Dildeki bir sesi gösteren ve alfabeyi oluşturan işaretlerden her biri",
+        "letter": "H",
+        "answer": "Harf"
+    },
+    {
+        "id": 258,
+        "question": "Bir konuda birinin inanmasını sağlama, inandırma, kandırma",
+        "letter": "İ",
+        "answer": "ikna"
+    },
+    {
+        "id": 276,
+        "question": "Yeterli, yetecek ölçüde olan",
+        "letter": "K",
+        "answer": "kafi, kâfi"
+    },
+    {
+        "id": 1832,
+        "question": "PORTATİF KÜÇÜK ÇOCUK TUVALETİ",
+        "letter": "L",
+        "answer": "Lazımlık"
+    },
+    {
+        "id": 1775,
+        "question": "ÇOK KÜÇÜK NESNELERİ VEYA ÇIPLAK GÖZLE GÖRÜLMEYENLERİ DAHA BELİRGİN DURUMA GETİRMEYE YARAYAN OPTİK ALET",
+        "letter": "M",
+        "answer": "Mikroskop"
+    },
+    {
+        "id": 929,
+        "question": "Tek ağızlı balta",
+        "letter": "N",
+        "answer": "Nacak"
+    },
+    {
+        "id": 30,
+        "question": "Düz ve geniş arazi",
+        "letter": "O",
+        "answer": "Ova"
+    },
+    {
+        "id": 662,
+        "question": "Yıpratmak, eskitmek, hırpalamak, zedelemek",
+        "letter": "Ö",
+        "answer": "Örselemek, örseleme"
+    },
+    {
+        "id": 88,
+        "question": "Üstüne mumlar konan doğum günü tatlısı",
+        "letter": "P",
+        "answer": "pasta"
+    },
+    {
+        "id": 1122,
+        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
+        "letter": "R",
+        "answer": "rapor"
+    },
+    {
+        "id": 1263,
+        "question": "Kadın veya çocuklarda en ince ses, sesi böyle olan sanatçı",
+        "letter": "S",
+        "answer": "Soprano"
+    },
+    {
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
+        "letter": "Ş",
+        "answer": "şakrak"
+    },
+    {
+        "id": 710,
+        "question": "Cep telefonu operatörlerinin belirledikleri fiyatlandırma sistemi",
+        "letter": "T",
+        "answer": "Tarife"
+    },
+    {
+        "id": 847,
+        "question": "Bir düşünceyi, bir tasarıyı ya da bir kuramı gerçekleştirme",
+        "letter": "U",
+        "answer": "Uygulama, uygulamak"
+    },
+    {
+        "id": 1315,
+        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "letter": "Ü",
+        "answer": "Ütopik"
+    },
+    {
+        "id": 39,
+        "question": "Güneş sistemindeki en sıcak gezegen",
+        "letter": "V",
+        "answer": "venüs"
+    },
+    {
+        "id": 1577,
+        "question": "Hacmine oranla ağırlığı çok olan",
+        "letter": "Y",
+        "answer": "Yoğun"
+    },
+    {
+        "id": 503,
+        "question": "Acımasız ve haksız davranan, zulmeden",
+        "letter": "Z",
+        "answer": "zalim, zorba"
+    }
+]

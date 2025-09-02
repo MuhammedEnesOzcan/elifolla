@@ -1,0 +1,158 @@
+[
+    {
+        "id": 117,
+        "question": "Sayı boncuğu",
+        "letter": "A",
+        "answer": "abaküs"
+    },
+    {
+        "id": 1837,
+        "question": "ARAPÇA KÖKENLİ \"MATBAA\" SÖZCÜĞÜNÜN TÜRKÇE EŞ ANLAMLISI",
+        "letter": "B",
+        "answer": "Basımevi"
+    },
+    {
+        "id": 914,
+        "question": "At Alıp Satan Kimse",
+        "letter": "C",
+        "answer": "Cambaz, canbaz"
+    },
+    {
+        "id": 1548,
+        "question": "Eli veya kolu sakat olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çolak"
+    },
+    {
+        "id": 1168,
+        "question": "Bir elektrik devresinde akım akışına karşı oluşan etkinin ölçümü",
+        "letter": "D",
+        "answer": "Direnç"
+    },
+    {
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
+        "letter": "E",
+        "answer": "emare"
+    },
+    {
+        "id": 751,
+        "question": "Gerçekte var olmayan, hayali anlamındaki söz",
+        "letter": "F",
+        "answer": "Fantastik"
+    },
+    {
+        "id": 1691,
+        "question": "\"GÖSTERİŞ, HEYBET\" ANLAMLARINA GELEN SÖZCÜK",
+        "letter": "G",
+        "answer": "Görkem, görkemli"
+    },
+    {
+        "id": 590,
+        "question": "Bir mala icra dairesi tarafından el konulması",
+        "letter": "H",
+        "answer": "Haciz, haciz işlemi, haczetmek, haciz etme, haciz etmek"
+    },
+    {
+        "id": 596,
+        "question": "Aşırı güçlü istek, tutku",
+        "letter": "İ",
+        "answer": "İhtiras"
+    },
+    {
+        "id": 1840,
+        "question": "ÜST GİYSİLERİNİN YAKALARINA TAKILI BAŞLIK",
+        "letter": "K",
+        "answer": "Kapüşon, Kapşon"
+    },
+    {
+        "id": 292,
+        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "letter": "L",
+        "answer": "lobi"
+    },
+    {
+        "id": 1166,
+        "question": "Küçük, ufak tefek, zarif",
+        "letter": "M",
+        "answer": "Minyon"
+    },
+    {
+        "id": 637,
+        "question": "Bir şeyin iyi veya kötü olma özelliği, kalite, özellik",
+        "letter": "N",
+        "answer": "Nitelik, niteliği"
+    },
+    {
+        "id": 347,
+        "question": "Yiyecek, içecek gibi şeylerin alınabildiği mekanik veya elektrikli araç",
+        "letter": "O",
+        "answer": "otomat"
+    },
+    {
+        "id": 661,
+        "question": "Kötü bir durumun ya da olayın duyulmasını gizlemek",
+        "letter": "Ö",
+        "answer": "Örtbas, Örtbas etmek"
+    },
+    {
+        "id": 667,
+        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
+        "letter": "P",
+        "answer": "Paraf, paraf atma, paraf atmak"
+    },
+    {
+        "id": 395,
+        "question": "Orta kaldırım",
+        "letter": "R",
+        "answer": "refüj"
+    },
+    {
+        "id": 1946,
+        "question": "Gelişme, ilerleme göstermeyen, Durağan, Sabit",
+        "letter": "S",
+        "answer": "Statik"
+    },
+    {
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
+        "letter": "Ş",
+        "answer": "Şahsi"
+    },
+    {
+        "id": 836,
+        "question": "Bulunduğu kaba sığmayıp kenarları aşmak",
+        "letter": "T",
+        "answer": "Taşma, Taşmak, Taşması"
+    },
+    {
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
+        "letter": "U",
+        "answer": "usulca"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 1568,
+        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "letter": "V",
+        "answer": "Vardiya"
+    },
+    {
+        "id": 1576,
+        "question": "\"Aksi takdirde\" anlamında kullanılan bir söz",
+        "letter": "Y",
+        "answer": "Yoksa"
+    },
+    {
+        "id": 1747,
+        "question": "Sıkıntı veya güçlükle yapılma durumu",
+        "letter": "Z",
+        "answer": "Zahmet, zahmetli"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1666,
+        "question": "Soylu, asil bir soydan gelen (kimse)",
+        "letter": "A",
+        "answer": "Asilzade"
+    },
+    {
+        "id": 129,
+        "question": "Veteriner hekim",
+        "letter": "B",
+        "answer": "baytar"
+    },
+    {
+        "id": 163,
+        "question": "Bir yeri, bir veya daha çok bölüme ayıran cam bölme",
+        "letter": "C",
+        "answer": "camekan"
+    },
+    {
+        "id": 1762,
+        "question": "Her zaman menfaati doğrultusunda hareket eden kişi",
+        "letter": "Ç",
+        "answer": "Çıkarcı"
+    },
+    {
+        "id": 1967,
+        "question": "BOZUK VE KUSURLU GİYSİLER VEYA EŞYALARIN GENEL ADI",
+        "letter": "D",
+        "answer": "DEFOLU"
+    },
+    {
+        "id": 564,
+        "question": "Mutluluk Hormonu",
+        "letter": "E",
+        "answer": "Endorfin"
+    },
+    {
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "letter": "F",
+        "answer": "Freze"
+    },
+    {
+        "id": 1850,
+        "question": "PASLANMAKTAN KORUMAK İÇİN ERİMİŞ ÇİNKOYA BATIRILARAK KAPLANMIŞ OLAN",
+        "letter": "G",
+        "answer": "Galvanize, Galvanizli"
+    },
+    {
+        "id": 246,
+        "question": "Kıskançlık, çekememezlik",
+        "letter": "H",
+        "answer": "haset, hasetlik"
+    },
+    {
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
+        "letter": "İ",
+        "answer": "İşletme"
+    },
+    {
+        "id": 1840,
+        "question": "ÜST GİYSİLERİNİN YAKALARINA TAKILI BAŞLIK",
+        "letter": "K",
+        "answer": "Kapüşon, Kapşon"
+    },
+    {
+        "id": 1704,
+        "question": "Meyve ve bazı bitkiler ile alkol, esans karışımından yapılan şekerli içki",
+        "letter": "L",
+        "answer": "Likör"
+    },
+    {
+        "id": 1616,
+        "question": "Miras bırakan kimse",
+        "letter": "M",
+        "answer": "Muris"
+    },
+    {
+        "id": 326,
+        "question": "Açık seçik olan, anlaşılmaz yanı bulunmayan",
+        "letter": "N",
+        "answer": "net"
+    },
+    {
+        "id": 1000,
+        "question": "Keçi yavrusu",
+        "letter": "O",
+        "answer": "Oğlak"
+    },
+    {
+        "id": 1006,
+        "question": "Küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı",
+        "letter": "Ö",
+        "answer": "Öcü"
+    },
+    {
+        "id": 1120,
+        "question": "İnce ve yarı saydam bir tür kâğıt",
+        "letter": "P",
+        "answer": "Pelür"
+    },
+    {
+        "id": 396,
+        "question": "Yönetme, düzenleme biçimi, düzen",
+        "letter": "R",
+        "answer": "rejim"
+    },
+    {
+        "id": 81,
+        "question": "Çatal biçiminde, taş atmaya yarayan ilkel alet",
+        "letter": "S",
+        "answer": "sapan"
+    },
+    {
+        "id": 923,
+        "question": "Daha çok cami avlularında bulunan havuz",
+        "letter": "Ş",
+        "answer": "Şadırvan"
+    },
+    {
+        "id": 1911,
+        "question": "“BİR KABIN TAŞIYABİLDİĞİ EN FAZLA MİKTARI” İFADE EDEN SÖZ",
+        "letter": "T",
+        "answer": "Tepeleme"
+    },
+    {
+        "id": 768,
+        "question": "Sıkıntı duyumsamak, bezmek, bıkmak",
+        "letter": "U",
+        "answer": "Usanma, Usanmak"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 867,
+        "question": "Elektromotor Gücün Ya Da Gerilimin Birimi",
+        "letter": "V",
+        "answer": "Volt"
+    },
+    {
+        "id": 494,
+        "question": "Eni boyundan ve derinliğinden çok olan, basık ve geniş",
+        "letter": "Y",
+        "answer": "yayvan"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

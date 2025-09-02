@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1820,
+        "question": "Giysiyi bütünleyen çanta, kemer vb. gibi şeyler",
+        "letter": "A",
+        "answer": "Aksesuar, Aksessuar"
+    },
+    {
+        "id": 1353,
+        "question": "Bazı ağaçlardan elde edilen, parfüm ve ilaç yapımında kullanılan reçine",
+        "letter": "B",
+        "answer": "Balsam"
+    },
+    {
+        "id": 1361,
+        "question": "Çekici, Enteresan, Dikkat Çeken",
+        "letter": "C",
+        "answer": "Cezbedici, cazip, cazibeli"
+    },
+    {
+        "id": 1844,
+        "question": "PARÇALARA AYRILIP DAĞILMAYACAK BİR BİÇİMDE YARILMA",
+        "letter": "Ç",
+        "answer": "Çatlama, Çatlamak"
+    },
+    {
+        "id": 1718,
+        "question": "Bir ülkeyi zora ve baskıya dayanarak yöneten kimse",
+        "letter": "D",
+        "answer": "Despot, Dikta, Diktatör"
+    },
+    {
+        "id": 796,
+        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
+        "letter": "E",
+        "answer": "Elbette"
+    },
+    {
+        "id": 569,
+        "question": "Bir kişiyi ya da kurumu finanse etmek",
+        "letter": "F",
+        "answer": "Fon, Fonlama, Fonlamak"
+    },
+    {
+        "id": 1428,
+        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+        "letter": "G",
+        "answer": "Gard"
+    },
+    {
+        "id": 973,
+        "question": "Yere veya mobilya üstüne serilmek, duvara gerilmek için, genellikle yünden dokunan, kısa ve sık tüylü, nakışlı, kalın yaygı",
+        "letter": "H",
+        "answer": "Halı"
+    },
+    {
+        "id": 1497,
+        "question": "Ülke adına makamlara sunulmak üzere toplanmış taktik içerikli bilgiler",
+        "letter": "İ",
+        "answer": "İstihbarat"
+    },
+    {
+        "id": 611,
+        "question": "Giyilen kıyafetlerin birbiriyle uyum içinde olması",
+        "letter": "K",
+        "answer": "Kombin, Kombin yapma, kombin yapmak"
+    },
+    {
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
+        "letter": "L",
+        "answer": "Lunapark"
+    },
+    {
+        "id": 312,
+        "question": "Ev, dükkân, arazi vb. taşınmaz mal",
+        "letter": "M",
+        "answer": "mülk"
+    },
+    {
+        "id": 330,
+        "question": "Kullanılması hemen mümkün olan para, likit",
+        "letter": "N",
+        "answer": "nakit, nakit para"
+    },
+    {
+        "id": 1518,
+        "question": "Hızlı bir trafik akımı sağlamak amacıyla yapılan, çok şeritli, çift yönlü geniş yol, otoban",
+        "letter": "O",
+        "answer": "Otoyol"
+    },
+    {
+        "id": 372,
+        "question": "Bir iş için ayrılan belli para, tahsisat",
+        "letter": "Ö",
+        "answer": "ödenek"
+    },
+    {
+        "id": 32,
+        "question": "Yer altından çıkartılan, yağa benzer, sıvı formda bulunan ham madde",
+        "letter": "P",
+        "answer": "Petrol"
+    },
+    {
+        "id": 1122,
+        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
+        "letter": "R",
+        "answer": "rapor"
+    },
+    {
+        "id": 1813,
+        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
+        "letter": "S",
+        "answer": "Solaryum"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 1648,
+        "question": "Gençliği sebebiyle görgüsüz ve beceriksiz olan, çaylak",
+        "letter": "T",
+        "answer": "Toy"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 458,
+        "question": "Herhangi bir topluluğu oluşturan bireylerden her biri",
+        "letter": "Ü",
+        "answer": "üye"
+    },
+    {
+        "id": 886,
+        "question": "Çiçek Koymak İçin Kullanılan Kap",
+        "letter": "V",
+        "answer": "Vazo"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 1585,
+        "question": "Savaşta verilen kayıp",
+        "letter": "Z",
+        "answer": "Zayiat, zaiyat"
+    }
+]

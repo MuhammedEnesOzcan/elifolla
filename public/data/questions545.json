@@ -1,0 +1,158 @@
+[
+    {
+        "id": 743,
+        "question": "Eski çağlardan kalma yapıt",
+        "letter": "A",
+        "answer": "Antik, Antika"
+    },
+    {
+        "id": 1700,
+        "question": "Canlıların doğma, gelişme, üreme gibi yaşam evrelerini konu edinen bilim dalı",
+        "letter": "B",
+        "answer": "Biyoloji"
+    },
+    {
+        "id": 1150,
+        "question": "Kudret sahibi Tanrı",
+        "letter": "C",
+        "answer": "cebbar"
+    },
+    {
+        "id": 1541,
+        "question": "Şundan dolayı, şu sebeple, zira",
+        "letter": "Ç",
+        "answer": "Çünkü"
+    },
+    {
+        "id": 1395,
+        "question": "Basım için harfleri, kelimeleri, satırları, sayfalar oluşturacak biçimde düzenleme",
+        "letter": "D",
+        "answer": "Dizgi"
+    },
+    {
+        "id": 564,
+        "question": "Mutluluk Hormonu",
+        "letter": "E",
+        "answer": "Endorfin"
+    },
+    {
+        "id": 220,
+        "question": "Belirli nesneler veya durumlar karşısında duyulan olağan dışı güçlü korku",
+        "letter": "F",
+        "answer": "fobi"
+    },
+    {
+        "id": 237,
+        "question": "Her zaman gülümseyen, mütebessim",
+        "letter": "G",
+        "answer": "güleç"
+    },
+    {
+        "id": 1494,
+        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "letter": "H",
+        "answer": "Halef, halefi"
+    },
+    {
+        "id": 256,
+        "question": "Alınmış bir şeyi geri verme",
+        "letter": "İ",
+        "answer": "iade"
+    },
+    {
+        "id": 282,
+        "question": "Başlangıcı olmayan, eski, ezeli",
+        "letter": "K",
+        "answer": "kadim"
+    },
+    {
+        "id": 615,
+        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
+        "letter": "L",
+        "answer": "Lümpen"
+    },
+    {
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "letter": "M",
+        "answer": "Mimar"
+    },
+    {
+        "id": 993,
+        "question": "Hoş olmayan, hoşa gitmeyen, kötü, çirkin",
+        "letter": "N",
+        "answer": "Nahoş"
+    },
+    {
+        "id": 352,
+        "question": "Takıntılı (kimse)",
+        "letter": "O",
+        "answer": "obsesif"
+    },
+    {
+        "id": 1533,
+        "question": "Tazminat",
+        "letter": "Ö",
+        "answer": "Ödence"
+    },
+    {
+        "id": 1298,
+        "question": "Yolun kaygan olması nedeniyle tekerlekler dönse de taşıtın ilerleyememesi durumu",
+        "letter": "P",
+        "answer": "Patinaj, patinaj çekme, patinaj çekmek"
+    },
+    {
+        "id": 1025,
+        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
+        "letter": "R",
+        "answer": "run"
+    },
+    {
+        "id": 1800,
+        "question": "Hareketlinin birim zamanda aldığı yol",
+        "letter": "S",
+        "answer": "Sürat"
+    },
+    {
+        "id": 1459,
+        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "letter": "Ş",
+        "answer": "Şizofreni"
+    },
+    {
+        "id": 1258,
+        "question": "Yaslanılamayan sandalye",
+        "letter": "T",
+        "answer": "Tabure"
+    },
+    {
+        "id": 1078,
+        "question": "Yufka açılırken hamurun tahtaya yapışmaması için serpilen kalın un",
+        "letter": "U",
+        "answer": "Uğra"
+    },
+    {
+        "id": 873,
+        "question": "İdrarın dışarıya atılmasını sağlayan ve idrar torbasından sonraki idrar yol",
+        "letter": "Ü",
+        "answer": "Üretra"
+    },
+    {
+        "id": 1251,
+        "question": "Orta, iki şeyin ortasında olan, ortalama",
+        "letter": "V",
+        "answer": "Vasat"
+    },
+    {
+        "id": 1573,
+        "question": "Bir olayı belli bir görüşe göre açıklama, değerlendirme",
+        "letter": "Y",
+        "answer": "Yorum, yorum yapma, yorum yapmak, yorumlama, yorumlamak"
+    },
+    {
+        "id": 1586,
+        "question": "Dinç, canlı, diri, sağlam",
+        "letter": "Z",
+        "answer": "Zinde"
+    }
+]

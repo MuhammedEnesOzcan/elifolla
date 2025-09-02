@@ -1,0 +1,158 @@
+[
+    {
+        "id": 125,
+        "question": "Eşyayı sarmaya yarayan mukavva, kâğıt, tahta, plastik vb. malzeme",
+        "letter": "A",
+        "answer": "ambalaj"
+    },
+    {
+        "id": 528,
+        "question": "Yorgun, bitkin düşmüş olan",
+        "letter": "B",
+        "answer": "Bitap, bitap halde"
+    },
+    {
+        "id": 1319,
+        "question": "Mızrap ile çalınan iki veya üç teli olan halk sazı",
+        "letter": "C",
+        "answer": "Cura"
+    },
+    {
+        "id": 544,
+        "question": "Derme çatma çadır, göçebe çadırı",
+        "letter": "Ç",
+        "answer": "Çerge"
+    },
+    {
+        "id": 1737,
+        "question": "Okuma güçlüğü hastalığı",
+        "letter": "D",
+        "answer": "Disleksi"
+    },
+    {
+        "id": 210,
+        "question": "Zaman içinde birdenbire olmayan, kesintisiz, niteliksel ve niceliksel gelişme süreci",
+        "letter": "E",
+        "answer": "evrim"
+    },
+    {
+        "id": 71,
+        "question": "Satrançta sadece çapraz hareket edebilen taş",
+        "letter": "F",
+        "answer": "fil"
+    },
+    {
+        "id": 584,
+        "question": "Seçkin, seçilmiş, seçme",
+        "letter": "G",
+        "answer": "Güzide, Gûzide"
+    },
+    {
+        "id": 805,
+        "question": "Atak tabiatlı küçük savaş gemisi",
+        "letter": "H",
+        "answer": "Hücumbot, Hücumbotu"
+    },
+    {
+        "id": 268,
+        "question": "Kabul etmeme, tanımama",
+        "letter": "İ",
+        "answer": "inkar, inkar etme, inkar etmek"
+    },
+    {
+        "id": 280,
+        "question": "Kumaştan veya örgüden küçük torba",
+        "letter": "K",
+        "answer": "kese"
+    },
+    {
+        "id": 1457,
+        "question": "Elektronikte erime noktaları düşük metalleri tutturma işlemi",
+        "letter": "L",
+        "answer": "Lehim, lehimleme, lehimlemek, lehin yapma, lehim yapmak"
+    },
+    {
+        "id": 1715,
+        "question": "Savurgan, tutumsuz, israf yapan ",
+        "letter": "M",
+        "answer": "Müsrif"
+    },
+    {
+        "id": 1111,
+        "question": "At nalı yapan demirci",
+        "letter": "N",
+        "answer": "Nalbant"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 355,
+        "question": "Öğretmenin öğrencilere okul dışında yapmaları için verdiği çalışma",
+        "letter": "Ö",
+        "answer": "ödev"
+    },
+    {
+        "id": 1707,
+        "question": "Hristiyan din adamı, peder",
+        "letter": "P",
+        "answer": "Papaz"
+    },
+    {
+        "id": 1637,
+        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "letter": "R",
+        "answer": "Röntgen"
+    },
+    {
+        "id": 1946,
+        "question": "Gelişme, ilerleme göstermeyen, Durağan, Sabit",
+        "letter": "S",
+        "answer": "Statik"
+    },
+    {
+        "id": 703,
+        "question": "Oturduğu yerde hafif ve kısa süreli uyuma",
+        "letter": "Ş",
+        "answer": "Şekerleme"
+    },
+    {
+        "id": 1749,
+        "question": "Demokratik hak ve özgürlüklerin baskı altında tutulduğu devlet düzeni",
+        "letter": "T",
+        "answer": "Totaliter, Totaliter Rejim, Totalitarizm, Totalirite"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 38,
+        "question": "Fakülteler topluluğu",
+        "letter": "Ü",
+        "answer": "ÜNİVERSİTE"
+    },
+    {
+        "id": 865,
+        "question": "Kelimeler yerine, sadece sesli harfler kullanarak, insan sesiyle müzik icra etmek",
+        "letter": "V",
+        "answer": "Vokaliz, vokalız"
+    },
+    {
+        "id": 837,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte, Yürürlükteki"
+    },
+    {
+        "id": 1145,
+        "question": "Hor görülme, alçalma",
+        "letter": "Z",
+        "answer": "Zillet"
+    }
+]

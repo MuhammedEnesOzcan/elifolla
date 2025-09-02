@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1657,
+        "question": "Belli bir süre sonra inilip başka bir taşıta binilmesini gerektiren seyahat",
+        "letter": "A",
+        "answer": "Aktarmalı, aktarmalı seyahat"
+    },
+    {
+        "id": 1484,
+        "question": "Bazı mikroplara karşı aşı veya doğal yolla kazanılmış direnç durumu",
+        "letter": "B",
+        "answer": "Bağışıklık"
+    },
+    {
+        "id": 1369,
+        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
+        "letter": "C",
+        "answer": "Cemre, cemre düşmesi"
+    },
+    {
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
+        "letter": "Ç",
+        "answer": "çakar"
+    },
+    {
+        "id": 191,
+        "question": "Herhangi bir olayın birden fazla tekrarlanması",
+        "letter": "D",
+        "answer": "döngü, devir"
+    },
+    {
+        "id": 1418,
+        "question": "Vücutta istenmeyen kılları alma",
+        "letter": "E",
+        "answer": "Epilasyon"
+    },
+    {
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "letter": "F",
+        "answer": "Fidan"
+    },
+    {
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
+        "letter": "G",
+        "answer": "Gelir"
+    },
+    {
+        "id": 805,
+        "question": "Atak tabiatlı küçük savaş gemisi",
+        "letter": "H",
+        "answer": "Hücumbot, Hücumbotu"
+    },
+    {
+        "id": 603,
+        "question": "Gereği yokken, genellikle kendini göstermek için işe karışan (kimse)",
+        "letter": "İ",
+        "answer": "İşgüzar, İşgûzar"
+    },
+    {
+        "id": 608,
+        "question": "Büyük taarruzda karargah olarak kullanılan tepe",
+        "letter": "K",
+        "answer": "Kocatepe, Koca"
+    },
+    {
+        "id": 623,
+        "question": "Eğlence yerlerinde veya parlamento salonlarında özel bölme",
+        "letter": "L",
+        "answer": "Loca"
+    },
+    {
+        "id": 1632,
+        "question": "Yakıt olarak kullanılan, ham petrolün damıtma ürünlerinden biri, motorin",
+        "letter": "M",
+        "answer": "Mazot"
+    },
+    {
+        "id": 643,
+        "question": "Örnek ya da göstermelik ürün",
+        "letter": "N",
+        "answer": "Numune"
+    },
+    {
+        "id": 1188,
+        "question": "Yazarın kendi yaşam öyküsünün anlattığı edebiyat türü",
+        "letter": "O",
+        "answer": "Otobiyografi"
+    },
+    {
+        "id": 657,
+        "question": "Mecliste bir konuda oylamaya sunularak karar verilmesi istenen yazılı kâğıt",
+        "letter": "Ö",
+        "answer": "Önerge"
+    },
+    {
+        "id": 384,
+        "question": "Çeşitli sporlarda kullanılan ölçüsü ve değeri değişken birim",
+        "letter": "P",
+        "answer": "puan"
+    },
+    {
+        "id": 677,
+        "question": "Gözden geçirmek, düzeltmek, yenilemek",
+        "letter": "R",
+        "answer": "Revize, Revizyon, Rötuş, Rötuşlamak"
+    },
+    {
+        "id": 1045,
+        "question": "Toprağın kaymasını veya suyun akmasını önlemek için yapılan kalın duvar",
+        "letter": "S",
+        "answer": "set"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 1253,
+        "question": "Bir haneyi, evi, yapıyı yenileme işlemi",
+        "letter": "T",
+        "answer": "Tadilat, tadilat yapma, tadilat yapmak"
+    },
+    {
+        "id": 1909,
+        "question": "“MEYMENETSİZ, MUSİBET” ANLAMLARINA GELEN BİR SÖZ",
+        "letter": "U",
+        "answer": "Uğursuz"
+    },
+    {
+        "id": 464,
+        "question": "Korkuya çabuk kapılan",
+        "letter": "Ü",
+        "answer": "ürkek"
+    },
+    {
+        "id": 480,
+        "question": "Yapılması gerekli olan",
+        "letter": "V",
+        "answer": "vacip"
+    },
+    {
+        "id": 717,
+        "question": "Yüksek mahkeme, yüksek yargı kurulu",
+        "letter": "Y",
+        "answer": "Yargıtay"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

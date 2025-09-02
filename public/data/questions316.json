@@ -1,0 +1,158 @@
+[
+    {
+        "id": 102,
+        "question": "Bir işin yabancısı olan, eli işe alışmamış, bir işi beceremeyen",
+        "letter": "A",
+        "answer": "acemi"
+    },
+    {
+        "id": 1354,
+        "question": "Evlilik hayatının ilk ayı veya ilk günleri",
+        "letter": "B",
+        "answer": "Balayı"
+    },
+    {
+        "id": 1729,
+        "question": "Kelimelerin bir araya gelerek oluşturduğu söz dizimi",
+        "letter": "C",
+        "answer": "Cümle"
+    },
+    {
+        "id": 166,
+        "question": "Dağın bir noktasından kopup yuvarlanan ve yuvarlandıkça büyüyen kar kümesi",
+        "letter": "Ç",
+        "answer": "çığ"
+    },
+    {
+        "id": 1196,
+        "question": "Aynı cinsten olan bir nesnenin on ikisini içeren bir birim",
+        "letter": "D",
+        "answer": "Düzine"
+    },
+    {
+        "id": 1410,
+        "question": "Mal ve değerlere ait döküm",
+        "letter": "E",
+        "answer": "Envanter"
+    },
+    {
+        "id": 71,
+        "question": "Satrançta sadece çapraz hareket edebilen taş",
+        "letter": "F",
+        "answer": "fil"
+    },
+    {
+        "id": 1790,
+        "question": "BENZERLERİ ARASINDA NİTELİKLERİ SEBEBİYLE ÜSTÜN TUTULAN, BEĞENİLEN, ÖNEM VERİLEN KİMSE VEYA ŞEY",
+        "letter": "G",
+        "answer": "Gözde"
+    },
+    {
+        "id": 1438,
+        "question": "Bazı durumlarda olumsuz sonuçlar doğurabilecek sonu gelmeyen istek, aşırı tutku",
+        "letter": "H",
+        "answer": "Hırs"
+    },
+    {
+        "id": 1204,
+        "question": "Kendi isteğiyle çalıştığı işi bırakmak",
+        "letter": "İ",
+        "answer": "İstifa, istifa etme, istifa etmek"
+    },
+    {
+        "id": 607,
+        "question": "Kalp hastalıkları uzmanı",
+        "letter": "K",
+        "answer": "Kardiyolog"
+    },
+    {
+        "id": 1203,
+        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
+        "letter": "L",
+        "answer": "Lens"
+    },
+    {
+        "id": 626,
+        "question": "Birbirini kesen demiryolu hatlarının kesiştiği yer",
+        "letter": "M",
+        "answer": "Makas"
+    },
+    {
+        "id": 334,
+        "question": "Korkak, alçak, mert olmayan",
+        "letter": "N",
+        "answer": "namert"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 1710,
+        "question": "Akciğerdeki hava keseciklerinin iltihap ile dolması, Zatürre",
+        "letter": "P",
+        "answer": "Pnömoni"
+    },
+    {
+        "id": 1035,
+        "question": "Meyvelerin şekerle kaynatılmasıyla hazırlanan tatlı",
+        "letter": "R",
+        "answer": "Reçel"
+    },
+    {
+        "id": 1235,
+        "question": "Karaciğer tarafından üretilen sindirim sıvısı",
+        "letter": "S",
+        "answer": "Safra, safra sıvısı"
+    },
+    {
+        "id": 430,
+        "question": "Saydam, yalın, açık",
+        "letter": "Ş",
+        "answer": "şeffaf"
+    },
+    {
+        "id": 440,
+        "question": "Herhangi bir konuda verilen gizli bilgi",
+        "letter": "T",
+        "answer": "tüyo, tüyo verme, tüyo vermek"
+    },
+    {
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "letter": "U",
+        "answer": "uyruk"
+    },
+    {
+        "id": 1565,
+        "question": "Birlikçi, birlikten yana, birleştirici (siyaset)",
+        "letter": "Ü",
+        "answer": "Üniter, üniter devlet"
+    },
+    {
+        "id": 715,
+        "question": "Genellikle sıvı şeyleri koymakta kullanılan, silindir biçiminde ve üstü kapalı, metal kap",
+        "letter": "V",
+        "answer": "Varil"
+    },
+    {
+        "id": 1584,
+        "question": "Bir işten elde edilen iyi sonuç, fayda",
+        "letter": "Y",
+        "answer": "Yarar"
+    },
+    {
+        "id": 501,
+        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
+        "letter": "Z",
+        "answer": "zırh"
+    }
+]

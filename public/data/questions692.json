@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1665,
+        "question": "Bir müzik programında genellikle en son sahneye çıkan, alanında çok ünlü olan sanatçı",
+        "letter": "A",
+        "answer": "Assolist"
+    },
+    {
+        "id": 1556,
+        "question": "Bir yapının genellikle dışarıya doğru çıkmış, çevresi duvar veya parmaklıkla çevrili bölümü, ayazlık",
+        "letter": "B",
+        "answer": "Balkon"
+    },
+    {
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
+        "letter": "C",
+        "answer": "Cenah"
+    },
+    {
+        "id": 966,
+        "question": "Bir kimsenin, satın aldığı hizmet veya ürün karşılığında para yerine verdiği ve karşılığı banka hesabından ödenen yazılı belge",
+        "letter": "Ç",
+        "answer": "Çek"
+    },
+    {
+        "id": 197,
+        "question": "Yalnızca bir yönde akım geçiren devre",
+        "letter": "D",
+        "answer": "diyot"
+    },
+    {
+        "id": 1227,
+        "question": "Tekrar eden ses, yankı",
+        "letter": "E",
+        "answer": "Eko"
+    },
+    {
+        "id": 1320,
+        "question": "Genellikle boyna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "Fular"
+    },
+    {
+        "id": 1492,
+        "question": "Bir malı sahibinin izni ve haberi olmadan zorla alma",
+        "letter": "G",
+        "answer": "Gasp, gasp etme, gasp etmek"
+    },
+    {
+        "id": 1965,
+        "question": "BİTKİLERİN DOĞAL OLARAK YERLEŞTİĞİ YER, YURT",
+        "letter": "H",
+        "answer": "HABİTAT"
+    },
+    {
+        "id": 275,
+        "question": "İçine alma, içinde bulundurma, içerme",
+        "letter": "İ",
+        "answer": "ihtiva"
+    },
+    {
+        "id": 26,
+        "question": "Dar dik yamaçlı ve derin vadi",
+        "letter": "K",
+        "answer": "Kanyon"
+    },
+    {
+        "id": 928,
+        "question": "Çıkış yeri kolaylıkla bulunamayacak kadar karışık koridorları olan yapı",
+        "letter": "L",
+        "answer": "Labirent"
+    },
+    {
+        "id": 1617,
+        "question": "Denizlerde görülen bazı mikroorganizmalar tarafından üretilen kalın, yapışkan maddeler, Deniz salyası",
+        "letter": "M",
+        "answer": "Müsilaj"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "letter": "O",
+        "answer": "Ofris"
+    },
+    {
+        "id": 662,
+        "question": "Yıpratmak, eskitmek, hırpalamak, zedelemek",
+        "letter": "Ö",
+        "answer": "Örselemek, örseleme"
+    },
+    {
+        "id": 1854,
+        "question": "YAYA OLARAK SAVAŞAN ASKERLERİN OLUŞTURDUĞU SINIF",
+        "letter": "P",
+        "answer": "Piyade"
+    },
+    {
+        "id": 1815,
+        "question": "ÇAYI YAPILAN, TOHUMLARI ANASON GİBİ KULLANILAN BİR BİTKİ",
+        "letter": "R",
+        "answer": "Rezene"
+    },
+    {
+        "id": 1826,
+        "question": "EN AZ İKİ KİŞİ ARASINDA DÜZENLENEN, BİR TARAFIN ÖBÜRÜNE ÖDEME YAPMA YÜKÜMLÜLÜĞÜNÜ BEYAN ETTİĞİ KÂĞIT",
+        "letter": "S",
+        "answer": "Senet"
+    },
+    {
+        "id": 429,
+        "question": "Söyleyiş özelliği",
+        "letter": "Ş",
+        "answer": "şive"
+    },
+    {
+        "id": 1847,
+        "question": "İRİ İRİ DOĞRANMIŞ İŞKEMBEDEN YAPILAN BİR TÜR ÇORBA",
+        "letter": "T",
+        "answer": "Tuzlama, Tuzlama çorba, Tuzlama çorbası"
+    },
+    {
+        "id": 1557,
+        "question": "Erkek hizmetçi",
+        "letter": "U",
+        "answer": "Uşak"
+    },
+    {
+        "id": 861,
+        "question": "Sivrisineğe benzer çok küçük bir sinek türü",
+        "letter": "Ü",
+        "answer": "Üvez"
+    },
+    {
+        "id": 1137,
+        "question": "Kent veya kasabada dış mahalle",
+        "letter": "V",
+        "answer": "varoş"
+    },
+    {
+        "id": 837,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte, Yürürlükteki"
+    },
+    {
+        "id": 508,
+        "question": "Çok koyu, karanlık",
+        "letter": "Z",
+        "answer": "zifiri, zifir"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 122,
+        "question": "Acındıracak, acı verecek nitelikte olan, dokunaklı, üzücü",
+        "letter": "A",
+        "answer": "acıklı, acınası"
+    },
+    {
+        "id": 133,
+        "question": "Belirli bir davranışta bulunmaya zorlayıcı söz, buyuru, emir, ferman",
+        "letter": "B",
+        "answer": "buyruk"
+    },
+    {
+        "id": 787,
+        "question": "“Öfke, kızgınlık” anlamındaki bir erkek ismi",
+        "letter": "C",
+        "answer": "Celal"
+    },
+    {
+        "id": 1450,
+        "question": "Karikatürcü",
+        "letter": "Ç",
+        "answer": "Çizer"
+    },
+    {
+        "id": 192,
+        "question": "Geri bildirim",
+        "letter": "D",
+        "answer": "dönüt"
+    },
+    {
+        "id": 1414,
+        "question": "Özellikle bilginin temellerini ve doğruluk durumunu inceleme, sınama, yargılama",
+        "letter": "E",
+        "answer": "Eleştiri, eleştirme, eleştirmek"
+    },
+    {
+        "id": 1328,
+        "question": "Bir dansı veya oyunu oluşturan ölçülü adımlarla beliren zincirleme hareketlerden her biri",
+        "letter": "F",
+        "answer": "Figür, figürler"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 805,
+        "question": "Atak tabiatlı küçük savaş gemisi",
+        "letter": "H",
+        "answer": "Hücumbot, Hücumbotu"
+    },
+    {
+        "id": 1198,
+        "question": "Sığınma, sığınma hakkı",
+        "letter": "İ",
+        "answer": "İltica, iltica hakkı"
+    },
+    {
+        "id": 613,
+        "question": "Uygunsuz hareket, çirkin, yakışıksız davranış, suç",
+        "letter": "K",
+        "answer": "Kabahat"
+    },
+    {
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "letter": "L",
+        "answer": "Logo"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 988,
+        "question": "Açıklık, açık ve kesin yargı",
+        "letter": "N",
+        "answer": "nas"
+    },
+    {
+        "id": 909,
+        "question": "Taş ya da maden çıkarılan yer",
+        "letter": "O",
+        "answer": "Ocak"
+    },
+    {
+        "id": 361,
+        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
+        "letter": "Ö",
+        "answer": "önem"
+    },
+    {
+        "id": 821,
+        "question": "Birden ortaya çıkan, aşırı ve normalin dışına taşmış korku hali",
+        "letter": "P",
+        "answer": "panik"
+    },
+    {
+        "id": 1906,
+        "question": "BASKETBOLDA, SAYI OLMAYAN BİR ATIŞTAN SONRA POTADAN SEKEN TOPUN HAVADAYKEN YAKALANMASI",
+        "letter": "R",
+        "answer": "Ribaund"
+    },
+    {
+        "id": 831,
+        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "letter": "S",
+        "answer": "Seküler"
+    },
+    {
+        "id": 1464,
+        "question": "Olması başka durumların gerçekleşmesini gerektiren şey, koşul",
+        "letter": "Ş",
+        "answer": "Şart, şartlar"
+    },
+    {
+        "id": 709,
+        "question": "Bildiri, haber verme",
+        "letter": "T",
+        "answer": "Tebliğ, Tebliğ etme, Tebliğ etmek, Tebligat"
+    },
+    {
+        "id": 1909,
+        "question": "“MEYMENETSİZ, MUSİBET” ANLAMLARINA GELEN BİR SÖZ",
+        "letter": "U",
+        "answer": "Uğursuz"
+    },
+    {
+        "id": 880,
+        "question": "Hastalıkları iyileştirdiğine inanılan soluk",
+        "letter": "Ü",
+        "answer": "Üfürük, üfürme"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 497,
+        "question": "Yıkılmış olan, harap, viran",
+        "letter": "Y",
+        "answer": "yıkık"
+    },
+    {
+        "id": 1303,
+        "question": "Çapkın, kadın düşünü anlamlarındaki bir söz",
+        "letter": "Z",
+        "answer": "Zampara"
+    }
+]

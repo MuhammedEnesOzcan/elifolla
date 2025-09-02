@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1341,
+        "question": "Virüsün çoğalmasını engelleyen",
+        "letter": "A",
+        "answer": "Antiviral"
+    },
+    {
+        "id": 785,
+        "question": "Eskiden tercüme-i hal denilen yaşam öyküsü",
+        "letter": "B",
+        "answer": "Biyografi"
+    },
+    {
+        "id": 1371,
+        "question": "Hayvanlarda tür, çeşit",
+        "letter": "C",
+        "answer": "Cins, cinsleri"
+    },
+    {
+        "id": 748,
+        "question": "Araçların trafikte üstünlük sağlamak için kullandığı kırmızı-mavi ışıklar",
+        "letter": "Ç",
+        "answer": "Çakar, çakar lamba, çakar lambası"
+    },
+    {
+        "id": 1090,
+        "question": "\"Bir olay sebebiyle birden ayılmak, doğruyu anlamak\"",
+        "letter": "D",
+        "answer": "dank, dank etme, dank etmek, dank etmesi"
+    },
+    {
+        "id": 560,
+        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "letter": "E",
+        "answer": "Edip"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 581,
+        "question": "Tek kürekle suda yürütülen geleneksel bir Venedik aracı",
+        "letter": "G",
+        "answer": "Gondol"
+    },
+    {
+        "id": 1866,
+        "question": "ZEVKİ İÇİN PARA HARCAMAKTAN KAÇINMAYAN KİMSE",
+        "letter": "H",
+        "answer": "Hovarda"
+    },
+    {
+        "id": 1973,
+        "question": "Bir şeyi saklamadan direkt olarak söylemek",
+        "letter": "İ",
+        "answer": "İkrar"
+    },
+    {
+        "id": 1840,
+        "question": "ÜST GİYSİLERİNİN YAKALARINA TAKILI BAŞLIK",
+        "letter": "K",
+        "answer": "Kapüşon, Kapşon"
+    },
+    {
+        "id": 984,
+        "question": "Duvarları taş veya tuğladan, üstü taş bir kapakla örtülü mezar",
+        "letter": "L",
+        "answer": "Lahit"
+    },
+    {
+        "id": 634,
+        "question": "Akla uygun, doğru düşünülmüş",
+        "letter": "M",
+        "answer": "Mantıklı"
+    },
+    {
+        "id": 636,
+        "question": "Boks maçında yumruk etkisiyle yere düşme ve devam edememek",
+        "letter": "N",
+        "answer": "Nakavt, nakavt olma, nakavt olmak"
+    },
+    {
+        "id": 647,
+        "question": "Matematikte sıfır noktası",
+        "letter": "O",
+        "answer": "Orijin, Orjin, Orjin noktası, Orijin noktası"
+    },
+    {
+        "id": 369,
+        "question": "Yalnız kendine özgü bir nitelik taşıyan, orijinal",
+        "letter": "Ö",
+        "answer": "Özgün"
+    },
+    {
+        "id": 1854,
+        "question": "YAYA OLARAK SAVAŞAN ASKERLERİN OLUŞTURDUĞU SINIF",
+        "letter": "P",
+        "answer": "Piyade"
+    },
+    {
+        "id": 398,
+        "question": "Havalimanında uçuşun gecikme durumu",
+        "letter": "R",
+        "answer": "rötar"
+    },
+    {
+        "id": 1813,
+        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
+        "letter": "S",
+        "answer": "Solaryum"
+    },
+    {
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
+        "letter": "Ş",
+        "answer": "şakrak"
+    },
+    {
+        "id": 1911,
+        "question": "“BİR KABIN TAŞIYABİLDİĞİ EN FAZLA MİKTARI” İFADE EDEN SÖZ",
+        "letter": "T",
+        "answer": "Tepeleme"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 465,
+        "question": "Bilim veya sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "üstat, üstad"
+    },
+    {
+        "id": 881,
+        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
+        "letter": "V",
+        "answer": "Vernik, vernık"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 509,
+        "question": "İrade zayıflığı, eksiklik",
+        "letter": "Z",
+        "answer": "zaaf"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 96,
+        "question": "Vücudun bazı maddelere reaksiyon göstermesi sonucu oluşan duyarlılık",
+        "letter": "A",
+        "answer": "alerji"
+    },
+    {
+        "id": 1773,
+        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "letter": "B",
+        "answer": "Buluş"
+    },
+    {
+        "id": 1532,
+        "question": "Ezilmiş havuç içine fındık, şeker vb. eklenerek yapılan bir tür tatlı",
+        "letter": "C",
+        "answer": "Cezerye"
+    },
+    {
+        "id": 790,
+        "question": "Düşman kıyılarına asker indirme işi",
+        "letter": "Ç",
+        "answer": "Çıkarma, çıkarma yapmak, çıkarma yapma"
+    },
+    {
+        "id": 190,
+        "question": "Bir yere süsleme amacıyla verilen düzen",
+        "letter": "D",
+        "answer": "dekor, dekorasyon"
+    },
+    {
+        "id": 204,
+        "question": "Tutsak, köle",
+        "letter": "E",
+        "answer": "esir"
+    },
+    {
+        "id": 224,
+        "question": "Talih, baht, şans",
+        "letter": "F",
+        "answer": "felek"
+    },
+    {
+        "id": 234,
+        "question": "Olağanüstü yarar göstererek savaştan sağ olarak dönen kimse",
+        "letter": "G",
+        "answer": "gazi"
+    },
+    {
+        "id": 1853,
+        "question": "METAL, PLASTİK VEYA AHŞAPTAN YAPILMIŞ ÇEŞİTLİ KULLANIM ALANLARI OLAN ÇEMBER",
+        "letter": "H",
+        "answer": "Halka"
+    },
+    {
+        "id": 272,
+        "question": "Barınma amacıyla bir yerde oturma",
+        "letter": "İ",
+        "answer": "ikamet, ikamet etme, ikamet etmek"
+    },
+    {
+        "id": 1222,
+        "question": "Damla, damlayan şey",
+        "letter": "K",
+        "answer": "Katre"
+    },
+    {
+        "id": 624,
+        "question": "Çok sulu ve fazla pişmiş pilav/pirinç",
+        "letter": "L",
+        "answer": "Lapa, Lapa pilav, Lapa pirinç"
+    },
+    {
+        "id": 317,
+        "question": "Aşırı olmayan, uygun, elverişli",
+        "letter": "M",
+        "answer": "makul, mâkul"
+    },
+    {
+        "id": 1252,
+        "question": "Hastalığın yeniden ortaya çıkma, tekrarlaması durumu",
+        "letter": "N",
+        "answer": "Nüks, nüks etme, nüks etmesi, nüks etmek"
+    },
+    {
+        "id": 820,
+        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
+        "letter": "O",
+        "answer": "Otlak, otlak arazi, ova"
+    },
+    {
+        "id": 362,
+        "question": "Bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz",
+        "letter": "Ö",
+        "answer": "özet"
+    },
+    {
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
+        "letter": "P",
+        "answer": "plaj"
+    },
+    {
+        "id": 764,
+        "question": "Selam ya da teşekkür anlamına eğilme ya da diz kırma biçiminde yapılan hareket",
+        "letter": "R",
+        "answer": "Reverans"
+    },
+    {
+        "id": 1690,
+        "question": "GENELLİKLE MEYVE VEYA MEYVE SULARINDAN YAPILAN, FRANSA MENŞELİ DONDURULMUŞ BİR TATLI",
+        "letter": "S",
+        "answer": "SORBE"
+    },
+    {
+        "id": 1681,
+        "question": "Üzerine uzanılabilecek biçimde ayarlanan bir tür taşınabilir koltuk",
+        "letter": "Ş",
+        "answer": "Şezlong"
+    },
+    {
+        "id": 704,
+        "question": "Kaynak aracılığıyla doğrulama, kontrol etme",
+        "letter": "T",
+        "answer": "Teyit, teyit etme, teyit etmek"
+    },
+    {
+        "id": 1079,
+        "question": "Birinin yapmakla yükümlü olduğu iş, görev",
+        "letter": "U",
+        "answer": "uhde"
+    },
+    {
+        "id": 1315,
+        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "letter": "Ü",
+        "answer": "Ütopik"
+    },
+    {
+        "id": 474,
+        "question": "Sevgiyi sürdürme, sevgi, dostluk bağlılığı",
+        "letter": "V",
+        "answer": "vefa"
+    },
+    {
+        "id": 772,
+        "question": "Genellikle eylemin çekiciliğini arttıran engelleyici kural",
+        "letter": "Y",
+        "answer": "Yasak"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

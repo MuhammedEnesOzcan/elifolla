@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1162,
+        "question": "Birden fazla sıralı halde iki tarafı ağaçlı yol",
+        "letter": "A",
+        "answer": "Alle, Alle yol"
+    },
+    {
+        "id": 522,
+        "question": "İşçilerin başlarına giydikleri, metal veya plastikten yapılmış koruyucu başlık",
+        "letter": "B",
+        "answer": "Baret"
+    },
+    {
+        "id": 1150,
+        "question": "Kudret sahibi Tanrı",
+        "letter": "C",
+        "answer": "cebbar"
+    },
+    {
+        "id": 1452,
+        "question": "Yenilen yaş veya kuru yemiş vb. şeyler",
+        "letter": "Ç",
+        "answer": "Çerez, çerezler"
+    },
+    {
+        "id": 199,
+        "question": "Yaşayışı ve davranışı düzensiz (kimse)",
+        "letter": "D",
+        "answer": "derbeder"
+    },
+    {
+        "id": 566,
+        "question": "Bilirkişi tarafından yapılan inceleme",
+        "letter": "E",
+        "answer": "Ekspertiz, Ekspertiz raporu"
+    },
+    {
+        "id": 1489,
+        "question": "Etken, etmen",
+        "letter": "F",
+        "answer": "Faktör"
+    },
+    {
+        "id": 1745,
+        "question": "Zengin maden yatakları sebebiyle bir zamanlar \"altın sahili\" ismiyle anılan Afrika ülkesi",
+        "letter": "G",
+        "answer": "Gana, Ghana"
+    },
+    {
+        "id": 754,
+        "question": "Hem et hem de otla beslenen canlılar",
+        "letter": "H",
+        "answer": "Hepçil, Hepobur"
+    },
+    {
+        "id": 272,
+        "question": "Barınma amacıyla bir yerde oturma",
+        "letter": "İ",
+        "answer": "ikamet, ikamet etme, ikamet etmek"
+    },
+    {
+        "id": 1194,
+        "question": "Arabalarda da bulunan, yaz aylarında ortamı soğutmak için kullanılan cihaz",
+        "letter": "K",
+        "answer": "Klima"
+    },
+    {
+        "id": 1529,
+        "question": "Kişiye alay yollu takılan takma ad",
+        "letter": "L",
+        "answer": "Lakap, lakab"
+    },
+    {
+        "id": 1618,
+        "question": "Bir kimsenin sürekli ilişkide bulunduğu insanlar topluluğu, çevre",
+        "letter": "M",
+        "answer": "Muhit"
+    },
+    {
+        "id": 916,
+        "question": "Durgun sularda ya da havuzlarda yetişen, geniş yapraklı su bitkisi",
+        "letter": "N",
+        "answer": "Nilüfer, nılufer"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "letter": "Ö",
+        "answer": "Örk"
+    },
+    {
+        "id": 1728,
+        "question": "İlaç kutularının içinde bulunan ilaçla ilgili bilgileri içeren kağıt ",
+        "letter": "P",
+        "answer": "Prospektüs"
+    },
+    {
+        "id": 1641,
+        "question": "Eski yapıları onarma",
+        "letter": "R",
+        "answer": "Restore, restorasyon, restore etme, restore etmek"
+    },
+    {
+        "id": 1159,
+        "question": "Uygulamalı öğrenme, iş öncesi öğrenme",
+        "letter": "S",
+        "answer": "Staj, stajyerlik, staj yapma, staj yapmak"
+    },
+    {
+        "id": 766,
+        "question": "Haşlanmış gıdayı hızlıca buz ile soğutmak",
+        "letter": "Ş",
+        "answer": "Şoklama, Şoklamak, Şoklama işlemi"
+    },
+    {
+        "id": 1647,
+        "question": "Başladığı noktada biten, bir veya daha fazla yere önceden belirlenmiş bir programa göre yapılan seyahat",
+        "letter": "T",
+        "answer": "Tur"
+    },
+    {
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
+        "letter": "U",
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
+    },
+    {
+        "id": 879,
+        "question": "Geniş Anlamıyla Derş Ya Da Mukoza Altı Dokuları Meydanda Bırakan Kronik Yaralar",
+        "letter": "Ü",
+        "answer": "Ülser"
+    },
+    {
+        "id": 732,
+        "question": "Diğer adı petrol jelatini olan nemlendirici bakım ürünü",
+        "letter": "V",
+        "answer": "Vazelin, Vaseline"
+    },
+    {
+        "id": 904,
+        "question": "Yeni doğmuş hayvan",
+        "letter": "Y",
+        "answer": "Yavru"
+    },
+    {
+        "id": 739,
+        "question": "Gerçekleşeceği düşünülmeyen, hesapta olmayan, umulmadık",
+        "letter": "Z",
+        "answer": "Zuhurat, Zuhurât"
+    }
+]

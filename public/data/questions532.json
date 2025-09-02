@@ -1,0 +1,158 @@
+[
+    {
+        "id": 126,
+        "question": "Eski dilde \"Dilekçe\"",
+        "letter": "A",
+        "answer": "arzuhal, arzuhâl"
+    },
+    {
+        "id": 528,
+        "question": "Yorgun, bitkin düşmüş olan",
+        "letter": "B",
+        "answer": "Bitap, bitap halde"
+    },
+    {
+        "id": 1364,
+        "question": "Bilgisizlik, cahil olma durumu",
+        "letter": "C",
+        "answer": "Cehalet"
+    },
+    {
+        "id": 540,
+        "question": "Sözlerin veya davranışların birbirini tutmaması",
+        "letter": "Ç",
+        "answer": "Çelişki"
+    },
+    {
+        "id": 1737,
+        "question": "Okuma güçlüğü hastalığı",
+        "letter": "D",
+        "answer": "Disleksi"
+    },
+    {
+        "id": 210,
+        "question": "Zaman içinde birdenbire olmayan, kesintisiz, niteliksel ve niceliksel gelişme süreci",
+        "letter": "E",
+        "answer": "evrim"
+    },
+    {
+        "id": 574,
+        "question": "Dönem sonu sınavı",
+        "letter": "F",
+        "answer": "Final, Final sınavı"
+    },
+    {
+        "id": 72,
+        "question": "Buğdaydaki ana protein grubunun adı",
+        "letter": "G",
+        "answer": "gluten"
+    },
+    {
+        "id": 1439,
+        "question": "Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz",
+        "letter": "H",
+        "answer": "Haşa"
+    },
+    {
+        "id": 265,
+        "question": "Eksik bir şeyi tamamlama, daha iyi duruma getirme, bütünleme",
+        "letter": "İ",
+        "answer": "ikmal, ikmâl"
+    },
+    {
+        "id": 1952,
+        "question": "KALBUR, TEL ELEK GİBİ ŞEYLERİN TAHTA ÇEMBERİ",
+        "letter": "K",
+        "answer": "Kasnak"
+    },
+    {
+        "id": 1526,
+        "question": "Su samurundan elde edilen post",
+        "letter": "L",
+        "answer": "Lutr"
+    },
+    {
+        "id": 323,
+        "question": "Kalıtım yoluyla gelen herhangi bir özellik",
+        "letter": "M",
+        "answer": "miras, mizaç"
+    },
+    {
+        "id": 1252,
+        "question": "Hastalığın yeniden ortaya çıkma, tekrarlaması durumu",
+        "letter": "N",
+        "answer": "Nüks, nüks etme, nüks etmesi, nüks etmek"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 659,
+        "question": "Nesnelerin gerçeğine değil, bireyin düşünce ve duygularına dayanan",
+        "letter": "Ö",
+        "answer": "Öznel"
+    },
+    {
+        "id": 1761,
+        "question": "Çalışma saati bitiminde işi bırakma",
+        "letter": "P",
+        "answer": "Paydos, paydos etme, paydos etmek"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 1124,
+        "question": "Acı, yoksulluk, haksızlık vb. üzücü durumlar karşısında ses çıkarmadan onların geçmesini bekleme erdemi, dayanç",
+        "letter": "S",
+        "answer": "sabır"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 1927,
+        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
+        "letter": "T",
+        "answer": "Takıntı, Takıntılık, Takma, Takmak"
+    },
+    {
+        "id": 1909,
+        "question": "“MEYMENETSİZ, MUSİBET” ANLAMLARINA GELEN BİR SÖZ",
+        "letter": "U",
+        "answer": "Uğursuz"
+    },
+    {
+        "id": 1474,
+        "question": "Altyapı üzerine kurulan, oturmaya veya üretime yarayan yapıların tümü",
+        "letter": "Ü",
+        "answer": "Üstyapı"
+    },
+    {
+        "id": 480,
+        "question": "Yapılması gerekli olan",
+        "letter": "V",
+        "answer": "vacip"
+    },
+    {
+        "id": 889,
+        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "letter": "Y",
+        "answer": "Yalak"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

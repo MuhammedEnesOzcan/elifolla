@@ -1,129 +1,129 @@
 [
     {
-        "id": 1378,
-        "question": "Bir şeye dikkati yönelterek o şeyin bilincine varma, idrak",
+        "id": 1341,
+        "question": "Virüsün çoğalmasını engelleyen",
         "letter": "A",
-        "answer": "Algı, algılama, algılamak"
+        "answer": "Antiviral"
     },
     {
-        "id": 135,
-        "question": "Yapılan bir hizmete ödenen ücretten ayrı olarak fazladan verilen para",
+        "id": 1354,
+        "question": "Evlilik hayatının ilk ayı veya ilk günleri",
         "letter": "B",
-        "answer": "bahşiş"
+        "answer": "Balayı"
     },
     {
-        "id": 1305,
-        "question": "Yurt, baba ocağı gibi çok sevilen şeylerden ayrılmış olan, uzak kalmış olan",
+        "id": 532,
+        "question": "Heyecanlı, coşkulu ve atik kimse",
         "letter": "C",
-        "answer": "Cüda"
+        "answer": "Cevval"
     },
     {
-        "id": 1844,
-        "question": "PARÇALARA AYRILIP DAĞILMAYACAK BİR BİÇİMDE YARILMA",
+        "id": 1762,
+        "question": "Her zaman menfaati doğrultusunda hareket eden kişi",
         "letter": "Ç",
-        "answer": "Çatlama, Çatlamak"
+        "answer": "Çıkarcı"
     },
     {
-        "id": 793,
-        "question": "Para basılan yer",
+        "id": 77,
+        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
         "letter": "D",
-        "answer": "Darphane"
+        "answer": "daktilo"
     },
     {
-        "id": 1173,
-        "question": "Mental ve vücutça sağlıklı, sağlık içinde olan",
+        "id": 1236,
+        "question": "Gizlerle, sırlarla örtülü olan, gizemli",
         "letter": "E",
-        "answer": "Esen"
+        "answer": "Esrarengiz"
     },
     {
-        "id": 217,
-        "question": "Çalışır durumda olan, etkin",
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
         "letter": "F",
-        "answer": "faal"
+        "answer": "FALSO"
     },
     {
-        "id": 802,
-        "question": "Pişirilerek kurutulmuş yuvarlak veya uzun biçimli peksimet",
+        "id": 232,
+        "question": "Resmi bir törenden sonra yapılan büyük ve gösterişli şölen",
         "letter": "G",
-        "answer": "Galeta, Grisini, Gevrek"
+        "answer": "gala"
     },
     {
-        "id": 60,
-        "question": "Güney yarım küre'de en uzun gecenin yaşandığı ay",
+        "id": 1229,
+        "question": "Yakını görememe kusuru",
         "letter": "H",
-        "answer": "haziran"
+        "answer": "Hipermetrop, hipermetropluk"
     },
     {
-        "id": 256,
-        "question": "Alınmış bir şeyi geri verme",
+        "id": 265,
+        "question": "Eksik bir şeyi tamamlama, daha iyi duruma getirme, bütünleme",
         "letter": "İ",
-        "answer": "iade"
+        "answer": "ikmal, ikmâl"
     },
     {
-        "id": 286,
-        "question": "Var olan ancak bilinmeyen bir şeyi bulan, ortaya çıkaran kimse, bulucu",
+        "id": 605,
+        "question": "Garson kalfası",
         "letter": "K",
-        "answer": "kaşif, kâşif"
+        "answer": "Komi"
     },
     {
-        "id": 1107,
-        "question": "Hanigillerden, Akdeniz ve Ege'de yaşayan lezzetli bir balık, kaya hanisi",
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
         "letter": "L",
-        "answer": "lahos"
+        "answer": "Lunapark"
     },
     {
-        "id": 630,
-        "question": "Dayanaksız, delilsiz, arkası boş olan",
+        "id": 1791,
+        "question": "“HUY, YARADILIŞ, TABİAT VEYA KARAKTER” ANLAMLARINDA KULLANILAN BİR SÖZCÜK",
         "letter": "M",
-        "answer": "Mesnetsiz, mesnetsiz iddia"
+        "answer": "Mizaç"
     },
     {
-        "id": 327,
-        "question": "Haykırma, bağırma",
+        "id": 639,
+        "question": "Tarlayı sürüp herhangi bir şey ekmeden dinlenmeye bırakma",
         "letter": "N",
-        "answer": "nara, nara atma, nara atmak"
+        "answer": "Nadas, nadasa bırakma, nadasa bırakmak"
     },
     {
-        "id": 347,
-        "question": "Yiyecek, içecek gibi şeylerin alınabildiği mekanik veya elektrikli araç",
+        "id": 761,
+        "question": "Canlıyı oluşturan organlar bütünü",
         "letter": "O",
-        "answer": "otomat"
+        "answer": "Organizma"
     },
     {
-        "id": 657,
-        "question": "Mecliste bir konuda oylamaya sunularak karar verilmesi istenen yazılı kâğıt",
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
         "letter": "Ö",
-        "answer": "Önerge"
+        "answer": "Örk"
     },
     {
-        "id": 375,
-        "question": "Kedi, köpek vb. hayvanların ön ayağı",
+        "id": 1014,
+        "question": "Resim ve fotoğrafta duruş",
         "letter": "P",
-        "answer": "pati"
+        "answer": "poz"
     },
     {
-        "id": 681,
-        "question": "Sporda veya oyunda yenilmiş olanın aynı rakiple oynadığı ikinci oyun",
+        "id": 678,
+        "question": "Yapılması alışkanlık haline gelmiş iş",
         "letter": "R",
-        "answer": "Rövanş, Rövanş maçı, Rovanş, Rovanş maçı"
+        "answer": "Rutin, Rutin iş"
     },
     {
-        "id": 1934,
-        "question": "KENDİ GERÇEKLİĞİNİ YARATAN SANAT AKIMI, GERÇEKÜSTÜCÜLÜK",
+        "id": 63,
+        "question": "Garri Kasparov'un \"Büyük Usta\" unvanına sahip olduğu oyun",
         "letter": "S",
-        "answer": "Sürrealizm"
+        "answer": "Satranç"
     },
     {
-        "id": 832,
-        "question": "Sesi tanımlayan sözlerden oluşmuş “çabucak” anlamında kullanılan bir kelime",
+        "id": 1682,
+        "question": "Çorba ve pilavda kullanılan, türlü biçimlerde kesilerek kurutulmuş buğday unu hamuru",
         "letter": "Ş",
-        "answer": "Şipşak"
+        "answer": "Şehriye"
     },
     {
-        "id": 1063,
-        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
+        "id": 834,
+        "question": "Hububatın diğer adı",
         "letter": "T",
-        "answer": "Takı"
+        "answer": "Tahıl, Tahıllar"
     },
     {
         "id": 768,
@@ -132,27 +132,27 @@
         "answer": "Usanma, Usanmak"
     },
     {
-        "id": 1509,
-        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
         "letter": "Ü",
-        "answer": "Üstübeç"
+        "answer": "Ün"
     },
     {
-        "id": 1861,
-        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "id": 476,
+        "question": "Karşı çıkma, engelleme, reddetme",
         "letter": "V",
-        "answer": "Vizyoner, Vizyonlu"
+        "answer": "veto, veto etme, veto etmek"
     },
     {
-        "id": 1950,
-        "question": "ESKİ EVLERDEKİ YATAK, YORGAN DEPOSU",
+        "id": 1574,
+        "question": "Ahşap malzemeleri istenilen bir biçime getirmek için tıraşlamak, biçmek",
         "letter": "Y",
-        "answer": "Yüklük"
+        "answer": "Yontmak, yontma"
     },
     {
-        "id": 1843,
-        "question": "RENKSİZ YA DA SARI, YEŞİL VE KAHVERENGİ RENKLERDE OLABİLEN DOĞAL, SAYDAM DEĞERLİ BİR TAŞ",
+        "id": 1956,
+        "question": "Ağaçlardan elde edilen, eriyiği yapıştırıcı olarak kullanılan renksiz veya sarı kırmızımtırak renkte biçimsiz madde",
         "letter": "Z",
-        "answer": "Zirkon"
+        "answer": "Zamk"
     }
 ]

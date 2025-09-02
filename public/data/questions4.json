@@ -1,45 +1,45 @@
 [
     {
-        "id": 1261,
-        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
+        "id": 783,
+        "question": "Bir yapının veya yapı grubunun ortasında kalan, etrafı çevrili üstü açık alan",
         "letter": "A",
-        "answer": "Aperatif, aparatif, aperetif, Aperitif"
+        "answer": "Avlu, Avlusu"
     },
     {
-        "id": 62,
-        "question": "Bale yapan erkek dansçılara verilen isim",
+        "id": 143,
+        "question": "Bir şehir veya bir bölge avukatlarının bağlı oldukları meslek kuruluşu",
         "letter": "B",
-        "answer": "balet"
+        "answer": "baro"
     },
     {
-        "id": 1368,
-        "question": "Şaka olmayan, gerçek",
+        "id": 535,
+        "question": "Gerçekten, hakikaten anlamlarındaki bir söz",
         "letter": "C",
-        "answer": "Ciddi"
+        "answer": "Cidden"
     },
     {
-        "id": 1844,
-        "question": "PARÇALARA AYRILIP DAĞILMAYACAK BİR BİÇİMDE YARILMA",
+        "id": 748,
+        "question": "Araçların trafikte üstünlük sağlamak için kullandığı kırmızı-mavi ışıklar",
         "letter": "Ç",
-        "answer": "Çatlama, Çatlamak"
+        "answer": "Çakar, çakar lamba, çakar lambası"
     },
     {
-        "id": 1694,
-        "question": "ÇEŞİTLİ TONLARI BULUNAN KIZIL KAHVE AT RENGİ",
+        "id": 197,
+        "question": "Yalnızca bir yönde akım geçiren devre",
         "letter": "D",
-        "answer": "Doru"
+        "answer": "diyot"
     },
     {
-        "id": 205,
-        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "id": 1227,
+        "question": "Tekrar eden ses, yankı",
         "letter": "E",
-        "answer": "ezel"
+        "answer": "Eko"
     },
     {
-        "id": 1093,
-        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "id": 1321,
+        "question": "Tütünleme suretiyle kurutulmuş ringa balığı",
         "letter": "F",
-        "answer": "Facia"
+        "answer": "Frisa, firisa"
     },
     {
         "id": 802,
@@ -48,111 +48,111 @@
         "answer": "Galeta, Grisini, Gevrek"
     },
     {
-        "id": 1495,
-        "question": "Satrançta taş sürme işi",
+        "id": 251,
+        "question": "Ayak bileğine takılan bilezik",
         "letter": "H",
-        "answer": "Hamle, hamle yapma, hamle yapmak"
+        "answer": "halhal"
     },
     {
-        "id": 1228,
-        "question": "İnsanları bir yere yerleştirme, yurtlandırma",
+        "id": 1692,
+        "question": "“TRAFİĞİ ÇOK OLAN, CANLI, HAREKETLİ, YOĞUN VE KALABALIK” ANLAMLARINDA KULLANILAN BİR SÖZ",
         "letter": "İ",
-        "answer": "İskan, iskan etme, iskan etmek"
+        "answer": "İşlek, işlek yol, işlek cadde"
     },
     {
-        "id": 1255,
-        "question": "Başparmak piyanosu da denen müzik aleti",
+        "id": 1905,
+        "question": "Soğuk mevsim kıyafetlerinin tümü",
         "letter": "K",
-        "answer": "Kalimba"
+        "answer": "Kışlık"
     },
     {
-        "id": 616,
-        "question": "Şişkinlik yaptığıyla bilinen süt şekeri",
+        "id": 302,
+        "question": "Bazı bitkilerin genellikle süt görünüşünde olan öz suyu",
         "letter": "L",
-        "answer": "Laktoz"
+        "answer": "lateks"
     },
     {
-        "id": 1892,
-        "question": "Bilgisayarın telefon hattına bağlanarak internete bağlanmasını sağlayan aygıt",
+        "id": 313,
+        "question": "Ara verme, duraklama",
         "letter": "M",
-        "answer": "Modem"
+        "answer": "mola"
     },
     {
-        "id": 330,
-        "question": "Kullanılması hemen mümkün olan para, likit",
+        "id": 327,
+        "question": "Haykırma, bağırma",
         "letter": "N",
-        "answer": "nakit, nakit para"
+        "answer": "nara, nara atma, nara atmak"
     },
     {
-        "id": 1969,
-        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
         "letter": "O",
-        "answer": "OLGU"
+        "answer": "Ofris"
     },
     {
-        "id": 1482,
-        "question": "Bir yargıya varmak veya değer vermek için başvurulan ilke, kıstas, mısdak, kriter",
+        "id": 657,
+        "question": "Mecliste bir konuda oylamaya sunularak karar verilmesi istenen yazılı kâğıt",
         "letter": "Ö",
-        "answer": "Ölçüt"
+        "answer": "Önerge"
     },
     {
-        "id": 1298,
-        "question": "Yolun kaygan olması nedeniyle tekerlekler dönse de taşıtın ilerleyememesi durumu",
+        "id": 1020,
+        "question": "Giysilerde bazı yerlerden içeriye doğru daraltılarak dikilmiş bölüm",
         "letter": "P",
-        "answer": "Patinaj, patinaj çekme, patinaj çekmek"
+        "answer": "pens"
     },
     {
-        "id": 1121,
-        "question": "Herhangi bir işte, bir yarışta, birbirini geçmeye çalışan, aynı şeyi elde etmeye uğraşan",
+        "id": 392,
+        "question": "Derece, kerte",
         "letter": "R",
-        "answer": "Rakip"
+        "answer": "radde"
     },
     {
-        "id": 1042,
-        "question": "Sen zamirinin yönelme durumu",
+        "id": 1874,
+        "question": "ÇEKİNİLMESİ, DİKKATLİ OLUNMASI GEREKEN DURUM",
         "letter": "S",
-        "answer": "sana"
+        "answer": "Sakınca, Sakıncalı, Sakıncalı durum"
     },
     {
-        "id": 1056,
-        "question": "Karaları çevreleyen ve karalardan sayılan, 200 m derinliğe kadar olan sığ deniz dipleri",
+        "id": 421,
+        "question": "Güzel, zarif, modaya uygun",
         "letter": "Ş",
-        "answer": "Şelf"
+        "answer": "şık"
     },
     {
-        "id": 834,
-        "question": "Hububatın diğer adı",
+        "id": 439,
+        "question": "Manyetik bir bant üzerine sesleri kaydeden ve okuyan aygıt",
         "letter": "T",
-        "answer": "Tahıl, Tahıllar"
+        "answer": "teyp"
     },
     {
-        "id": 892,
-        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "id": 1557,
+        "question": "Erkek hizmetçi",
         "letter": "U",
-        "answer": "Uzman"
+        "answer": "Uşak"
     },
     {
-        "id": 469,
-        "question": "Ayrıca, bir de, bundan başka",
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
         "letter": "Ü",
-        "answer": "üstelik"
+        "answer": "Üzengi"
     },
     {
-        "id": 1137,
-        "question": "Kent veya kasabada dış mahalle",
+        "id": 890,
+        "question": "Giysilerde omuzların dik durması için konulan parça",
         "letter": "V",
-        "answer": "varoş"
+        "answer": "Vatka"
     },
     {
-        "id": 1579,
-        "question": "Bir işte hiyerarşik düzende daha üstte bulunan, karar verme hakkına sahip olan, daha tecrübeli kimse",
+        "id": 950,
+        "question": "Rüzgar",
         "letter": "Y",
-        "answer": "Yetkili, yetki sahibi"
+        "answer": "Yel"
     },
     {
-        "id": 853,
-        "question": "Kabe yakınında bulunan kuyu ve bu kuyunun Müslümanlarca kutsal sayılan suyu",
+        "id": 1589,
+        "question": "Çok küçük parçacık",
         "letter": "Z",
-        "answer": "Zemzem"
+        "answer": "Zerre"
     }
 ]

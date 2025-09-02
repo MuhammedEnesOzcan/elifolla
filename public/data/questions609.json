@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1261,
+        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
+        "letter": "A",
+        "answer": "Aperatif, aparatif, aperetif, Aperitif"
+    },
+    {
+        "id": 1596,
+        "question": "Bir öğrencinin öğrenimini sürdürebilmesi için verilen ödenek",
+        "letter": "B",
+        "answer": "Burs, burs verme, burs vermek"
+    },
+    {
+        "id": 530,
+        "question": "Gösterişli, şatafatlı",
+        "letter": "C",
+        "answer": "Cafcaf, cafcaflı"
+    },
+    {
+        "id": 1762,
+        "question": "Her zaman menfaati doğrultusunda hareket eden kişi",
+        "letter": "Ç",
+        "answer": "Çıkarcı"
+    },
+    {
+        "id": 1391,
+        "question": "Yabancı ülke parası",
+        "letter": "D",
+        "answer": "Döviz"
+    },
+    {
+        "id": 558,
+        "question": "Nağme ve melodi sözlerinin Türkçe kökenli karşılığı",
+        "letter": "E",
+        "answer": "Ezgi"
+    },
+    {
+        "id": 1913,
+        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
+        "letter": "F",
+        "answer": "Fasikül"
+    },
+    {
+        "id": 238,
+        "question": "Değersiz, aşağı görülen, küçümsenen topluluk, derinti, sürü",
+        "letter": "G",
+        "answer": "güruh"
+    },
+    {
+        "id": 253,
+        "question": "Çok güzel el yazısı yazan sanatçı",
+        "letter": "H",
+        "answer": "hattat"
+    },
+    {
+        "id": 952,
+        "question": "Bir köleyi özgürlüğüne kavuşturma",
+        "letter": "İ",
+        "answer": "itak"
+    },
+    {
+        "id": 1784,
+        "question": "BAZI LOKANTALARDA ÇATAL, BIÇAK GİBİ SERVİS ÖGELERİNDEN ALINAN ÜCRET",
+        "letter": "K",
+        "answer": "Kuver"
+    },
+    {
+        "id": 981,
+        "question": "Amerikan devesi de denilen geviş getirenlerden bir hayvan",
+        "letter": "L",
+        "answer": "Lama"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 639,
+        "question": "Tarlayı sürüp herhangi bir şey ekmeden dinlenmeye bırakma",
+        "letter": "N",
+        "answer": "Nadas, nadasa bırakma, nadasa bırakmak"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 357,
+        "question": "Kızgınlık, hışım, hiddet, gazap",
+        "letter": "Ö",
+        "answer": "öfke"
+    },
+    {
+        "id": 1016,
+        "question": "Posta parası karşılığı mektuplara, damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası",
+        "letter": "P",
+        "answer": "Pul"
+    },
+    {
+        "id": 1172,
+        "question": "Adet haline gelen şey, geleneksel tören",
+        "letter": "R",
+        "answer": "Ritüel"
+    },
+    {
+        "id": 1232,
+        "question": "Yanılarak, yanlışlıkla",
+        "letter": "S",
+        "answer": "Sehven"
+    },
+    {
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "letter": "Ş",
+        "answer": "Şakak"
+    },
+    {
+        "id": 834,
+        "question": "Hububatın diğer adı",
+        "letter": "T",
+        "answer": "Tahıl, Tahıllar"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
+        "letter": "Ü",
+        "answer": "Ütülmek"
+    },
+    {
+        "id": 863,
+        "question": "Tahıl tanelerinin damıtılmasıyla elde edilen alkollü içki",
+        "letter": "V",
+        "answer": "Votka, vodka"
+    },
+    {
+        "id": 1574,
+        "question": "Ahşap malzemeleri istenilen bir biçime getirmek için tıraşlamak, biçmek",
+        "letter": "Y",
+        "answer": "Yontmak, yontma"
+    },
+    {
+        "id": 1843,
+        "question": "RENKSİZ YA DA SARI, YEŞİL VE KAHVERENGİ RENKLERDE OLABİLEN DOĞAL, SAYDAM DEĞERLİ BİR TAŞ",
+        "letter": "Z",
+        "answer": "Zirkon"
+    }
+]

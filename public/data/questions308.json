@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1656,
+        "question": "Alfabe sırasına göre dizilmiş",
+        "letter": "A",
+        "answer": "Alfabetik"
+    },
+    {
+        "id": 127,
+        "question": "Bağlama işinde kullanılan şerit biçiminde bağ",
+        "letter": "B",
+        "answer": "bağcık"
+    },
+    {
+        "id": 1530,
+        "question": "Adam öldürme",
+        "letter": "C",
+        "answer": "Cinayet"
+    },
+    {
+        "id": 171,
+        "question": "Bir sonuca varmak, ortadaki engelleri kaldırmak için tutulması gereken yol, çıkar yol, çözüm yolu",
+        "letter": "Ç",
+        "answer": "çare"
+    },
+    {
+        "id": 795,
+        "question": "Akan suyun hacmi",
+        "letter": "D",
+        "answer": "Debi, Debisi"
+    },
+    {
+        "id": 1173,
+        "question": "Mental ve vücutça sağlıklı, sağlık içinde olan",
+        "letter": "E",
+        "answer": "Esen"
+    },
+    {
+        "id": 1189,
+        "question": "Yenen, fetheden kimse",
+        "letter": "F",
+        "answer": "Fatih"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 253,
+        "question": "Çok güzel el yazısı yazan sanatçı",
+        "letter": "H",
+        "answer": "hattat"
+    },
+    {
+        "id": 256,
+        "question": "Alınmış bir şeyi geri verme",
+        "letter": "İ",
+        "answer": "iade"
+    },
+    {
+        "id": 1288,
+        "question": "Mukayese etmek, karşılaştırmak",
+        "letter": "K",
+        "answer": "Kıyaslamak, kıyaslama, kıyas yapma, kıyas yapmak"
+    },
+    {
+        "id": 295,
+        "question": "Yufka inceliğinde açılmış uzun sade pide",
+        "letter": "L",
+        "answer": "lavaş"
+    },
+    {
+        "id": 813,
+        "question": "'Ultraviyole'' sözcüğünün Türkçe karşılığı",
+        "letter": "M",
+        "answer": "Morötesi"
+    },
+    {
+        "id": 1252,
+        "question": "Hastalığın yeniden ortaya çıkma, tekrarlaması durumu",
+        "letter": "N",
+        "answer": "Nüks, nüks etme, nüks etmesi, nüks etmek"
+    },
+    {
+        "id": 1736,
+        "question": "Elektrik sinyallerini görselleştirmek, ölçmek ve analiz etmek için kullanılan cihaz",
+        "letter": "O",
+        "answer": "Osiloskop"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 1014,
+        "question": "Resim ve fotoğrafta duruş",
+        "letter": "P",
+        "answer": "poz"
+    },
+    {
+        "id": 1205,
+        "question": "TV'deki günlük veya haftalık izlenme oranı, izleniş durumu",
+        "letter": "R",
+        "answer": "Reyting, rating"
+    },
+    {
+        "id": 1835,
+        "question": "MECAZ ANLAMDA HABER VERMEDEN SESSİZCE GİDİVERME",
+        "letter": "S",
+        "answer": "Sıvışma, Sıvışmak, Sıyrılma, Sıyrılmak"
+    },
+    {
+        "id": 701,
+        "question": "Bir kara yolunda trafik çizgileri ile ayrılmış bölümlerden her biri",
+        "letter": "Ş",
+        "answer": "Şerit"
+    },
+    {
+        "id": 1970,
+        "question": "BİR ŞEYİ RESMİ OLARAK KAYDETME, KÜTÜĞE GEÇİRME",
+        "letter": "T",
+        "answer": "TESCİL, TESCİLLEME, TESCİLLEMEK"
+    },
+    {
+        "id": 450,
+        "question": "Bilgiçlik taslayan (kimse)",
+        "letter": "U",
+        "answer": "ukala"
+    },
+    {
+        "id": 861,
+        "question": "Sivrisineğe benzer çok küçük bir sinek türü",
+        "letter": "Ü",
+        "answer": "Üvez"
+    },
+    {
+        "id": 872,
+        "question": "Bulaşıcı Hastalıklara Yol Açan Mikrop",
+        "letter": "V",
+        "answer": "Virüs, vırus"
+    },
+    {
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "letter": "Y",
+        "answer": "Yakut"
+    },
+    {
+        "id": 846,
+        "question": "Zorunluluk, gereklilik ya da yoksulluk anlamındaki söz",
+        "letter": "Z",
+        "answer": "Zaruret, Zaruri"
+    }
+]

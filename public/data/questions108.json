@@ -1,0 +1,158 @@
+[
+    {
+        "id": 106,
+        "question": "Bir uyarıyı, bir tehlikeyi bildirmek için verilen işaret",
+        "letter": "A",
+        "answer": "alarm"
+    },
+    {
+        "id": 1343,
+        "question": "Bükülmüş, kıvrılmış şeylerin oluşturduğu kat, kıvrım",
+        "letter": "B",
+        "answer": "Büklüm, büklümler"
+    },
+    {
+        "id": 1376,
+        "question": "Bir soruya, bir isteğe, bir söz veya yazıya verilen karşılık, yanıt",
+        "letter": "C",
+        "answer": "Cevap, cevap verme, cevap vermek, cevaplama, cevaplamak"
+    },
+    {
+        "id": 19,
+        "question": "Ağaç dallarından çatılmış gölgelik",
+        "letter": "Ç",
+        "answer": "çardak"
+    },
+    {
+        "id": 749,
+        "question": "Dozu düzenleme, ayarlama",
+        "letter": "D",
+        "answer": "dozaj"
+    },
+    {
+        "id": 20,
+        "question": "Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli",
+        "letter": "E",
+        "answer": "Etalon"
+    },
+    {
+        "id": 1960,
+        "question": "ŞUT VURULAN TOPUN YÖNÜNÜ BİR ANDA DEĞİŞTİRMESİ",
+        "letter": "F",
+        "answer": "FALSO"
+    },
+    {
+        "id": 72,
+        "question": "Buğdaydaki ana protein grubunun adı",
+        "letter": "G",
+        "answer": "gluten"
+    },
+    {
+        "id": 15,
+        "question": "Hristiyan ve İslam inançlarına göre dünyada var olan ilk kadın",
+        "letter": "H",
+        "answer": "havva"
+    },
+    {
+        "id": 600,
+        "question": "Bir yeri ele geçirme",
+        "letter": "İ",
+        "answer": "İşgal, işgal etme, işgal etmek"
+    },
+    {
+        "id": 1828,
+        "question": "ARAPÇA KÖKENLİSİ \"HÜVİYET\" OLAN KELİMENİN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Kimlik"
+    },
+    {
+        "id": 299,
+        "question": "Önder, şef",
+        "letter": "L",
+        "answer": "lider"
+    },
+    {
+        "id": 1878,
+        "question": "Seçkin kişilerin yaşantılarını konu alan yayın",
+        "letter": "M",
+        "answer": "Magazin"
+    },
+    {
+        "id": 990,
+        "question": "Güzel, uyumlu ses, ezgi, melodi",
+        "letter": "N",
+        "answer": "Nağme"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 1538,
+        "question": "Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak",
+        "letter": "Ö",
+        "answer": "Örtmek"
+    },
+    {
+        "id": 1854,
+        "question": "YAYA OLARAK SAVAŞAN ASKERLERİN OLUŞTURDUĞU SINIF",
+        "letter": "P",
+        "answer": "Piyade"
+    },
+    {
+        "id": 395,
+        "question": "Orta kaldırım",
+        "letter": "R",
+        "answer": "refüj"
+    },
+    {
+        "id": 1813,
+        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
+        "letter": "S",
+        "answer": "Solaryum"
+    },
+    {
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
+        "letter": "Ş",
+        "answer": "şakrak"
+    },
+    {
+        "id": 1060,
+        "question": "Türlü metallerden yapılmış, kopmaya karşı bir direnç gösteren ince uzun ip",
+        "letter": "T",
+        "answer": "tel"
+    },
+    {
+        "id": 1563,
+        "question": "Nükleer santrallerde en yaygın kullanılan ve radyoaktif atık bırakan yakıt",
+        "letter": "U",
+        "answer": "Uranyum"
+    },
+    {
+        "id": 876,
+        "question": "Türlü Duyguları Anlatan Veya Bir Doğa Sesini Yansıtan Kelime",
+        "letter": "Ü",
+        "answer": "Ünlem"
+    },
+    {
+        "id": 1300,
+        "question": "Para dalgalanmalarından yararlanarak kolay yoldan kazanç elde eden, spekülatör",
+        "letter": "V",
+        "answer": "Vurguncu"
+    },
+    {
+        "id": 953,
+        "question": "Tibet öküzü",
+        "letter": "Y",
+        "answer": "yak, yak sığırı"
+    },
+    {
+        "id": 739,
+        "question": "Gerçekleşeceği düşünülmeyen, hesapta olmayan, umulmadık",
+        "letter": "Z",
+        "answer": "Zuhurat, Zuhurât"
+    }
+]

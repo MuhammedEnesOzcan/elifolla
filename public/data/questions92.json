@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1341,
+        "question": "Virüsün çoğalmasını engelleyen",
+        "letter": "A",
+        "answer": "Antiviral"
+    },
+    {
+        "id": 1355,
+        "question": "Çoğunlukla bakırdan yapılan küçük kova",
+        "letter": "B",
+        "answer": "Bakraç"
+    },
+    {
+        "id": 536,
+        "question": "Kaçma, savuşma",
+        "letter": "C",
+        "answer": "Cızlam"
+    },
+    {
+        "id": 1547,
+        "question": "Balık kılçığı",
+        "letter": "Ç",
+        "answer": "Çopra"
+    },
+    {
+        "id": 1399,
+        "question": "Büyük takımlar arasında oynanan maç",
+        "letter": "D",
+        "answer": "Derbi, derbi maçı"
+    },
+    {
+        "id": 1405,
+        "question": "Yalnızca ahlak üzerine kurulu yönetim biçimi",
+        "letter": "E",
+        "answer": "Etokrasi"
+    },
+    {
+        "id": 1699,
+        "question": "Sık rastlanan bir tür boğaz enfeksiyonu",
+        "letter": "F",
+        "answer": "Farenjit, faranjit"
+    },
+    {
+        "id": 1745,
+        "question": "Zengin maden yatakları sebebiyle bir zamanlar \"altın sahili\" ismiyle anılan Afrika ülkesi",
+        "letter": "G",
+        "answer": "Gana, Ghana"
+    },
+    {
+        "id": 1216,
+        "question": "Arma bilimi ve mühür biliminin diğer adı",
+        "letter": "H",
+        "answer": "Heraldik"
+    },
+    {
+        "id": 952,
+        "question": "Bir köleyi özgürlüğüne kavuşturma",
+        "letter": "İ",
+        "answer": "itak"
+    },
+    {
+        "id": 927,
+        "question": "Elektrik Akımı İletiminde Kullanılan Ve Yalıtkan Bir Madde İle Sarılı Bulunan Metal Tel",
+        "letter": "K",
+        "answer": "Kablo"
+    },
+    {
+        "id": 292,
+        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "letter": "L",
+        "answer": "lobi"
+    },
+    {
+        "id": 1715,
+        "question": "Savurgan, tutumsuz, israf yapan ",
+        "letter": "M",
+        "answer": "Müsrif"
+    },
+    {
+        "id": 635,
+        "question": "Kuzey Atlantik Antlaşması Örgütü",
+        "letter": "N",
+        "answer": "NATO"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 1116,
+        "question": "Birim kabul edilen herhangi bir şeyin alabildiği kadar ölçü",
+        "letter": "Ö",
+        "answer": "Ölçek"
+    },
+    {
+        "id": 1023,
+        "question": "Baykuşgillerden, orman, dağ ve kayalıklarda yaşayan, uzunluğu 65 cm, sırtı koyu kahverengi bir kuş türü",
+        "letter": "P",
+        "answer": "Puhu"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 406,
+        "question": "Dik, çıkması ve geçilmesi güç (yer)",
+        "letter": "S",
+        "answer": "sarp"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 438,
+        "question": "Üzüntülü düşünce durumu, kaygı, endişe",
+        "letter": "T",
+        "answer": "tasa, tasalanma, tasalanmak"
+    },
+    {
+        "id": 447,
+        "question": "Uysal bir biçimde",
+        "letter": "U",
+        "answer": "uslu"
+    },
+    {
+        "id": 466,
+        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
+        "letter": "Ü",
+        "answer": "üslup"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 1553,
+        "question": "Birçok kimsenin veya nesnenin bir araya gelmesiyle oluşan kalabalık, küme, kitle, kütle",
+        "letter": "Y",
+        "answer": "Yığın"
+    },
+    {
+        "id": 1591,
+        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "letter": "Z",
+        "answer": "Zarar, ziyan"
+    }
+]

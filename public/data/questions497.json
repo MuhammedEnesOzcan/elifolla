@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1661,
+        "question": "Davranışları ölçülü, olgun (kimse), vakur, ciddi",
+        "letter": "A",
+        "answer": "Ağırbaşlı"
+    },
+    {
+        "id": 959,
+        "question": "Egemenliğini tanıma",
+        "letter": "B",
+        "answer": "biat, biat etme, biat etmek"
+    },
+    {
+        "id": 160,
+        "question": "Üzerinde savaşın sürdüğü bölge",
+        "letter": "C",
+        "answer": "cephe, cephe bölgesi"
+    },
+    {
+        "id": 1450,
+        "question": "Karikatürcü",
+        "letter": "Ç",
+        "answer": "Çizer"
+    },
+    {
+        "id": 553,
+        "question": "Sınır dışı etme, uzaklaştırma",
+        "letter": "D",
+        "answer": "Deport, deport etme, deport etmek"
+    },
+    {
+        "id": 1404,
+        "question": "Kanunlar yönünden insanlar arasında ayrım bulunmaması durumu",
+        "letter": "E",
+        "answer": "Eşitlik, eşitlik hakkı"
+    },
+    {
+        "id": 1699,
+        "question": "Sık rastlanan bir tür boğaz enfeksiyonu",
+        "letter": "F",
+        "answer": "Farenjit, faranjit"
+    },
+    {
+        "id": 1423,
+        "question": "Gök gözlemleri yapan, gök cisimlerini ve olaylarını inceleyen yer, rasathane",
+        "letter": "G",
+        "answer": "Gözlemevi"
+    },
+    {
+        "id": 60,
+        "question": "Güney yarım küre'de en uzun gecenin yaşandığı ay",
+        "letter": "H",
+        "answer": "haziran"
+    },
+    {
+        "id": 1726,
+        "question": "Birim zamandaki hız değişimi",
+        "letter": "İ",
+        "answer": "İvme"
+    },
+    {
+        "id": 610,
+        "question": "Araştırma ve incelemede yararlanılan belge, referans",
+        "letter": "K",
+        "answer": "Kaynak"
+    },
+    {
+        "id": 624,
+        "question": "Çok sulu ve fazla pişmiş pilav/pirinç",
+        "letter": "L",
+        "answer": "Lapa, Lapa pilav, Lapa pirinç"
+    },
+    {
+        "id": 630,
+        "question": "Dayanaksız, delilsiz, arkası boş olan",
+        "letter": "M",
+        "answer": "Mesnetsiz, mesnetsiz iddia"
+    },
+    {
+        "id": 636,
+        "question": "Boks maçında yumruk etkisiyle yere düşme ve devam edememek",
+        "letter": "N",
+        "answer": "Nakavt, nakavt olma, nakavt olmak"
+    },
+    {
+        "id": 998,
+        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
+        "letter": "O",
+        "answer": "oya"
+    },
+    {
+        "id": 357,
+        "question": "Kızgınlık, hışım, hiddet, gazap",
+        "letter": "Ö",
+        "answer": "öfke"
+    },
+    {
+        "id": 1728,
+        "question": "İlaç kutularının içinde bulunan ilaçla ilgili bilgileri içeren kağıt ",
+        "letter": "P",
+        "answer": "Prospektüs"
+    },
+    {
+        "id": 1205,
+        "question": "TV'deki günlük veya haftalık izlenme oranı, izleniş durumu",
+        "letter": "R",
+        "answer": "Reyting, rating"
+    },
+    {
+        "id": 1125,
+        "question": "Düşen, düşmüş",
+        "letter": "S",
+        "answer": "sakıt"
+    },
+    {
+        "id": 426,
+        "question": "Açık ve ayrıntılı anlatma",
+        "letter": "Ş",
+        "answer": "şerh"
+    },
+    {
+        "id": 1774,
+        "question": "KEYFİ ALIŞKANLIĞA DÖNÜŞTÜRMÜŞ OLAN KİŞİ",
+        "letter": "T",
+        "answer": "Tiryaki"
+    },
+    {
+        "id": 1132,
+        "question": "Şalvarı bele bağlamak veya torba, kese vb. şeylerin ağzını büzmek için bunlara geçirilen bağ",
+        "letter": "U",
+        "answer": "uçkur"
+    },
+    {
+        "id": 878,
+        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
+        "letter": "Ü",
+        "answer": "Ülkü"
+    },
+    {
+        "id": 866,
+        "question": "Futbolda Top Yere Değmeden Yapılan Vuruş",
+        "letter": "V",
+        "answer": "Vole"
+    },
+    {
+        "id": 734,
+        "question": "Su kıyısında yapılmış büyük, görkemli ev",
+        "letter": "Y",
+        "answer": "Yalı"
+    },
+    {
+        "id": 1956,
+        "question": "Ağaçlardan elde edilen, eriyiği yapıştırıcı olarak kullanılan renksiz veya sarı kırmızımtırak renkte biçimsiz madde",
+        "letter": "Z",
+        "answer": "Zamk"
+    }
+]

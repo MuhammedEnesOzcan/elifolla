@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1379,
+        "question": "Gümrüklere gelen ticari eşyanın konulduğu, korunduğu yer",
+        "letter": "A",
+        "answer": "Antrepo, ardiye"
+    },
+    {
+        "id": 151,
+        "question": "Küçük balon",
+        "letter": "B",
+        "answer": "baloncuk"
+    },
+    {
+        "id": 962,
+        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "letter": "C",
+        "answer": "Cacık"
+    },
+    {
+        "id": 1540,
+        "question": "Sağlam ve dayanıklı olmayan",
+        "letter": "Ç",
+        "answer": "Çürük"
+    },
+    {
+        "id": 1877,
+        "question": "Savmak ya da savuşturmak anlamındaki söz",
+        "letter": "D",
+        "answer": "Defetmek, Defetme"
+    },
+    {
+        "id": 215,
+        "question": "Gündüz ile gecenin eşit olma durumu",
+        "letter": "E",
+        "answer": "ekinoks"
+    },
+    {
+        "id": 227,
+        "question": "Satıcının alıcıya verdiği hesap pusulası",
+        "letter": "F",
+        "answer": "fatura, fiş"
+    },
+    {
+        "id": 239,
+        "question": "Alabildiğine, çokça",
+        "letter": "G",
+        "answer": "gırla"
+    },
+    {
+        "id": 1441,
+        "question": "Normalden yüksek olan atardamar basıncı",
+        "letter": "H",
+        "answer": "Hipertansiyon"
+    },
+    {
+        "id": 1160,
+        "question": "Anlaşma, bağlaşma, birlik",
+        "letter": "İ",
+        "answer": "İttifak"
+    },
+    {
+        "id": 606,
+        "question": "Kara ile suyun birleştiği yer",
+        "letter": "K",
+        "answer": "Kıyı"
+    },
+    {
+        "id": 299,
+        "question": "Önder, şef",
+        "letter": "L",
+        "answer": "lider"
+    },
+    {
+        "id": 956,
+        "question": "Mendelevyum'un simgesi",
+        "letter": "M",
+        "answer": "md"
+    },
+    {
+        "id": 989,
+        "question": "Bir şeyi hatırlamak için yazılan kısa yazı",
+        "letter": "N",
+        "answer": "Not, not etme, not etmek"
+    },
+    {
+        "id": 645,
+        "question": "Doğal yolla yapılan",
+        "letter": "O",
+        "answer": "Organik"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 824,
+        "question": "Yufka biçiminde kurutulmuş meyve ezmesi",
+        "letter": "P",
+        "answer": "Pestil"
+    },
+    {
+        "id": 1639,
+        "question": "Yabani at veya boğa üzerinde uzun zaman kalabilme oyunu",
+        "letter": "R",
+        "answer": "Rodeo"
+    },
+    {
+        "id": 1192,
+        "question": "Yalnız bir türe özgü olan",
+        "letter": "S",
+        "answer": "Spesifik"
+    },
+    {
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
+        "letter": "Ş",
+        "answer": "Şahsi"
+    },
+    {
+        "id": 1852,
+        "question": "KALIPTA PİŞEN BİR TÜR MEYVELİ PASTA",
+        "letter": "T",
+        "answer": "Tart, Turta"
+    },
+    {
+        "id": 768,
+        "question": "Sıkıntı duyumsamak, bezmek, bıkmak",
+        "letter": "U",
+        "answer": "Usanma, Usanmak"
+    },
+    {
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
+        "letter": "Ü",
+        "answer": "ülke"
+    },
+    {
+        "id": 883,
+        "question": "Evleri kuşatan üstü kapalı ve camlı teras",
+        "letter": "V",
+        "answer": "Veranda"
+    },
+    {
+        "id": 1578,
+        "question": "Bir düşünceye, bir inanca aşırı ölçüde bağlı olan baskıcı kimse",
+        "letter": "Y",
+        "answer": "Yobaz"
+    },
+    {
+        "id": 843,
+        "question": "Telli Bir Çalgıyı Acemice Çalarak Çıkarılan Çirkin Sesin Adı",
+        "letter": "Z",
+        "answer": "Zımbırtı, zimbirti"
+    }
+]

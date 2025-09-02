@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1659,
+        "question": "Konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak",
+        "letter": "A",
+        "answer": "Ağırlamak, ağırlama"
+    },
+    {
+        "id": 144,
+        "question": "Mecazi anlamda \"Şanslı\"",
+        "letter": "B",
+        "answer": "ballı"
+    },
+    {
+        "id": 788,
+        "question": "Az, azıcık, pek az",
+        "letter": "C",
+        "answer": "Cüzi, cüzzi, cüzi miktar"
+    },
+    {
+        "id": 1269,
+        "question": "\"Dünyanın en kalabalık ülkesi\" unvanına sahip olan ülke",
+        "letter": "Ç",
+        "answer": "Çin, Çin Halk Cumhuriyeti"
+    },
+    {
+        "id": 199,
+        "question": "Yaşayışı ve davranışı düzensiz (kimse)",
+        "letter": "D",
+        "answer": "derbeder"
+    },
+    {
+        "id": 204,
+        "question": "Tutsak, köle",
+        "letter": "E",
+        "answer": "esir"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 972,
+        "question": "Ülkeler veya şehirler arasında yapılan uzun yolculuk, seyahat",
+        "letter": "G",
+        "answer": "Gezi"
+    },
+    {
+        "id": 1443,
+        "question": "Mecazen; Yasa dışı yollarla zimmetine para veya mal geçirmek",
+        "letter": "H",
+        "answer": "Hortumlama, hortumlamak"
+    },
+    {
+        "id": 1817,
+        "question": "Bir kardeşini de beraberinde getiren bebeklerin birbirine göre varoluşsal durumu",
+        "letter": "İ",
+        "answer": "İkiz, ikizlik"
+    },
+    {
+        "id": 1255,
+        "question": "Başparmak piyanosu da denen müzik aleti",
+        "letter": "K",
+        "answer": "Kalimba"
+    },
+    {
+        "id": 983,
+        "question": "Deniz kulağı",
+        "letter": "L",
+        "answer": "Lagün"
+    },
+    {
+        "id": 1933,
+        "question": "SOMUT YASALARIN ÖTESİNDE OLAN BİR FELSEFE DALI",
+        "letter": "M",
+        "answer": "Metafizik"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 362,
+        "question": "Bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz",
+        "letter": "Ö",
+        "answer": "özet"
+    },
+    {
+        "id": 382,
+        "question": "Ezerek veya süzgeçten geçirilerek elde edilmiş gıda",
+        "letter": "P",
+        "answer": "püre"
+    },
+    {
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
+        "letter": "R",
+        "answer": "Rivayet"
+    },
+    {
+        "id": 1163,
+        "question": "Söylenmemesi gereken, giz",
+        "letter": "S",
+        "answer": "Sır"
+    },
+    {
+        "id": 430,
+        "question": "Saydam, yalın, açık",
+        "letter": "Ş",
+        "answer": "şeffaf"
+    },
+    {
+        "id": 1130,
+        "question": "Ölünün içine konulduğu sandık biçiminde araç, sal",
+        "letter": "T",
+        "answer": "tabut"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 1567,
+        "question": "Miras bırakılan kimse, mirasçı",
+        "letter": "V",
+        "answer": "Varis"
+    },
+    {
+        "id": 901,
+        "question": "Özel gezinti gemisi",
+        "letter": "Y",
+        "answer": "Yat"
+    },
+    {
+        "id": 737,
+        "question": "Hoşluk, güzellik, incelik, zarif olma",
+        "letter": "Z",
+        "answer": "Zarafet, Zerafet"
+    }
+]

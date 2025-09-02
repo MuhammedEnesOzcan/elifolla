@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1661,
+        "question": "Davranışları ölçülü, olgun (kimse), vakur, ciddi",
+        "letter": "A",
+        "answer": "Ağırbaşlı"
+    },
+    {
+        "id": 142,
+        "question": "Bir düşünceye, bir inanışa aşırı ölçüde bağlanıp ondan başka bir düşünce ve inanışı kabul etmeyen, mutaassıp, fanatik",
+        "letter": "B",
+        "answer": "bağnaz"
+    },
+    {
+        "id": 1149,
+        "question": "Dokumacılıkta, çözgü makinesinde çözgü ipliği bobinlerinin desen ve renk sırasına göre yerleştirildiği sehpa",
+        "letter": "C",
+        "answer": "cağlık"
+    },
+    {
+        "id": 1450,
+        "question": "Karikatürcü",
+        "letter": "Ç",
+        "answer": "Çizer"
+    },
+    {
+        "id": 1399,
+        "question": "Büyük takımlar arasında oynanan maç",
+        "letter": "D",
+        "answer": "Derbi, derbi maçı"
+    },
+    {
+        "id": 79,
+        "question": "Kırkpınar yağlı güreşlerinin yapıldığı ilimiz",
+        "letter": "E",
+        "answer": "edirne"
+    },
+    {
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "letter": "F",
+        "answer": "Fidan"
+    },
+    {
+        "id": 1431,
+        "question": "Otomobil vb. taşıtların konulduğu üstü örtülü yer",
+        "letter": "G",
+        "answer": "Garaj"
+    },
+    {
+        "id": 249,
+        "question": "Aşağı görülen, değersiz",
+        "letter": "H",
+        "answer": "hakir"
+    },
+    {
+        "id": 262,
+        "question": "Yönetme, yönetim, çekip çevirme",
+        "letter": "İ",
+        "answer": "idare, idare etme, idare etmek"
+    },
+    {
+        "id": 608,
+        "question": "Büyük taarruzda karargah olarak kullanılan tepe",
+        "letter": "K",
+        "answer": "Kocatepe, Koca"
+    },
+    {
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
+        "letter": "L",
+        "answer": "Lift"
+    },
+    {
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "letter": "M",
+        "answer": "Mimar"
+    },
+    {
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "letter": "N",
+        "answer": "Nostalji, nostaliji"
+    },
+    {
+        "id": 1518,
+        "question": "Hızlı bir trafik akımı sağlamak amacıyla yapılan, çok şeritli, çift yönlü geniş yol, otoban",
+        "letter": "O",
+        "answer": "Otoyol"
+    },
+    {
+        "id": 922,
+        "question": "Korkak, Tabansız, Yüreksiz",
+        "letter": "Ö",
+        "answer": "ödlek"
+    },
+    {
+        "id": 671,
+        "question": "Aynı düzlem içinde bulunan ve birbiriyle kesişmeyen",
+        "letter": "P",
+        "answer": "Paralel"
+    },
+    {
+        "id": 1205,
+        "question": "TV'deki günlük veya haftalık izlenme oranı, izleniş durumu",
+        "letter": "R",
+        "answer": "Reyting, rating"
+    },
+    {
+        "id": 829,
+        "question": "Bütün geceyi uyumadan geçirmek",
+        "letter": "S",
+        "answer": "Sabahlama, Sabahlamak"
+    },
+    {
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
+        "letter": "Ş",
+        "answer": "şakrak"
+    },
+    {
+        "id": 1819,
+        "question": "Askerlik görevini bitirenleri ordudan bırakma",
+        "letter": "T",
+        "answer": "Terhis, terhis olma, terhis olmak, terhis etme, terhis etmek"
+    },
+    {
+        "id": 1077,
+        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "letter": "U",
+        "answer": "ucuz"
+    },
+    {
+        "id": 873,
+        "question": "İdrarın dışarıya atılmasını sağlayan ve idrar torbasından sonraki idrar yol",
+        "letter": "Ü",
+        "answer": "Üretra"
+    },
+    {
+        "id": 1138,
+        "question": "Tehlikeli durum",
+        "letter": "V",
+        "answer": "varta, vuku, vukuat"
+    },
+    {
+        "id": 1572,
+        "question": "Bir yere bağlamak veya çekerek götürmek için hayvanın başlığına veya tasmasına bağlanan ip",
+        "letter": "Y",
+        "answer": "Yular"
+    },
+    {
+        "id": 505,
+        "question": "El ustalığı isteyen işler",
+        "letter": "Z",
+        "answer": "zanaat"
+    }
+]

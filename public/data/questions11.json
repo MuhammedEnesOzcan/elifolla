@@ -1,158 +1,158 @@
 [
     {
-        "id": 1549,
-        "question": "Kınamak, takbih etmek",
+        "id": 111,
+        "question": "Gıdalarda bulunan hoş koku ya da tat",
         "letter": "A",
-        "answer": "Ayıplamak"
+        "answer": "aroma"
     },
     {
-        "id": 1184,
-        "question": "Hisse, menkul kıymetler vb. alınıp satıldığı organize piyasa",
+        "id": 1599,
+        "question": "Şehir içinde ağaçlı, geniş cadde",
         "letter": "B",
-        "answer": "Borsa"
+        "answer": "Bulvar"
     },
     {
-        "id": 154,
-        "question": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
+        "id": 157,
+        "question": "Alımlı, uygun",
         "letter": "C",
-        "answer": "cila"
+        "answer": "cazip"
     },
     {
-        "id": 965,
-        "question": "Zaman dilimi, vakit",
+        "id": 1269,
+        "question": "\"Dünyanın en kalabalık ülkesi\" unvanına sahip olan ülke",
         "letter": "Ç",
-        "answer": "Çağ"
+        "answer": "Çin, Çin Halk Cumhuriyeti"
     },
     {
-        "id": 77,
-        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
+        "id": 191,
+        "question": "Herhangi bir olayın birden fazla tekrarlanması",
         "letter": "D",
-        "answer": "daktilo"
+        "answer": "döngü, devir"
     },
     {
-        "id": 215,
-        "question": "Gündüz ile gecenin eşit olma durumu",
+        "id": 566,
+        "question": "Bilirkişi tarafından yapılan inceleme",
         "letter": "E",
-        "answer": "ekinoks"
+        "answer": "Ekspertiz, Ekspertiz raporu"
     },
     {
-        "id": 575,
-        "question": "Ses, akım vb. için birim zamandaki titreşim sayısı, titreşim sıklığı",
+        "id": 1326,
+        "question": "Tüzel kişiliği olsun olmasın bir ekonomik etkinlik birimi",
         "letter": "F",
-        "answer": "Frekans"
+        "answer": "Firma"
     },
     {
-        "id": 1260,
-        "question": "Bisiklet direksiyonu",
+        "id": 1434,
+        "question": "Kamıştan yapılmış çift düdük ve tulumdan oluşan, tiz sesli, nefesli, İskoçların millî çalgısı",
         "letter": "G",
-        "answer": "Gidon"
+        "answer": "Gayda"
     },
     {
-        "id": 1444,
-        "question": "Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü",
+        "id": 1248,
+        "question": "Pandemiyle hayatımıza girmiş, eğitimin hem çevrimiçi hem de yüzyüze yapılması durumu",
         "letter": "H",
-        "answer": "Hıfzıssıhha"
+        "answer": "Hibrit, hibrit eğitim"
     },
     {
-        "id": 596,
-        "question": "Aşırı güçlü istek, tutku",
+        "id": 1804,
+        "question": "Dinlenme, rahat etme",
         "letter": "İ",
-        "answer": "İhtiras"
+        "answer": "İstirahat, İstirahat etme, İstirahat etmek"
     },
     {
-        "id": 1153,
-        "question": "İki kümenin ortak elemanlarını ifade eder",
+        "id": 976,
+        "question": "Gözlerin üzerinde kemerli birer çizgi oluşturan kısa kıllar",
         "letter": "K",
-        "answer": "Kesişim, kesişim kümesi"
+        "answer": "Kaş"
     },
     {
-        "id": 291,
-        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
+        "id": 299,
+        "question": "Önder, şef",
         "letter": "L",
-        "answer": "loş"
+        "answer": "lider"
     },
     {
-        "id": 815,
-        "question": "Bir şeyi iflah olmaz, onmaz hale getirmek",
+        "id": 626,
+        "question": "Birbirini kesen demiryolu hatlarının kesiştiği yer",
         "letter": "M",
-        "answer": "Mahvetmek, Mahvetme"
+        "answer": "Makas"
     },
     {
-        "id": 912,
-        "question": "Hristiyanların en büyük bayramı",
+        "id": 990,
+        "question": "Güzel, uyumlu ses, ezgi, melodi",
         "letter": "N",
-        "answer": "Noel"
+        "answer": "Nağme"
     },
     {
-        "id": 997,
-        "question": "Silisin hidratlı ve jelatinli bütün türlerini kapsayan değerli bir mineral, panzehir taşı",
+        "id": 999,
+        "question": "Klavyelilerden farklı ses ton ve modlarına sahip olabilen çalgı",
         "letter": "O",
-        "answer": "opal"
+        "answer": "org"
     },
     {
-        "id": 372,
-        "question": "Bir iş için ayrılan belli para, tahsisat",
+        "id": 371,
+        "question": "Belirli bir ölçüde olan, uygun",
         "letter": "Ö",
-        "answer": "ödenek"
+        "answer": "ölçülü"
     },
     {
-        "id": 1178,
-        "question": "Sözsüz tiyatro oyunu, mim sanatı",
+        "id": 671,
+        "question": "Aynı düzlem içinde bulunan ve birbiriyle kesişmeyen",
         "letter": "P",
-        "answer": "Pandomim, pandomim sanatı"
+        "answer": "Paralel"
     },
     {
-        "id": 1848,
-        "question": "\"BİRLİKTE BULUNMA\", \"EŞLİK ETME\" ANLAMINA GELEN BİR SÖZCÜK",
+        "id": 1635,
+        "question": "Evin duvarlarının suyu çekmesi ve ısı farkından dolayı su buharı oluşması",
         "letter": "R",
-        "answer": "Refakat, Refakat etme, Refakat etmek"
+        "answer": "Rutubet"
     },
     {
-        "id": 1826,
-        "question": "EN AZ İKİ KİŞİ ARASINDA DÜZENLENEN, BİR TARAFIN ÖBÜRÜNE ÖDEME YAPMA YÜKÜMLÜLÜĞÜNÜ BEYAN ETTİĞİ KÂĞIT",
+        "id": 691,
+        "question": "Hastayı bulunduğu hastaneden başka bir yere gönderme",
         "letter": "S",
-        "answer": "Senet"
+        "answer": "Sevk, Sevk etme, Sevk etmek"
     },
     {
-        "id": 421,
-        "question": "Güzel, zarif, modaya uygun",
+        "id": 1678,
+        "question": "Almanya ve Avusturya'da hükûmet başkanı ünvanı",
         "letter": "Ş",
-        "answer": "şık"
+        "answer": "Şansölye"
     },
     {
-        "id": 720,
-        "question": "Tutum, idareli tüketme",
+        "id": 440,
+        "question": "Herhangi bir konuda verilen gizli bilgi",
         "letter": "T",
-        "answer": "Tasarruf, Tasaruf"
+        "answer": "tüyo, tüyo verme, tüyo vermek"
     },
     {
-        "id": 893,
-        "question": "Kaşındırıcı bir deri hastalığı",
+        "id": 1557,
+        "question": "Erkek hizmetçi",
         "letter": "U",
-        "answer": "Uyuz"
+        "answer": "Uşak"
     },
     {
-        "id": 1471,
-        "question": "Havlamak",
+        "id": 769,
+        "question": "Korkunun yarattığı serinlik",
         "letter": "Ü",
-        "answer": "Ürümek"
+        "answer": "Ürperti, Ürpermek"
     },
     {
-        "id": 887,
-        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "id": 867,
+        "question": "Elektromotor Gücün Ya Da Gerilimin Birimi",
         "letter": "V",
-        "answer": "Veba"
+        "answer": "Volt"
     },
     {
-        "id": 734,
-        "question": "Su kıyısında yapılmış büyük, görkemli ev",
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
         "letter": "Y",
-        "answer": "Yalı"
+        "answer": "Yalapşap, yalap şap, yalapsap"
     },
     {
-        "id": 846,
-        "question": "Zorunluluk, gereklilik ya da yoksulluk anlamındaki söz",
+        "id": 1589,
+        "question": "Çok küçük parçacık",
         "letter": "Z",
-        "answer": "Zaruret, Zaruri"
+        "answer": "Zerre"
     }
 ]

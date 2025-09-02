@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1926,
+        "question": "BOKSTA, BÜKÜK KOLLA AŞAĞIDAN YUKARIYA DOĞRU ÇENEYE ATILAN YUMRUK",
+        "letter": "A",
+        "answer": "Aparkat"
+    },
+    {
+        "id": 139,
+        "question": "Aracısız, kendisi olarak",
+        "letter": "B",
+        "answer": "bizzat"
+    },
+    {
+        "id": 787,
+        "question": "“Öfke, kızgınlık” anlamındaki bir erkek ismi",
+        "letter": "C",
+        "answer": "Celal"
+    },
+    {
+        "id": 1200,
+        "question": "Evlenecekler için hazırlanan yada alınan ev eşyalarının tümü",
+        "letter": "Ç",
+        "answer": "Çeyiz"
+    },
+    {
+        "id": 191,
+        "question": "Herhangi bir olayın birden fazla tekrarlanması",
+        "letter": "D",
+        "answer": "döngü, devir"
+    },
+    {
+        "id": 1949,
+        "question": "İNSAN GELİŞİMİ İÇİN GEREKLİ BİLGİ VE BECERİYİ KAZANDIRAN, KİŞİLİĞİ GELİŞTİREN HER TÜR ETKİNLİK",
+        "letter": "E",
+        "answer": "Eğitim"
+    },
+    {
+        "id": 1320,
+        "question": "Genellikle boyna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "Fular"
+    },
+    {
+        "id": 243,
+        "question": "Sonradan verilecek bir ceza ile korkutma, yıldırma, tehdit",
+        "letter": "G",
+        "answer": "gözdağı"
+    },
+    {
+        "id": 250,
+        "question": "Hırsız, haydut, eşkıya",
+        "letter": "H",
+        "answer": "harami, haramiler"
+    },
+    {
+        "id": 1182,
+        "question": "Birlikte el birliği ile yapılan",
+        "letter": "İ",
+        "answer": "İmece, imece usulü, imece usulüyle, imece usulü ile"
+    },
+    {
+        "id": 277,
+        "question": "Cam veya seramikten yapılmış, kulplu, büyük bardak",
+        "letter": "K",
+        "answer": "kupa"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 1748,
+        "question": "Başkalarının hatalarını hoşgörüyle karşılama erdemi",
+        "letter": "M",
+        "answer": "Müsamaha, müsamaha gösterme, müsamaha göstermek"
+    },
+    {
+        "id": 334,
+        "question": "Korkak, alçak, mert olmayan",
+        "letter": "N",
+        "answer": "namert"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 663,
+        "question": "Bir işin ilerisini kestirme, tahmin etmek",
+        "letter": "Ö",
+        "answer": "Öngörü, Öngörmek"
+    },
+    {
+        "id": 1019,
+        "question": "Telli sazları çalmaya yarayan ve kemik, boynuz vb. şeylerden yapılan çalma aracı, mızrap, çalgıç",
+        "letter": "P",
+        "answer": "pena"
+    },
+    {
+        "id": 1872,
+        "question": "BİR DAİREDE YARIÇAP UZUNLUĞUNDAKİ YAY PARÇASINI GÖREN MERKEZ AÇIYA, EŞİT AÇI ÖLÇME BİRİMİ",
+        "letter": "R",
+        "answer": "Radyan"
+    },
+    {
+        "id": 1789,
+        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
+        "letter": "S",
+        "answer": "Sarsıntı"
+    },
+    {
+        "id": 430,
+        "question": "Saydam, yalın, açık",
+        "letter": "Ş",
+        "answer": "şeffaf"
+    },
+    {
+        "id": 1277,
+        "question": "Genel adıyla \"Yolculuk edilen araç\"",
+        "letter": "T",
+        "answer": "Taşıt"
+    },
+    {
+        "id": 1078,
+        "question": "Yufka açılırken hamurun tahtaya yapışmaması için serpilen kalın un",
+        "letter": "U",
+        "answer": "Uğra"
+    },
+    {
+        "id": 868,
+        "question": "Bina eteği, etek duvarı veya subasman",
+        "letter": "Ü",
+        "answer": "Üstemel"
+    },
+    {
+        "id": 865,
+        "question": "Kelimeler yerine, sadece sesli harfler kullanarak, insan sesiyle müzik icra etmek",
+        "letter": "V",
+        "answer": "Vokaliz, vokalız"
+    },
+    {
+        "id": 1955,
+        "question": "ÇOĞU KİMSELERCE DUYULMUŞ, ÖĞRENİLMİŞ, KULLANILMIŞ VEYA BENİMSENMİŞ OLAN",
+        "letter": "Y",
+        "answer": "Yaygın"
+    },
+    {
+        "id": 738,
+        "question": "Boşuna harcama, zarar",
+        "letter": "Z",
+        "answer": "Ziyan, ziyan etme, ziyan etmek"
+    }
+]

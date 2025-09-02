@@ -1,0 +1,158 @@
+[
+    {
+        "id": 779,
+        "question": "Üstünlük, kazanım, yarar",
+        "letter": "A",
+        "answer": "Avantaj"
+    },
+    {
+        "id": 1184,
+        "question": "Hisse, menkul kıymetler vb. alınıp satıldığı organize piyasa",
+        "letter": "B",
+        "answer": "Borsa"
+    },
+    {
+        "id": 153,
+        "question": "Keder, Zulüm",
+        "letter": "C",
+        "answer": "cefa"
+    },
+    {
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
+        "letter": "Ç",
+        "answer": "çakar"
+    },
+    {
+        "id": 1401,
+        "question": "Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama, beyanat",
+        "letter": "D",
+        "answer": "Demeç, demeç verme, demeç vermek, demeç vermesi"
+    },
+    {
+        "id": 1949,
+        "question": "İNSAN GELİŞİMİ İÇİN GEREKLİ BİLGİ VE BECERİYİ KAZANDIRAN, KİŞİLİĞİ GELİŞTİREN HER TÜR ETKİNLİK",
+        "letter": "E",
+        "answer": "Eğitim"
+    },
+    {
+        "id": 571,
+        "question": "Bir girişimde başarısız sonuç",
+        "letter": "F",
+        "answer": "Fiyasko"
+    },
+    {
+        "id": 235,
+        "question": "Sözde, sanki",
+        "letter": "G",
+        "answer": "güya, gûya"
+    },
+    {
+        "id": 60,
+        "question": "Güney yarım küre'de en uzun gecenin yaşandığı ay",
+        "letter": "H",
+        "answer": "haziran"
+    },
+    {
+        "id": 603,
+        "question": "Gereği yokken, genellikle kendini göstermek için işe karışan (kimse)",
+        "letter": "İ",
+        "answer": "İşgüzar, İşgûzar"
+    },
+    {
+        "id": 1939,
+        "question": "Küp şekere göre daha büyük boyutta özellikle Erzurum yöresine ait şeker türü",
+        "letter": "K",
+        "answer": "Kıtlama, Kıtlama Şeker"
+    },
+    {
+        "id": 302,
+        "question": "Bazı bitkilerin genellikle süt görünüşünde olan öz suyu",
+        "letter": "L",
+        "answer": "lateks"
+    },
+    {
+        "id": 1763,
+        "question": "ÜRETİMDE BİR MAL ELDE EDİLİNCEYE KADAR HARCANAN DEĞERLERİN TOPLAMI",
+        "letter": "M",
+        "answer": "Maliyet"
+    },
+    {
+        "id": 332,
+        "question": "Sıra ile belirli süre bir yeri bekleme işi",
+        "letter": "N",
+        "answer": "nöbet, nöbet tutma, nöbet tutmak"
+    },
+    {
+        "id": 649,
+        "question": "Birden çok kimse veya nesneyi ilgilendiren, müşterek",
+        "letter": "O",
+        "answer": "Ortak"
+    },
+    {
+        "id": 1539,
+        "question": "Açıklama yapmadan, belli belirsiz bir biçimde, müphem",
+        "letter": "Ö",
+        "answer": "Örtülü"
+    },
+    {
+        "id": 957,
+        "question": "Canlı bir organizmanın oluşturduğu ona özel bir renk veren kimyasal madde",
+        "letter": "P",
+        "answer": "pigment"
+    },
+    {
+        "id": 1906,
+        "question": "BASKETBOLDA, SAYI OLMAYAN BİR ATIŞTAN SONRA POTADAN SEKEN TOPUN HAVADAYKEN YAKALANMASI",
+        "letter": "R",
+        "answer": "Ribaund"
+    },
+    {
+        "id": 415,
+        "question": "Bir şey bildirmek için verilen işaret",
+        "letter": "S",
+        "answer": "sinyal"
+    },
+    {
+        "id": 419,
+        "question": "Yetki ve sorumluluğu olan, yöneten kimse",
+        "letter": "Ş",
+        "answer": "şef"
+    },
+    {
+        "id": 434,
+        "question": "Hükümdarların oturduğu büyük, süslü koltuk",
+        "letter": "T",
+        "answer": "taht"
+    },
+    {
+        "id": 1072,
+        "question": "Fikir, sanat ve endüstri alanlarında çok büyük bir gelişme göstermiş olan, medeni, mütemeddin",
+        "letter": "U",
+        "answer": "uygar"
+    },
+    {
+        "id": 1565,
+        "question": "Birlikçi, birlikten yana, birleştirici (siyaset)",
+        "letter": "Ü",
+        "answer": "Üniter, üniter devlet"
+    },
+    {
+        "id": 1567,
+        "question": "Miras bırakılan kimse, mirasçı",
+        "letter": "V",
+        "answer": "Varis"
+    },
+    {
+        "id": 496,
+        "question": "Enerji ve ısı ortaya çıkaran yanıcı madde",
+        "letter": "Y",
+        "answer": "yakıt"
+    },
+    {
+        "id": 1588,
+        "question": "Bebeklere iç çamaşırı olarak giydirilen, ince pamukludan kısa ve kollu giysi",
+        "letter": "Z",
+        "answer": "Zıbın"
+    }
+]

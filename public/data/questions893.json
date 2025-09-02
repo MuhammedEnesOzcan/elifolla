@@ -1,0 +1,158 @@
+[
+    {
+        "id": 955,
+        "question": "\"Kutup\", \"Boz gibi türleri bulunan iri gövdeli yırtıcı hayvan",
+        "letter": "A",
+        "answer": "ayı, ayi"
+    },
+    {
+        "id": 1598,
+        "question": "Bir yemek adı olarak da kullanılan; Büyükbaş ve küçükbaş hayvanların kalın bağırsağı",
+        "letter": "B",
+        "answer": "Bumbar, bumbar dolması"
+    },
+    {
+        "id": 1369,
+        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
+        "letter": "C",
+        "answer": "Cemre, cemre düşmesi"
+    },
+    {
+        "id": 1543,
+        "question": "Tahta kepçe, çemçe",
+        "letter": "Ç",
+        "answer": "Çömçe"
+    },
+    {
+        "id": 1196,
+        "question": "Aynı cinsten olan bir nesnenin on ikisini içeren bir birim",
+        "letter": "D",
+        "answer": "Düzine"
+    },
+    {
+        "id": 213,
+        "question": "Bir şeyin özünü oluşturan ana öge, temel, gerçek",
+        "letter": "E",
+        "answer": "esas"
+    },
+    {
+        "id": 1489,
+        "question": "Etken, etmen",
+        "letter": "F",
+        "answer": "Faktör"
+    },
+    {
+        "id": 238,
+        "question": "Değersiz, aşağı görülen, küçümsenen topluluk, derinti, sürü",
+        "letter": "G",
+        "answer": "güruh"
+    },
+    {
+        "id": 1721,
+        "question": "Mahkeme lideri, hüküm veren",
+        "letter": "H",
+        "answer": "Hakim"
+    },
+    {
+        "id": 256,
+        "question": "Alınmış bir şeyi geri verme",
+        "letter": "İ",
+        "answer": "iade"
+    },
+    {
+        "id": 278,
+        "question": "Çocuk yuvası",
+        "letter": "K",
+        "answer": "kreş"
+    },
+    {
+        "id": 624,
+        "question": "Çok sulu ve fazla pişmiş pilav/pirinç",
+        "letter": "L",
+        "answer": "Lapa, Lapa pilav, Lapa pirinç"
+    },
+    {
+        "id": 1249,
+        "question": "Hapiste olan, hakkında hüküm kesilmiş kimse",
+        "letter": "M",
+        "answer": "Mahkum"
+    },
+    {
+        "id": 328,
+        "question": "Tarafsız, yansız, eşit ya da ortada",
+        "letter": "N",
+        "answer": "nötr"
+    },
+    {
+        "id": 654,
+        "question": "Kendini kontrol edebilen sürücüsüz araç",
+        "letter": "O",
+        "answer": "Otonom, Otonom araç, Otonom araba"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 1734,
+        "question": "Engebeli yerlerden gelip geçenlerin ayak izlerinden oluşan, tekerlekli araç işlemeyen dar yol",
+        "letter": "P",
+        "answer": "Patika, patika yol"
+    },
+    {
+        "id": 683,
+        "question": "Yanlış, yozlaşmış, vb. şeylerin iyileştirilmesi veya köklü değiştirilmesi",
+        "letter": "R",
+        "answer": "Reform, Reform yapma, Reform yapmak"
+    },
+    {
+        "id": 406,
+        "question": "Dik, çıkması ve geçilmesi güç (yer)",
+        "letter": "S",
+        "answer": "sarp"
+    },
+    {
+        "id": 698,
+        "question": "Gizli haberleşmeye yarayan işaretlerin tümü, kod",
+        "letter": "Ş",
+        "answer": "Şifre, şifreli mesaj"
+    },
+    {
+        "id": 440,
+        "question": "Herhangi bir konuda verilen gizli bilgi",
+        "letter": "T",
+        "answer": "tüyo, tüyo verme, tüyo vermek"
+    },
+    {
+        "id": 722,
+        "question": "İnsana iyilik getirdiğine inanılan belirti",
+        "letter": "U",
+        "answer": "Uğur"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 718,
+        "question": "Üstünde yaşadığımız gök cismi",
+        "letter": "Y",
+        "answer": "Yer küre"
+    },
+    {
+        "id": 1956,
+        "question": "Ağaçlardan elde edilen, eriyiği yapıştırıcı olarak kullanılan renksiz veya sarı kırmızımtırak renkte biçimsiz madde",
+        "letter": "Z",
+        "answer": "Zamk"
+    }
+]

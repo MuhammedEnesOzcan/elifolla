@@ -1,0 +1,158 @@
+[
+    {
+        "id": 512,
+        "question": "Denizin kıyıdan uzakça olan yeri",
+        "letter": "A",
+        "answer": "Açık"
+    },
+    {
+        "id": 1350,
+        "question": "Acı çikolata",
+        "letter": "B",
+        "answer": "Bitter, bitter çikolata"
+    },
+    {
+        "id": 1369,
+        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
+        "letter": "C",
+        "answer": "Cemre, cemre düşmesi"
+    },
+    {
+        "id": 173,
+        "question": "Badem, kayısı, erik vb. tek çekirdekli yemişlerin körpeyken yenilebilen ham şekli",
+        "letter": "Ç",
+        "answer": "çağla"
+    },
+    {
+        "id": 1394,
+        "question": "Doldurularak yapılan yemek",
+        "letter": "D",
+        "answer": "Dolma"
+    },
+    {
+        "id": 215,
+        "question": "Gündüz ile gecenin eşit olma durumu",
+        "letter": "E",
+        "answer": "ekinoks"
+    },
+    {
+        "id": 1915,
+        "question": "DUYGUSAL İLİŞKİLERDE SINAMA VE SINANMA EVRESİ",
+        "letter": "F",
+        "answer": "Flört"
+    },
+    {
+        "id": 242,
+        "question": "Yaşanan günlük olaylar",
+        "letter": "G",
+        "answer": "gündem"
+    },
+    {
+        "id": 1247,
+        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
+        "letter": "H",
+        "answer": "Hegemonya, hegamonya, hegomonya"
+    },
+    {
+        "id": 1606,
+        "question": "Birine güler yüz gösterme, hatırını sorma, tatlı davranma",
+        "letter": "İ",
+        "answer": "İltifat, iltifat etme, iltifat etmek"
+    },
+    {
+        "id": 605,
+        "question": "Garson kalfası",
+        "letter": "K",
+        "answer": "Komi"
+    },
+    {
+        "id": 1731,
+        "question": "Şubat ve mart aylarında, çokça renkli çiçek açan, kokusuz, soğanlı, güzel bir bahçe bitkisi",
+        "letter": "L",
+        "answer": "Lale"
+    },
+    {
+        "id": 319,
+        "question": "Bir olayın, bir durumun etkisinde veya karşısında bulunan",
+        "letter": "M",
+        "answer": "maruz, maruz kalan"
+    },
+    {
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "letter": "N",
+        "answer": "Nostalji, nostaliji"
+    },
+    {
+        "id": 997,
+        "question": "Silisin hidratlı ve jelatinli bütün türlerini kapsayan değerli bir mineral, panzehir taşı",
+        "letter": "O",
+        "answer": "opal"
+    },
+    {
+        "id": 370,
+        "question": "Benzeri yapılacak olan, benzetilmek istenen şey, model",
+        "letter": "Ö",
+        "answer": "örnek"
+    },
+    {
+        "id": 671,
+        "question": "Aynı düzlem içinde bulunan ve birbiriyle kesişmeyen",
+        "letter": "P",
+        "answer": "Paralel"
+    },
+    {
+        "id": 33,
+        "question": "Yüksek basınçtan, alçak basınca doğru olan hava akımları",
+        "letter": "R",
+        "answer": "Rüzgar"
+    },
+    {
+        "id": 689,
+        "question": "İstemeden bir şeylere çarpan, deviren, kıran (kimse)",
+        "letter": "S",
+        "answer": "Sakar"
+    },
+    {
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
+        "letter": "Ş",
+        "answer": "Şahsi"
+    },
+    {
+        "id": 1258,
+        "question": "Yaslanılamayan sandalye",
+        "letter": "T",
+        "answer": "Tabure"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 466,
+        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
+        "letter": "Ü",
+        "answer": "üslup"
+    },
+    {
+        "id": 39,
+        "question": "Güneş sistemindeki en sıcak gezegen",
+        "letter": "V",
+        "answer": "venüs"
+    },
+    {
+        "id": 1476,
+        "question": "Su parkı gösterilerinde zekasıyla öne çıkan memeli su hayvanı",
+        "letter": "Y",
+        "answer": "Yunus, yunus balığı"
+    },
+    {
+        "id": 1972,
+        "question": "Övendirenin ucuna çakılan çivi",
+        "letter": "Z",
+        "answer": "zakıt"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 107,
+        "question": "Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri",
+        "letter": "A",
+        "answer": "akran"
+    },
+    {
+        "id": 1353,
+        "question": "Bazı ağaçlardan elde edilen, parfüm ve ilaç yapımında kullanılan reçine",
+        "letter": "B",
+        "answer": "Balsam"
+    },
+    {
+        "id": 161,
+        "question": "Sözünden, kararından dönmek, vazgeçmek",
+        "letter": "C",
+        "answer": "caymak, cayma"
+    },
+    {
+        "id": 1451,
+        "question": "Bilgisayarda yazılan bir metnin kâğıda dökülmüş biçimi",
+        "letter": "Ç",
+        "answer": "Çıktı, çıktısı"
+    },
+    {
+        "id": 1187,
+        "question": "Bir yeri daha önce görmüş olma veya bir olayı daha önce yaşamış olma hissi",
+        "letter": "D",
+        "answer": "Dejavu"
+    },
+    {
+        "id": 210,
+        "question": "Zaman içinde birdenbire olmayan, kesintisiz, niteliksel ve niceliksel gelişme süreci",
+        "letter": "E",
+        "answer": "evrim"
+    },
+    {
+        "id": 1674,
+        "question": "Malzemesi marka sahibi tarafından karşılanarak başka bir firmaya yaptırılan mal",
+        "letter": "F",
+        "answer": "Fason"
+    },
+    {
+        "id": 1433,
+        "question": "Pek, çok, pek çok, güçlü bir biçimde, etkili olarak",
+        "letter": "G",
+        "answer": "Gayet"
+    },
+    {
+        "id": 1444,
+        "question": "Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü",
+        "letter": "H",
+        "answer": "Hıfzıssıhha"
+    },
+    {
+        "id": 1197,
+        "question": "Gerçeğine benzetilerek yapılmış olan süs eşyası",
+        "letter": "İ",
+        "answer": "İmitasyon"
+    },
+    {
+        "id": 1795,
+        "question": "RUMCA KÖKENLİ “YIPRANMIŞ, ESKİ VE BAKIMSIZ” ANLAMLARINDA DAHA ÇOK ARAÇLAR, MAKİNELER İÇİN KULLANILAN SÖZCÜK",
+        "letter": "K",
+        "answer": "Külüstür"
+    },
+    {
+        "id": 1280,
+        "question": "Bir şeyi yemek için ağza götürülen parça",
+        "letter": "L",
+        "answer": "Lokma"
+    },
+    {
+        "id": 1957,
+        "question": "Tekrarlanmış, Yinelenmiş",
+        "letter": "M",
+        "answer": "Mükerrer"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 1188,
+        "question": "Yazarın kendi yaşam öyküsünün anlattığı edebiyat türü",
+        "letter": "O",
+        "answer": "Otobiyografi"
+    },
+    {
+        "id": 1006,
+        "question": "Küçük çocukları korkutmak için uydurulmuş hayalî yaratık, umacı",
+        "letter": "Ö",
+        "answer": "Öcü"
+    },
+    {
+        "id": 1014,
+        "question": "Resim ve fotoğrafta duruş",
+        "letter": "P",
+        "answer": "poz"
+    },
+    {
+        "id": 678,
+        "question": "Yapılması alışkanlık haline gelmiş iş",
+        "letter": "R",
+        "answer": "Rutin, Rutin iş"
+    },
+    {
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "letter": "S",
+        "answer": "Sahaf"
+    },
+    {
+        "id": 419,
+        "question": "Yetki ve sorumluluğu olan, yöneten kimse",
+        "letter": "Ş",
+        "answer": "şef"
+    },
+    {
+        "id": 834,
+        "question": "Hububatın diğer adı",
+        "letter": "T",
+        "answer": "Tahıl, Tahıllar"
+    },
+    {
+        "id": 1077,
+        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "letter": "U",
+        "answer": "ucuz"
+    },
+    {
+        "id": 769,
+        "question": "Korkunun yarattığı serinlik",
+        "letter": "Ü",
+        "answer": "Ürperti, Ürpermek"
+    },
+    {
+        "id": 877,
+        "question": "Bir Yasanın, Bir Kararın Yürürlüğe Girmesine Karşı Çıkma Hakkı",
+        "letter": "V",
+        "answer": "Veto"
+    },
+    {
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
+        "letter": "Y",
+        "answer": "Yassı"
+    },
+    {
+        "id": 1747,
+        "question": "Sıkıntı veya güçlükle yapılma durumu",
+        "letter": "Z",
+        "answer": "Zahmet, zahmetli"
+    }
+]

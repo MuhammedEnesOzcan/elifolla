@@ -1,0 +1,158 @@
+[
+    {
+        "id": 113,
+        "question": "İki veya daha çok renkli",
+        "letter": "A",
+        "answer": "alaca"
+    },
+    {
+        "id": 145,
+        "question": "Kendine özgü nitelikleri yitirmeden bölünemeyen tek varlık, fert",
+        "letter": "B",
+        "answer": "birey"
+    },
+    {
+        "id": 1368,
+        "question": "Şaka olmayan, gerçek",
+        "letter": "C",
+        "answer": "Ciddi"
+    },
+    {
+        "id": 790,
+        "question": "Düşman kıyılarına asker indirme işi",
+        "letter": "Ç",
+        "answer": "Çıkarma, çıkarma yapmak, çıkarma yapma"
+    },
+    {
+        "id": 189,
+        "question": "Perhiz, rejim",
+        "letter": "D",
+        "answer": "diyet"
+    },
+    {
+        "id": 796,
+        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
+        "letter": "E",
+        "answer": "Elbette"
+    },
+    {
+        "id": 1285,
+        "question": "Uygun zaman, uygun durum veya şart, vesile, imkan, şans",
+        "letter": "F",
+        "answer": "Fırsat"
+    },
+    {
+        "id": 1759,
+        "question": "Çevresiyle uyuşamayan, aksi tabiatlı, kavga çıkaran kimse",
+        "letter": "G",
+        "answer": "Geçimsiz"
+    },
+    {
+        "id": 253,
+        "question": "Çok güzel el yazısı yazan sanatçı",
+        "letter": "H",
+        "answer": "hattat"
+    },
+    {
+        "id": 1498,
+        "question": "Alınacak tedbirleri uygulamama, savsaklama",
+        "letter": "İ",
+        "answer": "İhmal, ihmalkarlık, ihmal etme, ihmal etmek"
+    },
+    {
+        "id": 1795,
+        "question": "RUMCA KÖKENLİ “YIPRANMIŞ, ESKİ VE BAKIMSIZ” ANLAMLARINDA DAHA ÇOK ARAÇLAR, MAKİNELER İÇİN KULLANILAN SÖZCÜK",
+        "letter": "K",
+        "answer": "Külüstür"
+    },
+    {
+        "id": 1203,
+        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
+        "letter": "L",
+        "answer": "Lens"
+    },
+    {
+        "id": 759,
+        "question": "Denk, eş, eşdeğer, eşit",
+        "letter": "M",
+        "answer": "Muadil"
+    },
+    {
+        "id": 337,
+        "question": "Benzer, aynı, kopya",
+        "letter": "N",
+        "answer": "nüsha"
+    },
+    {
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
+        "letter": "O",
+        "answer": "onay, onaylama, onaylamak"
+    },
+    {
+        "id": 370,
+        "question": "Benzeri yapılacak olan, benzetilmek istenen şey, model",
+        "letter": "Ö",
+        "answer": "örnek"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 1037,
+        "question": "Aruz ölçülerinden biri",
+        "letter": "R",
+        "answer": "Remel"
+    },
+    {
+        "id": 409,
+        "question": "Depolanmış, yığın",
+        "letter": "S",
+        "answer": "stok, stoklanmış"
+    },
+    {
+        "id": 424,
+        "question": "Okullarda aynı düzeydeki sınıflardan her biri",
+        "letter": "Ş",
+        "answer": "şube"
+    },
+    {
+        "id": 1932,
+        "question": "EL ALTINDAN VE ÇOK YÜKSEK FAİZLE BORÇ PARA VERME İŞİ",
+        "letter": "T",
+        "answer": "Tefecilik, Tefeci"
+    },
+    {
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "letter": "U",
+        "answer": "Uydu, uydusu"
+    },
+    {
+        "id": 462,
+        "question": "Tanınmış, şöhretli, meşhur",
+        "letter": "Ü",
+        "answer": "ünlü"
+    },
+    {
+        "id": 872,
+        "question": "Bulaşıcı Hastalıklara Yol Açan Mikrop",
+        "letter": "V",
+        "answer": "Virüs, vırus"
+    },
+    {
+        "id": 906,
+        "question": "Kısa kollu ceket, mont",
+        "letter": "Y",
+        "answer": "Yelek"
+    },
+    {
+        "id": 845,
+        "question": "Yersiz ve zamansız davranışları olan kimse",
+        "letter": "Z",
+        "answer": "zibidi, zırzop"
+    }
+]

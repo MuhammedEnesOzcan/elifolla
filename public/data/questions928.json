@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1330,
+        "question": "Kılçıksız, lezzetli bir tür taze fasulye",
+        "letter": "A",
+        "answer": "Ayşekadın"
+    },
+    {
+        "id": 1908,
+        "question": "KIVRILMIŞ ŞEYLERİN OLUŞTURDUĞU KAT, KIVRIM",
+        "letter": "B",
+        "answer": "Büklüm"
+    },
+    {
+        "id": 914,
+        "question": "At Alıp Satan Kimse",
+        "letter": "C",
+        "answer": "Cambaz, canbaz"
+    },
+    {
+        "id": 181,
+        "question": "Silahlı büyük kavga, arbede",
+        "letter": "Ç",
+        "answer": "çatışma"
+    },
+    {
+        "id": 555,
+        "question": "Uluslararası ilişkilerde ülkesini temsil etmekle görevlendirilmiş kimse",
+        "letter": "D",
+        "answer": "Diplomat, Dış işleri bakanı"
+    },
+    {
+        "id": 1411,
+        "question": "Zorluğa sahip olarak düz olmayan bir yeri bulunan arazi türü",
+        "letter": "E",
+        "answer": "Engebeli, engebeli arazi"
+    },
+    {
+        "id": 576,
+        "question": "Fotoğrafta güzel çıkan, etki bırakan (kimse)",
+        "letter": "F",
+        "answer": "Fotojenik"
+    },
+    {
+        "id": 238,
+        "question": "Değersiz, aşağı görülen, küçümsenen topluluk, derinti, sürü",
+        "letter": "G",
+        "answer": "güruh"
+    },
+    {
+        "id": 1099,
+        "question": "Adalete uygun bir biçimde, doğrulukla, adilane",
+        "letter": "H",
+        "answer": "Hakça"
+    },
+    {
+        "id": 1810,
+        "question": "BİR KURUM VEYA KURULUŞUN YÖNETİLDİĞİ YER VEYA MAKAM",
+        "letter": "İ",
+        "answer": "İdare, İdari işler, İdari daire"
+    },
+    {
+        "id": 976,
+        "question": "Gözlerin üzerinde kemerli birer çizgi oluşturan kısa kıllar",
+        "letter": "K",
+        "answer": "Kaş"
+    },
+    {
+        "id": 1527,
+        "question": "Sükseli, kalantor, gösterişli kimse",
+        "letter": "L",
+        "answer": "Lort"
+    },
+    {
+        "id": 322,
+        "question": "Başvurulacak yer veya makam",
+        "letter": "M",
+        "answer": "merci"
+    },
+    {
+        "id": 330,
+        "question": "Kullanılması hemen mümkün olan para, likit",
+        "letter": "N",
+        "answer": "nakit, nakit para"
+    },
+    {
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "letter": "O",
+        "answer": "Ofris"
+    },
+    {
+        "id": 371,
+        "question": "Belirli bir ölçüde olan, uygun",
+        "letter": "Ö",
+        "answer": "ölçülü"
+    },
+    {
+        "id": 1707,
+        "question": "Hristiyan din adamı, peder",
+        "letter": "P",
+        "answer": "Papaz"
+    },
+    {
+        "id": 395,
+        "question": "Orta kaldırım",
+        "letter": "R",
+        "answer": "refüj"
+    },
+    {
+        "id": 1159,
+        "question": "Uygulamalı öğrenme, iş öncesi öğrenme",
+        "letter": "S",
+        "answer": "Staj, stajyerlik, staj yapma, staj yapmak"
+    },
+    {
+        "id": 1467,
+        "question": "Genellikle binaların girişine gelen elektrik akımını açıp kapamaya yarayan araç",
+        "letter": "Ş",
+        "answer": "Şalter"
+    },
+    {
+        "id": 1809,
+        "question": "TOPRAK ALTINDA YETİŞEN, TADI, KOKUSU VE YÜKSEK FİYATIYLA DA ÜNLÜ BİR MANTAR TÜRÜ",
+        "letter": "T",
+        "answer": "Trüf, Trüf mantarı"
+    },
+    {
+        "id": 1512,
+        "question": "Bütün varlıkların içinde bulunduğu sonsuz boşluk, feza, mekân",
+        "letter": "U",
+        "answer": "Uzay"
+    },
+    {
+        "id": 1315,
+        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "letter": "Ü",
+        "answer": "Ütopik"
+    },
+    {
+        "id": 867,
+        "question": "Elektromotor Gücün Ya Da Gerilimin Birimi",
+        "letter": "V",
+        "answer": "Volt"
+    },
+    {
+        "id": 487,
+        "question": "Delik ve yırtığı uygun bir parça ile onarma, kapatma",
+        "letter": "Y",
+        "answer": "yama, yama yapma, yama yapmak, yamalama, yamalamak"
+    },
+    {
+        "id": 506,
+        "question": "Zorunlu, gerekli",
+        "letter": "Z",
+        "answer": "zaruri"
+    }
+]

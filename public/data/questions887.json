@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1336,
+        "question": "İstek duymak, özlemek, istemek",
+        "letter": "A",
+        "answer": "Arzulamak"
+    },
+    {
+        "id": 1744,
+        "question": "Geminin rüzgar almayan yanı",
+        "letter": "B",
+        "answer": "Boca"
+    },
+    {
+        "id": 162,
+        "question": "İri yapılı, iri gövdeli, iri yarı (kimse)",
+        "letter": "C",
+        "answer": "Cüsseli"
+    },
+    {
+        "id": 179,
+        "question": "Çizilerek veya oyularak açılan kertik",
+        "letter": "Ç",
+        "answer": "çetele, çentik"
+    },
+    {
+        "id": 1398,
+        "question": "Aynı cinsten onluk bir küme",
+        "letter": "D",
+        "answer": "Deste"
+    },
+    {
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
+        "letter": "E",
+        "answer": "Endoskop"
+    },
+    {
+        "id": 1490,
+        "question": "Koku, ilaç vb. sıvıları püskürtmek için kullanılan araç",
+        "letter": "F",
+        "answer": "Fısfıs"
+    },
+    {
+        "id": 231,
+        "question": "Yersiz, zamansız söz veya davranış, patavatsızlık, pot",
+        "letter": "G",
+        "answer": "gaf"
+    },
+    {
+        "id": 1853,
+        "question": "METAL, PLASTİK VEYA AHŞAPTAN YAPILMIŞ ÇEŞİTLİ KULLANIM ALANLARI OLAN ÇEMBER",
+        "letter": "H",
+        "answer": "Halka"
+    },
+    {
+        "id": 952,
+        "question": "Bir köleyi özgürlüğüne kavuşturma",
+        "letter": "İ",
+        "answer": "itak"
+    },
+    {
+        "id": 1811,
+        "question": "DENTAL TEMİZLİKTE KULLANILAN İNCE TAHTA ÇÖP",
+        "letter": "K",
+        "answer": "Kürdan"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 1108,
+        "question": "Miskete fiske vurarak oynanan zıpzıp oyunu",
+        "letter": "M",
+        "answer": "madık, Madik"
+    },
+    {
+        "id": 988,
+        "question": "Açıklık, açık ve kesin yargı",
+        "letter": "N",
+        "answer": "nas"
+    },
+    {
+        "id": 995,
+        "question": "Plastik, tahta, mika vb. maddelerden yapılmış taşlarla oynanan ve konkene benzeyen bir tür oyun",
+        "letter": "O",
+        "answer": "okey"
+    },
+    {
+        "id": 363,
+        "question": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye",
+        "letter": "Ö",
+        "answer": "övgü"
+    },
+    {
+        "id": 381,
+        "question": "Elektrik akımı almak için fişin sokulduğu yuva",
+        "letter": "P",
+        "answer": "priz"
+    },
+    {
+        "id": 679,
+        "question": "Bir mağazanın yalnız bir tür eşya satılan bölümü",
+        "letter": "R",
+        "answer": "Reyon, reyonu"
+    },
+    {
+        "id": 409,
+        "question": "Depolanmış, yığın",
+        "letter": "S",
+        "answer": "stok, stoklanmış"
+    },
+    {
+        "id": 426,
+        "question": "Açık ve ayrıntılı anlatma",
+        "letter": "Ş",
+        "answer": "şerh"
+    },
+    {
+        "id": 1277,
+        "question": "Genel adıyla \"Yolculuk edilen araç\"",
+        "letter": "T",
+        "answer": "Taşıt"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 459,
+        "question": "Çok uçta, kenarda veya kıyıda köşede olan",
+        "letter": "Ü",
+        "answer": "ücra"
+    },
+    {
+        "id": 865,
+        "question": "Kelimeler yerine, sadece sesli harfler kullanarak, insan sesiyle müzik icra etmek",
+        "letter": "V",
+        "answer": "Vokaliz, vokalız"
+    },
+    {
+        "id": 40,
+        "question": "Günlük kazanç",
+        "letter": "Y",
+        "answer": "yevmiye"
+    },
+    {
+        "id": 502,
+        "question": "Aldatıcı şey, tuzak, hile",
+        "letter": "Z",
+        "answer": "zoka"
+    }
+]

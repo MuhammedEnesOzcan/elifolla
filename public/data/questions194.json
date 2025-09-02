@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1082,
+        "question": "Anıtsal",
+        "letter": "A",
+        "answer": "Abidevi"
+    },
+    {
+        "id": 1352,
+        "question": "Ağırlıkları tartmaya yarayan alet, kantar",
+        "letter": "B",
+        "answer": "Baskül"
+    },
+    {
+        "id": 787,
+        "question": "“Öfke, kızgınlık” anlamındaki bir erkek ismi",
+        "letter": "C",
+        "answer": "Celal"
+    },
+    {
+        "id": 182,
+        "question": "Halı, kilim vb. şeyleri hızla ve kesik kesik silkelemek",
+        "letter": "Ç",
+        "answer": "çırpmak"
+    },
+    {
+        "id": 1089,
+        "question": "Kavga, gürültülü bağrışıp çağrışma",
+        "letter": "D",
+        "answer": "Dalaş, dalaşı"
+    },
+    {
+        "id": 1406,
+        "question": "Toprak, kül gibi toz durumunda bulunan şeyleri hafifçe kazıp karıştırmak",
+        "letter": "E",
+        "answer": "Eşelemek, eşeleme"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 580,
+        "question": "Çökmüş, kaymış toprak, yıkıntı",
+        "letter": "G",
+        "answer": "Göçük"
+    },
+    {
+        "id": 1175,
+        "question": "Görev ve yapı bakımından canlılığın bütün özelliklerini gösteren en küçük birim",
+        "letter": "H",
+        "answer": "Hücre"
+    },
+    {
+        "id": 1609,
+        "question": "Bir sonuç çıkarmak için verileri yöntemli bir biçimde toplayıp sayı olarak belirtme",
+        "letter": "İ",
+        "answer": "İstatistik, istatistik bilimi, istatistik çıkarma, istatistik çıkarmak"
+    },
+    {
+        "id": 279,
+        "question": "Üstün nitelikli, üstün yetenekli",
+        "letter": "K",
+        "answer": "klas, kalifiyeli, kalifiye"
+    },
+    {
+        "id": 1832,
+        "question": "PORTATİF KÜÇÜK ÇOCUK TUVALETİ",
+        "letter": "L",
+        "answer": "Lazımlık"
+    },
+    {
+        "id": 759,
+        "question": "Denk, eş, eşdeğer, eşit",
+        "letter": "M",
+        "answer": "Muadil"
+    },
+    {
+        "id": 332,
+        "question": "Sıra ile belirli süre bir yeri bekleme işi",
+        "letter": "N",
+        "answer": "nöbet, nöbet tutma, nöbet tutmak"
+    },
+    {
+        "id": 1519,
+        "question": "İşitme taşı",
+        "letter": "O",
+        "answer": "Otolit"
+    },
+    {
+        "id": 1536,
+        "question": "Tatlı sularda yaşayan, kamçı biçimindeki uzantısı ile hareket eden mekik biçimindeki bir hücreli",
+        "letter": "Ö",
+        "answer": "Öglena"
+    },
+    {
+        "id": 821,
+        "question": "Birden ortaya çıkan, aşırı ve normalin dışına taşmış korku hali",
+        "letter": "P",
+        "answer": "panik"
+    },
+    {
+        "id": 681,
+        "question": "Sporda veya oyunda yenilmiş olanın aynı rakiple oynadığı ikinci oyun",
+        "letter": "R",
+        "answer": "Rövanş, Rövanş maçı, Rovanş, Rovanş maçı"
+    },
+    {
+        "id": 403,
+        "question": "Derinliği az, dibi yüzeyine yakın olan",
+        "letter": "S",
+        "answer": "sığ"
+    },
+    {
+        "id": 428,
+        "question": "Gürültü patırtı",
+        "letter": "Ş",
+        "answer": "şamata"
+    },
+    {
+        "id": 1157,
+        "question": "Arnavutluk'un başkenti",
+        "letter": "T",
+        "answer": "Tiran, Tirana"
+    },
+    {
+        "id": 722,
+        "question": "İnsana iyilik getirdiğine inanılan belirti",
+        "letter": "U",
+        "answer": "Uğur"
+    },
+    {
+        "id": 848,
+        "question": "Erkeklerin Sıçaktan Korunmak İçin Başlarına Sardıkları Büyük Mendil",
+        "letter": "Ü",
+        "answer": "Üslük"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 838,
+        "question": "Dokunarak incelemek",
+        "letter": "Y",
+        "answer": "Yoklamak"
+    },
+    {
+        "id": 739,
+        "question": "Gerçekleşeceği düşünülmeyen, hesapta olmayan, umulmadık",
+        "letter": "Z",
+        "answer": "Zuhurat, Zuhurât"
+    }
+]

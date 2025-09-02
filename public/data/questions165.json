@@ -1,0 +1,158 @@
+[
+    {
+        "id": 917,
+        "question": "Yünden dövülerek yapılan kalın ve kaba kumaş",
+        "letter": "A",
+        "answer": "Aba"
+    },
+    {
+        "id": 1908,
+        "question": "KIVRILMIŞ ŞEYLERİN OLUŞTURDUĞU KAT, KIVRIM",
+        "letter": "B",
+        "answer": "Büklüm"
+    },
+    {
+        "id": 1376,
+        "question": "Bir soruya, bir isteğe, bir söz veya yazıya verilen karşılık, yanıt",
+        "letter": "C",
+        "answer": "Cevap, cevap verme, cevap vermek, cevaplama, cevaplamak"
+    },
+    {
+        "id": 966,
+        "question": "Bir kimsenin, satın aldığı hizmet veya ürün karşılığında para yerine verdiği ve karşılığı banka hesabından ödenen yazılı belge",
+        "letter": "Ç",
+        "answer": "Çek"
+    },
+    {
+        "id": 1196,
+        "question": "Aynı cinsten olan bir nesnenin on ikisini içeren bir birim",
+        "letter": "D",
+        "answer": "Düzine"
+    },
+    {
+        "id": 750,
+        "question": "Kazalara alınmış tedbirler",
+        "letter": "E",
+        "answer": "Emniyet"
+    },
+    {
+        "id": 1672,
+        "question": "Birdenbire, düşünmeden yapan",
+        "letter": "F",
+        "answer": "Fevri"
+    },
+    {
+        "id": 577,
+        "question": "Çenede veya yanakta olan küçük çukur",
+        "letter": "G",
+        "answer": "Gamze"
+    },
+    {
+        "id": 1445,
+        "question": "Sürekli hayal kuran, hep hayal peşinde koşan (kimse)",
+        "letter": "H",
+        "answer": "Hayalperest, hayalperver"
+    },
+    {
+        "id": 264,
+        "question": "Bir şeyi armağan olarak verme, sunma",
+        "letter": "İ",
+        "answer": "ikram, ikram etme, ikram etmek"
+    },
+    {
+        "id": 290,
+        "question": "Askeri birliği ve onunla ilgili işleri yönetme görevi, kumanda",
+        "letter": "K",
+        "answer": "komuta, komuta etme, komuta etmek"
+    },
+    {
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
+        "letter": "L",
+        "answer": "Lunapark"
+    },
+    {
+        "id": 28,
+        "question": "Doku ve organların yapısını inceleyen bilim dalı",
+        "letter": "M",
+        "answer": "morfoloji"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 932,
+        "question": "Eleman, unsur",
+        "letter": "Ö",
+        "answer": "öge, öğe"
+    },
+    {
+        "id": 1178,
+        "question": "Sözsüz tiyatro oyunu, mim sanatı",
+        "letter": "P",
+        "answer": "Pandomim, pandomim sanatı"
+    },
+    {
+        "id": 393,
+        "question": "Gemi, tren, kışla, yatılı okul vb. yerlerde üst üste yapılan yatak yeri",
+        "letter": "R",
+        "answer": "ranza"
+    },
+    {
+        "id": 405,
+        "question": "Gidilen yol üzerinde olmayan, sapılarak varılan",
+        "letter": "S",
+        "answer": "sapa"
+    },
+    {
+        "id": 1678,
+        "question": "Almanya ve Avusturya'da hükûmet başkanı ünvanı",
+        "letter": "Ş",
+        "answer": "Şansölye"
+    },
+    {
+        "id": 1693,
+        "question": "BULAŞIK MAKİNELERİNDE KULLANILAN KOMPAKT DETERJAN TÜRÜ",
+        "letter": "T",
+        "answer": "Tablet"
+    },
+    {
+        "id": 444,
+        "question": "Çok acayip, şaşılacak kadar çirkin olan",
+        "letter": "U",
+        "answer": "ucube"
+    },
+    {
+        "id": 469,
+        "question": "Ayrıca, bir de, bundan başka",
+        "letter": "Ü",
+        "answer": "üstelik"
+    },
+    {
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
+        "letter": "V",
+        "answer": "vukuat"
+    },
+    {
+        "id": 716,
+        "question": "Gidilen yerde geceyi geçirme",
+        "letter": "Y",
+        "answer": "Yatı, Yatıya kalma, Yatıya kalmak"
+    },
+    {
+        "id": 851,
+        "question": "Sarı renkli, kökleri ile birlikte toplanan, kökü bir baharat türü olan bitki",
+        "letter": "Z",
+        "answer": "Zencefil, zencefıl"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1661,
+        "question": "Davranışları ölçülü, olgun (kimse), vakur, ciddi",
+        "letter": "A",
+        "answer": "Ağırbaşlı"
+    },
+    {
+        "id": 87,
+        "question": "Birim yüzeye uygulanan kuvvet",
+        "letter": "B",
+        "answer": "basınç"
+    },
+    {
+        "id": 154,
+        "question": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
+        "letter": "C",
+        "answer": "cila"
+    },
+    {
+        "id": 546,
+        "question": "\"Dörtte bir\" olan",
+        "letter": "Ç",
+        "answer": "Çeyrek, çeyreği"
+    },
+    {
+        "id": 554,
+        "question": "Bir işi en iyi yapan, işin ustası",
+        "letter": "D",
+        "answer": "Duayen"
+    },
+    {
+        "id": 1410,
+        "question": "Mal ve değerlere ait döküm",
+        "letter": "E",
+        "answer": "Envanter"
+    },
+    {
+        "id": 1311,
+        "question": "Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik, anekdot",
+        "letter": "F",
+        "answer": "Fıkra"
+    },
+    {
+        "id": 235,
+        "question": "Sözde, sanki",
+        "letter": "G",
+        "answer": "güya, gûya"
+    },
+    {
+        "id": 587,
+        "question": "Hem ev, konut hem de ev halkı anlamında kullanılan bir söz",
+        "letter": "H",
+        "answer": "Hane"
+    },
+    {
+        "id": 1101,
+        "question": "Bir düşünceyi anlatan bir veya birkaç cümlelik söz",
+        "letter": "İ",
+        "answer": "İbare"
+    },
+    {
+        "id": 605,
+        "question": "Garson kalfası",
+        "letter": "K",
+        "answer": "Komi"
+    },
+    {
+        "id": 303,
+        "question": "İnsanın davranışlarının temelini oluşturan cinsel içgüdü",
+        "letter": "L",
+        "answer": "libido"
+    },
+    {
+        "id": 57,
+        "question": "Türkçede adı tek heceli olan tek ay",
+        "letter": "M",
+        "answer": "mart"
+    },
+    {
+        "id": 912,
+        "question": "Hristiyanların en büyük bayramı",
+        "letter": "N",
+        "answer": "Noel"
+    },
+    {
+        "id": 820,
+        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
+        "letter": "O",
+        "answer": "Otlak, otlak arazi, ova"
+    },
+    {
+        "id": 662,
+        "question": "Yıpratmak, eskitmek, hırpalamak, zedelemek",
+        "letter": "Ö",
+        "answer": "Örselemek, örseleme"
+    },
+    {
+        "id": 667,
+        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
+        "letter": "P",
+        "answer": "Paraf, paraf atma, paraf atmak"
+    },
+    {
+        "id": 1644,
+        "question": "Medya sektöründe bir yayını yöneten ekip",
+        "letter": "R",
+        "answer": "Reji, reji ekibi"
+    },
+    {
+        "id": 1895,
+        "question": "ÖZELLİKLE MANAV VE PAZARDA MÜŞTERİNİN TERCİHİNİ TEMEL ALAN SATIŞ YÖNTEMİ",
+        "letter": "S",
+        "answer": "Seçmece"
+    },
+    {
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "letter": "Ş",
+        "answer": "Şakak"
+    },
+    {
+        "id": 1771,
+        "question": "KENDİSİ HASTALANMADAN O HASTALIĞIN SEBEBİ OLAN MİKROBU BAŞKASINA BULAŞTIRAN KİMSE VEYA HAYVAN",
+        "letter": "T",
+        "answer": "Taşıyıcı"
+    },
+    {
+        "id": 1558,
+        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "letter": "U",
+        "answer": "Ulus"
+    },
+    {
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
+        "letter": "Ü",
+        "answer": "ücret"
+    },
+    {
+        "id": 881,
+        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
+        "letter": "V",
+        "answer": "Vernik, vernık"
+    },
+    {
+        "id": 1584,
+        "question": "Bir işten elde edilen iyi sonuç, fayda",
+        "letter": "Y",
+        "answer": "Yarar"
+    },
+    {
+        "id": 1591,
+        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "letter": "Z",
+        "answer": "Zarar, ziyan"
+    }
+]

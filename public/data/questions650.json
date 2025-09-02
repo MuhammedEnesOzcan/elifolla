@@ -1,0 +1,158 @@
+[
+    {
+        "id": 107,
+        "question": "Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri",
+        "letter": "A",
+        "answer": "akran"
+    },
+    {
+        "id": 1349,
+        "question": "Bankacılıkta bir varlığın yetkili otoritelerin izni olmadan sahibi tarafından kullanılamaması durumu",
+        "letter": "B",
+        "answer": "Blokaj, bloke, bloke koyma, bloke koymak"
+    },
+    {
+        "id": 1363,
+        "question": "Ateşli silahlarla atılmak için hazırlanan her türlü patlayıcı madde, mühimmat",
+        "letter": "C",
+        "answer": "Cephane"
+    },
+    {
+        "id": 542,
+        "question": "Ucu yassı ve eğri, büyük iğne",
+        "letter": "Ç",
+        "answer": "Çuvaldız"
+    },
+    {
+        "id": 1390,
+        "question": "Üstü şekerli, renkli ve parlak bir madde ile kaplanmış hap",
+        "letter": "D",
+        "answer": "Draje"
+    },
+    {
+        "id": 1414,
+        "question": "Özellikle bilginin temellerini ve doğruluk durumunu inceleme, sınama, yargılama",
+        "letter": "E",
+        "answer": "Eleştiri, eleştirme, eleştirmek"
+    },
+    {
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "letter": "F",
+        "answer": "Fidan"
+    },
+    {
+        "id": 581,
+        "question": "Tek kürekle suda yürütülen geleneksel bir Venedik aracı",
+        "letter": "G",
+        "answer": "Gondol"
+    },
+    {
+        "id": 1158,
+        "question": "At yetiştirilen çiftlik",
+        "letter": "H",
+        "answer": "Hara"
+    },
+    {
+        "id": 269,
+        "question": "Yararlanılan uygun şart veya durum, olanak",
+        "letter": "İ",
+        "answer": "imkan"
+    },
+    {
+        "id": 612,
+        "question": "Isıtmada kullanılan yakıtı düzenli ve ayarlı biçimde yakan araç",
+        "letter": "K",
+        "answer": "Kombi"
+    },
+    {
+        "id": 918,
+        "question": "Hiç tuzu olmayan yumuşak krem peynir",
+        "letter": "L",
+        "answer": "Labne"
+    },
+    {
+        "id": 323,
+        "question": "Kalıtım yoluyla gelen herhangi bir özellik",
+        "letter": "M",
+        "answer": "miras, mizaç"
+    },
+    {
+        "id": 929,
+        "question": "Tek ağızlı balta",
+        "letter": "N",
+        "answer": "Nacak"
+    },
+    {
+        "id": 645,
+        "question": "Doğal yolla yapılan",
+        "letter": "O",
+        "answer": "Organik"
+    },
+    {
+        "id": 1535,
+        "question": "Bilimde bir düzenli görüşü oluşturan ilke ve dogmaların bütünü, meslek, doktrin",
+        "letter": "Ö",
+        "answer": "Öğreti"
+    },
+    {
+        "id": 1710,
+        "question": "Akciğerdeki hava keseciklerinin iltihap ile dolması, Zatürre",
+        "letter": "P",
+        "answer": "Pnömoni"
+    },
+    {
+        "id": 680,
+        "question": "İzin belgesi",
+        "letter": "R",
+        "answer": "Ruhsat, Ruhsat belgesi"
+    },
+    {
+        "id": 694,
+        "question": "Sarmal biçiminde olan",
+        "letter": "S",
+        "answer": "Spiral"
+    },
+    {
+        "id": 1312,
+        "question": "Kuşku",
+        "letter": "Ş",
+        "answer": "Şüphe"
+    },
+    {
+        "id": 767,
+        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "letter": "T",
+        "answer": "Takılmak"
+    },
+    {
+        "id": 896,
+        "question": "Orta Asya'da Büyük Devlet Ve Uygarlık Kurmuş, Yazılı Anıtlarla Sanat Yapıtları Bırakmış Olan Bir Türk Ulusu",
+        "letter": "U",
+        "answer": "Uygur, uygurlar"
+    },
+    {
+        "id": 1507,
+        "question": "Canlı, doğup çoğalmak",
+        "letter": "Ü",
+        "answer": "Üremek"
+    },
+    {
+        "id": 484,
+        "question": "Eski dilde \"Anne\"",
+        "letter": "V",
+        "answer": "Valide"
+    },
+    {
+        "id": 734,
+        "question": "Su kıyısında yapılmış büyük, görkemli ev",
+        "letter": "Y",
+        "answer": "Yalı"
+    },
+    {
+        "id": 506,
+        "question": "Zorunlu, gerekli",
+        "letter": "Z",
+        "answer": "zaruri"
+    }
+]

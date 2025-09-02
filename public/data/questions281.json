@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1657,
+        "question": "Belli bir süre sonra inilip başka bir taşıta binilmesini gerektiren seyahat",
+        "letter": "A",
+        "answer": "Aktarmalı, aktarmalı seyahat"
+    },
+    {
+        "id": 1220,
+        "question": "Atış bilimi, mermi ve füzelerin hareketlerini inceleyen bir bilim dalı",
+        "letter": "B",
+        "answer": "Balistik, balistik bilimi"
+    },
+    {
+        "id": 747,
+        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
+        "letter": "C",
+        "answer": "Cesaret, Cesaretlilik"
+    },
+    {
+        "id": 542,
+        "question": "Ucu yassı ve eğri, büyük iğne",
+        "letter": "Ç",
+        "answer": "Çuvaldız"
+    },
+    {
+        "id": 1210,
+        "question": "Ayın tamamlanmış hali, parlak tam ay",
+        "letter": "D",
+        "answer": "Dolunay"
+    },
+    {
+        "id": 204,
+        "question": "Tutsak, köle",
+        "letter": "E",
+        "answer": "esir"
+    },
+    {
+        "id": 799,
+        "question": "Yürekler acısı, trajik anlamındaki söz",
+        "letter": "F",
+        "answer": "Feci, facia"
+    },
+    {
+        "id": 1430,
+        "question": "Makine yağı",
+        "letter": "G",
+        "answer": "Gres, gres yağ, gres yağı"
+    },
+    {
+        "id": 251,
+        "question": "Ayak bileğine takılan bilezik",
+        "letter": "H",
+        "answer": "halhal"
+    },
+    {
+        "id": 269,
+        "question": "Yararlanılan uygun şart veya durum, olanak",
+        "letter": "İ",
+        "answer": "imkan"
+    },
+    {
+        "id": 1943,
+        "question": "Bir şeyin üstünü kaplayan ve onu dış etkilere karşı koruyan, kendiliğinden oluşmuş sertçe bölüm",
+        "letter": "K",
+        "answer": "Kabuk"
+    },
+    {
+        "id": 1529,
+        "question": "Kişiye alay yollu takılan takma ad",
+        "letter": "L",
+        "answer": "Lakap, lakab"
+    },
+    {
+        "id": 629,
+        "question": "Tek, ayrı, kendi başına olan",
+        "letter": "M",
+        "answer": "Münferit"
+    },
+    {
+        "id": 1758,
+        "question": "Bir olayın doğurduğu başka bir olay veya durum",
+        "letter": "N",
+        "answer": "Netice"
+    },
+    {
+        "id": 93,
+        "question": "Bir ülkenin askeri kuvvetlerinin tümü",
+        "letter": "O",
+        "answer": "ordu"
+    },
+    {
+        "id": 361,
+        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
+        "letter": "Ö",
+        "answer": "önem"
+    },
+    {
+        "id": 1016,
+        "question": "Posta parası karşılığı mektuplara, damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası",
+        "letter": "P",
+        "answer": "Pul"
+    },
+    {
+        "id": 826,
+        "question": "İrade dışı sinir etkinliği",
+        "letter": "R",
+        "answer": "Refleks"
+    },
+    {
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "letter": "S",
+        "answer": "Sahaf"
+    },
+    {
+        "id": 1688,
+        "question": "Güneş doğmadan az önce beliren aydınlık",
+        "letter": "Ş",
+        "answer": "Şafak"
+    },
+    {
+        "id": 951,
+        "question": "Sayım. Toplanma",
+        "letter": "T",
+        "answer": "tadat"
+    },
+    {
+        "id": 1077,
+        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "letter": "U",
+        "answer": "ucuz"
+    },
+    {
+        "id": 873,
+        "question": "İdrarın dışarıya atılmasını sağlayan ve idrar torbasından sonraki idrar yol",
+        "letter": "Ü",
+        "answer": "Üretra"
+    },
+    {
+        "id": 866,
+        "question": "Futbolda Top Yere Değmeden Yapılan Vuruş",
+        "letter": "V",
+        "answer": "Vole"
+    },
+    {
+        "id": 773,
+        "question": "Japon mafyası",
+        "letter": "Y",
+        "answer": "Yakuza"
+    },
+    {
+        "id": 1593,
+        "question": "Ard arda birden fazla aracın kazaya karışması durumu",
+        "letter": "Z",
+        "answer": "Zincirleme, zincirleme kaza"
+    }
+]

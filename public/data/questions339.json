@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1340,
+        "question": "Herhangi bir konuda yapılan ön hazırlık",
+        "letter": "A",
+        "answer": "Antrenman, antreman, alıştırma"
+    },
+    {
+        "id": 1862,
+        "question": "BİR EYLEMİ PERVASIZCA, ÇEKİNMEDEN VE SAKINMADAN YAPMAK",
+        "letter": "B",
+        "answer": "Bodoslama"
+    },
+    {
+        "id": 155,
+        "question": "Topluluk, zümre",
+        "letter": "C",
+        "answer": "Camia, cemiyet"
+    },
+    {
+        "id": 544,
+        "question": "Derme çatma çadır, göçebe çadırı",
+        "letter": "Ç",
+        "answer": "Çerge"
+    },
+    {
+        "id": 1384,
+        "question": "Hava ve deniz taşıtlarında, taşıta istenilen yönü vermeye ve belirli bir doğrultuda götürmeye yarayan hareketli parça",
+        "letter": "D",
+        "answer": "Dümen"
+    },
+    {
+        "id": 796,
+        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
+        "letter": "E",
+        "answer": "Elbette"
+    },
+    {
+        "id": 1327,
+        "question": "Bir sanık, tutuklu veya hükümlünün gözcülerin elinden kurtulması",
+        "letter": "F",
+        "answer": "Firar, firari, firar etme, firar etmek, firar etmesi"
+    },
+    {
+        "id": 1491,
+        "question": "Gereken önemi vermemek, üstünde durmadan başından savmak",
+        "letter": "G",
+        "answer": "Geçiştirmek, geçiştirme"
+    },
+    {
+        "id": 61,
+        "question": "Sıvıları dar ağızlı kaplara aktarmak için kullanılan koni şeklindeki araç",
+        "letter": "H",
+        "answer": "huni"
+    },
+    {
+        "id": 1498,
+        "question": "Alınacak tedbirleri uygulamama, savsaklama",
+        "letter": "İ",
+        "answer": "İhmal, ihmalkarlık, ihmal etme, ihmal etmek"
+    },
+    {
+        "id": 287,
+        "question": "Posta, kargo, mektup vb. gönderileri alıcıya ulaştıran kimse",
+        "letter": "K",
+        "answer": "kurye"
+    },
+    {
+        "id": 1106,
+        "question": "Üzerinde su muslukları bulunan, el, yüz, bulaşık yıkamaya yarar, çukur yer veya eşya",
+        "letter": "L",
+        "answer": "Lavabo, lavobo"
+    },
+    {
+        "id": 1849,
+        "question": "SAVAŞTA ZAFER KAZANMIŞ OLAN",
+        "letter": "M",
+        "answer": "Muzaffer"
+    },
+    {
+        "id": 994,
+        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
+        "letter": "N",
+        "answer": "naip"
+    },
+    {
+        "id": 653,
+        "question": "Yaş bakımından üç kardeşin büyüğü ile küçüğü arasında bulunan",
+        "letter": "O",
+        "answer": "Ortanca, ortanca çocuk, ortanca kardeş"
+    },
+    {
+        "id": 371,
+        "question": "Belirli bir ölçüde olan, uygun",
+        "letter": "Ö",
+        "answer": "ölçülü"
+    },
+    {
+        "id": 384,
+        "question": "Çeşitli sporlarda kullanılan ölçüsü ve değeri değişken birim",
+        "letter": "P",
+        "answer": "puan"
+    },
+    {
+        "id": 393,
+        "question": "Gemi, tren, kışla, yatılı okul vb. yerlerde üst üste yapılan yatak yeri",
+        "letter": "R",
+        "answer": "ranza"
+    },
+    {
+        "id": 1826,
+        "question": "EN AZ İKİ KİŞİ ARASINDA DÜZENLENEN, BİR TARAFIN ÖBÜRÜNE ÖDEME YAPMA YÜKÜMLÜLÜĞÜNÜ BEYAN ETTİĞİ KÂĞIT",
+        "letter": "S",
+        "answer": "Senet"
+    },
+    {
+        "id": 1688,
+        "question": "Güneş doğmadan az önce beliren aydınlık",
+        "letter": "Ş",
+        "answer": "Şafak"
+    },
+    {
+        "id": 1907,
+        "question": "YER ÇEKİMİ ETKİSİNDEN YARARLANAN ÖLÇÜM ALETİ",
+        "letter": "T",
+        "answer": "Terazi"
+    },
+    {
+        "id": 1071,
+        "question": "Yakışır, yaraşır, mutabık, mütenasip",
+        "letter": "U",
+        "answer": "uygun"
+    },
+    {
+        "id": 727,
+        "question": "Her yandan çokça bir araya gelmek, toplanmak, birikmek",
+        "letter": "Ü",
+        "answer": "Üşüşme, Üşüşmek"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 1501,
+        "question": "Parmağa geçirilen genellikle metal halka",
+        "letter": "Y",
+        "answer": "Yüzük"
+    },
+    {
+        "id": 498,
+        "question": "Bir şeyin fiyatını artırma, bindirim",
+        "letter": "Z",
+        "answer": "zam"
+    }
+]

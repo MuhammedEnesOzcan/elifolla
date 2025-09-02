@@ -1,0 +1,158 @@
+[
+    {
+        "id": 118,
+        "question": "Genellikle üzeri siperli masa lambası veya ayaklı lamba",
+        "letter": "A",
+        "answer": "abajur"
+    },
+    {
+        "id": 1862,
+        "question": "BİR EYLEMİ PERVASIZCA, ÇEKİNMEDEN VE SAKINMADAN YAPMAK",
+        "letter": "B",
+        "answer": "Bodoslama"
+    },
+    {
+        "id": 1357,
+        "question": "Elindeki parayı harcamaya kıyamayan",
+        "letter": "C",
+        "answer": "Cimri, cimrilik"
+    },
+    {
+        "id": 1548,
+        "question": "Eli veya kolu sakat olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çolak"
+    },
+    {
+        "id": 1929,
+        "question": "ARGODA, “CEZAEVİ, HAPİSHANE” ANLAMINDA KULLANILAN SÖZCÜK",
+        "letter": "D",
+        "answer": "Delik"
+    },
+    {
+        "id": 1417,
+        "question": "Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku",
+        "letter": "E",
+        "answer": "Epitelyum"
+    },
+    {
+        "id": 217,
+        "question": "Çalışır durumda olan, etkin",
+        "letter": "F",
+        "answer": "faal"
+    },
+    {
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
+        "letter": "G",
+        "answer": "Gelir"
+    },
+    {
+        "id": 588,
+        "question": "İlgi ile karşılanabilecek haber",
+        "letter": "H",
+        "answer": "Havadis"
+    },
+    {
+        "id": 265,
+        "question": "Eksik bir şeyi tamamlama, daha iyi duruma getirme, bütünleme",
+        "letter": "İ",
+        "answer": "ikmal, ikmâl"
+    },
+    {
+        "id": 976,
+        "question": "Gözlerin üzerinde kemerli birer çizgi oluşturan kısa kıllar",
+        "letter": "K",
+        "answer": "Kaş"
+    },
+    {
+        "id": 294,
+        "question": "Gösterişli, şatafatlı olan",
+        "letter": "L",
+        "answer": "lüks"
+    },
+    {
+        "id": 1775,
+        "question": "ÇOK KÜÇÜK NESNELERİ VEYA ÇIPLAK GÖZLE GÖRÜLMEYENLERİ DAHA BELİRGİN DURUMA GETİRMEYE YARAYAN OPTİK ALET",
+        "letter": "M",
+        "answer": "Mikroskop"
+    },
+    {
+        "id": 336,
+        "question": "Ortak bir özellik gösteren kimselerin bütünü, popülasyon",
+        "letter": "N",
+        "answer": "nüfus"
+    },
+    {
+        "id": 349,
+        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
+        "letter": "O",
+        "answer": "onbaşı"
+    },
+    {
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
+        "letter": "Ö",
+        "answer": "Öbür, Öbürü"
+    },
+    {
+        "id": 1023,
+        "question": "Baykuşgillerden, orman, dağ ve kayalıklarda yaşayan, uzunluğu 65 cm, sırtı koyu kahverengi bir kuş türü",
+        "letter": "P",
+        "answer": "Puhu"
+    },
+    {
+        "id": 1121,
+        "question": "Herhangi bir işte, bir yarışta, birbirini geçmeye çalışan, aynı şeyi elde etmeye uğraşan",
+        "letter": "R",
+        "answer": "Rakip"
+    },
+    {
+        "id": 418,
+        "question": "Sefalet çeken, yoksul",
+        "letter": "S",
+        "answer": "sefil, sersefil"
+    },
+    {
+        "id": 1312,
+        "question": "Kuşku",
+        "letter": "Ş",
+        "answer": "Şüphe"
+    },
+    {
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "letter": "T",
+        "answer": "Taktik"
+    },
+    {
+        "id": 723,
+        "question": "Uyuşma, mutabakat, konsensüs",
+        "letter": "U",
+        "answer": "Uzlaşı, uzlaşma, uzlaşmak"
+    },
+    {
+        "id": 848,
+        "question": "Erkeklerin Sıçaktan Korunmak İçin Başlarına Sardıkları Büyük Mendil",
+        "letter": "Ü",
+        "answer": "Üslük"
+    },
+    {
+        "id": 870,
+        "question": "Bir vadi ya da ırmak üzerine kurulan yüksek ve uzun köprü",
+        "letter": "V",
+        "answer": "Viyadük, vıyaduk"
+    },
+    {
+        "id": 493,
+        "question": "Kötülüklerini söylemek, zemmetmek",
+        "letter": "Y",
+        "answer": "yermek"
+    },
+    {
+        "id": 1245,
+        "question": "Eski dilde deprem",
+        "letter": "Z",
+        "answer": "Zelzele"
+    }
+]

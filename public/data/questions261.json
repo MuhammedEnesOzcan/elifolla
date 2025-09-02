@@ -1,0 +1,158 @@
+[
+    {
+        "id": 122,
+        "question": "Acındıracak, acı verecek nitelikte olan, dokunaklı, üzücü",
+        "letter": "A",
+        "answer": "acıklı, acınası"
+    },
+    {
+        "id": 1837,
+        "question": "ARAPÇA KÖKENLİ \"MATBAA\" SÖZCÜĞÜNÜN TÜRKÇE EŞ ANLAMLISI",
+        "letter": "B",
+        "answer": "Basımevi"
+    },
+    {
+        "id": 1362,
+        "question": "Aynı eğilimde olan, aynı görüşü paylaşan kimselerin oluşturduğu hareket",
+        "letter": "C",
+        "answer": "Cereyan, cereyan etme, cereyan etmek"
+    },
+    {
+        "id": 176,
+        "question": "İnsan bedeninde bulunan enerjiyi tüm vücuda dağıttığına inanılan enerji noktaları",
+        "letter": "Ç",
+        "answer": "çakra, çakralar"
+    },
+    {
+        "id": 1390,
+        "question": "Üstü şekerli, renkli ve parlak bir madde ile kaplanmış hap",
+        "letter": "D",
+        "answer": "Draje"
+    },
+    {
+        "id": 216,
+        "question": "Damar tıkanıklığı",
+        "letter": "E",
+        "answer": "emboli"
+    },
+    {
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "letter": "F",
+        "answer": "Freze"
+    },
+    {
+        "id": 578,
+        "question": "Dil bilgisi",
+        "letter": "G",
+        "answer": "Gramer"
+    },
+    {
+        "id": 89,
+        "question": "Bir şirketin ortaklarından her biri",
+        "letter": "H",
+        "answer": "hissedar"
+    },
+    {
+        "id": 1161,
+        "question": "Danışma, beyin fırtınası, karşılıklı tartışma",
+        "letter": "İ",
+        "answer": "İstişare"
+    },
+    {
+        "id": 1885,
+        "question": "BİR DÜŞÜNCEYİ EKSİKSİZ OLARAK ANLATAN KELİME DİZİSİ, SÖZ",
+        "letter": "K",
+        "answer": "Kelam"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 1627,
+        "question": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki)",
+        "letter": "M",
+        "answer": "Melez"
+    },
+    {
+        "id": 949,
+        "question": "Nikel'in simgesi",
+        "letter": "N",
+        "answer": "ni"
+    },
+    {
+        "id": 93,
+        "question": "Bir ülkenin askeri kuvvetlerinin tümü",
+        "letter": "O",
+        "answer": "ordu"
+    },
+    {
+        "id": 31,
+        "question": "Yaşam, hayat",
+        "letter": "Ö",
+        "answer": "Ömür"
+    },
+    {
+        "id": 672,
+        "question": "Atış yeri, atış antrenman alanı",
+        "letter": "P",
+        "answer": "Poligon"
+    },
+    {
+        "id": 389,
+        "question": "Bir gemi veya uçağın gidiş yönü, izleyeceği yol",
+        "letter": "R",
+        "answer": "rota"
+    },
+    {
+        "id": 1263,
+        "question": "Kadın veya çocuklarda en ince ses, sesi böyle olan sanatçı",
+        "letter": "S",
+        "answer": "Soprano"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 1130,
+        "question": "Ölünün içine konulduğu sandık biçiminde araç, sal",
+        "letter": "T",
+        "answer": "tabut"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
+        "letter": "Ü",
+        "answer": "Ütülmek"
+    },
+    {
+        "id": 1571,
+        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
+        "letter": "V",
+        "answer": "Vasıfsız, vasıfsız eleman"
+    },
+    {
+        "id": 718,
+        "question": "Üstünde yaşadığımız gök cismi",
+        "letter": "Y",
+        "answer": "Yer küre"
+    },
+    {
+        "id": 857,
+        "question": "Çiçek Açan - Çoban Yıldızı (Venüs)",
+        "letter": "Z",
+        "answer": "Zühre, zuhre"
+    }
+]

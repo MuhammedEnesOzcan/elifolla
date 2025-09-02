@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1659,
+        "question": "Konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak",
+        "letter": "A",
+        "answer": "Ağırlamak, ağırlama"
+    },
+    {
+        "id": 526,
+        "question": "Geçidi kapamak için her türlü araçtan yararlanılarak yapılan engel",
+        "letter": "B",
+        "answer": "Barikat"
+    },
+    {
+        "id": 1257,
+        "question": "İşletmelere gün sonu giren para, kazanç",
+        "letter": "C",
+        "answer": "Ciro, cirosu"
+    },
+    {
+        "id": 544,
+        "question": "Derme çatma çadır, göçebe çadırı",
+        "letter": "Ç",
+        "answer": "Çerge"
+    },
+    {
+        "id": 1384,
+        "question": "Hava ve deniz taşıtlarında, taşıta istenilen yönü vermeye ve belirli bir doğrultuda götürmeye yarayan hareketli parça",
+        "letter": "D",
+        "answer": "Dümen"
+    },
+    {
+        "id": 1414,
+        "question": "Özellikle bilginin temellerini ve doğruluk durumunu inceleme, sınama, yargılama",
+        "letter": "E",
+        "answer": "Eleştiri, eleştirme, eleştirmek"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
+        "letter": "G",
+        "answer": "Gelir"
+    },
+    {
+        "id": 592,
+        "question": "Sürtünme kuvvetinin yağ basıncı ile sağlandığı fren tipi",
+        "letter": "H",
+        "answer": "Hidrolik, hidrolik fren"
+    },
+    {
+        "id": 1726,
+        "question": "Birim zamandaki hız değişimi",
+        "letter": "İ",
+        "answer": "İvme"
+    },
+    {
+        "id": 606,
+        "question": "Kara ile suyun birleştiği yer",
+        "letter": "K",
+        "answer": "Kıyı"
+    },
+    {
+        "id": 1706,
+        "question": "Yeni doğum yapmış kadın",
+        "letter": "L",
+        "answer": "Lohusa"
+    },
+    {
+        "id": 1632,
+        "question": "Yakıt olarak kullanılan, ham petrolün damıtma ürünlerinden biri, motorin",
+        "letter": "M",
+        "answer": "Mazot"
+    },
+    {
+        "id": 916,
+        "question": "Durgun sularda ya da havuzlarda yetişen, geniş yapraklı su bitkisi",
+        "letter": "N",
+        "answer": "Nilüfer, nılufer"
+    },
+    {
+        "id": 348,
+        "question": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+        "letter": "O",
+        "answer": "obur"
+    },
+    {
+        "id": 663,
+        "question": "Bir işin ilerisini kestirme, tahmin etmek",
+        "letter": "Ö",
+        "answer": "Öngörü, Öngörmek"
+    },
+    {
+        "id": 1019,
+        "question": "Telli sazları çalmaya yarayan ve kemik, boynuz vb. şeylerden yapılan çalma aracı, mızrap, çalgıç",
+        "letter": "P",
+        "answer": "pena"
+    },
+    {
+        "id": 394,
+        "question": "Bir para biriminin veya malın satış ve sürüm değeri",
+        "letter": "R",
+        "answer": "rayiç, rayiç bedel, rayiç bedeli"
+    },
+    {
+        "id": 1123,
+        "question": "Geçen, önceki, eski",
+        "letter": "S",
+        "answer": "sabık, selef, selefi"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 1693,
+        "question": "BULAŞIK MAKİNELERİNDE KULLANILAN KOMPAKT DETERJAN TÜRÜ",
+        "letter": "T",
+        "answer": "Tablet"
+    },
+    {
+        "id": 449,
+        "question": "İçe dert olan şey",
+        "letter": "U",
+        "answer": "ukde, ukte"
+    },
+    {
+        "id": 873,
+        "question": "İdrarın dışarıya atılmasını sağlayan ve idrar torbasından sonraki idrar yol",
+        "letter": "Ü",
+        "answer": "Üretra"
+    },
+    {
+        "id": 1138,
+        "question": "Tehlikeli durum",
+        "letter": "V",
+        "answer": "varta, vuku, vukuat"
+    },
+    {
+        "id": 1580,
+        "question": "Sınırlı bir yerle ilgili olan, bölgesel, lokal",
+        "letter": "Y",
+        "answer": "Yerel, yöresel"
+    },
+    {
+        "id": 1143,
+        "question": "Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim",
+        "letter": "Z",
+        "answer": "Zabıta"
+    }
+]

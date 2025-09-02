@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1261,
+        "question": "İştah açmak amacıyla yemekten önce yenilen hafif yiyecekler",
+        "letter": "A",
+        "answer": "Aperatif, aparatif, aperetif, Aperitif"
+    },
+    {
+        "id": 786,
+        "question": "Deneme ve günce yazılarıyla doldurulan sanal platform",
+        "letter": "B",
+        "answer": "Blog"
+    },
+    {
+        "id": 155,
+        "question": "Topluluk, zümre",
+        "letter": "C",
+        "answer": "Camia, cemiyet"
+    },
+    {
+        "id": 1890,
+        "question": "“TORTU” KELİMESİNİN EŞ ANLAMLISI",
+        "letter": "Ç",
+        "answer": "Çökelti"
+    },
+    {
+        "id": 1246,
+        "question": "Dumanı ve kokuları toplayıp bacaya vermeye yarayan mutfak aracı",
+        "letter": "D",
+        "answer": "Davlumbaz, davlunbaz"
+    },
+    {
+        "id": 1417,
+        "question": "Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku",
+        "letter": "E",
+        "answer": "Epitelyum"
+    },
+    {
+        "id": 220,
+        "question": "Belirli nesneler veya durumlar karşısında duyulan olağan dışı güçlü korku",
+        "letter": "F",
+        "answer": "fobi"
+    },
+    {
+        "id": 236,
+        "question": "Elde edilmesi gereken, ulaşılmak istenen şey, amaç, maksat",
+        "letter": "G",
+        "answer": "gaye"
+    },
+    {
+        "id": 593,
+        "question": "Uçan balonların içinde bulunan gaz",
+        "letter": "H",
+        "answer": "Helyum, Helyum gazı"
+    },
+    {
+        "id": 266,
+        "question": "Bir kararı, bir yargıyı yerine getirme, uygulama, yürütüm",
+        "letter": "İ",
+        "answer": "infaz, infaz etme, infaz etmek"
+    },
+    {
+        "id": 610,
+        "question": "Araştırma ve incelemede yararlanılan belge, referans",
+        "letter": "K",
+        "answer": "Kaynak"
+    },
+    {
+        "id": 1959,
+        "question": "İçinde her türlü donanım bulunan lüks, uzun ve geniş otomobil türü",
+        "letter": "L",
+        "answer": "Limuzin"
+    },
+    {
+        "id": 1933,
+        "question": "SOMUT YASALARIN ÖTESİNDE OLAN BİR FELSEFE DALI",
+        "letter": "M",
+        "answer": "Metafizik"
+    },
+    {
+        "id": 1767,
+        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
+        "letter": "N",
+        "answer": "Numara, Numara yapma, Numara yapmak"
+    },
+    {
+        "id": 648,
+        "question": "İyimser, pesimist karşıtı",
+        "letter": "O",
+        "answer": "Optimist"
+    },
+    {
+        "id": 1478,
+        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "letter": "Ö",
+        "answer": "Özerk"
+    },
+    {
+        "id": 376,
+        "question": "Bir başkasına bağımlılığı olan",
+        "letter": "P",
+        "answer": "peyk"
+    },
+    {
+        "id": 391,
+        "question": "Yol, yöntem, usul",
+        "letter": "R",
+        "answer": "racon"
+    },
+    {
+        "id": 694,
+        "question": "Sarmal biçiminde olan",
+        "letter": "S",
+        "answer": "Spiral"
+    },
+    {
+        "id": 1467,
+        "question": "Genellikle binaların girişine gelen elektrik akımını açıp kapamaya yarayan araç",
+        "letter": "Ş",
+        "answer": "Şalter"
+    },
+    {
+        "id": 52,
+        "question": "At ve eşek gibi tek tırnaklı hayvanların tırnağına verilen ad",
+        "letter": "T",
+        "answer": "Toynak"
+    },
+    {
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "letter": "U",
+        "answer": "uyruk"
+    },
+    {
+        "id": 468,
+        "question": "Gerçekleştirilmesi imkânsız tasarı veya düşünce",
+        "letter": "Ü",
+        "answer": "ütopya, ütopik"
+    },
+    {
+        "id": 886,
+        "question": "Çiçek Koymak İçin Kullanılan Kap",
+        "letter": "V",
+        "answer": "Vazo"
+    },
+    {
+        "id": 492,
+        "question": "Gösterişsiz, süssüz, sade, net",
+        "letter": "Y",
+        "answer": "yalın"
+    },
+    {
+        "id": 1290,
+        "question": "Keyifli, eğlenceli olan",
+        "letter": "Z",
+        "answer": "Zevkli, zevk"
+    }
+]

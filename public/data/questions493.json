@@ -1,0 +1,158 @@
+[
+    {
+        "id": 779,
+        "question": "Üstünlük, kazanım, yarar",
+        "letter": "A",
+        "answer": "Avantaj"
+    },
+    {
+        "id": 1286,
+        "question": "Dolu olmayan alan, aralık",
+        "letter": "B",
+        "answer": "Boşluk, boş, boş alan"
+    },
+    {
+        "id": 1359,
+        "question": "Hekimliğin deri hastalıkları ile ilgili dalı, dermatoloji",
+        "letter": "C",
+        "answer": "Cildiye"
+    },
+    {
+        "id": 166,
+        "question": "Dağın bir noktasından kopup yuvarlanan ve yuvarlandıkça büyüyen kar kümesi",
+        "letter": "Ç",
+        "answer": "çığ"
+    },
+    {
+        "id": 557,
+        "question": "Doluluğunu, gücünü yitirme",
+        "letter": "D",
+        "answer": "Deşarj, deşarj olma, deşarj olmak"
+    },
+    {
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "letter": "E",
+        "answer": "ezel"
+    },
+    {
+        "id": 1094,
+        "question": "Süslü, ayaklı fener",
+        "letter": "F",
+        "answer": "Fanus"
+    },
+    {
+        "id": 1759,
+        "question": "Çevresiyle uyuşamayan, aksi tabiatlı, kavga çıkaran kimse",
+        "letter": "G",
+        "answer": "Geçimsiz"
+    },
+    {
+        "id": 804,
+        "question": "Taht sahibi olan devlet başkanı",
+        "letter": "H",
+        "answer": "Hükümdür, Hükümdar"
+    },
+    {
+        "id": 274,
+        "question": "Toplum hayatından kaçıp tek başına yaşama",
+        "letter": "İ",
+        "answer": "inziva, inzivaya çekilme, inzivaya çekilmek"
+    },
+    {
+        "id": 614,
+        "question": "Toplumsal etkinliklerde sıra halinde giden insan topluluğu",
+        "letter": "K",
+        "answer": "Kortej"
+    },
+    {
+        "id": 621,
+        "question": "Kelime, sözlük",
+        "letter": "L",
+        "answer": "Lügat, Lugat, Lûgat"
+    },
+    {
+        "id": 1617,
+        "question": "Denizlerde görülen bazı mikroorganizmalar tarafından üretilen kalın, yapışkan maddeler, Deniz salyası",
+        "letter": "M",
+        "answer": "Müsilaj"
+    },
+    {
+        "id": 327,
+        "question": "Haykırma, bağırma",
+        "letter": "N",
+        "answer": "nara, nara atma, nara atmak"
+    },
+    {
+        "id": 1677,
+        "question": "Defterde, bir araya getirilmiş belli sayıda yaprakların oluşturduğu bölümlerden oluşan",
+        "letter": "O",
+        "answer": "Ortalı, orta"
+    },
+    {
+        "id": 367,
+        "question": "Bir maddenin herhangi bir yolla elde edilmiş olan özü",
+        "letter": "Ö",
+        "answer": "özüt, özütü"
+    },
+    {
+        "id": 1019,
+        "question": "Telli sazları çalmaya yarayan ve kemik, boynuz vb. şeylerden yapılan çalma aracı, mızrap, çalgıç",
+        "letter": "P",
+        "answer": "pena"
+    },
+    {
+        "id": 393,
+        "question": "Gemi, tren, kışla, yatılı okul vb. yerlerde üst üste yapılan yatak yeri",
+        "letter": "R",
+        "answer": "ranza"
+    },
+    {
+        "id": 1044,
+        "question": "Sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su",
+        "letter": "S",
+        "answer": "sel"
+    },
+    {
+        "id": 701,
+        "question": "Bir kara yolunda trafik çizgileri ile ayrılmış bölümlerden her biri",
+        "letter": "Ş",
+        "answer": "Şerit"
+    },
+    {
+        "id": 708,
+        "question": "Bir diğer söylemle \"Doğa\"",
+        "letter": "T",
+        "answer": "Tabiat"
+    },
+    {
+        "id": 1069,
+        "question": "ele avuca sığmaz (kimse)",
+        "letter": "U",
+        "answer": "Uçarı"
+    },
+    {
+        "id": 469,
+        "question": "Ayrıca, bir de, bundan başka",
+        "letter": "Ü",
+        "answer": "üstelik"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 837,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte, Yürürlükteki"
+    },
+    {
+        "id": 739,
+        "question": "Gerçekleşeceği düşünülmeyen, hesapta olmayan, umulmadık",
+        "letter": "Z",
+        "answer": "Zuhurat, Zuhurât"
+    }
+]

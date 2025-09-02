@@ -1,158 +1,158 @@
 [
     {
-        "id": 1380,
-        "question": "Tehlikeli oyunlar yapan gösteri sanatçısı",
+        "id": 1926,
+        "question": "BOKSTA, BÜKÜK KOLLA AŞAĞIDAN YUKARIYA DOĞRU ÇENEYE ATILAN YUMRUK",
         "letter": "A",
-        "answer": "Akrobat, akrobasi sanatçısı"
+        "answer": "Aparkat"
     },
     {
-        "id": 1700,
-        "question": "Canlıların doğma, gelişme, üreme gibi yaşam evrelerini konu edinen bilim dalı",
+        "id": 1781,
+        "question": "Fransızca’da Marie’nin banyosu anlamına gelen 'sıcak suda eritme' işi olan gastronomi terimi",
         "letter": "B",
-        "answer": "Biyoloji"
+        "answer": "Benmari, Bain Marie"
     },
     {
-        "id": 1923,
-        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "id": 915,
+        "question": "Sonu Olmayan, Sonsuz, Ebedi, Ölümsüz",
         "letter": "C",
-        "answer": "Cıvık"
+        "answer": "Cavit"
     },
     {
-        "id": 172,
-        "question": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
+        "id": 965,
+        "question": "Zaman dilimi, vakit",
         "letter": "Ç",
-        "answer": "çakı"
+        "answer": "Çağ"
     },
     {
-        "id": 552,
-        "question": "Her şeyi zamanında yapmaya özen gösteren",
+        "id": 554,
+        "question": "Bir işi en iyi yapan, işin ustası",
         "letter": "D",
-        "answer": "Dakik"
+        "answer": "Duayen"
     },
     {
-        "id": 1279,
-        "question": "Bitkilerden çıkarılan veya kimya yardımıyla çeşitli maddelerden elde edilen kokulu, uçucu sıvı",
+        "id": 561,
+        "question": "Resim için çizimlerle yapılan ön çalışma, taslak",
         "letter": "E",
-        "answer": "Esans, esansı"
+        "answer": "Eskiz"
     },
     {
-        "id": 569,
-        "question": "Bir kişiyi ya da kurumu finanse etmek",
+        "id": 567,
+        "question": "Yanıcı bir maddeden aldığı itici güçle hareket eden düzenek",
         "letter": "F",
-        "answer": "Fon, Fonlama, Fonlamak"
+        "answer": "Füze"
     },
     {
-        "id": 1422,
-        "question": "Gece kalmadan aynı gün dönmek üzere yapılan ziyaret ya da gezi",
+        "id": 1746,
+        "question": "Evlenmekte olan bir erkeğe düğün töreni sırasında verilen ad",
         "letter": "G",
-        "answer": "Günübirlik"
+        "answer": "Güvey"
     },
     {
-        "id": 1158,
-        "question": "At yetiştirilen çiftlik",
+        "id": 58,
+        "question": "Sebze, meyve, bakliyat gibi ürünlerin toptan satıldığı yer",
         "letter": "H",
-        "answer": "Hara"
+        "answer": "Hal, Hâl"
     },
     {
-        "id": 1842,
-        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "id": 268,
+        "question": "Kabul etmeme, tanımama",
         "letter": "İ",
-        "answer": "İmtina, İmtina etme, İmtina etmek"
+        "answer": "inkar, inkar etme, inkar etmek"
     },
     {
-        "id": 1233,
-        "question": "Bir düzlemdeki konum, coğrafik konum",
+        "id": 288,
+        "question": "Savunma aracı, korumalık",
         "letter": "K",
-        "answer": "Koordinat, kordinat"
+        "answer": "kalkan"
     },
     {
-        "id": 295,
-        "question": "Yufka inceliğinde açılmış uzun sade pide",
+        "id": 1456,
+        "question": "Bir kimseye uygun olan, yaraşan",
         "letter": "L",
-        "answer": "lavaş"
+        "answer": "Layık, layığı"
     },
     {
-        "id": 1879,
-        "question": "İnsanoğlunun ilkçağlardan günümüze kadar kullanmayı sürdürdüğü doğal barınak",
+        "id": 760,
+        "question": "Bir toplumun düşünce ve sanatına has niteliklerinin tümü",
         "letter": "M",
-        "answer": "Mağara"
+        "answer": "Medeniyet, Medeniyeti"
     },
     {
-        "id": 1767,
-        "question": "ARGODA, “SAHTE TAVIR, ROL VEYA YALAN”",
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
         "letter": "N",
-        "answer": "Numara, Numara yapma, Numara yapmak"
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
     },
     {
-        "id": 93,
-        "question": "Bir ülkenin askeri kuvvetlerinin tümü",
+        "id": 909,
+        "question": "Taş ya da maden çıkarılan yer",
         "letter": "O",
-        "answer": "ordu"
+        "answer": "Ocak"
     },
     {
-        "id": 1856,
-        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
         "letter": "Ö",
-        "answer": "Örgün, Örgün eğitim"
+        "answer": "Ödün, Ödün verme, Ödün vermek"
     },
     {
-        "id": 1014,
-        "question": "Resim ve fotoğrafta duruş",
+        "id": 88,
+        "question": "Üstüne mumlar konan doğum günü tatlısı",
         "letter": "P",
-        "answer": "poz"
+        "answer": "pasta"
     },
     {
-        "id": 390,
-        "question": "Üzerinde boks yapılan, çevresi kordonla çevrilmiş yer",
+        "id": 679,
+        "question": "Bir mağazanın yalnız bir tür eşya satılan bölümü",
         "letter": "R",
-        "answer": "ring"
+        "answer": "Reyon, reyonu"
     },
     {
-        "id": 1232,
-        "question": "Yanılarak, yanlışlıkla",
+        "id": 1800,
+        "question": "Hareketlinin birim zamanda aldığı yol",
         "letter": "S",
-        "answer": "Sehven"
+        "answer": "Sürat"
     },
     {
-        "id": 1462,
-        "question": "Etkisi çok olan, zorlu, aşırı",
+        "id": 433,
+        "question": "Art düşünce, hile",
         "letter": "Ş",
-        "answer": "Şiddetli"
+        "answer": "şaibe, şike"
     },
     {
-        "id": 1266,
-        "question": "Rastgelme, rastlantı sonucu",
+        "id": 1253,
+        "question": "Bir haneyi, evi, yapıyı yenileme işlemi",
         "letter": "T",
-        "answer": "Tesadüf, tesadüfi, tesadüf eseri, tesadüfen"
+        "answer": "Tadilat, tadilat yapma, tadilat yapmak"
     },
     {
-        "id": 778,
-        "question": "Zafer, Üstünlük Sağlama, Yenme",
+        "id": 894,
+        "question": "Türlü Amaçlarla Yer'den Fırlatılan Ve Genellikle Kapalı Bir Yörünge Çizerek Yer Çevresinde Dolanan Aygıt",
         "letter": "U",
-        "answer": "utku"
+        "answer": "Uydu"
     },
     {
-        "id": 470,
-        "question": "Hile, düzen, dolap",
+        "id": 729,
+        "question": "Özen göstermeden, gelişigüzel, baştan savma yapılan",
         "letter": "Ü",
-        "answer": "üçkağıt, üçkağıtçılık"
+        "answer": "Üstünkörü"
     },
     {
-        "id": 1251,
-        "question": "Orta, iki şeyin ortasında olan, ortalama",
+        "id": 484,
+        "question": "Eski dilde \"Anne\"",
         "letter": "V",
-        "answer": "Vasat"
+        "answer": "Valide"
     },
     {
-        "id": 1880,
-        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
         "letter": "Y",
-        "answer": "Yürürlük, Yürürlükte"
+        "answer": "yaban"
     },
     {
-        "id": 498,
-        "question": "Bir şeyin fiyatını artırma, bindirim",
+        "id": 509,
+        "question": "İrade zayıflığı, eksiklik",
         "letter": "Z",
-        "answer": "zam"
+        "answer": "zaaf"
     }
 ]

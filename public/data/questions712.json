@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1221,
+        "question": "Negatif elektrikle yüklü iyon",
+        "letter": "A",
+        "answer": "Anyon"
+    },
+    {
+        "id": 1355,
+        "question": "Çoğunlukla bakırdan yapılan küçük kova",
+        "letter": "B",
+        "answer": "Bakraç"
+    },
+    {
+        "id": 1377,
+        "question": "Mahkemede oturum, duruşma",
+        "letter": "C",
+        "answer": "Celse"
+    },
+    {
+        "id": 169,
+        "question": "Çam vb. reçineli ağaçların yağlı ve çabuk yanmaya elverişli bölümü",
+        "letter": "Ç",
+        "answer": "çıra"
+    },
+    {
+        "id": 1904,
+        "question": "SADECE SOYAĞACINI GENİŞLETMEK İÇİN KULLANILAN HAYVAN",
+        "letter": "D",
+        "answer": "Damızlık"
+    },
+    {
+        "id": 203,
+        "question": "Emek sonucu ortaya konan ürün, yapıt",
+        "letter": "E",
+        "answer": "eser"
+    },
+    {
+        "id": 1913,
+        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
+        "letter": "F",
+        "answer": "Fasikül"
+    },
+    {
+        "id": 239,
+        "question": "Alabildiğine, çokça",
+        "letter": "G",
+        "answer": "gırla"
+    },
+    {
+        "id": 246,
+        "question": "Kıskançlık, çekememezlik",
+        "letter": "H",
+        "answer": "haset, hasetlik"
+    },
+    {
+        "id": 266,
+        "question": "Bir kararı, bir yargıyı yerine getirme, uygulama, yürütüm",
+        "letter": "İ",
+        "answer": "infaz, infaz etme, infaz etmek"
+    },
+    {
+        "id": 281,
+        "question": "Silah, kılıç vb. şeylerde tutulacak yer, tutak, sap",
+        "letter": "K",
+        "answer": "kabza"
+    },
+    {
+        "id": 624,
+        "question": "Çok sulu ve fazla pişmiş pilav/pirinç",
+        "letter": "L",
+        "answer": "Lapa, Lapa pilav, Lapa pirinç"
+    },
+    {
+        "id": 319,
+        "question": "Bir olayın, bir durumun etkisinde veya karşısında bulunan",
+        "letter": "M",
+        "answer": "maruz, maruz kalan"
+    },
+    {
+        "id": 643,
+        "question": "Örnek ya da göstermelik ürün",
+        "letter": "N",
+        "answer": "Numune"
+    },
+    {
+        "id": 647,
+        "question": "Matematikte sıfır noktası",
+        "letter": "O",
+        "answer": "Orijin, Orjin, Orjin noktası, Orijin noktası"
+    },
+    {
+        "id": 357,
+        "question": "Kızgınlık, hışım, hiddet, gazap",
+        "letter": "Ö",
+        "answer": "öfke"
+    },
+    {
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
+        "letter": "P",
+        "answer": "plaj"
+    },
+    {
+        "id": 399,
+        "question": "Mertebe, derece",
+        "letter": "R",
+        "answer": "rütbe"
+    },
+    {
+        "id": 415,
+        "question": "Bir şey bildirmek için verilen işaret",
+        "letter": "S",
+        "answer": "sinyal"
+    },
+    {
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
+        "letter": "Ş",
+        "answer": "Şahsiyet"
+    },
+    {
+        "id": 951,
+        "question": "Sayım. Toplanma",
+        "letter": "T",
+        "answer": "tadat"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 471,
+        "question": "Bir işi yerine getirmek için verilen söz",
+        "letter": "V",
+        "answer": "vaat"
+    },
+    {
+        "id": 1572,
+        "question": "Bir yere bağlamak veya çekerek götürmek için hayvanın başlığına veya tasmasına bağlanan ip",
+        "letter": "Y",
+        "answer": "Yular"
+    },
+    {
+        "id": 846,
+        "question": "Zorunluluk, gereklilik ya da yoksulluk anlamındaki söz",
+        "letter": "Z",
+        "answer": "Zaruret, Zaruri"
+    }
+]

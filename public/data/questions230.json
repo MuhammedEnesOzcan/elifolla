@@ -1,0 +1,158 @@
+[
+    {
+        "id": 105,
+        "question": "Işık saçacak beyazlığa varıncaya kadar ısıtılmış olan",
+        "letter": "A",
+        "answer": "akkor"
+    },
+    {
+        "id": 744,
+        "question": "Bir cismin herhangi bir yöndeki uzanımı",
+        "letter": "B",
+        "answer": "Boyut, boyutu"
+    },
+    {
+        "id": 1360,
+        "question": "Kuşların ötüşürken çıkardıkları ses",
+        "letter": "C",
+        "answer": "Cıvıltı, cıvıldama, cıvıldamak"
+    },
+    {
+        "id": 178,
+        "question": "Kişileri taşımak için kullanılan, insan gücüyle işleyen iki tekerlekli araç",
+        "letter": "Ç",
+        "answer": "çekçek"
+    },
+    {
+        "id": 941,
+        "question": "Ermenistan’ın para birimi",
+        "letter": "D",
+        "answer": "dram"
+    },
+    {
+        "id": 211,
+        "question": "Genellikle iplik durumuna getirilebilir lifli madde",
+        "letter": "E",
+        "answer": "elyaf"
+    },
+    {
+        "id": 1320,
+        "question": "Genellikle boyna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "Fular"
+    },
+    {
+        "id": 970,
+        "question": "Oluşması genellikle tektonik, volkanik vb. olaylara bağlı olan, toprakla çevrili, derin ve geniş, tuzlu veya tuzsuz durgun su örtüsü",
+        "letter": "G",
+        "answer": "Göl"
+    },
+    {
+        "id": 245,
+        "question": "Karşılıksız vermek, bağış",
+        "letter": "H",
+        "answer": "hibe, hibe etmek"
+    },
+    {
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
+        "letter": "İ",
+        "answer": "İşletme"
+    },
+    {
+        "id": 611,
+        "question": "Giyilen kıyafetlerin birbiriyle uyum içinde olması",
+        "letter": "K",
+        "answer": "Kombin, Kombin yapma, kombin yapmak"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 1849,
+        "question": "SAVAŞTA ZAFER KAZANMIŞ OLAN",
+        "letter": "M",
+        "answer": "Muzaffer"
+    },
+    {
+        "id": 339,
+        "question": "Tavsiye, öğüt",
+        "letter": "N",
+        "answer": "nasihat"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "letter": "Ö",
+        "answer": "Önlem"
+    },
+    {
+        "id": 1181,
+        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "letter": "P",
+        "answer": "Peron"
+    },
+    {
+        "id": 386,
+        "question": "Dileyiş, dileme, dilek",
+        "letter": "R",
+        "answer": "rica"
+    },
+    {
+        "id": 407,
+        "question": "Güldürü niteliğinde kısa oyun",
+        "letter": "S",
+        "answer": "skeç"
+    },
+    {
+        "id": 697,
+        "question": "Bir diğer adı \"Enjektör\" olan nesne",
+        "letter": "Ş",
+        "answer": "Şırınga"
+    },
+    {
+        "id": 721,
+        "question": "Bir şeyi bir kimseye veya bir yere ayırma",
+        "letter": "T",
+        "answer": "Tahsis, tahsis etme, tahsis etmek"
+    },
+    {
+        "id": 778,
+        "question": "Zafer, Üstünlük Sağlama, Yenme",
+        "letter": "U",
+        "answer": "utku"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 484,
+        "question": "Eski dilde \"Anne\"",
+        "letter": "V",
+        "answer": "Valide"
+    },
+    {
+        "id": 884,
+        "question": "Soğanlı et yemeği",
+        "letter": "Y",
+        "answer": "Yahni"
+    },
+    {
+        "id": 1594,
+        "question": "Şiddetli bir şekilde titremek veya sallanmak",
+        "letter": "Z",
+        "answer": "Zangırdamak, zangırdama"
+    }
+]

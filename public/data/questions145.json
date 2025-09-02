@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1550,
+        "question": "Bir cismin yüzeyini açarak bir düzlem üzerine yaymak",
+        "letter": "A",
+        "answer": "Açındırmak"
+    },
+    {
+        "id": 147,
+        "question": "Daha kötü, çok kötü",
+        "letter": "B",
+        "answer": "beter"
+    },
+    {
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
+        "letter": "C",
+        "answer": "Cenah"
+    },
+    {
+        "id": 1453,
+        "question": "Birini yere düşürmek için ayağının önüne ayak uzatma",
+        "letter": "Ç",
+        "answer": "Çelme, çelme atmak, çelme atma, çelme takma, çelme takmak"
+    },
+    {
+        "id": 1403,
+        "question": "Titreşimin bir ortam içinde yayılma hareketi",
+        "letter": "D",
+        "answer": "Dalga, dalga frekansı, dalga boyu"
+    },
+    {
+        "id": 1949,
+        "question": "İNSAN GELİŞİMİ İÇİN GEREKLİ BİLGİ VE BECERİYİ KAZANDIRAN, KİŞİLİĞİ GELİŞTİREN HER TÜR ETKİNLİK",
+        "letter": "E",
+        "answer": "Eğitim"
+    },
+    {
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "letter": "F",
+        "answer": "Freze"
+    },
+    {
+        "id": 1284,
+        "question": "Cildin nefes almasını ve nemli kalmasını sağlayan küçük kanallar",
+        "letter": "G",
+        "answer": "Gözenek, gözenekler"
+    },
+    {
+        "id": 1248,
+        "question": "Pandemiyle hayatımıza girmiş, eğitimin hem çevrimiçi hem de yüzyüze yapılması durumu",
+        "letter": "H",
+        "answer": "Hibrit, hibrit eğitim"
+    },
+    {
+        "id": 958,
+        "question": "Uyarma",
+        "letter": "İ",
+        "answer": "ikaz, ikaz etme, ikaz etmek"
+    },
+    {
+        "id": 1186,
+        "question": "Hız kesici, tümsek",
+        "letter": "K",
+        "answer": "Kasis"
+    },
+    {
+        "id": 1706,
+        "question": "Yeni doğum yapmış kadın",
+        "letter": "L",
+        "answer": "Lohusa"
+    },
+    {
+        "id": 1613,
+        "question": "Kaçınması ve öngörülmesi söz konusu olmayan neden",
+        "letter": "M",
+        "answer": "Mücbir, mücbir sebep, mücbir sebepler"
+    },
+    {
+        "id": 635,
+        "question": "Kuzey Atlantik Antlaşması Örgütü",
+        "letter": "N",
+        "answer": "NATO"
+    },
+    {
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "letter": "O",
+        "answer": "Ofris"
+    },
+    {
+        "id": 371,
+        "question": "Belirli bir ölçüde olan, uygun",
+        "letter": "Ö",
+        "answer": "ölçülü"
+    },
+    {
+        "id": 1264,
+        "question": "Arıların besin kaynağı, bitkilerin üreme organlarının başlıklarında bulunan üreme hücreleri",
+        "letter": "P",
+        "answer": "Polen"
+    },
+    {
+        "id": 396,
+        "question": "Yönetme, düzenleme biçimi, düzen",
+        "letter": "R",
+        "answer": "rejim"
+    },
+    {
+        "id": 1756,
+        "question": "Alt anlamı kimse, insan, tip olan Farsça kökenli kelime",
+        "letter": "S",
+        "answer": "Sima"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 711,
+        "question": "Verilen onayı gösteren belge",
+        "letter": "T",
+        "answer": "Tasdikname"
+    },
+    {
+        "id": 456,
+        "question": "Gökyüzünde tanımlanamayan cisim",
+        "letter": "U",
+        "answer": "ufo"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 715,
+        "question": "Genellikle sıvı şeyleri koymakta kullanılan, silindir biçiminde ve üstü kapalı, metal kap",
+        "letter": "V",
+        "answer": "Varil"
+    },
+    {
+        "id": 735,
+        "question": "Balıklarda sırt yüzgeci",
+        "letter": "Y",
+        "answer": "Yele"
+    },
+    {
+        "id": 1590,
+        "question": "Taban, döşeme, yer",
+        "letter": "Z",
+        "answer": "Zemin"
+    }
+]

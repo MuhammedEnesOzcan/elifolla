@@ -1,0 +1,158 @@
+[
+    {
+        "id": 110,
+        "question": "Bir akort oluşturan seslerin birbiri arkasından çalınması",
+        "letter": "A",
+        "answer": "arpej"
+    },
+    {
+        "id": 521,
+        "question": "İzmir ile ün salmış milföyden yapılan bir yiyecek",
+        "letter": "B",
+        "answer": "Boyoz"
+    },
+    {
+        "id": 534,
+        "question": "Ameliyat yapan uzman hekim, operatör",
+        "letter": "C",
+        "answer": "Cerrah"
+    },
+    {
+        "id": 543,
+        "question": "Aynı türden olmayan, türlü",
+        "letter": "Ç",
+        "answer": "Çeşit, Çeşitli"
+    },
+    {
+        "id": 1389,
+        "question": "Gelinin başını, bazen de yüzünü örten dantel veya tülden örtü",
+        "letter": "D",
+        "answer": "Duvak"
+    },
+    {
+        "id": 1238,
+        "question": "Kimyasal tepkimelerin hızını arttıran, canlı hücrelerde üretilen özel proteinler",
+        "letter": "E",
+        "answer": "Enzim, enzimler"
+    },
+    {
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
+        "letter": "F",
+        "answer": "fünye"
+    },
+    {
+        "id": 242,
+        "question": "Yaşanan günlük olaylar",
+        "letter": "G",
+        "answer": "gündem"
+    },
+    {
+        "id": 1100,
+        "question": "Din buyruklarını yerine getirmek için hacca gitmiş Müslüman",
+        "letter": "H",
+        "answer": "hacı"
+    },
+    {
+        "id": 604,
+        "question": "Gerçeğin gülünç yanını ortaya koyan ince alay",
+        "letter": "İ",
+        "answer": "İroni"
+    },
+    {
+        "id": 1282,
+        "question": "İş bakımından üstün tecrübeye sahip olan",
+        "letter": "K",
+        "answer": "Kıdemli, kıdem sahibi, kalifiye, kalifiye eleman"
+    },
+    {
+        "id": 1280,
+        "question": "Bir şeyi yemek için ağza götürülen parça",
+        "letter": "L",
+        "answer": "Lokma"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 54,
+        "question": "Afrika'nın en uzun nehri",
+        "letter": "N",
+        "answer": "Nil, Nil nehri"
+    },
+    {
+        "id": 909,
+        "question": "Taş ya da maden çıkarılan yer",
+        "letter": "O",
+        "answer": "Ocak"
+    },
+    {
+        "id": 1116,
+        "question": "Birim kabul edilen herhangi bir şeyin alabildiği kadar ölçü",
+        "letter": "Ö",
+        "answer": "Ölçek"
+    },
+    {
+        "id": 763,
+        "question": "Konum ya da duruş biçimi",
+        "letter": "P",
+        "answer": "Pozisyon"
+    },
+    {
+        "id": 764,
+        "question": "Selam ya da teşekkür anlamına eğilme ya da diz kırma biçiminde yapılan hareket",
+        "letter": "R",
+        "answer": "Reverans"
+    },
+    {
+        "id": 688,
+        "question": "Ölçüm aletlerinde gösterge çizelgesi",
+        "letter": "S",
+        "answer": "Skala"
+    },
+    {
+        "id": 1126,
+        "question": "Düşen su damlasının çıkardığı ses",
+        "letter": "Ş",
+        "answer": "şıp"
+    },
+    {
+        "id": 1128,
+        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "letter": "T",
+        "answer": "tabak"
+    },
+    {
+        "id": 1513,
+        "question": "Bir nesnenin uzayda kapladığı yer, vüsat",
+        "letter": "U",
+        "answer": "Uzam"
+    },
+    {
+        "id": 1471,
+        "question": "Havlamak",
+        "letter": "Ü",
+        "answer": "Ürümek"
+    },
+    {
+        "id": 1569,
+        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "letter": "V",
+        "answer": "Varyete"
+    },
+    {
+        "id": 718,
+        "question": "Üstünde yaşadığımız gök cismi",
+        "letter": "Y",
+        "answer": "Yer küre"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1333,
+        "question": "Yıldız falcılığı",
+        "letter": "A",
+        "answer": "Astroloji"
+    },
+    {
+        "id": 1603,
+        "question": "Bir maaşın ayrıntılarını gösteren çizelge",
+        "letter": "B",
+        "answer": "Bordro"
+    },
+    {
+        "id": 14,
+        "question": "Ülkemizde de sık görülen bir tür köpek balığı?",
+        "letter": "C",
+        "answer": "camgöz"
+    },
+    {
+        "id": 165,
+        "question": "Bir eksenin döndürdüğü tekerlek biçimindeki makine parçası",
+        "letter": "Ç",
+        "answer": "çark"
+    },
+    {
+        "id": 941,
+        "question": "Ermenistan’ın para birimi",
+        "letter": "D",
+        "answer": "dram"
+    },
+    {
+        "id": 1417,
+        "question": "Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku",
+        "letter": "E",
+        "answer": "Epitelyum"
+    },
+    {
+        "id": 229,
+        "question": "Tanıtma filmi",
+        "letter": "F",
+        "answer": "fragman"
+    },
+    {
+        "id": 1821,
+        "question": "Sindirim sisteminden sıvı veya hava geçerken bir iç ses çıkarma olayı",
+        "letter": "G",
+        "answer": "Guruldama, Guruldamak"
+    },
+    {
+        "id": 1496,
+        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "letter": "H",
+        "answer": "Hamak"
+    },
+    {
+        "id": 1199,
+        "question": "Damıtma işinde kullanılan araç, damıtıcı",
+        "letter": "İ",
+        "answer": "İmbik"
+    },
+    {
+        "id": 605,
+        "question": "Garson kalfası",
+        "letter": "K",
+        "answer": "Komi"
+    },
+    {
+        "id": 623,
+        "question": "Eğlence yerlerinde veya parlamento salonlarında özel bölme",
+        "letter": "L",
+        "answer": "Loca"
+    },
+    {
+        "id": 1851,
+        "question": "RESTORANLARDA SOFRAYA ÇIKARILACAK YEMEKLERİN HEPSİ",
+        "letter": "M",
+        "answer": "Menü"
+    },
+    {
+        "id": 987,
+        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
+        "letter": "N",
+        "answer": "Naz"
+    },
+    {
+        "id": 351,
+        "question": "Kişisel değer, şeref, itibar",
+        "letter": "O",
+        "answer": "onur"
+    },
+    {
+        "id": 659,
+        "question": "Nesnelerin gerçeğine değil, bireyin düşünce ve duygularına dayanan",
+        "letter": "Ö",
+        "answer": "Öznel"
+    },
+    {
+        "id": 1901,
+        "question": "MEKSİKA, KOLOMBİYA, ARJANTİN GİBİ ÜLKELERİN PARA BİRİMİ",
+        "letter": "P",
+        "answer": "Peso"
+    },
+    {
+        "id": 1205,
+        "question": "TV'deki günlük veya haftalık izlenme oranı, izleniş durumu",
+        "letter": "R",
+        "answer": "Reyting, rating"
+    },
+    {
+        "id": 1263,
+        "question": "Kadın veya çocuklarda en ince ses, sesi böyle olan sanatçı",
+        "letter": "S",
+        "answer": "Soprano"
+    },
+    {
+        "id": 700,
+        "question": "Bir alanla ilgili olarak oluşturulan danışma kurulu",
+        "letter": "Ş",
+        "answer": "Şura"
+    },
+    {
+        "id": 59,
+        "question": " Novak Djokovic'in şampiyonlukları olduğu spor dalı",
+        "letter": "T",
+        "answer": "tenis"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 881,
+        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
+        "letter": "V",
+        "answer": "Vernik, vernık"
+    },
+    {
+        "id": 487,
+        "question": "Delik ve yırtığı uygun bir parça ile onarma, kapatma",
+        "letter": "Y",
+        "answer": "yama, yama yapma, yama yapmak, yamalama, yamalamak"
+    },
+    {
+        "id": 504,
+        "question": "Savaşta kazanılan başarı",
+        "letter": "Z",
+        "answer": "zafer"
+    }
+]

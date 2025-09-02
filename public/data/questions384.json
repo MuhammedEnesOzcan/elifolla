@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1332,
+        "question": "Gök bilimi",
+        "letter": "A",
+        "answer": "Astronomi"
+    },
+    {
+        "id": 1744,
+        "question": "Geminin rüzgar almayan yanı",
+        "letter": "B",
+        "answer": "Boca"
+    },
+    {
+        "id": 962,
+        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "letter": "C",
+        "answer": "Cacık"
+    },
+    {
+        "id": 181,
+        "question": "Silahlı büyük kavga, arbede",
+        "letter": "Ç",
+        "answer": "çatışma"
+    },
+    {
+        "id": 941,
+        "question": "Ermenistan’ın para birimi",
+        "letter": "D",
+        "answer": "dram"
+    },
+    {
+        "id": 561,
+        "question": "Resim için çizimlerle yapılan ön çalışma, taslak",
+        "letter": "E",
+        "answer": "Eskiz"
+    },
+    {
+        "id": 1320,
+        "question": "Genellikle boyna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "Fular"
+    },
+    {
+        "id": 1863,
+        "question": "YEMEK YENİLEN, GÖSTERİ İZLENEN, MÜZİK DİNLENEN, BAZEN OYUN SERGİLENEN EĞLENCE YERİ",
+        "letter": "G",
+        "answer": "Gazino"
+    },
+    {
+        "id": 247,
+        "question": "Nişan alınacak yer, nişangah",
+        "letter": "H",
+        "answer": "hedef"
+    },
+    {
+        "id": 259,
+        "question": "Açıklama durumu",
+        "letter": "İ",
+        "answer": "izah, izah etme, izah etme"
+    },
+    {
+        "id": 288,
+        "question": "Savunma aracı, korumalık",
+        "letter": "K",
+        "answer": "kalkan"
+    },
+    {
+        "id": 1203,
+        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
+        "letter": "L",
+        "answer": "Lens"
+    },
+    {
+        "id": 633,
+        "question": "Virüslerin geçirdiği değişim",
+        "letter": "M",
+        "answer": "Mutasyon"
+    },
+    {
+        "id": 988,
+        "question": "Açıklık, açık ve kesin yargı",
+        "letter": "N",
+        "answer": "nas"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 922,
+        "question": "Korkak, Tabansız, Yüreksiz",
+        "letter": "Ö",
+        "answer": "ödlek"
+    },
+    {
+        "id": 1156,
+        "question": "Tank tekeri, zorlu arazilerde gitmeye yarayan araç",
+        "letter": "P",
+        "answer": "Palet, paletli"
+    },
+    {
+        "id": 1643,
+        "question": "Tarımda bir yılda derlenen ürünlerin bütünü",
+        "letter": "R",
+        "answer": "Rekolte"
+    },
+    {
+        "id": 92,
+        "question": "Trafik ışıklarında \"hazırlan\" anlamına gelen renk",
+        "letter": "S",
+        "answer": "sarı"
+    },
+    {
+        "id": 1459,
+        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "letter": "Ş",
+        "answer": "Şizofreni"
+    },
+    {
+        "id": 1253,
+        "question": "Bir haneyi, evi, yapıyı yenileme işlemi",
+        "letter": "T",
+        "answer": "Tadilat, tadilat yapma, tadilat yapmak"
+    },
+    {
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
+        "letter": "U",
+        "answer": "uyruk"
+    },
+    {
+        "id": 467,
+        "question": "Dersin bölümlerinden her biri",
+        "letter": "Ü",
+        "answer": "ünite"
+    },
+    {
+        "id": 478,
+        "question": "Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç",
+        "letter": "V",
+        "answer": "vinç"
+    },
+    {
+        "id": 1579,
+        "question": "Bir işte hiyerarşik düzende daha üstte bulunan, karar verme hakkına sahip olan, daha tecrübeli kimse",
+        "letter": "Y",
+        "answer": "Yetkili, yetki sahibi"
+    },
+    {
+        "id": 737,
+        "question": "Hoşluk, güzellik, incelik, zarif olma",
+        "letter": "Z",
+        "answer": "Zarafet, Zerafet"
+    }
+]

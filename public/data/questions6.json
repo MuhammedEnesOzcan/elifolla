@@ -1,117 +1,117 @@
 [
     {
-        "id": 516,
-        "question": "Bir çok müzikal kayıt bulunduran çalışma",
+        "id": 125,
+        "question": "Eşyayı sarmaya yarayan mukavva, kâğıt, tahta, plastik vb. malzeme",
         "letter": "A",
-        "answer": "Albüm"
+        "answer": "ambalaj"
     },
     {
-        "id": 141,
-        "question": "Karşılıksız, emeksiz, parasız elde edilen, müft",
+        "id": 1083,
+        "question": "Erkek kümes hayvanlarının en iri ve yaşlı olanı",
         "letter": "B",
-        "answer": "beleş, bedava"
+        "answer": "Babaç"
     },
     {
-        "id": 1306,
-        "question": "Boyu, normalden çok daha kısa olan (kimse)",
+        "id": 788,
+        "question": "Az, azıcık, pek az",
         "letter": "C",
-        "answer": "Cüce"
+        "answer": "Cüzi, cüzzi, cüzi miktar"
     },
     {
-        "id": 1873,
-        "question": "DOĞA KİRLİLİĞİ SORUNLARIYLA UĞRAŞAN KİMSE VEYA TOPLULUK",
+        "id": 178,
+        "question": "Kişileri taşımak için kullanılan, insan gücüyle işleyen iki tekerlekli araç",
         "letter": "Ç",
-        "answer": "Çevreci"
+        "answer": "çekçek"
     },
     {
-        "id": 1929,
-        "question": "ARGODA, “CEZAEVİ, HAPİSHANE” ANLAMINDA KULLANILAN SÖZCÜK",
+        "id": 185,
+        "question": "Evlerde çocuğa bakan kimse, daye",
         "letter": "D",
-        "answer": "Delik"
+        "answer": "dadı"
     },
     {
-        "id": 1219,
-        "question": "Çok uzak ve yabancı ülkelerle ilgili ya da böyle ülkelerden gelmiş, getirilmiş",
+        "id": 203,
+        "question": "Emek sonucu ortaya konan ürün, yapıt",
         "letter": "E",
-        "answer": "Egzotik, ekzotik"
+        "answer": "eser"
     },
     {
-        "id": 1672,
-        "question": "Birdenbire, düşünmeden yapan",
+        "id": 751,
+        "question": "Gerçekte var olmayan, hayali anlamındaki söz",
         "letter": "F",
-        "answer": "Fevri"
+        "answer": "Fantastik"
     },
     {
-        "id": 235,
-        "question": "Sözde, sanki",
+        "id": 971,
+        "question": "Sonbahar",
         "letter": "G",
-        "answer": "güya, gûya"
+        "answer": "Güz"
     },
     {
-        "id": 1496,
-        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "id": 806,
+        "question": "Monarşik aile",
         "letter": "H",
-        "answer": "Hamak"
+        "answer": "Hanedan, Hanedanlık"
     },
     {
-        "id": 952,
-        "question": "Bir köleyi özgürlüğüne kavuşturma",
+        "id": 1283,
+        "question": "Bir şeyi yapıp yapmamaya karar verme gücü, istenç",
         "letter": "İ",
-        "answer": "itak"
+        "answer": "İrade, iradiyet"
     },
     {
-        "id": 614,
-        "question": "Toplumsal etkinliklerde sıra halinde giden insan topluluğu",
+        "id": 1194,
+        "question": "Arabalarda da bulunan, yaz aylarında ortamı soğutmak için kullanılan cihaz",
         "letter": "K",
-        "answer": "Kortej"
+        "answer": "Klima"
     },
     {
-        "id": 292,
-        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
         "letter": "L",
-        "answer": "lobi"
+        "answer": "Larva, larva dönemi"
     },
     {
-        "id": 1213,
-        "question": "Başarılı, becerikli olmak, işin rast gitmesi",
+        "id": 1930,
+        "question": "BİR İYİLİĞE KARŞI KENDİNİ BORÇLU SAYMA, ŞÜKRAN",
         "letter": "M",
-        "answer": "Muvaffak, muvaffak olma, muvaffak olmak"
+        "answer": "Minnet, Minnettarlık"
     },
     {
-        "id": 929,
-        "question": "Tek ağızlı balta",
+        "id": 338,
+        "question": "Yararsız, boşuna, boş yere",
         "letter": "N",
-        "answer": "Nacak"
+        "answer": "nafile"
     },
     {
-        "id": 996,
-        "question": "Özenli, düzgün, uygun",
+        "id": 1898,
+        "question": "GÖZETİLEN AMACA VEYA BEKLENİLENE UYGUN OLMAYAN, MENFİ",
         "letter": "O",
-        "answer": "Onat"
+        "answer": "Olumsuz"
     },
     {
-        "id": 655,
-        "question": "Öteki, diğer anlamlarındaki söz",
+        "id": 365,
+        "question": "Gösterilen çaba, itina",
         "letter": "Ö",
-        "answer": "Öbür, Öbürü"
+        "answer": "özen, özenme, özenmek"
     },
     {
-        "id": 383,
-        "question": "Birine saldırmak için saklanarak beklenilen yer",
+        "id": 824,
+        "question": "Yufka biçiminde kurutulmuş meyve ezmesi",
         "letter": "P",
-        "answer": "pusu"
+        "answer": "Pestil"
     },
     {
-        "id": 1030,
-        "question": "Bir mal veya paranın, belirli bir süre içinde emek verilmeksizin sağladığı gelir",
+        "id": 1638,
+        "question": "Motorlu taşıtlarda motorun en az yakıtla çalışma ayarı",
         "letter": "R",
-        "answer": "Rant"
+        "answer": "Rölanti"
     },
     {
-        "id": 1894,
-        "question": "Fotoğrafçı İşyeri",
+        "id": 1813,
+        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
         "letter": "S",
-        "answer": "Stüdyo"
+        "answer": "Solaryum"
     },
     {
         "id": 1054,
@@ -120,39 +120,39 @@
         "answer": "Şaft"
     },
     {
-        "id": 1129,
-        "question": "Verimsiz duruma getirme, sonuçsuz bırakma, kısırlaştırma",
+        "id": 951,
+        "question": "Sayım. Toplanma",
         "letter": "T",
-        "answer": "takim"
+        "answer": "tadat"
     },
     {
-        "id": 455,
-        "question": "Açıkgöz, kurnaz, cingöz",
+        "id": 1223,
+        "question": "Bir sonuca varmak üzere, ortadaki engelleri kaldırmak için tutulması gereken yol, çıkar yol, çözüm, çare",
         "letter": "U",
-        "answer": "uyanık"
+        "answer": "Umar"
     },
     {
-        "id": 1315,
-        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
         "letter": "Ü",
-        "answer": "Ütopik"
+        "answer": "ücret"
     },
     {
-        "id": 39,
-        "question": "Güneş sistemindeki en sıcak gezegen",
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
         "letter": "V",
-        "answer": "venüs"
+        "answer": "Virüs"
     },
     {
-        "id": 489,
-        "question": "Kişiye isnat edilen haksız suçlama",
+        "id": 1573,
+        "question": "Bir olayı belli bir görüşe göre açıklama, değerlendirme",
         "letter": "Y",
-        "answer": "yafta, yaftalama, yaftalamak"
+        "answer": "Yorum, yorum yapma, yorum yapmak, yorumlama, yorumlamak"
     },
     {
-        "id": 499,
-        "question": "Zor kullanarak ele geçirme",
+        "id": 1747,
+        "question": "Sıkıntı veya güçlükle yapılma durumu",
         "letter": "Z",
-        "answer": "zapt, zapt etme, zapt etmek"
+        "answer": "Zahmet, zahmetli"
     }
 ]

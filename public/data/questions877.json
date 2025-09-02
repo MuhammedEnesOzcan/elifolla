@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1664,
+        "question": "Erkek otoritesine dayanan bir tür toplumsal örgütlenme düzeni",
+        "letter": "A",
+        "answer": "Ataerkil, ataerkil toplum"
+    },
+    {
+        "id": 133,
+        "question": "Belirli bir davranışta bulunmaya zorlayıcı söz, buyuru, emir, ferman",
+        "letter": "B",
+        "answer": "buyruk"
+    },
+    {
+        "id": 1532,
+        "question": "Ezilmiş havuç içine fındık, şeker vb. eklenerek yapılan bir tür tatlı",
+        "letter": "C",
+        "answer": "Cezerye"
+    },
+    {
+        "id": 168,
+        "question": "Yasa dışı işler yapmak veya etrafındakileri korkutmak amacıyla bir araya gelmiş topluluk",
+        "letter": "Ç",
+        "answer": "çete"
+    },
+    {
+        "id": 554,
+        "question": "Bir işi en iyi yapan, işin ustası",
+        "letter": "D",
+        "answer": "Duayen"
+    },
+    {
+        "id": 1211,
+        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
+        "letter": "E",
+        "answer": "Emekleme, emeklemek"
+    },
+    {
+        "id": 1673,
+        "question": "Verilmiş bir yargıyı kaldırma, bozma",
+        "letter": "F",
+        "answer": "Fesih, fesh etme, fesh etmek"
+    },
+    {
+        "id": 1428,
+        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+        "letter": "G",
+        "answer": "Gard"
+    },
+    {
+        "id": 1444,
+        "question": "Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü",
+        "letter": "H",
+        "answer": "Hıfzıssıhha"
+    },
+    {
+        "id": 1101,
+        "question": "Bir düşünceyi anlatan bir veya birkaç cümlelik söz",
+        "letter": "İ",
+        "answer": "İbare"
+    },
+    {
+        "id": 290,
+        "question": "Askeri birliği ve onunla ilgili işleri yönetme görevi, kumanda",
+        "letter": "K",
+        "answer": "komuta, komuta etme, komuta etmek"
+    },
+    {
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
+        "letter": "L",
+        "answer": "leziz"
+    },
+    {
+        "id": 628,
+        "question": "Ruh hali, mizaç, hal, anlık hal durumu",
+        "letter": "M",
+        "answer": "Mod, moral"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 1001,
+        "question": "Erkek çocuk",
+        "letter": "O",
+        "answer": "Oğlan"
+    },
+    {
+        "id": 370,
+        "question": "Benzeri yapılacak olan, benzetilmek istenen şey, model",
+        "letter": "Ö",
+        "answer": "örnek"
+    },
+    {
+        "id": 672,
+        "question": "Atış yeri, atış antrenman alanı",
+        "letter": "P",
+        "answer": "Poligon"
+    },
+    {
+        "id": 1641,
+        "question": "Eski yapıları onarma",
+        "letter": "R",
+        "answer": "Restore, restorasyon, restore etme, restore etmek"
+    },
+    {
+        "id": 1050,
+        "question": "Sebze, meyve vb. satmak için kurulmuş, eğreti, derme çatma dükkân",
+        "letter": "S",
+        "answer": "Salaş"
+    },
+    {
+        "id": 426,
+        "question": "Açık ve ayrıntılı anlatma",
+        "letter": "Ş",
+        "answer": "şerh"
+    },
+    {
+        "id": 1059,
+        "question": "Doğu Anadolu ile Azerbaycan'da çalınan bir çalgı türü",
+        "letter": "T",
+        "answer": "tar"
+    },
+    {
+        "id": 1909,
+        "question": "“MEYMENETSİZ, MUSİBET” ANLAMLARINA GELEN BİR SÖZ",
+        "letter": "U",
+        "answer": "Uğursuz"
+    },
+    {
+        "id": 1507,
+        "question": "Canlı, doğup çoğalmak",
+        "letter": "Ü",
+        "answer": "Üremek"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

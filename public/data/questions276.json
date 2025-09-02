@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1155,
+        "question": "Gözleri görmeyen, eski dilde kör",
+        "letter": "A",
+        "answer": "Ama, Âmâ, Amâ"
+    },
+    {
+        "id": 786,
+        "question": "Deneme ve günce yazılarıyla doldurulan sanal platform",
+        "letter": "B",
+        "answer": "Blog"
+    },
+    {
+        "id": 1306,
+        "question": "Boyu, normalden çok daha kısa olan (kimse)",
+        "letter": "C",
+        "answer": "Cüce"
+    },
+    {
+        "id": 542,
+        "question": "Ucu yassı ve eğri, büyük iğne",
+        "letter": "Ç",
+        "answer": "Çuvaldız"
+    },
+    {
+        "id": 1941,
+        "question": "YAPILARIN KABA AĞAÇ İŞLERİNİ YAPAN USTA",
+        "letter": "D",
+        "answer": "Dülger, Dülger Ustası"
+    },
+    {
+        "id": 1408,
+        "question": "hastalığın nedeni, kökeni. Hastalık nedenleri ile uğraşan bilim dalı",
+        "letter": "E",
+        "answer": "Etiyoloji"
+    },
+    {
+        "id": 1671,
+        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
+        "letter": "F",
+        "answer": "Filiz"
+    },
+    {
+        "id": 241,
+        "question": "Öfke, kızgınlık, hiddet",
+        "letter": "G",
+        "answer": "gazap"
+    },
+    {
+        "id": 1794,
+        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "letter": "H",
+        "answer": "Hasılat"
+    },
+    {
+        "id": 1608,
+        "question": "Şüphe etmek, kuşkulanmak",
+        "letter": "İ",
+        "answer": "İşkillenme, işkillenmek"
+    },
+    {
+        "id": 1885,
+        "question": "BİR DÜŞÜNCEYİ EKSİKSİZ OLARAK ANLATAN KELİME DİZİSİ, SÖZ",
+        "letter": "K",
+        "answer": "Kelam"
+    },
+    {
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "letter": "L",
+        "answer": "Logo"
+    },
+    {
+        "id": 1620,
+        "question": "Taş, toprak vb. değersiz yapı döküntüsü",
+        "letter": "M",
+        "answer": "Moloz"
+    },
+    {
+        "id": 1675,
+        "question": "Etki altına alma, söz geçirme, güçlü olma",
+        "letter": "N",
+        "answer": "Nüfuz, nüfuz etme, nüfuz etmek"
+    },
+    {
+        "id": 1889,
+        "question": "KAVİMLER GÖÇÜYLE BAŞLAYAN TARİHİ DÖNEM",
+        "letter": "O",
+        "answer": "Ortaçağ"
+    },
+    {
+        "id": 31,
+        "question": "Yaşam, hayat",
+        "letter": "Ö",
+        "answer": "Ömür"
+    },
+    {
+        "id": 1181,
+        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "letter": "P",
+        "answer": "Peron"
+    },
+    {
+        "id": 1273,
+        "question": "Yedi renkli yüzeyi olan zeka geliştirici küp oyuncak",
+        "letter": "R",
+        "answer": "Rubik, rubik küp, rubik küpü, rubik kübü"
+    },
+    {
+        "id": 1752,
+        "question": "Vücuttaki işlevsel bir bozukluğun veya hastalığın belirlenmesine yarayan işaret",
+        "letter": "S",
+        "answer": "Semptom"
+    },
+    {
+        "id": 1682,
+        "question": "Çorba ve pilavda kullanılan, türlü biçimlerde kesilerek kurutulmuş buğday unu hamuru",
+        "letter": "Ş",
+        "answer": "Şehriye"
+    },
+    {
+        "id": 1847,
+        "question": "İRİ İRİ DOĞRANMIŞ İŞKEMBEDEN YAPILAN BİR TÜR ÇORBA",
+        "letter": "T",
+        "answer": "Tuzlama, Tuzlama çorba, Tuzlama çorbası"
+    },
+    {
+        "id": 1131,
+        "question": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren",
+        "letter": "U",
+        "answer": "ufuk"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 1138,
+        "question": "Tehlikeli durum",
+        "letter": "V",
+        "answer": "varta, vuku, vukuat"
+    },
+    {
+        "id": 735,
+        "question": "Balıklarda sırt yüzgeci",
+        "letter": "Y",
+        "answer": "Yele"
+    },
+    {
+        "id": 41,
+        "question": "Ses telleri olmayan hayvan",
+        "letter": "Z",
+        "answer": "Zürafa"
+    }
+]

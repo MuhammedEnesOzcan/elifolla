@@ -1,0 +1,158 @@
+[
+    {
+        "id": 517,
+        "question": "Bir şeyi, bir olayı olduğundan büyük veya çok gösterme",
+        "letter": "A",
+        "answer": "Abartı, Abartma, Abartmak"
+    },
+    {
+        "id": 1345,
+        "question": "Kum ve çimentonun birleştirilmesiyle elde edilen yapı malzemesi",
+        "letter": "B",
+        "answer": "Briket"
+    },
+    {
+        "id": 1365,
+        "question": "Hep birden, hep birlikte anlamlarındaki söz",
+        "letter": "C",
+        "answer": "Cümleten"
+    },
+    {
+        "id": 100,
+        "question": "Gayret, herhangi bir işi yapmak için harcanan güç ",
+        "letter": "Ç",
+        "answer": "çaba, çabalamak"
+    },
+    {
+        "id": 1718,
+        "question": "Bir ülkeyi zora ve baskıya dayanarak yöneten kimse",
+        "letter": "D",
+        "answer": "Despot, Dikta, Diktatör"
+    },
+    {
+        "id": 211,
+        "question": "Genellikle iplik durumuna getirilebilir lifli madde",
+        "letter": "E",
+        "answer": "elyaf"
+    },
+    {
+        "id": 55,
+        "question": "Yeşil bitkilerin ışık enerjisiyle besin üretmesi",
+        "letter": "F",
+        "answer": "fotosentez"
+    },
+    {
+        "id": 236,
+        "question": "Elde edilmesi gereken, ulaşılmak istenen şey, amaç, maksat",
+        "letter": "G",
+        "answer": "gaye"
+    },
+    {
+        "id": 594,
+        "question": "Sınır, uç noktası",
+        "letter": "H",
+        "answer": "Hudut"
+    },
+    {
+        "id": 275,
+        "question": "İçine alma, içinde bulundurma, içerme",
+        "letter": "İ",
+        "answer": "ihtiva"
+    },
+    {
+        "id": 1255,
+        "question": "Başparmak piyanosu da denen müzik aleti",
+        "letter": "K",
+        "answer": "Kalimba"
+    },
+    {
+        "id": 297,
+        "question": "Nilüfer cinsinden birçok bitkiye verilen genel ad",
+        "letter": "L",
+        "answer": "lotus"
+    },
+    {
+        "id": 813,
+        "question": "'Ultraviyole'' sözcüğünün Türkçe karşılığı",
+        "letter": "M",
+        "answer": "Morötesi"
+    },
+    {
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
+        "letter": "N",
+        "answer": "nihai"
+    },
+    {
+        "id": 348,
+        "question": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+        "letter": "O",
+        "answer": "obur"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 1156,
+        "question": "Tank tekeri, zorlu arazilerde gitmeye yarayan araç",
+        "letter": "P",
+        "answer": "Palet, paletli"
+    },
+    {
+        "id": 1805,
+        "question": "OSMANLIDA MALİYE İŞLEMLERİNDE KULLANILAN, GÜNEŞ YILI ESASINA DAYALI BİR TAKVİM TÜRÜ",
+        "letter": "R",
+        "answer": "Rumi, Rumi Takvim"
+    },
+    {
+        "id": 409,
+        "question": "Depolanmış, yığın",
+        "letter": "S",
+        "answer": "stok, stoklanmış"
+    },
+    {
+        "id": 421,
+        "question": "Güzel, zarif, modaya uygun",
+        "letter": "Ş",
+        "answer": "şık"
+    },
+    {
+        "id": 437,
+        "question": "Güzel sanatlarda üslup, stil, konsept",
+        "letter": "T",
+        "answer": "tarz"
+    },
+    {
+        "id": 1071,
+        "question": "Yakışır, yaraşır, mutabık, mütenasip",
+        "letter": "U",
+        "answer": "uygun"
+    },
+    {
+        "id": 1133,
+        "question": "Çoğunlukla ayın neden olduğu, yerin dönme ekseninin yaptığı koni hareketindeki dönemsel salınım, nütasyon",
+        "letter": "Ü",
+        "answer": "Üğrüm"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 1501,
+        "question": "Parmağa geçirilen genellikle metal halka",
+        "letter": "Y",
+        "answer": "Yüzük"
+    },
+    {
+        "id": 1290,
+        "question": "Keyifli, eğlenceli olan",
+        "letter": "Z",
+        "answer": "Zevkli, zevk"
+    }
+]

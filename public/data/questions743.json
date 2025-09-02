@@ -1,0 +1,158 @@
+[
+    {
+        "id": 75,
+        "question": "Dünya'nın en güneyinde yer alan kıta",
+        "letter": "A",
+        "answer": "Antarktika, Antartika"
+    },
+    {
+        "id": 1788,
+        "question": "ÖNÜNDEKİ GENİŞ BIÇAKLA TOPRAĞI SIYIRIP KALDIRAN, TEKERLEKLİ VEYA PALETLİ BİR YOL MAKİNESİ",
+        "letter": "B",
+        "answer": "Buldozer"
+    },
+    {
+        "id": 1361,
+        "question": "Çekici, Enteresan, Dikkat Çeken",
+        "letter": "C",
+        "answer": "Cezbedici, cazip, cazibeli"
+    },
+    {
+        "id": 1542,
+        "question": "Değirmende buğday teknesi oluğu",
+        "letter": "Ç",
+        "answer": "Çörtü"
+    },
+    {
+        "id": 186,
+        "question": "İki kişi tarafından karşılıklı söylenen şarkı",
+        "letter": "D",
+        "answer": "düet"
+    },
+    {
+        "id": 1173,
+        "question": "Mental ve vücutça sağlıklı, sağlık içinde olan",
+        "letter": "E",
+        "answer": "Esen"
+    },
+    {
+        "id": 71,
+        "question": "Satrançta sadece çapraz hareket edebilen taş",
+        "letter": "F",
+        "answer": "fil"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 1441,
+        "question": "Normalden yüksek olan atardamar basıncı",
+        "letter": "H",
+        "answer": "Hipertansiyon"
+    },
+    {
+        "id": 1725,
+        "question": "Hainlik etme, yarı yolda bırakma",
+        "letter": "İ",
+        "answer": "İhanet, ihanet etme, ihanet etmek"
+    },
+    {
+        "id": 73,
+        "question": "Rusça, Bulgarca gibi Slav dillerinin yazımında kullanılan alfabe",
+        "letter": "K",
+        "answer": "Kiril, Kiril Alfabesi"
+    },
+    {
+        "id": 622,
+        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
+        "letter": "L",
+        "answer": "Liste"
+    },
+    {
+        "id": 760,
+        "question": "Bir toplumun düşünce ve sanatına has niteliklerinin tümü",
+        "letter": "M",
+        "answer": "Medeniyet, Medeniyeti"
+    },
+    {
+        "id": 1758,
+        "question": "Bir olayın doğurduğu başka bir olay veya durum",
+        "letter": "N",
+        "answer": "Netice"
+    },
+    {
+        "id": 341,
+        "question": "Yüksek ve alçaktan mermi atabilen kısa namlulu top",
+        "letter": "O",
+        "answer": "obüs"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 674,
+        "question": "Suyu alınmış her tür yiyecek maddesinin artığı",
+        "letter": "P",
+        "answer": "Posa, posası"
+    },
+    {
+        "id": 1815,
+        "question": "ÇAYI YAPILAN, TOHUMLARI ANASON GİBİ KULLANILAN BİR BİTKİ",
+        "letter": "R",
+        "answer": "Rezene"
+    },
+    {
+        "id": 1272,
+        "question": "İlk üretilen uydu",
+        "letter": "S",
+        "answer": "Sputnik, sputnik uydusu, sputnik 1"
+    },
+    {
+        "id": 1686,
+        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
+        "letter": "Ş",
+        "answer": "Şapel"
+    },
+    {
+        "id": 1129,
+        "question": "Verimsiz duruma getirme, sonuçsuz bırakma, kısırlaştırma",
+        "letter": "T",
+        "answer": "takim"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 727,
+        "question": "Her yandan çokça bir araya gelmek, toplanmak, birikmek",
+        "letter": "Ü",
+        "answer": "Üşüşme, Üşüşmek"
+    },
+    {
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "letter": "V",
+        "answer": "Vizyoner, Vizyonlu"
+    },
+    {
+        "id": 493,
+        "question": "Kötülüklerini söylemek, zemmetmek",
+        "letter": "Y",
+        "answer": "yermek"
+    },
+    {
+        "id": 1836,
+        "question": "HAYVANLARI İNCELEYEN BİLİM DALI",
+        "letter": "Z",
+        "answer": "Zooloji"
+    }
+]

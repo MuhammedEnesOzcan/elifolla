@@ -1,0 +1,158 @@
+[
+    {
+        "id": 103,
+        "question": "Süreli yayınları, parasını önceden ödeyerek alma işi",
+        "letter": "A",
+        "answer": "abone, abonelik, abone olma, abone olmak"
+    },
+    {
+        "id": 129,
+        "question": "Veteriner hekim",
+        "letter": "B",
+        "answer": "baytar"
+    },
+    {
+        "id": 1373,
+        "question": "Bir ülkede yönetime el koyan kimselerden oluşan kurul",
+        "letter": "C",
+        "answer": "Cunta, cuntacılar, cunta kurulu"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1401,
+        "question": "Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama, beyanat",
+        "letter": "D",
+        "answer": "Demeç, demeç verme, demeç vermek, demeç vermesi"
+    },
+    {
+        "id": 750,
+        "question": "Kazalara alınmış tedbirler",
+        "letter": "E",
+        "answer": "Emniyet"
+    },
+    {
+        "id": 229,
+        "question": "Tanıtma filmi",
+        "letter": "F",
+        "answer": "fragman"
+    },
+    {
+        "id": 90,
+        "question": "Retina ve iris bulunan organımız",
+        "letter": "G",
+        "answer": "göz"
+    },
+    {
+        "id": 1445,
+        "question": "Sürekli hayal kuran, hep hayal peşinde koşan (kimse)",
+        "letter": "H",
+        "answer": "Hayalperest, hayalperver"
+    },
+    {
+        "id": 1610,
+        "question": "Bir bedelin ödenmesi sırasında yapılan indirim",
+        "letter": "İ",
+        "answer": "İskonto, iskonto uygulama, iskonto uygulamak"
+    },
+    {
+        "id": 280,
+        "question": "Kumaştan veya örgüden küçük torba",
+        "letter": "K",
+        "answer": "kese"
+    },
+    {
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
+        "letter": "L",
+        "answer": "Larva, larva dönemi"
+    },
+    {
+        "id": 324,
+        "question": "Özdeyiş, slogan",
+        "letter": "M",
+        "answer": "motto"
+    },
+    {
+        "id": 913,
+        "question": "Kıskandırmak ya da inat olsun diye yapılan iş",
+        "letter": "N",
+        "answer": "Nispet, nıspet"
+    },
+    {
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "letter": "O",
+        "answer": "Orada, orda"
+    },
+    {
+        "id": 659,
+        "question": "Nesnelerin gerçeğine değil, bireyin düşünce ve duygularına dayanan",
+        "letter": "Ö",
+        "answer": "Öznel"
+    },
+    {
+        "id": 374,
+        "question": "Parça, kısım",
+        "letter": "P",
+        "answer": "pare"
+    },
+    {
+        "id": 1638,
+        "question": "Motorlu taşıtlarda motorun en az yakıtla çalışma ayarı",
+        "letter": "R",
+        "answer": "Rölanti"
+    },
+    {
+        "id": 687,
+        "question": "Tarımsal yapay iklim alanı",
+        "letter": "S",
+        "answer": "Sera"
+    },
+    {
+        "id": 421,
+        "question": "Güzel, zarif, modaya uygun",
+        "letter": "Ş",
+        "answer": "şık"
+    },
+    {
+        "id": 1774,
+        "question": "KEYFİ ALIŞKANLIĞA DÖNÜŞTÜRMÜŞ OLAN KİŞİ",
+        "letter": "T",
+        "answer": "Tiryaki"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 1570,
+        "question": "Bir kimsenin ölümünden sonra yapılmasını istediği şey",
+        "letter": "V",
+        "answer": "Vasiyet, vasiyeti, vasiyetname"
+    },
+    {
+        "id": 1772,
+        "question": "Bazı bitki türlerinde besinler için depolama organı olarak kullanılan genişlemiş yapılar",
+        "letter": "Y",
+        "answer": "Yumru, Yumrular"
+    },
+    {
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
+        "letter": "Z",
+        "answer": "Züğürt, züürt, zürt, zügürt"
+    }
+]

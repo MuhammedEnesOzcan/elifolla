@@ -1,0 +1,158 @@
+[
+    {
+        "id": 101,
+        "question": "Tasavvufta manevi üst bir rütbe",
+        "letter": "A",
+        "answer": "abdal"
+    },
+    {
+        "id": 1297,
+        "question": "Bir şeyin iyi gelişmesi, iyi bir durumda kalması için verilen emek",
+        "letter": "B",
+        "answer": "Bakım, bakım yapma, bakım yapmak"
+    },
+    {
+        "id": 157,
+        "question": "Alımlı, uygun",
+        "letter": "C",
+        "answer": "cazip"
+    },
+    {
+        "id": 1218,
+        "question": "Doğal hayatta sığınak olarak kullanılan kamp malzemesi, barınak",
+        "letter": "Ç",
+        "answer": "Çadır, çat"
+    },
+    {
+        "id": 794,
+        "question": "Belli bir esasa göre verilen buyruk, talimat, yönerge",
+        "letter": "D",
+        "answer": "Direktif"
+    },
+    {
+        "id": 214,
+        "question": "Yalnız belirli duraklarda duran tren, otobüs veya gemi",
+        "letter": "E",
+        "answer": "ekspres"
+    },
+    {
+        "id": 568,
+        "question": "Aynı olmayan, değişik",
+        "letter": "F",
+        "answer": "Farklı"
+    },
+    {
+        "id": 237,
+        "question": "Her zaman gülümseyen, mütebessim",
+        "letter": "G",
+        "answer": "güleç"
+    },
+    {
+        "id": 594,
+        "question": "Sınır, uç noktası",
+        "letter": "H",
+        "answer": "Hudut"
+    },
+    {
+        "id": 599,
+        "question": "Açıkça bildirme, açıkça duyurma",
+        "letter": "İ",
+        "answer": "İlan, ilan etme, ilan etmek, ilan verme, ilan vermek"
+    },
+    {
+        "id": 1885,
+        "question": "BİR DÜŞÜNCEYİ EKSİKSİZ OLARAK ANLATAN KELİME DİZİSİ, SÖZ",
+        "letter": "K",
+        "answer": "Kelam"
+    },
+    {
+        "id": 1612,
+        "question": "Yanardağların ağzından fışkırıp akan, soğuyunca donan erimiş madde",
+        "letter": "L",
+        "answer": "Lav"
+    },
+    {
+        "id": 1858,
+        "question": "ESKİ ZAMANLARDA OKUL YERİNE KULLANILAN KELİME",
+        "letter": "M",
+        "answer": "Mektep"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 1188,
+        "question": "Yazarın kendi yaşam öyküsünün anlattığı edebiyat türü",
+        "letter": "O",
+        "answer": "Otobiyografi"
+    },
+    {
+        "id": 899,
+        "question": "Serbest, Hiçbir Koşula Bağlı Olmayan",
+        "letter": "Ö",
+        "answer": "Özgür, ozgur"
+    },
+    {
+        "id": 1917,
+        "question": "ŞEKER, YUMURTA VE KREMANIN ÇIRPILARAK DONDURULMASIYLA HAZIRLANAN FRANSIZ TATLISI",
+        "letter": "P",
+        "answer": "Parfe"
+    },
+    {
+        "id": 1848,
+        "question": "\"BİRLİKTE BULUNMA\", \"EŞLİK ETME\" ANLAMINA GELEN BİR SÖZCÜK",
+        "letter": "R",
+        "answer": "Refakat, Refakat etme, Refakat etmek"
+    },
+    {
+        "id": 410,
+        "question": "Dayanıklı, kolay bozulmaz, yıkılmaz, stabil",
+        "letter": "S",
+        "answer": "sağlam"
+    },
+    {
+        "id": 433,
+        "question": "Art düşünce, hile",
+        "letter": "Ş",
+        "answer": "şaibe, şike"
+    },
+    {
+        "id": 710,
+        "question": "Cep telefonu operatörlerinin belirledikleri fiyatlandırma sistemi",
+        "letter": "T",
+        "answer": "Tarife"
+    },
+    {
+        "id": 1072,
+        "question": "Fikir, sanat ve endüstri alanlarında çok büyük bir gelişme göstermiş olan, medeni, mütemeddin",
+        "letter": "U",
+        "answer": "uygar"
+    },
+    {
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
+        "letter": "Ü",
+        "answer": "Ütülmek"
+    },
+    {
+        "id": 881,
+        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
+        "letter": "V",
+        "answer": "Vernik, vernık"
+    },
+    {
+        "id": 490,
+        "question": "İnsan yaşamayan ıssız yer",
+        "letter": "Y",
+        "answer": "yaban"
+    },
+    {
+        "id": 505,
+        "question": "El ustalığı isteyen işler",
+        "letter": "Z",
+        "answer": "zanaat"
+    }
+]

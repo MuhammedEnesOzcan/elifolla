@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1164,
+        "question": "Gerçeğe, sağduyuya, akla aykırı",
+        "letter": "A",
+        "answer": "Abes"
+    },
+    {
+        "id": 1220,
+        "question": "Atış bilimi, mermi ve füzelerin hareketlerini inceleyen bir bilim dalı",
+        "letter": "B",
+        "answer": "Balistik, balistik bilimi"
+    },
+    {
+        "id": 1357,
+        "question": "Elindeki parayı harcamaya kıyamayan",
+        "letter": "C",
+        "answer": "Cimri, cimrilik"
+    },
+    {
+        "id": 180,
+        "question": "Kadro, kademe, basamak ve derecelerin yer aldığı liste",
+        "letter": "Ç",
+        "answer": "çizelge"
+    },
+    {
+        "id": 197,
+        "question": "Yalnızca bir yönde akım geçiren devre",
+        "letter": "D",
+        "answer": "diyot"
+    },
+    {
+        "id": 1404,
+        "question": "Kanunlar yönünden insanlar arasında ayrım bulunmaması durumu",
+        "letter": "E",
+        "answer": "Eşitlik, eşitlik hakkı"
+    },
+    {
+        "id": 1699,
+        "question": "Sık rastlanan bir tür boğaz enfeksiyonu",
+        "letter": "F",
+        "answer": "Farenjit, faranjit"
+    },
+    {
+        "id": 1425,
+        "question": "Eksikliği duyulan şey, ihtiyaç",
+        "letter": "G",
+        "answer": "Gereksinim, gerekli"
+    },
+    {
+        "id": 805,
+        "question": "Atak tabiatlı küçük savaş gemisi",
+        "letter": "H",
+        "answer": "Hücumbot, Hücumbotu"
+    },
+    {
+        "id": 272,
+        "question": "Barınma amacıyla bir yerde oturma",
+        "letter": "İ",
+        "answer": "ikamet, ikamet etme, ikamet etmek"
+    },
+    {
+        "id": 26,
+        "question": "Dar dik yamaçlı ve derin vadi",
+        "letter": "K",
+        "answer": "Kanyon"
+    },
+    {
+        "id": 1456,
+        "question": "Bir kimseye uygun olan, yaraşan",
+        "letter": "L",
+        "answer": "Layık, layığı"
+    },
+    {
+        "id": 1108,
+        "question": "Miskete fiske vurarak oynanan zıpzıp oyunu",
+        "letter": "M",
+        "answer": "madık, Madik"
+    },
+    {
+        "id": 1224,
+        "question": "Çaresi, çözümü olmayan, çaresiz olan",
+        "letter": "N",
+        "answer": "Naçar, naçarlık, nafile"
+    },
+    {
+        "id": 346,
+        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "letter": "O",
+        "answer": "otogar"
+    },
+    {
+        "id": 662,
+        "question": "Yıpratmak, eskitmek, hırpalamak, zedelemek",
+        "letter": "Ö",
+        "answer": "Örselemek, örseleme"
+    },
+    {
+        "id": 1802,
+        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
+        "letter": "P",
+        "answer": "Peksimet"
+    },
+    {
+        "id": 1637,
+        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "letter": "R",
+        "answer": "Röntgen"
+    },
+    {
+        "id": 1779,
+        "question": "NESNE ÖZELLİKLERİ BULUNMAYAN, DUYULARLA ALGILANMAYAN",
+        "letter": "S",
+        "answer": "Soyut"
+    },
+    {
+        "id": 428,
+        "question": "Gürültü patırtı",
+        "letter": "Ş",
+        "answer": "şamata"
+    },
+    {
+        "id": 56,
+        "question": "Kara tahtaya yazı yazmak için kullanılan kireçli çubuk",
+        "letter": "T",
+        "answer": "Tebeşir"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 462,
+        "question": "Tanınmış, şöhretli, meşhur",
+        "letter": "Ü",
+        "answer": "ünlü"
+    },
+    {
+        "id": 886,
+        "question": "Çiçek Koymak İçin Kullanılan Kap",
+        "letter": "V",
+        "answer": "Vazo"
+    },
+    {
+        "id": 1880,
+        "question": "Gereğinin uygulanır, yapılır olması durumu",
+        "letter": "Y",
+        "answer": "Yürürlük, Yürürlükte"
+    },
+    {
+        "id": 1590,
+        "question": "Taban, döşeme, yer",
+        "letter": "Z",
+        "answer": "Zemin"
+    }
+]

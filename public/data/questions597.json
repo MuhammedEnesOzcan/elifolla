@@ -1,0 +1,158 @@
+[
+    {
+        "id": 512,
+        "question": "Denizin kıyıdan uzakça olan yeri",
+        "letter": "A",
+        "answer": "Açık"
+    },
+    {
+        "id": 522,
+        "question": "İşçilerin başlarına giydikleri, metal veya plastikten yapılmış koruyucu başlık",
+        "letter": "B",
+        "answer": "Baret"
+    },
+    {
+        "id": 1360,
+        "question": "Kuşların ötüşürken çıkardıkları ses",
+        "letter": "C",
+        "answer": "Cıvıltı, cıvıldama, cıvıldamak"
+    },
+    {
+        "id": 178,
+        "question": "Kişileri taşımak için kullanılan, insan gücüyle işleyen iki tekerlekli araç",
+        "letter": "Ç",
+        "answer": "çekçek"
+    },
+    {
+        "id": 1400,
+        "question": "Üzerinde deney yapılan (canlı veya şey)",
+        "letter": "D",
+        "answer": "Denek"
+    },
+    {
+        "id": 207,
+        "question": "Benzer, eş, denk, daha önce benzeri görülen",
+        "letter": "E",
+        "answer": "emsal"
+    },
+    {
+        "id": 217,
+        "question": "Çalışır durumda olan, etkin",
+        "letter": "F",
+        "answer": "faal"
+    },
+    {
+        "id": 1863,
+        "question": "YEMEK YENİLEN, GÖSTERİ İZLENEN, MÜZİK DİNLENEN, BAZEN OYUN SERGİLENEN EĞLENCE YERİ",
+        "letter": "G",
+        "answer": "Gazino"
+    },
+    {
+        "id": 1442,
+        "question": "Sularda yaşayan canlıların hayatını inceleyen bilim dalı",
+        "letter": "H",
+        "answer": "Hidrobiyoloji"
+    },
+    {
+        "id": 267,
+        "question": "Gereksiz yere para, zaman, emek vb.ni harcama, savurganlık",
+        "letter": "İ",
+        "answer": "israf, israf etme, israf etmek"
+    },
+    {
+        "id": 287,
+        "question": "Posta, kargo, mektup vb. gönderileri alıcıya ulaştıran kimse",
+        "letter": "K",
+        "answer": "kurye"
+    },
+    {
+        "id": 1454,
+        "question": "Kirliliği gösteren iz",
+        "letter": "L",
+        "answer": "Leke"
+    },
+    {
+        "id": 57,
+        "question": "Türkçede adı tek heceli olan tek ay",
+        "letter": "M",
+        "answer": "mart"
+    },
+    {
+        "id": 334,
+        "question": "Korkak, alçak, mert olmayan",
+        "letter": "N",
+        "answer": "namert"
+    },
+    {
+        "id": 1003,
+        "question": "On açısı, on kenarı olan çokgen",
+        "letter": "O",
+        "answer": "Ongen"
+    },
+    {
+        "id": 932,
+        "question": "Eleman, unsur",
+        "letter": "Ö",
+        "answer": "öge, öğe"
+    },
+    {
+        "id": 1177,
+        "question": "Eskimiş bez veya kumaş parçası, çaput",
+        "letter": "P",
+        "answer": "Paçavra"
+    },
+    {
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
+        "letter": "R",
+        "answer": "Rivayet"
+    },
+    {
+        "id": 1235,
+        "question": "Karaciğer tarafından üretilen sindirim sıvısı",
+        "letter": "S",
+        "answer": "Safra, safra sıvısı"
+    },
+    {
+        "id": 425,
+        "question": "Bilinç, akıl",
+        "letter": "Ş",
+        "answer": "şuur"
+    },
+    {
+        "id": 52,
+        "question": "At ve eşek gibi tek tırnaklı hayvanların tırnağına verilen ad",
+        "letter": "T",
+        "answer": "Toynak"
+    },
+    {
+        "id": 1563,
+        "question": "Nükleer santrallerde en yaygın kullanılan ve radyoaktif atık bırakan yakıt",
+        "letter": "U",
+        "answer": "Uranyum"
+    },
+    {
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
+        "letter": "Ü",
+        "answer": "Üzenti"
+    },
+    {
+        "id": 474,
+        "question": "Sevgiyi sürdürme, sevgi, dostluk bağlılığı",
+        "letter": "V",
+        "answer": "vefa"
+    },
+    {
+        "id": 1500,
+        "question": "Genellikle dağlık bölgelerde, yazın havası iyi ve serin olan, hayvan otlatma veya dinlenme yeri",
+        "letter": "Y",
+        "answer": "Yayla"
+    },
+    {
+        "id": 505,
+        "question": "El ustalığı isteyen işler",
+        "letter": "Z",
+        "answer": "zanaat"
+    }
+]

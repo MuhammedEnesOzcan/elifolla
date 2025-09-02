@@ -1,0 +1,158 @@
+[
+    {
+        "id": 123,
+        "question": "Rütbesi general ile aynı olan deniz subayı",
+        "letter": "A",
+        "answer": "amiral"
+    },
+    {
+        "id": 1297,
+        "question": "Bir şeyin iyi gelişmesi, iyi bir durumda kalması için verilen emek",
+        "letter": "B",
+        "answer": "Bakım, bakım yapma, bakım yapmak"
+    },
+    {
+        "id": 537,
+        "question": "Öfke, kızgınlık",
+        "letter": "C",
+        "answer": "Celal, celallenme, celallenmek"
+    },
+    {
+        "id": 1859,
+        "question": "AYAKLA ÇİĞNENDİĞİNDE YA DA DUVARA SÜRTÜLDÜĞÜNDE PATLAYAN EĞLENCE FİŞEĞİ",
+        "letter": "Ç",
+        "answer": "Çatapat"
+    },
+    {
+        "id": 550,
+        "question": "Gregor Samsa karakterinin yer aldığı Franz Kafka romanı",
+        "letter": "D",
+        "answer": "Dönüşüm"
+    },
+    {
+        "id": 202,
+        "question": "Bir devleti başka bir devlet katında temsil eden kimse, sefir",
+        "letter": "E",
+        "answer": "elçi"
+    },
+    {
+        "id": 1285,
+        "question": "Uygun zaman, uygun durum veya şart, vesile, imkan, şans",
+        "letter": "F",
+        "answer": "Fırsat"
+    },
+    {
+        "id": 1427,
+        "question": "Amaç, hedef",
+        "letter": "G",
+        "answer": "Gaye"
+    },
+    {
+        "id": 1158,
+        "question": "At yetiştirilen çiftlik",
+        "letter": "H",
+        "answer": "Hara"
+    },
+    {
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
+        "letter": "İ",
+        "answer": "İşletme"
+    },
+    {
+        "id": 1841,
+        "question": "KEMAN AİLESİNDEN, EN KALIN SESLİ YAYLI SAZ",
+        "letter": "K",
+        "answer": "Kontrabas"
+    },
+    {
+        "id": 984,
+        "question": "Duvarları taş veya tuğladan, üstü taş bir kapakla örtülü mezar",
+        "letter": "L",
+        "answer": "Lahit"
+    },
+    {
+        "id": 629,
+        "question": "Tek, ayrı, kendi başına olan",
+        "letter": "M",
+        "answer": "Münferit"
+    },
+    {
+        "id": 336,
+        "question": "Ortak bir özellik gösteren kimselerin bütünü, popülasyon",
+        "letter": "N",
+        "answer": "nüfus"
+    },
+    {
+        "id": 653,
+        "question": "Yaş bakımından üç kardeşin büyüğü ile küçüğü arasında bulunan",
+        "letter": "O",
+        "answer": "Ortanca, ortanca çocuk, ortanca kardeş"
+    },
+    {
+        "id": 922,
+        "question": "Korkak, Tabansız, Yüreksiz",
+        "letter": "Ö",
+        "answer": "ödlek"
+    },
+    {
+        "id": 1119,
+        "question": "Ebegümecigillerden, koza biçimindeki meyvesi üç, dört, beş dilimli olan, sıcak bölgelerde yetişen tarım bitkisi",
+        "letter": "P",
+        "answer": "pamuk"
+    },
+    {
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "letter": "R",
+        "answer": "Reaksiyon"
+    },
+    {
+        "id": 1895,
+        "question": "ÖZELLİKLE MANAV VE PAZARDA MÜŞTERİNİN TERCİHİNİ TEMEL ALAN SATIŞ YÖNTEMİ",
+        "letter": "S",
+        "answer": "Seçmece"
+    },
+    {
+        "id": 1058,
+        "question": "Genellikle bazı sporları yaparken giyilen, paçaları dizlerin yukarısında başlayan kısa pantolon",
+        "letter": "Ş",
+        "answer": "Şort"
+    },
+    {
+        "id": 705,
+        "question": "Güneş’in doğuşundan önceki alacakaranlık zaman",
+        "letter": "T",
+        "answer": "Tan, Tan vakti"
+    },
+    {
+        "id": 894,
+        "question": "Türlü Amaçlarla Yer'den Fırlatılan Ve Genellikle Kapalı Bir Yörünge Çizerek Yer Çevresinde Dolanan Aygıt",
+        "letter": "U",
+        "answer": "Uydu"
+    },
+    {
+        "id": 1566,
+        "question": "Mecazen; Delirmek, aklını yitirmek",
+        "letter": "Ü",
+        "answer": "Üşütmek, üşütme"
+    },
+    {
+        "id": 1571,
+        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
+        "letter": "V",
+        "answer": "Vasıfsız, vasıfsız eleman"
+    },
+    {
+        "id": 1575,
+        "question": "Aşağıdan yukarıya gittikçe yükselen eğimli yer",
+        "letter": "Y",
+        "answer": "Yokuş"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

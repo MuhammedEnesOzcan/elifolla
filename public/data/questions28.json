@@ -1,158 +1,158 @@
 [
     {
-        "id": 917,
-        "question": "Yünden dövülerek yapılan kalın ve kaba kumaş",
+        "id": 1900,
+        "question": "“ÇOK BİLEN KİMSE” ANLAMINDA ARAPÇA KÖKENLİ BİR SIFAT",
         "letter": "A",
-        "answer": "Aba"
+        "answer": "Alim"
     },
     {
-        "id": 1799,
-        "question": "YÖRESEL AĞIZLARDA “KAZ VE ÖRDEK YAVRULARI” İÇİN KULLANILAN BİR SÖZCÜK",
+        "id": 137,
+        "question": "İçinde çeşitli organik maddeler bulunan, genellikle killi, koyu, yapışkan çamur, mil",
         "letter": "B",
-        "answer": "Badi"
+        "answer": "balçık"
     },
     {
-        "id": 1361,
-        "question": "Çekici, Enteresan, Dikkat Çeken",
+        "id": 1148,
+        "question": "Yerde ve tel, at, bisiklet, ip vb. üzerinde dengeye dayanan, tehlikeli, heyecan verici gösteriler yapan kimse, akrobat",
         "letter": "C",
-        "answer": "Cezbedici, cazip, cazibeli"
+        "answer": "cambaz"
     },
     {
-        "id": 175,
-        "question": "Taklit olan, sahte",
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
         "letter": "Ç",
-        "answer": "çakma"
+        "answer": "çakar"
     },
     {
-        "id": 192,
-        "question": "Geri bildirim",
+        "id": 1152,
+        "question": "En son il olan şehrimiz",
         "letter": "D",
-        "answer": "dönüt"
+        "answer": "Düzce"
     },
     {
-        "id": 1413,
-        "question": "Ücret karşılığı eşyayı koruyan kimse",
+        "id": 1416,
+        "question": "Araçlarla koruma işi",
         "letter": "E",
-        "answer": "Emanetçi"
+        "answer": "Eskortluk, eskort"
     },
     {
-        "id": 576,
-        "question": "Fotoğrafta güzel çıkan, etki bırakan (kimse)",
+        "id": 229,
+        "question": "Tanıtma filmi",
         "letter": "F",
-        "answer": "Fotojenik"
+        "answer": "fragman"
     },
     {
-        "id": 1425,
-        "question": "Eksikliği duyulan şey, ihtiyaç",
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
         "letter": "G",
-        "answer": "Gereksinim, gerekli"
+        "answer": "Gelir"
     },
     {
-        "id": 1439,
-        "question": "Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz",
+        "id": 594,
+        "question": "Sınır, uç noktası",
         "letter": "H",
-        "answer": "Haşa"
+        "answer": "Hudut"
     },
     {
-        "id": 1692,
-        "question": "“TRAFİĞİ ÇOK OLAN, CANLI, HAREKETLİ, YOĞUN VE KALABALIK” ANLAMLARINDA KULLANILAN BİR SÖZ",
+        "id": 808,
+        "question": "Kararlılık, stabilizasyon",
         "letter": "İ",
-        "answer": "İşlek, işlek yol, işlek cadde"
+        "answer": "İstikrar"
     },
     {
-        "id": 1857,
-        "question": "GEMİLERDE BULUNAN ODALARA VERİLEN İSİM",
+        "id": 290,
+        "question": "Askeri birliği ve onunla ilgili işleri yönetme görevi, kumanda",
         "letter": "K",
-        "answer": "Kamara"
+        "answer": "komuta, komuta etme, komuta etmek"
     },
     {
-        "id": 918,
-        "question": "Hiç tuzu olmayan yumuşak krem peynir",
+        "id": 615,
+        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
         "letter": "L",
-        "answer": "Labne"
+        "answer": "Lümpen"
     },
     {
-        "id": 759,
-        "question": "Denk, eş, eşdeğer, eşit",
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
         "letter": "M",
-        "answer": "Muadil"
+        "answer": "Mimar"
     },
     {
-        "id": 916,
-        "question": "Durgun sularda ya da havuzlarda yetişen, geniş yapraklı su bitkisi",
+        "id": 987,
+        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
         "letter": "N",
-        "answer": "Nilüfer, nılufer"
+        "answer": "Naz"
     },
     {
-        "id": 30,
-        "question": "Düz ve geniş arazi",
+        "id": 1113,
+        "question": "Büyük ve süslü çadır, çerge",
         "letter": "O",
-        "answer": "Ova"
+        "answer": "Otağ"
     },
     {
-        "id": 363,
-        "question": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye",
+        "id": 1005,
+        "question": "Örme işi veya biçimi",
         "letter": "Ö",
-        "answer": "övgü"
+        "answer": "Örgü"
     },
     {
-        "id": 1860,
-        "question": "\"HEMEN ARDINDAN\" ANLAMINDA KULLANILAN KELİME",
+        "id": 1012,
+        "question": "İç içe geçen veya birbiri üzerine gelen parçaları tutturmaya yarayan bir tür tahta veya metal çivi",
         "letter": "P",
-        "answer": "Peşisıra, Peşpeşe"
+        "answer": "Pim"
     },
     {
-        "id": 393,
-        "question": "Gemi, tren, kışla, yatılı okul vb. yerlerde üst üste yapılan yatak yeri",
+        "id": 1872,
+        "question": "BİR DAİREDE YARIÇAP UZUNLUĞUNDAKİ YAY PARÇASINI GÖREN MERKEZ AÇIYA, EŞİT AÇI ÖLÇME BİRİMİ",
         "letter": "R",
-        "answer": "ranza"
+        "answer": "Radyan"
     },
     {
-        "id": 416,
-        "question": "Çok bulunmayan, az rastlanan, nadir",
+        "id": 34,
+        "question": "Yüz, çehre",
         "letter": "S",
-        "answer": "seyrek"
+        "answer": "Surat, Sima"
     },
     {
-        "id": 1056,
-        "question": "Karaları çevreleyen ve karalardan sayılan, 200 m derinliğe kadar olan sığ deniz dipleri",
+        "id": 1058,
+        "question": "Genellikle bazı sporları yaparken giyilen, paçaları dizlerin yukarısında başlayan kısa pantolon",
         "letter": "Ş",
-        "answer": "Şelf"
+        "answer": "Şort"
     },
     {
-        "id": 767,
-        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "id": 1063,
+        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
         "letter": "T",
-        "answer": "Takılmak"
+        "answer": "Takı"
     },
     {
-        "id": 1077,
-        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "id": 896,
+        "question": "Orta Asya'da Büyük Devlet Ve Uygarlık Kurmuş, Yazılı Anıtlarla Sanat Yapıtları Bırakmış Olan Bir Türk Ulusu",
         "letter": "U",
-        "answer": "ucuz"
+        "answer": "Uygur, uygurlar"
     },
     {
-        "id": 463,
-        "question": "Bir şeyin karşılığı olan para veya mal",
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
         "letter": "Ü",
-        "answer": "ücret"
+        "answer": "Üzenti"
     },
     {
-        "id": 471,
-        "question": "Bir işi yerine getirmek için verilen söz",
+        "id": 875,
+        "question": "Foseptik Kuyularındaki Pis Suları Çekmeye Yarayan Makine",
         "letter": "V",
-        "answer": "vaat"
+        "answer": "Vidanjör, vıdanjor"
     },
     {
-        "id": 510,
-        "question": "Sesin bir yere çarpıp geri dönmesiyle duyulan ikinci ses",
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
         "letter": "Y",
-        "answer": "yankı"
+        "answer": "Yassı"
     },
     {
-        "id": 1587,
-        "question": "İç içe geçen sehpa",
+        "id": 856,
+        "question": "Her Türlü Zevke Karşı Koyup Kendini İbadete Veren",
         "letter": "Z",
-        "answer": "Zigon, zigon sehpa"
+        "answer": "Zühtü, zuhtu"
     }
 ]

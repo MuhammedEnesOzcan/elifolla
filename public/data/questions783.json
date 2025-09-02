@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1714,
+        "question": "Mecazen; Gerekmediği hâlde başkasını savunan, onun adına konuşan kimse",
+        "letter": "A",
+        "answer": "Avukat, avukatı olma"
+    },
+    {
+        "id": 136,
+        "question": "Orkestrada vurmalı çalgı takımı, davul",
+        "letter": "B",
+        "answer": "bateri"
+    },
+    {
+        "id": 964,
+        "question": "Cam ticaretini veya cam takmayı meslek edinmiş kimse",
+        "letter": "C",
+        "answer": "Camcı"
+    },
+    {
+        "id": 1452,
+        "question": "Yenilen yaş veya kuru yemiş vb. şeyler",
+        "letter": "Ç",
+        "answer": "Çerez, çerezler"
+    },
+    {
+        "id": 196,
+        "question": "Belirli miktarın veya büyüklüğün iki katı",
+        "letter": "D",
+        "answer": "duble"
+    },
+    {
+        "id": 797,
+        "question": "Canlıların birbirleri ve çevreleriyle ilişkilerini inceleyen bilim dalı",
+        "letter": "E",
+        "answer": "Ekoloji"
+    },
+    {
+        "id": 575,
+        "question": "Ses, akım vb. için birim zamandaki titreşim sayısı, titreşim sıklığı",
+        "letter": "F",
+        "answer": "Frekans"
+    },
+    {
+        "id": 236,
+        "question": "Elde edilmesi gereken, ulaşılmak istenen şey, amaç, maksat",
+        "letter": "G",
+        "answer": "gaye"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 1497,
+        "question": "Ülke adına makamlara sunulmak üzere toplanmış taktik içerikli bilgiler",
+        "letter": "İ",
+        "answer": "İstihbarat"
+    },
+    {
+        "id": 1939,
+        "question": "Küp şekere göre daha büyük boyutta özellikle Erzurum yöresine ait şeker türü",
+        "letter": "K",
+        "answer": "Kıtlama, Kıtlama Şeker"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 321,
+        "question": "Çalışma süresi",
+        "letter": "M",
+        "answer": "mesai, mesai saati"
+    },
+    {
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "letter": "N",
+        "answer": "Nostalji, nostaliji"
+    },
+    {
+        "id": 1516,
+        "question": "Elle yapılan kalın, seyrek dikiş",
+        "letter": "O",
+        "answer": "Oyulga"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 824,
+        "question": "Yufka biçiminde kurutulmuş meyve ezmesi",
+        "letter": "P",
+        "answer": "Pestil"
+    },
+    {
+        "id": 1641,
+        "question": "Eski yapıları onarma",
+        "letter": "R",
+        "answer": "Restore, restorasyon, restore etme, restore etmek"
+    },
+    {
+        "id": 765,
+        "question": "İşlerine önem vermeyen, ihmalkâr",
+        "letter": "S",
+        "answer": "Savsak"
+    },
+    {
+        "id": 426,
+        "question": "Açık ve ayrıntılı anlatma",
+        "letter": "Ş",
+        "answer": "şerh"
+    },
+    {
+        "id": 1061,
+        "question": "Birçok spor oyununda kullanılan, türlü büyüklükte, genellikle kauçuktan yapılmış yuvarlak nesne",
+        "letter": "T",
+        "answer": "top"
+    },
+    {
+        "id": 1074,
+        "question": "Türk müziğinde ana makamlardan biri",
+        "letter": "U",
+        "answer": "Uşşak"
+    },
+    {
+        "id": 469,
+        "question": "Ayrıca, bir de, bundan başka",
+        "letter": "Ü",
+        "answer": "üstelik"
+    },
+    {
+        "id": 478,
+        "question": "Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç",
+        "letter": "V",
+        "answer": "vinç"
+    },
+    {
+        "id": 1237,
+        "question": "\"Veya, ya da\" eş anlamlısı",
+        "letter": "Y",
+        "answer": "Yahut"
+    },
+    {
+        "id": 1144,
+        "question": "Kilise hizmetini gören ve çan çalan kimse",
+        "letter": "Z",
+        "answer": "Zangoç"
+    }
+]

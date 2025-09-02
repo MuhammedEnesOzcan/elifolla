@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1830,
+        "question": "TEMİZLENMEK, KATIŞIKSIZ BİR HÂLE GELMEK",
+        "letter": "A",
+        "answer": "Arınma, Arınmak"
+    },
+    {
+        "id": 1356,
+        "question": "Bir şeyin gerçek sebebi gizlenerek ileri sürülen uydurma sebep",
+        "letter": "B",
+        "answer": "Bahane, bahane etme, bahane etmek, bahane sunma, bahane sunmak"
+    },
+    {
+        "id": 164,
+        "question": "Gürültülü, karışık durum",
+        "letter": "C",
+        "answer": "curcuna"
+    },
+    {
+        "id": 1448,
+        "question": "İri köpek, çoban köpeği",
+        "letter": "Ç",
+        "answer": "Çomar"
+    },
+    {
+        "id": 1401,
+        "question": "Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama, beyanat",
+        "letter": "D",
+        "answer": "Demeç, demeç verme, demeç vermek, demeç vermesi"
+    },
+    {
+        "id": 1954,
+        "question": "İnsanın davranışlarını etkileyecek kadar güçlü olan tılsım, büyü",
+        "letter": "E",
+        "answer": "Efsun"
+    },
+    {
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "letter": "F",
+        "answer": "Fidan"
+    },
+    {
+        "id": 86,
+        "question": "Sinema, stad gibi etkinlik alanlarında bilet alınan yer",
+        "letter": "G",
+        "answer": "gişe"
+    },
+    {
+        "id": 592,
+        "question": "Sürtünme kuvvetinin yağ basıncı ile sağlandığı fren tipi",
+        "letter": "H",
+        "answer": "Hidrolik, hidrolik fren"
+    },
+    {
+        "id": 1497,
+        "question": "Ülke adına makamlara sunulmak üzere toplanmış taktik içerikli bilgiler",
+        "letter": "İ",
+        "answer": "İstihbarat"
+    },
+    {
+        "id": 1792,
+        "question": "Genellikle Türklere özgü, ters döndürülmüş kesik koni şeklinde, kürk, kumaş veya deriden şapka türü",
+        "letter": "K",
+        "answer": "Kalpak"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 1289,
+        "question": "Beceri, ustalık, hüner",
+        "letter": "M",
+        "answer": "Maharet, maharetlilik, marifet"
+    },
+    {
+        "id": 332,
+        "question": "Sıra ile belirli süre bir yeri bekleme işi",
+        "letter": "N",
+        "answer": "nöbet, nöbet tutma, nöbet tutmak"
+    },
+    {
+        "id": 997,
+        "question": "Silisin hidratlı ve jelatinli bütün türlerini kapsayan değerli bir mineral, panzehir taşı",
+        "letter": "O",
+        "answer": "opal"
+    },
+    {
+        "id": 1005,
+        "question": "Örme işi veya biçimi",
+        "letter": "Ö",
+        "answer": "Örgü"
+    },
+    {
+        "id": 1118,
+        "question": "Büyük harita, plan veya modeli oluşturan ayrı parçalardan her biri",
+        "letter": "P",
+        "answer": "pafta"
+    },
+    {
+        "id": 1172,
+        "question": "Adet haline gelen şey, geleneksel tören",
+        "letter": "R",
+        "answer": "Ritüel"
+    },
+    {
+        "id": 1163,
+        "question": "Söylenmemesi gereken, giz",
+        "letter": "S",
+        "answer": "Sır"
+    },
+    {
+        "id": 67,
+        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "letter": "Ş",
+        "answer": "Şanlıurfa, Şanlı Urfa"
+    },
+    {
+        "id": 1063,
+        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
+        "letter": "T",
+        "answer": "Takı"
+    },
+    {
+        "id": 1067,
+        "question": "Uğraşılan şey, iş güç, meşgale",
+        "letter": "U",
+        "answer": "Uğraşı"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 771,
+        "question": "Araç, taşıt anlamlarındaki söz",
+        "letter": "V",
+        "answer": "Vasıta"
+    },
+    {
+        "id": 773,
+        "question": "Japon mafyası",
+        "letter": "Y",
+        "answer": "Yakuza"
+    },
+    {
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
+        "letter": "Z",
+        "answer": "Züğürt, züürt, zürt, zügürt"
+    }
+]

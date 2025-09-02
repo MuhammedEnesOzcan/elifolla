@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1082,
+        "question": "Anıtsal",
+        "letter": "A",
+        "answer": "Abidevi"
+    },
+    {
+        "id": 525,
+        "question": "Kullanılması önlenmiş, el konulmuş",
+        "letter": "B",
+        "answer": "Bloke, bloke edilmiş, bloke olmuş"
+    },
+    {
+        "id": 159,
+        "question": "Kazanmak, cebine indirmek, çalmak",
+        "letter": "C",
+        "answer": "ceplemek, cukkalamak"
+    },
+    {
+        "id": 1544,
+        "question": "Bazı toprakların yüzünde beyaz bir katman durumunda toplanan ve eskiden barut yapmakta kullanılan potaslı, sutlu tuz",
+        "letter": "Ç",
+        "answer": "Çorak"
+    },
+    {
+        "id": 1486,
+        "question": "Yarar, çıkar amacıyla veya alışkanlıkla bir yere sık uğramak",
+        "letter": "D",
+        "answer": "Dadanmak"
+    },
+    {
+        "id": 797,
+        "question": "Canlıların birbirleri ve çevreleriyle ilişkilerini inceleyen bilim dalı",
+        "letter": "E",
+        "answer": "Ekoloji"
+    },
+    {
+        "id": 1915,
+        "question": "DUYGUSAL İLİŞKİLERDE SINAMA VE SINANMA EVRESİ",
+        "letter": "F",
+        "answer": "Flört"
+    },
+    {
+        "id": 86,
+        "question": "Sinema, stad gibi etkinlik alanlarında bilet alınan yer",
+        "letter": "G",
+        "answer": "gişe"
+    },
+    {
+        "id": 255,
+        "question": "Uçak, araba, tarım aracı vb. nesneleri barındırmaya yarar kapalı yer",
+        "letter": "H",
+        "answer": "hangar"
+    },
+    {
+        "id": 1204,
+        "question": "Kendi isteğiyle çalıştığı işi bırakmak",
+        "letter": "İ",
+        "answer": "İstifa, istifa etme, istifa etmek"
+    },
+    {
+        "id": 1811,
+        "question": "DENTAL TEMİZLİKTE KULLANILAN İNCE TAHTA ÇÖP",
+        "letter": "K",
+        "answer": "Kürdan"
+    },
+    {
+        "id": 306,
+        "question": "Deniz veya ırmaklarda birdenbire derinleşen yer",
+        "letter": "L",
+        "answer": "longoz, longuz"
+    },
+    {
+        "id": 1318,
+        "question": "Kalın oklava",
+        "letter": "M",
+        "answer": "Merdane"
+    },
+    {
+        "id": 640,
+        "question": "Söz, konuşma, söylev",
+        "letter": "N",
+        "answer": "Nutuk, Nutuk okuma, Nutuk okumak"
+    },
+    {
+        "id": 347,
+        "question": "Yiyecek, içecek gibi şeylerin alınabildiği mekanik veya elektrikli araç",
+        "letter": "O",
+        "answer": "otomat"
+    },
+    {
+        "id": 1009,
+        "question": "Konuşanın temel olarak aldığı bir şeyden daha uzak olan yer veya şey, mavera",
+        "letter": "Ö",
+        "answer": "Öte"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 682,
+        "question": "Saçı yer yer değişik tonlarda boyama işlemi",
+        "letter": "R",
+        "answer": "Röfle, Röfle yapma, Röfle yaptırma, Röfle yaptırmak"
+    },
+    {
+        "id": 1232,
+        "question": "Yanılarak, yanlışlıkla",
+        "letter": "S",
+        "answer": "Sehven"
+    },
+    {
+        "id": 426,
+        "question": "Açık ve ayrıntılı anlatma",
+        "letter": "Ş",
+        "answer": "şerh"
+    },
+    {
+        "id": 56,
+        "question": "Kara tahtaya yazı yazmak için kullanılan kireçli çubuk",
+        "letter": "T",
+        "answer": "Tebeşir"
+    },
+    {
+        "id": 452,
+        "question": "Kalçadan dize kadar olan bacak bölümü",
+        "letter": "U",
+        "answer": "uyluk"
+    },
+    {
+        "id": 876,
+        "question": "Türlü Duyguları Anlatan Veya Bir Doğa Sesini Yansıtan Kelime",
+        "letter": "Ü",
+        "answer": "Ünlem"
+    },
+    {
+        "id": 770,
+        "question": "Durum, tavır, hâl",
+        "letter": "V",
+        "answer": "Vaziyet"
+    },
+    {
+        "id": 1845,
+        "question": "SEYAHATE ÇIKMIŞ KİMSE",
+        "letter": "Y",
+        "answer": "Yolcu"
+    },
+    {
+        "id": 498,
+        "question": "Bir şeyin fiyatını artırma, bindirim",
+        "letter": "Z",
+        "answer": "zam"
+    }
+]

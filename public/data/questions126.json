@@ -1,0 +1,158 @@
+[
+    {
+        "id": 122,
+        "question": "Acındıracak, acı verecek nitelikte olan, dokunaklı, üzücü",
+        "letter": "A",
+        "answer": "acıklı, acınası"
+    },
+    {
+        "id": 1862,
+        "question": "BİR EYLEMİ PERVASIZCA, ÇEKİNMEDEN VE SAKINMADAN YAPMAK",
+        "letter": "B",
+        "answer": "Bodoslama"
+    },
+    {
+        "id": 152,
+        "question": "Geçerli olan, yürürlükte olan",
+        "letter": "C",
+        "answer": "cari, câri"
+    },
+    {
+        "id": 1448,
+        "question": "İri köpek, çoban köpeği",
+        "letter": "Ç",
+        "answer": "Çomar"
+    },
+    {
+        "id": 198,
+        "question": "Başkalarını çekiştirmek ve kınamak üzere yapılan konuşma, gıybet",
+        "letter": "D",
+        "answer": "dedikodu"
+    },
+    {
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "letter": "E",
+        "answer": "ezel"
+    },
+    {
+        "id": 55,
+        "question": "Yeşil bitkilerin ışık enerjisiyle besin üretmesi",
+        "letter": "F",
+        "answer": "fotosentez"
+    },
+    {
+        "id": 90,
+        "question": "Retina ve iris bulunan organımız",
+        "letter": "G",
+        "answer": "göz"
+    },
+    {
+        "id": 1443,
+        "question": "Mecazen; Yasa dışı yollarla zimmetine para veya mal geçirmek",
+        "letter": "H",
+        "answer": "Hortumlama, hortumlamak"
+    },
+    {
+        "id": 1973,
+        "question": "Bir şeyi saklamadan direkt olarak söylemek",
+        "letter": "İ",
+        "answer": "İkrar"
+    },
+    {
+        "id": 1841,
+        "question": "KEMAN AİLESİNDEN, EN KALIN SESLİ YAYLI SAZ",
+        "letter": "K",
+        "answer": "Kontrabas"
+    },
+    {
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "letter": "L",
+        "answer": "lisans"
+    },
+    {
+        "id": 633,
+        "question": "Virüslerin geçirdiği değişim",
+        "letter": "M",
+        "answer": "Mutasyon"
+    },
+    {
+        "id": 641,
+        "question": "Sinir sisteminin uyarıyı iletmekle görevli anatomik ve işlevsel birimi",
+        "letter": "N",
+        "answer": "Nöron, nöronlar"
+    },
+    {
+        "id": 654,
+        "question": "Kendini kontrol edebilen sürücüsüz araç",
+        "letter": "O",
+        "answer": "Otonom, Otonom araç, Otonom araba"
+    },
+    {
+        "id": 367,
+        "question": "Bir maddenin herhangi bir yolla elde edilmiş olan özü",
+        "letter": "Ö",
+        "answer": "özüt, özütü"
+    },
+    {
+        "id": 1883,
+        "question": "KUMAŞIN BELLİ ÖLÇÜDE BİÇİLMESİNE YARAYAN KÂĞIT KALIP",
+        "letter": "P",
+        "answer": "Patron"
+    },
+    {
+        "id": 1031,
+        "question": "Yakışır, yerinde, uygun",
+        "letter": "R",
+        "answer": "Reva"
+    },
+    {
+        "id": 1235,
+        "question": "Karaciğer tarafından üretilen sindirim sıvısı",
+        "letter": "S",
+        "answer": "Safra, safra sıvısı"
+    },
+    {
+        "id": 1681,
+        "question": "Üzerine uzanılabilecek biçimde ayarlanan bir tür taşınabilir koltuk",
+        "letter": "Ş",
+        "answer": "Şezlong"
+    },
+    {
+        "id": 1059,
+        "question": "Doğu Anadolu ile Azerbaycan'da çalınan bir çalgı türü",
+        "letter": "T",
+        "answer": "tar"
+    },
+    {
+        "id": 1078,
+        "question": "Yufka açılırken hamurun tahtaya yapışmaması için serpilen kalın un",
+        "letter": "U",
+        "answer": "Uğra"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 476,
+        "question": "Karşı çıkma, engelleme, reddetme",
+        "letter": "V",
+        "answer": "veto, veto etme, veto etmek"
+    },
+    {
+        "id": 838,
+        "question": "Dokunarak incelemek",
+        "letter": "Y",
+        "answer": "Yoklamak"
+    },
+    {
+        "id": 498,
+        "question": "Bir şeyin fiyatını artırma, bindirim",
+        "letter": "Z",
+        "answer": "zam"
+    }
+]

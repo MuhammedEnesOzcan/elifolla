@@ -1,0 +1,158 @@
+[
+    {
+        "id": 117,
+        "question": "Sayı boncuğu",
+        "letter": "A",
+        "answer": "abaküs"
+    },
+    {
+        "id": 1342,
+        "question": "Kuruluş veya yetkili kişilerce herhangi bir durumla ilgili olarak süreli veya süresiz yayımlanan duyuru",
+        "letter": "B",
+        "answer": "Bülten"
+    },
+    {
+        "id": 154,
+        "question": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
+        "letter": "C",
+        "answer": "cila"
+    },
+    {
+        "id": 790,
+        "question": "Düşman kıyılarına asker indirme işi",
+        "letter": "Ç",
+        "answer": "Çıkarma, çıkarma yapmak, çıkarma yapma"
+    },
+    {
+        "id": 1694,
+        "question": "ÇEŞİTLİ TONLARI BULUNAN KIZIL KAHVE AT RENGİ",
+        "letter": "D",
+        "answer": "Doru"
+    },
+    {
+        "id": 1488,
+        "question": "Orta Çağda, Katoliklerde katı din inançlarına karşı gelenleri cezalandırmak için kurulan kilise mahkemelerinin adı",
+        "letter": "E",
+        "answer": "Engizisyon, engizisyon mahkemesi, engizisyon mahkemeleri"
+    },
+    {
+        "id": 1292,
+        "question": "Bahçıvanlıkta, tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze ya da körpe çiçek",
+        "letter": "F",
+        "answer": "Fide"
+    },
+    {
+        "id": 22,
+        "question": "Ahmaklık, anlayışsızlık, kalın kafalılık, bönlük",
+        "letter": "G",
+        "answer": "gabavet"
+    },
+    {
+        "id": 589,
+        "question": "Bilinç, bellek",
+        "letter": "H",
+        "answer": "Hafıza"
+    },
+    {
+        "id": 1283,
+        "question": "Bir şeyi yapıp yapmamaya karar verme gücü, istenç",
+        "letter": "İ",
+        "answer": "İrade, iradiyet"
+    },
+    {
+        "id": 1914,
+        "question": "TERSANELERDE ÜZERİNDE GEMİ YAPILAN, ONARILAN VEYA GEMİYİ SUYA İNDİRİP SUDAN ÇIKARMAYA YARAYAN IZGARA",
+        "letter": "K",
+        "answer": "Kızak"
+    },
+    {
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
+        "letter": "L",
+        "answer": "leziz"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 352,
+        "question": "Takıntılı (kimse)",
+        "letter": "O",
+        "answer": "obsesif"
+    },
+    {
+        "id": 365,
+        "question": "Gösterilen çaba, itina",
+        "letter": "Ö",
+        "answer": "özen, özenme, özenmek"
+    },
+    {
+        "id": 78,
+        "question": "Eski Yunan'da, kent devletlerine verilen isim",
+        "letter": "P",
+        "answer": "polis"
+    },
+    {
+        "id": 399,
+        "question": "Mertebe, derece",
+        "letter": "R",
+        "answer": "rütbe"
+    },
+    {
+        "id": 417,
+        "question": "Buhar banyosu",
+        "letter": "S",
+        "answer": "sauna"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 1258,
+        "question": "Yaslanılamayan sandalye",
+        "letter": "T",
+        "answer": "Tabure"
+    },
+    {
+        "id": 447,
+        "question": "Uysal bir biçimde",
+        "letter": "U",
+        "answer": "uslu"
+    },
+    {
+        "id": 459,
+        "question": "Çok uçta, kenarda veya kıyıda köşede olan",
+        "letter": "Ü",
+        "answer": "ücra"
+    },
+    {
+        "id": 1300,
+        "question": "Para dalgalanmalarından yararlanarak kolay yoldan kazanç elde eden, spekülatör",
+        "letter": "V",
+        "answer": "Vurguncu"
+    },
+    {
+        "id": 1955,
+        "question": "ÇOĞU KİMSELERCE DUYULMUŞ, ÖĞRENİLMİŞ, KULLANILMIŞ VEYA BENİMSENMİŞ OLAN",
+        "letter": "Y",
+        "answer": "Yaygın"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

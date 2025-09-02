@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1296,
+        "question": "Elektrik enerjisini kimyasal enerji olarak depolayıp ihtiyaç durumunda bu enerjiyi tekrar elektrik enerjisine çeviren cihaz",
+        "letter": "A",
+        "answer": "Akü"
+    },
+    {
+        "id": 786,
+        "question": "Deneme ve günce yazılarıyla doldurulan sanal platform",
+        "letter": "B",
+        "answer": "Blog"
+    },
+    {
+        "id": 1530,
+        "question": "Adam öldürme",
+        "letter": "C",
+        "answer": "Cinayet"
+    },
+    {
+        "id": 542,
+        "question": "Ucu yassı ve eğri, büyük iğne",
+        "letter": "Ç",
+        "answer": "Çuvaldız"
+    },
+    {
+        "id": 1388,
+        "question": "Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva",
+        "letter": "D",
+        "answer": "Dübel"
+    },
+    {
+        "id": 214,
+        "question": "Yalnız belirli duraklarda duran tren, otobüs veya gemi",
+        "letter": "E",
+        "answer": "ekspres"
+    },
+    {
+        "id": 1673,
+        "question": "Verilmiş bir yargıyı kaldırma, bozma",
+        "letter": "F",
+        "answer": "Fesih, fesh etme, fesh etmek"
+    },
+    {
+        "id": 1745,
+        "question": "Zengin maden yatakları sebebiyle bir zamanlar \"altın sahili\" ismiyle anılan Afrika ülkesi",
+        "letter": "G",
+        "answer": "Gana, Ghana"
+    },
+    {
+        "id": 590,
+        "question": "Bir mala icra dairesi tarafından el konulması",
+        "letter": "H",
+        "answer": "Haciz, haciz işlemi, haczetmek, haciz etme, haciz etmek"
+    },
+    {
+        "id": 1605,
+        "question": "Birinin iyi niyetini kötüye kullanma",
+        "letter": "İ",
+        "answer": "İstismar, istismar etme, istismar etmek"
+    },
+    {
+        "id": 278,
+        "question": "Çocuk yuvası",
+        "letter": "K",
+        "answer": "kreş"
+    },
+    {
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
+        "letter": "L",
+        "answer": "leziz"
+    },
+    {
+        "id": 1213,
+        "question": "Başarılı, becerikli olmak, işin rast gitmesi",
+        "letter": "M",
+        "answer": "Muvaffak, muvaffak olma, muvaffak olmak"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 654,
+        "question": "Kendini kontrol edebilen sürücüsüz araç",
+        "letter": "O",
+        "answer": "Otonom, Otonom araç, Otonom araba"
+    },
+    {
+        "id": 1536,
+        "question": "Tatlı sularda yaşayan, kamçı biçimindeki uzantısı ile hareket eden mekik biçimindeki bir hücreli",
+        "letter": "Ö",
+        "answer": "Öglena"
+    },
+    {
+        "id": 1761,
+        "question": "Çalışma saati bitiminde işi bırakma",
+        "letter": "P",
+        "answer": "Paydos, paydos etme, paydos etmek"
+    },
+    {
+        "id": 393,
+        "question": "Gemi, tren, kışla, yatılı okul vb. yerlerde üst üste yapılan yatak yeri",
+        "letter": "R",
+        "answer": "ranza"
+    },
+    {
+        "id": 418,
+        "question": "Sefalet çeken, yoksul",
+        "letter": "S",
+        "answer": "sefil, sersefil"
+    },
+    {
+        "id": 699,
+        "question": "Ev, fabrika, baraj vb.nin yapımının sürdüğü yer",
+        "letter": "Ş",
+        "answer": "Şantiye, şantiye alanı"
+    },
+    {
+        "id": 1157,
+        "question": "Arnavutluk'un başkenti",
+        "letter": "T",
+        "answer": "Tiran, Tirana"
+    },
+    {
+        "id": 1513,
+        "question": "Bir nesnenin uzayda kapladığı yer, vüsat",
+        "letter": "U",
+        "answer": "Uzam"
+    },
+    {
+        "id": 861,
+        "question": "Sivrisineğe benzer çok küçük bir sinek türü",
+        "letter": "Ü",
+        "answer": "Üvez"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 1553,
+        "question": "Birçok kimsenin veya nesnenin bir araya gelmesiyle oluşan kalabalık, küme, kitle, kütle",
+        "letter": "Y",
+        "answer": "Yığın"
+    },
+    {
+        "id": 500,
+        "question": "İçine mektup veya başka kâğıtlar konulan kağıttan kese",
+        "letter": "Z",
+        "answer": "zarf"
+    }
+]

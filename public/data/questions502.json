@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1340,
+        "question": "Herhangi bir konuda yapılan ön hazırlık",
+        "letter": "A",
+        "answer": "Antrenman, antreman, alıştırma"
+    },
+    {
+        "id": 1484,
+        "question": "Bazı mikroplara karşı aşı veya doğal yolla kazanılmış direnç durumu",
+        "letter": "B",
+        "answer": "Bağışıklık"
+    },
+    {
+        "id": 1923,
+        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "letter": "C",
+        "answer": "Cıvık"
+    },
+    {
+        "id": 966,
+        "question": "Bir kimsenin, satın aldığı hizmet veya ürün karşılığında para yerine verdiği ve karşılığı banka hesabından ödenen yazılı belge",
+        "letter": "Ç",
+        "answer": "Çek"
+    },
+    {
+        "id": 193,
+        "question": "Sıkıştırılmış hava içine püskürtülen yakıtla çalışan motor",
+        "letter": "D",
+        "answer": "dizel, dizel motor"
+    },
+    {
+        "id": 1409,
+        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
+        "letter": "E",
+        "answer": "Ergonomik"
+    },
+    {
+        "id": 569,
+        "question": "Bir kişiyi ya da kurumu finanse etmek",
+        "letter": "F",
+        "answer": "Fon, Fonlama, Fonlamak"
+    },
+    {
+        "id": 1964,
+        "question": "DİVAN EDEBİYATINDA 5-10 BEYİT ARASINDA DEĞİŞEN, UYAKLI, GENELLİKLE LİRİK KONULARDA YAZILAN NAZIM BİÇİMİ",
+        "letter": "G",
+        "answer": "GAZEL"
+    },
+    {
+        "id": 593,
+        "question": "Uçan balonların içinde bulunan gaz",
+        "letter": "H",
+        "answer": "Helyum, Helyum gazı"
+    },
+    {
+        "id": 952,
+        "question": "Bir köleyi özgürlüğüne kavuşturma",
+        "letter": "İ",
+        "answer": "itak"
+    },
+    {
+        "id": 1777,
+        "question": "Genellikle spor aktivitesinde kullanılan, tek kişilik, uzun, dar, kürekle çekilerek giden, hafif tekne",
+        "letter": "K",
+        "answer": "Kano"
+    },
+    {
+        "id": 1529,
+        "question": "Kişiye alay yollu takılan takma ad",
+        "letter": "L",
+        "answer": "Lakap, lakab"
+    },
+    {
+        "id": 1631,
+        "question": "Bir ilgi veya benzetme sonucu gerçek anlamından başka anlamda kullanılan söz",
+        "letter": "M",
+        "answer": "Mecaz, mecazi, mecazen"
+    },
+    {
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
+        "letter": "N",
+        "answer": "nihai"
+    },
+    {
+        "id": 999,
+        "question": "Klavyelilerden farklı ses ton ve modlarına sahip olabilen çalgı",
+        "letter": "O",
+        "answer": "org"
+    },
+    {
+        "id": 1478,
+        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "letter": "Ö",
+        "answer": "Özerk"
+    },
+    {
+        "id": 382,
+        "question": "Ezerek veya süzgeçten geçirilerek elde edilmiş gıda",
+        "letter": "P",
+        "answer": "püre"
+    },
+    {
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
+        "letter": "R",
+        "answer": "Rivayet"
+    },
+    {
+        "id": 1779,
+        "question": "NESNE ÖZELLİKLERİ BULUNMAYAN, DUYULARLA ALGILANMAYAN",
+        "letter": "S",
+        "answer": "Soyut"
+    },
+    {
+        "id": 426,
+        "question": "Açık ve ayrıntılı anlatma",
+        "letter": "Ş",
+        "answer": "şerh"
+    },
+    {
+        "id": 1157,
+        "question": "Arnavutluk'un başkenti",
+        "letter": "T",
+        "answer": "Tiran, Tirana"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 1473,
+        "question": "Oyunda, yenilmek, kaybetmek",
+        "letter": "Ü",
+        "answer": "Ütülmek"
+    },
+    {
+        "id": 771,
+        "question": "Araç, taşıt anlamlarındaki söz",
+        "letter": "V",
+        "answer": "Vasıta"
+    },
+    {
+        "id": 1501,
+        "question": "Parmağa geçirilen genellikle metal halka",
+        "letter": "Y",
+        "answer": "Yüzük"
+    },
+    {
+        "id": 853,
+        "question": "Kabe yakınında bulunan kuyu ve bu kuyunun Müslümanlarca kutsal sayılan suyu",
+        "letter": "Z",
+        "answer": "Zemzem"
+    }
+]

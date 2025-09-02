@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1170,
+        "question": "Geminin kaza ya da fırtına sebebiyle ters dönmesi",
+        "letter": "A",
+        "answer": "Alabora, alabora olması, alabora olma, alabora olmak"
+    },
+    {
+        "id": 150,
+        "question": "İstemeyerek bir yere gitme durumunda kalmak, dibe düşmek",
+        "letter": "B",
+        "answer": "boylamak"
+    },
+    {
+        "id": 154,
+        "question": "Bir şeyi parlatmak için kullanılan kimyasal bileşik",
+        "letter": "C",
+        "answer": "cila"
+    },
+    {
+        "id": 1548,
+        "question": "Eli veya kolu sakat olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çolak"
+    },
+    {
+        "id": 1210,
+        "question": "Ayın tamamlanmış hali, parlak tam ay",
+        "letter": "D",
+        "answer": "Dolunay"
+    },
+    {
+        "id": 212,
+        "question": "Bütünleşmiş, dahili",
+        "letter": "E",
+        "answer": "entegre"
+    },
+    {
+        "id": 570,
+        "question": "Olağandan bol, aşırı çoklukta bulunma durumu",
+        "letter": "F",
+        "answer": "Furya, fazla, fazlaca, fazlalık"
+    },
+    {
+        "id": 579,
+        "question": "Su veya hava akıntısının dönerek ve çukurlaşarak yaptığı çevrinti",
+        "letter": "G",
+        "answer": "Girdap"
+    },
+    {
+        "id": 590,
+        "question": "Bir mala icra dairesi tarafından el konulması",
+        "letter": "H",
+        "answer": "Haciz, haciz işlemi, haczetmek, haciz etme, haciz etmek"
+    },
+    {
+        "id": 597,
+        "question": "Değerli, küçük, sert, sedef renginde süs tanesi",
+        "letter": "İ",
+        "answer": "İnci, inci tanesi"
+    },
+    {
+        "id": 1783,
+        "question": "KİTABIN, DERGİNİN İÇERİĞİNİ ÖZETLEYEN DIŞ YÜZÜ",
+        "letter": "K",
+        "answer": "Kapak"
+    },
+    {
+        "id": 617,
+        "question": "Çok dar bir ışık huzmesi üreten optik araç",
+        "letter": "L",
+        "answer": "Lazer"
+    },
+    {
+        "id": 630,
+        "question": "Dayanaksız, delilsiz, arkası boş olan",
+        "letter": "M",
+        "answer": "Mesnetsiz, mesnetsiz iddia"
+    },
+    {
+        "id": 330,
+        "question": "Kullanılması hemen mümkün olan para, likit",
+        "letter": "N",
+        "answer": "nakit, nakit para"
+    },
+    {
+        "id": 350,
+        "question": "Türlü renklerde tırnak cilası",
+        "letter": "O",
+        "answer": "oje"
+    },
+    {
+        "id": 658,
+        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
+        "letter": "Ö",
+        "answer": "Özenti, Özentilik, Özenme, Özenmek"
+    },
+    {
+        "id": 78,
+        "question": "Eski Yunan'da, kent devletlerine verilen isim",
+        "letter": "P",
+        "answer": "polis"
+    },
+    {
+        "id": 1037,
+        "question": "Aruz ölçülerinden biri",
+        "letter": "R",
+        "answer": "Remel"
+    },
+    {
+        "id": 829,
+        "question": "Bütün geceyi uyumadan geçirmek",
+        "letter": "S",
+        "answer": "Sabahlama, Sabahlamak"
+    },
+    {
+        "id": 1683,
+        "question": "Çoğunlukla saç yıkamakta kullanılan, kokulu ve bol köpüklü bir tür sıvı sabun",
+        "letter": "Ş",
+        "answer": "Şampuan"
+    },
+    {
+        "id": 1875,
+        "question": "İÇİNDE BULUNMASI GEREKEN ŞEYLER BULUNMAYAN, BOMBOŞ",
+        "letter": "T",
+        "answer": "Tamtakır"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
+        "letter": "Ü",
+        "answer": "ücret"
+    },
+    {
+        "id": 863,
+        "question": "Tahıl tanelerinin damıtılmasıyla elde edilen alkollü içki",
+        "letter": "V",
+        "answer": "Votka, vodka"
+    },
+    {
+        "id": 839,
+        "question": "Sayıyı yukarı ya da aşağı değiştirerek tüm sayı haline getirme",
+        "letter": "Y",
+        "answer": "Yuvarlama, Yuvarlamak"
+    },
+    {
+        "id": 504,
+        "question": "Savaşta kazanılan başarı",
+        "letter": "Z",
+        "answer": "zafer"
+    }
+]

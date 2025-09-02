@@ -1,0 +1,158 @@
+[
+    {
+        "id": 518,
+        "question": "Boyanacak yerlere boyadan önce sürülen kat",
+        "letter": "A",
+        "answer": "Astar, Astarı"
+    },
+    {
+        "id": 149,
+        "question": "`Aferin, yaşa` anlamlarında beğeni bildiren bir söz",
+        "letter": "B",
+        "answer": "bravo"
+    },
+    {
+        "id": 1357,
+        "question": "Elindeki parayı harcamaya kıyamayan",
+        "letter": "C",
+        "answer": "Cimri, cimrilik"
+    },
+    {
+        "id": 966,
+        "question": "Bir kimsenin, satın aldığı hizmet veya ürün karşılığında para yerine verdiği ve karşılığı banka hesabından ödenen yazılı belge",
+        "letter": "Ç",
+        "answer": "Çek"
+    },
+    {
+        "id": 1388,
+        "question": "Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva",
+        "letter": "D",
+        "answer": "Dübel"
+    },
+    {
+        "id": 1723,
+        "question": "Enfeksiyon sonucu hasta olan kişi, enfenksiyon bulaşmış",
+        "letter": "E",
+        "answer": "Enfekte"
+    },
+    {
+        "id": 21,
+        "question": "Ağlayıp sızlama, bağırıp çağırma",
+        "letter": "F",
+        "answer": "Feryat, Figan, Feryat figan"
+    },
+    {
+        "id": 578,
+        "question": "Dil bilgisi",
+        "letter": "G",
+        "answer": "Gramer"
+    },
+    {
+        "id": 251,
+        "question": "Ayak bileğine takılan bilezik",
+        "letter": "H",
+        "answer": "halhal"
+    },
+    {
+        "id": 600,
+        "question": "Bir yeri ele geçirme",
+        "letter": "İ",
+        "answer": "İşgal, işgal etme, işgal etmek"
+    },
+    {
+        "id": 1925,
+        "question": "Kertenkelenin avcısından kurtulmak için geride bıraktığı uzvu",
+        "letter": "K",
+        "answer": "Kuyruk, Kuyruğu"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 816,
+        "question": "Yapılan iyiliğe karşı gönül borcu olan kişi",
+        "letter": "M",
+        "answer": "Minnettar"
+    },
+    {
+        "id": 328,
+        "question": "Tarafsız, yansız, eşit ya da ortada",
+        "letter": "N",
+        "answer": "nötr"
+    },
+    {
+        "id": 761,
+        "question": "Canlıyı oluşturan organlar bütünü",
+        "letter": "O",
+        "answer": "Organizma"
+    },
+    {
+        "id": 1480,
+        "question": "Kötü veya yanlış bir şeyi önleyecek yol, tedbir",
+        "letter": "Ö",
+        "answer": "Önlem"
+    },
+    {
+        "id": 670,
+        "question": "Kişiye onur nişanesi olarak verilen küçük levha",
+        "letter": "P",
+        "answer": "Plaket"
+    },
+    {
+        "id": 676,
+        "question": "Emek harcamadan elde edilen kazanım",
+        "letter": "R",
+        "answer": "Rant, Rantçılık"
+    },
+    {
+        "id": 1826,
+        "question": "EN AZ İKİ KİŞİ ARASINDA DÜZENLENEN, BİR TARAFIN ÖBÜRÜNE ÖDEME YAPMA YÜKÜMLÜLÜĞÜNÜ BEYAN ETTİĞİ KÂĞIT",
+        "letter": "S",
+        "answer": "Senet"
+    },
+    {
+        "id": 697,
+        "question": "Bir diğer adı \"Enjektör\" olan nesne",
+        "letter": "Ş",
+        "answer": "Şırınga"
+    },
+    {
+        "id": 1059,
+        "question": "Doğu Anadolu ile Azerbaycan'da çalınan bir çalgı türü",
+        "letter": "T",
+        "answer": "tar"
+    },
+    {
+        "id": 1558,
+        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "letter": "U",
+        "answer": "Ulus"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 478,
+        "question": "Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç",
+        "letter": "V",
+        "answer": "vinç"
+    },
+    {
+        "id": 1579,
+        "question": "Bir işte hiyerarşik düzende daha üstte bulunan, karar verme hakkına sahip olan, daha tecrübeli kimse",
+        "letter": "Y",
+        "answer": "Yetkili, yetki sahibi"
+    },
+    {
+        "id": 1720,
+        "question": "Olayların oluş ve akış sırasını belirleyen kavram",
+        "letter": "Z",
+        "answer": "Zaman, zaman kavramı"
+    }
+]

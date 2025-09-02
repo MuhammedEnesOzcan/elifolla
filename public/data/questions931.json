@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1659,
+        "question": "Konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak",
+        "letter": "A",
+        "answer": "Ağırlamak, ağırlama"
+    },
+    {
+        "id": 42,
+        "question": "Türk halk müziğinde en çok popüler telli çalgı",
+        "letter": "B",
+        "answer": "Bağlama"
+    },
+    {
+        "id": 1305,
+        "question": "Yurt, baba ocağı gibi çok sevilen şeylerden ayrılmış olan, uzak kalmış olan",
+        "letter": "C",
+        "answer": "Cüda"
+    },
+    {
+        "id": 546,
+        "question": "\"Dörtte bir\" olan",
+        "letter": "Ç",
+        "answer": "Çeyrek, çeyreği"
+    },
+    {
+        "id": 1201,
+        "question": "Elektrik devresinde ampulün takıldığı devre elemanı",
+        "letter": "D",
+        "answer": "Duy, duyu"
+    },
+    {
+        "id": 79,
+        "question": "Kırkpınar yağlı güreşlerinin yapıldığı ilimiz",
+        "letter": "E",
+        "answer": "edirne"
+    },
+    {
+        "id": 570,
+        "question": "Olağandan bol, aşırı çoklukta bulunma durumu",
+        "letter": "F",
+        "answer": "Furya, fazla, fazlaca, fazlalık"
+    },
+    {
+        "id": 1429,
+        "question": "Toprak altına gömülerek saklanmış para veya değerli şeyler, define",
+        "letter": "G",
+        "answer": "Gömü"
+    },
+    {
+        "id": 248,
+        "question": "Dışta kalmak üzere, dışında sayılmak üzere, müstesna",
+        "letter": "H",
+        "answer": "hariç"
+    },
+    {
+        "id": 268,
+        "question": "Kabul etmeme, tanımama",
+        "letter": "İ",
+        "answer": "inkar, inkar etme, inkar etmek"
+    },
+    {
+        "id": 1818,
+        "question": "Alışverişte durgunluk",
+        "letter": "K",
+        "answer": "Kesat, kesatlık, kesat iş, kesat işler"
+    },
+    {
+        "id": 985,
+        "question": "Tanrı'nın sevgi ve ilgisinden yoksun olma, beddua",
+        "letter": "L",
+        "answer": "Lanet, lanetleme, lanetlenme, lanetlenmek"
+    },
+    {
+        "id": 319,
+        "question": "Bir olayın, bir durumun etkisinde veya karşısında bulunan",
+        "letter": "M",
+        "answer": "maruz, maruz kalan"
+    },
+    {
+        "id": 1256,
+        "question": "Müzik seslerinin yazıya dökülmüş hali",
+        "letter": "N",
+        "answer": "Nota, notalandırma, notalandırmak, notalar"
+    },
+    {
+        "id": 1001,
+        "question": "Erkek çocuk",
+        "letter": "O",
+        "answer": "Oğlan"
+    },
+    {
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
+        "letter": "Ö",
+        "answer": "Öbür, Öbürü"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 764,
+        "question": "Selam ya da teşekkür anlamına eğilme ya da diz kırma biçiminde yapılan hareket",
+        "letter": "R",
+        "answer": "Reverans"
+    },
+    {
+        "id": 418,
+        "question": "Sefalet çeken, yoksul",
+        "letter": "S",
+        "answer": "sefil, sersefil"
+    },
+    {
+        "id": 1054,
+        "question": "Bir makinenin dönme hareketini öteki parçalara aktaran ve ucuna dişli çarklar, tekerlekler veya pervane bağlanan demir mil",
+        "letter": "Ş",
+        "answer": "Şaft"
+    },
+    {
+        "id": 710,
+        "question": "Cep telefonu operatörlerinin belirledikleri fiyatlandırma sistemi",
+        "letter": "T",
+        "answer": "Tarife"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 462,
+        "question": "Tanınmış, şöhretli, meşhur",
+        "letter": "Ü",
+        "answer": "ünlü"
+    },
+    {
+        "id": 475,
+        "question": "Gözlem ve deneye dayalı araştırmanın sonuçları",
+        "letter": "V",
+        "answer": "veri, veri seti"
+    },
+    {
+        "id": 1576,
+        "question": "\"Aksi takdirde\" anlamında kullanılan bir söz",
+        "letter": "Y",
+        "answer": "Yoksa"
+    },
+    {
+        "id": 498,
+        "question": "Bir şeyin fiyatını artırma, bindirim",
+        "letter": "Z",
+        "answer": "zam"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 107,
+        "question": "Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri",
+        "letter": "A",
+        "answer": "akran"
+    },
+    {
+        "id": 1349,
+        "question": "Bankacılıkta bir varlığın yetkili otoritelerin izni olmadan sahibi tarafından kullanılamaması durumu",
+        "letter": "B",
+        "answer": "Blokaj, bloke, bloke koyma, bloke koymak"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 1452,
+        "question": "Yenilen yaş veya kuru yemiş vb. şeyler",
+        "letter": "Ç",
+        "answer": "Çerez, çerezler"
+    },
+    {
+        "id": 191,
+        "question": "Herhangi bir olayın birden fazla tekrarlanması",
+        "letter": "D",
+        "answer": "döngü, devir"
+    },
+    {
+        "id": 1416,
+        "question": "Araçlarla koruma işi",
+        "letter": "E",
+        "answer": "Eskortluk, eskort"
+    },
+    {
+        "id": 1674,
+        "question": "Malzemesi marka sahibi tarafından karşılanarak başka bir firmaya yaptırılan mal",
+        "letter": "F",
+        "answer": "Fason"
+    },
+    {
+        "id": 1436,
+        "question": "Yerkürenin geometrik olmayan gerçek biçimi",
+        "letter": "G",
+        "answer": "Geoit"
+    },
+    {
+        "id": 1175,
+        "question": "Görev ve yapı bakımından canlılığın bütün özelliklerini gösteren en küçük birim",
+        "letter": "H",
+        "answer": "Hücre"
+    },
+    {
+        "id": 1604,
+        "question": "Bir kimsenin ya da bir şeyin benzerlerinden ayrı tutulması durumu",
+        "letter": "İ",
+        "answer": "İstisna, istisnai"
+    },
+    {
+        "id": 1499,
+        "question": "Yanan şeylerden artakalan toz madde",
+        "letter": "K",
+        "answer": "Kül, küller"
+    },
+    {
+        "id": 620,
+        "question": "Fazlalık, gereksiz, yersiz",
+        "letter": "L",
+        "answer": "Lüzumsuz, Luzumsuz"
+    },
+    {
+        "id": 1633,
+        "question": "Toprak altına, üstüne veya suyun içine yerleştirilen patlayıcı madde",
+        "letter": "M",
+        "answer": "Mayın"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "letter": "Ö",
+        "answer": "özel"
+    },
+    {
+        "id": 957,
+        "question": "Canlı bir organizmanın oluşturduğu ona özel bir renk veren kimyasal madde",
+        "letter": "P",
+        "answer": "pigment"
+    },
+    {
+        "id": 1234,
+        "question": "Marie Curie tarafından bulunan radyoaktif element",
+        "letter": "R",
+        "answer": "Radyum"
+    },
+    {
+        "id": 63,
+        "question": "Garri Kasparov'un \"Büyük Usta\" unvanına sahip olduğu oyun",
+        "letter": "S",
+        "answer": "Satranç"
+    },
+    {
+        "id": 697,
+        "question": "Bir diğer adı \"Enjektör\" olan nesne",
+        "letter": "Ş",
+        "answer": "Şırınga"
+    },
+    {
+        "id": 1649,
+        "question": "Herhangi bir kas kümesinin irade dışı hareketi",
+        "letter": "T",
+        "answer": "Tik"
+    },
+    {
+        "id": 1067,
+        "question": "Uğraşılan şey, iş güç, meşgale",
+        "letter": "U",
+        "answer": "Uğraşı"
+    },
+    {
+        "id": 1134,
+        "question": "Bir devletin egemenliği altında bulunan toprakların tümü, diyar, memleket",
+        "letter": "Ü",
+        "answer": "ülke"
+    },
+    {
+        "id": 886,
+        "question": "Çiçek Koymak İçin Kullanılan Kap",
+        "letter": "V",
+        "answer": "Vazo"
+    },
+    {
+        "id": 953,
+        "question": "Tibet öküzü",
+        "letter": "Y",
+        "answer": "yak, yak sığırı"
+    },
+    {
+        "id": 855,
+        "question": "Değerli Bir Taş",
+        "letter": "Z",
+        "answer": "Zümrüt, zumrut"
+    }
+]

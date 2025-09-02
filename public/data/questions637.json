@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1338,
+        "question": "Kazı bilimi",
+        "letter": "A",
+        "answer": "Arkeoloji"
+    },
+    {
+        "id": 1770,
+        "question": "DEVLET ADINA DAVALAR AÇAN KAMU GÖREVLİLERİNİN EN ÜST DÜZEYDE OLANI",
+        "letter": "B",
+        "answer": "Başsavcı"
+    },
+    {
+        "id": 1367,
+        "question": "Bireye, üreme işinde ayrı bir rol veren ve erkekle dişiyi ayırt ettiren özellik",
+        "letter": "C",
+        "answer": "Cinsiyet"
+    },
+    {
+        "id": 790,
+        "question": "Düşman kıyılarına asker indirme işi",
+        "letter": "Ç",
+        "answer": "Çıkarma, çıkarma yapmak, çıkarma yapma"
+    },
+    {
+        "id": 1393,
+        "question": "Taşıma araçlarındaki kasa",
+        "letter": "D",
+        "answer": "Dorse"
+    },
+    {
+        "id": 1411,
+        "question": "Zorluğa sahip olarak düz olmayan bir yeri bulunan arazi türü",
+        "letter": "E",
+        "answer": "Engebeli, engebeli arazi"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 578,
+        "question": "Dil bilgisi",
+        "letter": "G",
+        "answer": "Gramer"
+    },
+    {
+        "id": 248,
+        "question": "Dışta kalmak üzere, dışında sayılmak üzere, müstesna",
+        "letter": "H",
+        "answer": "hariç"
+    },
+    {
+        "id": 270,
+        "question": "Çözülmesi kolay düğüm, eğreti düğüm",
+        "letter": "İ",
+        "answer": "ilmek"
+    },
+    {
+        "id": 1814,
+        "question": "KAFA DERİSİNDE OLUŞAN KÜÇÜK, BEYAZ PULCUKLAR",
+        "letter": "K",
+        "answer": "Kepek"
+    },
+    {
+        "id": 928,
+        "question": "Çıkış yeri kolaylıkla bulunamayacak kadar karışık koridorları olan yapı",
+        "letter": "L",
+        "answer": "Labirent"
+    },
+    {
+        "id": 1622,
+        "question": "Hayatın güldürücü yönünü ortaya çıkaran sanat türü",
+        "letter": "M",
+        "answer": "Mizah"
+    },
+    {
+        "id": 339,
+        "question": "Tavsiye, öğüt",
+        "letter": "N",
+        "answer": "nasihat"
+    },
+    {
+        "id": 1739,
+        "question": "Kuruluşları ortak bir amaç için bir araya getirme, düzenleme",
+        "letter": "O",
+        "answer": "Organizasyon, Organize etme, Organize etmek"
+    },
+    {
+        "id": 1008,
+        "question": "Yasalarla belirlenmeyen, halkın kendiliğinden uyduğu gelenek",
+        "letter": "Ö",
+        "answer": "Örf"
+    },
+    {
+        "id": 1179,
+        "question": "Zehrin etkisini ortadan kaldırabilme özelliği olan madde ",
+        "letter": "P",
+        "answer": "Panzehir"
+    },
+    {
+        "id": 1030,
+        "question": "Bir mal veya paranın, belirli bir süre içinde emek verilmeksizin sağladığı gelir",
+        "letter": "R",
+        "answer": "Rant"
+    },
+    {
+        "id": 831,
+        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "letter": "S",
+        "answer": "Seküler"
+    },
+    {
+        "id": 423,
+        "question": "Bir çıkar karşılığı, uzlaşarak bir iş yapma, aldatma",
+        "letter": "Ş",
+        "answer": "şike, şike yapma, şike yapmak"
+    },
+    {
+        "id": 1717,
+        "question": "Atmosferin yere temas eden en alt katı",
+        "letter": "T",
+        "answer": "Troposfer"
+    },
+    {
+        "id": 1073,
+        "question": "Akla uygun, yalnız akla dayanan, akli, rasyonel",
+        "letter": "U",
+        "answer": "Ussal"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 480,
+        "question": "Yapılması gerekli olan",
+        "letter": "V",
+        "answer": "vacip"
+    },
+    {
+        "id": 772,
+        "question": "Genellikle eylemin çekiciliğini arttıran engelleyici kural",
+        "letter": "Y",
+        "answer": "Yasak"
+    },
+    {
+        "id": 1144,
+        "question": "Kilise hizmetini gören ve çan çalan kimse",
+        "letter": "Z",
+        "answer": "Zangoç"
+    }
+]

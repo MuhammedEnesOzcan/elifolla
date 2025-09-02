@@ -1,158 +1,158 @@
 [
     {
-        "id": 1884,
-        "question": "ECDADIMIZDAN MİRAS ANONİM ÖĞÜTLERİN HER BİRİ",
+        "id": 118,
+        "question": "Genellikle üzeri siperli masa lambası veya ayaklı lamba",
         "letter": "A",
-        "answer": "Atasözü"
+        "answer": "abajur"
     },
     {
-        "id": 1348,
-        "question": "Kaldırımların kenarlarında bulunan taşlar",
+        "id": 1085,
+        "question": "Bateri çalmaya yarayan ince, kısa çubuk",
         "letter": "B",
-        "answer": "Bordür"
+        "answer": "Baget"
     },
     {
-        "id": 1370,
-        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
+        "id": 1359,
+        "question": "Hekimliğin deri hastalıkları ile ilgili dalı, dermatoloji",
         "letter": "C",
-        "answer": "Cumhuriyet"
+        "answer": "Cildiye"
     },
     {
-        "id": 173,
-        "question": "Badem, kayısı, erik vb. tek çekirdekli yemişlerin körpeyken yenilebilen ham şekli",
+        "id": 167,
+        "question": "Kumluk, susuz ve ıssız geniş arazi, sahra, badiye",
         "letter": "Ç",
-        "answer": "çağla"
+        "answer": "çöl"
     },
     {
-        "id": 552,
-        "question": "Her şeyi zamanında yapmaya özen gösteren",
+        "id": 941,
+        "question": "Ermenistan’ın para birimi",
         "letter": "D",
-        "answer": "Dakik"
+        "answer": "dram"
     },
     {
-        "id": 79,
-        "question": "Kırkpınar yağlı güreşlerinin yapıldığı ilimiz",
+        "id": 1798,
+        "question": "İSLAM'DA İBADET ÇAĞRISI",
         "letter": "E",
-        "answer": "edirne"
+        "answer": "Ezan"
     },
     {
-        "id": 568,
-        "question": "Aynı olmayan, değişik",
+        "id": 1713,
+        "question": "Karınca asidi olarak bilinen kimyadaki asit türü",
         "letter": "F",
-        "answer": "Farklı"
+        "answer": "Formik, Formik asit, Formik asid"
     },
     {
-        "id": 1427,
-        "question": "Amaç, hedef",
+        "id": 1821,
+        "question": "Sindirim sisteminden sıvı veya hava geçerken bir iç ses çıkarma olayı",
         "letter": "G",
-        "answer": "Gaye"
+        "answer": "Guruldama, Guruldamak"
     },
     {
-        "id": 591,
-        "question": "Merkezi vücut sıcaklığının 35°C altına düşmesi",
+        "id": 806,
+        "question": "Monarşik aile",
         "letter": "H",
-        "answer": "Hipotermi"
+        "answer": "Hanedan, Hanedanlık"
     },
     {
-        "id": 599,
-        "question": "Açıkça bildirme, açıkça duyurma",
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
         "letter": "İ",
-        "answer": "İlan, ilan etme, ilan etmek, ilan verme, ilan vermek"
+        "answer": "İşletme"
     },
     {
-        "id": 278,
-        "question": "Çocuk yuvası",
+        "id": 1818,
+        "question": "Alışverişte durgunluk",
         "letter": "K",
-        "answer": "kreş"
+        "answer": "Kesat, kesatlık, kesat iş, kesat işler"
     },
     {
-        "id": 298,
-        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "id": 306,
+        "question": "Deniz veya ırmaklarda birdenbire derinleşen yer",
         "letter": "L",
-        "answer": "levha"
+        "answer": "longoz, longuz"
     },
     {
-        "id": 1621,
-        "question": "Hareketli, taşınabilir",
+        "id": 1249,
+        "question": "Hapiste olan, hakkında hüküm kesilmiş kimse",
         "letter": "M",
-        "answer": "Mobil"
+        "answer": "Mahkum"
     },
     {
-        "id": 993,
-        "question": "Hoş olmayan, hoşa gitmeyen, kötü, çirkin",
+        "id": 644,
+        "question": "Atomun çekirdeğinden elde edilen bir enerji türü",
         "letter": "N",
-        "answer": "Nahoş"
+        "answer": "Nükleer, Nükleer enerji"
     },
     {
-        "id": 1515,
-        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
         "letter": "O",
-        "answer": "Oyuncu"
+        "answer": "Orada, orda"
     },
     {
-        "id": 365,
-        "question": "Gösterilen çaba, itina",
+        "id": 1538,
+        "question": "Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak",
         "letter": "Ö",
-        "answer": "özen, özenme, özenmek"
+        "answer": "Örtmek"
     },
     {
-        "id": 379,
-        "question": "Bir işin gerçekleştirilmesi için uyulması tasarlanan düzen",
+        "id": 667,
+        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
         "letter": "P",
-        "answer": "plan"
+        "answer": "Paraf, paraf atma, paraf atmak"
     },
     {
-        "id": 387,
-        "question": "Zarara uğrama tehlikesi",
+        "id": 1026,
+        "question": "Şeker kamışından şeker yapılırken elde edilen öz suyun, melasla mayalandırılarak kurutulmasıyla elde edilen alkollü sert içki",
         "letter": "R",
-        "answer": "risk"
+        "answer": "Rom"
     },
     {
-        "id": 1690,
-        "question": "GENELLİKLE MEYVE VEYA MEYVE SULARINDAN YAPILAN, FRANSA MENŞELİ DONDURULMUŞ BİR TATLI",
+        "id": 1824,
+        "question": "Bir şeyin yalnız kenar çizgileriyle tek renk olarak beliren görüntüsü, gölge",
         "letter": "S",
-        "answer": "SORBE"
+        "answer": "Silüet"
     },
     {
-        "id": 1054,
-        "question": "Bir makinenin dönme hareketini öteki parçalara aktaran ve ucuna dişli çarklar, tekerlekler veya pervane bağlanan demir mil",
+        "id": 1684,
+        "question": "Otomobil iç lastiği",
         "letter": "Ş",
-        "answer": "Şaft"
+        "answer": "Şambrel"
     },
     {
-        "id": 767,
-        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "id": 1065,
+        "question": "Ayağın alt yüzü, aya",
         "letter": "T",
-        "answer": "Takılmak"
+        "answer": "taban"
     },
     {
-        "id": 455,
-        "question": "Açıkgöz, kurnaz, cingöz",
+        "id": 453,
+        "question": "Bir devlete vatandaşlık bağıyla bağlı olma durumu",
         "letter": "U",
-        "answer": "uyanık"
+        "answer": "uyruk"
     },
     {
-        "id": 1314,
-        "question": "Manevi hazdan yoksunluk",
+        "id": 849,
+        "question": "Bilim yada sanat alanında üstün bilgisi ve yeteneği olan kimse",
         "letter": "Ü",
-        "answer": "Üzenti"
+        "answer": "Üstad, üstat"
     },
     {
-        "id": 1304,
-        "question": "Şehrin mülki amiri",
+        "id": 1506,
+        "question": "Geliş, gelme",
         "letter": "V",
-        "answer": "Vali, valilik"
+        "answer": "Vürut"
     },
     {
-        "id": 486,
-        "question": "Hayvan yiyeceği",
+        "id": 1553,
+        "question": "Birçok kimsenin veya nesnenin bir araya gelmesiyle oluşan kalabalık, küme, kitle, kütle",
         "letter": "Y",
-        "answer": "yem"
+        "answer": "Yığın"
     },
     {
-        "id": 1956,
-        "question": "Ağaçlardan elde edilen, eriyiği yapıştırıcı olarak kullanılan renksiz veya sarı kırmızımtırak renkte biçimsiz madde",
+        "id": 857,
+        "question": "Çiçek Açan - Çoban Yıldızı (Venüs)",
         "letter": "Z",
-        "answer": "Zamk"
+        "answer": "Zühre, zuhre"
     }
 ]

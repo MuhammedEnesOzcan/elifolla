@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1082,
+        "question": "Anıtsal",
+        "letter": "A",
+        "answer": "Abidevi"
+    },
+    {
+        "id": 1862,
+        "question": "BİR EYLEMİ PERVASIZCA, ÇEKİNMEDEN VE SAKINMADAN YAPMAK",
+        "letter": "B",
+        "answer": "Bodoslama"
+    },
+    {
+        "id": 1532,
+        "question": "Ezilmiş havuç içine fındık, şeker vb. eklenerek yapılan bir tür tatlı",
+        "letter": "C",
+        "answer": "Cezerye"
+    },
+    {
+        "id": 792,
+        "question": "Bodur şelale",
+        "letter": "Ç",
+        "answer": "Çağlayan"
+    },
+    {
+        "id": 1246,
+        "question": "Dumanı ve kokuları toplayıp bacaya vermeye yarayan mutfak aracı",
+        "letter": "D",
+        "answer": "Davlumbaz, davlunbaz"
+    },
+    {
+        "id": 206,
+        "question": "Gerçekleştirilmesi zamana bağlı istek",
+        "letter": "E",
+        "answer": "emel"
+    },
+    {
+        "id": 1968,
+        "question": "KURAL İHLALİ SONRASI, KALEYE DOĞRUDAN ŞUT ÇEKİLEN SERBEST VURUŞ",
+        "letter": "F",
+        "answer": "FRİKİK"
+    },
+    {
+        "id": 233,
+        "question": "Suya batma, boğulma",
+        "letter": "G",
+        "answer": "gark, gark etme"
+    },
+    {
+        "id": 1496,
+        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "letter": "H",
+        "answer": "Hamak"
+    },
+    {
+        "id": 267,
+        "question": "Gereksiz yere para, zaman, emek vb.ni harcama, savurganlık",
+        "letter": "İ",
+        "answer": "israf, israf etme, israf etmek"
+    },
+    {
+        "id": 611,
+        "question": "Giyilen kıyafetlerin birbiriyle uyum içinde olması",
+        "letter": "K",
+        "answer": "Kombin, Kombin yapma, kombin yapmak"
+    },
+    {
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
+        "letter": "L",
+        "answer": "Larva, larva dönemi"
+    },
+    {
+        "id": 57,
+        "question": "Türkçede adı tek heceli olan tek ay",
+        "letter": "M",
+        "answer": "mart"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
+        "letter": "O",
+        "answer": "onay, onaylama, onaylamak"
+    },
+    {
+        "id": 356,
+        "question": "Bir başarı karşılığında verilen armağan, mükâfat",
+        "letter": "Ö",
+        "answer": "ödül"
+    },
+    {
+        "id": 1916,
+        "question": "MATEMATİKTE, BAYAĞI KESİRLERDEKİ ÇİZGİ ALTI SAYISI",
+        "letter": "P",
+        "answer": "Payda"
+    },
+    {
+        "id": 1030,
+        "question": "Bir mal veya paranın, belirli bir süre içinde emek verilmeksizin sağladığı gelir",
+        "letter": "R",
+        "answer": "Rant"
+    },
+    {
+        "id": 1895,
+        "question": "ÖZELLİKLE MANAV VE PAZARDA MÜŞTERİNİN TERCİHİNİ TEMEL ALAN SATIŞ YÖNTEMİ",
+        "letter": "S",
+        "answer": "Seçmece"
+    },
+    {
+        "id": 695,
+        "question": "Motorlu taşıt iskeleti",
+        "letter": "Ş",
+        "answer": "Şasi, Şase"
+    },
+    {
+        "id": 1554,
+        "question": "Laboratuvarlarda türlü işlerde kullanılan, bir ucu kapalı cam boru",
+        "letter": "T",
+        "answer": "Tüp"
+    },
+    {
+        "id": 69,
+        "question": "Tıraş için kullanılan açılır kapanır keskin bıçak",
+        "letter": "U",
+        "answer": "ustura"
+    },
+    {
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
+        "letter": "Ü",
+        "answer": "üvey"
+    },
+    {
+        "id": 1300,
+        "question": "Para dalgalanmalarından yararlanarak kolay yoldan kazanç elde eden, spekülatör",
+        "letter": "V",
+        "answer": "Vurguncu"
+    },
+    {
+        "id": 1580,
+        "question": "Sınırlı bir yerle ilgili olan, bölgesel, lokal",
+        "letter": "Y",
+        "answer": "Yerel, yöresel"
+    },
+    {
+        "id": 1843,
+        "question": "RENKSİZ YA DA SARI, YEŞİL VE KAHVERENGİ RENKLERDE OLABİLEN DOĞAL, SAYDAM DEĞERLİ BİR TAŞ",
+        "letter": "Z",
+        "answer": "Zirkon"
+    }
+]

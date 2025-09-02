@@ -1,123 +1,123 @@
 [
     {
-        "id": 108,
-        "question": "İki şey arasında bağlantı kuran kimse, vasıta",
+        "id": 1378,
+        "question": "Bir şeye dikkati yönelterek o şeyin bilincine varma, idrak",
         "letter": "A",
-        "answer": "aracı, ara bulucu"
+        "answer": "Algı, algılama, algılamak"
     },
     {
-        "id": 525,
-        "question": "Kullanılması önlenmiş, el konulmuş",
+        "id": 130,
+        "question": "Yürürken dayanmaya yarayan, ağaç veya metalden yapılan araç",
         "letter": "B",
-        "answer": "Bloke, bloke edilmiş, bloke olmuş"
+        "answer": "baston"
     },
     {
-        "id": 530,
-        "question": "Gösterişli, şatafatlı",
+        "id": 1358,
+        "question": "Bir eserin ayrı ayrı basılan bölümlerinden her biri",
         "letter": "C",
-        "answer": "Cafcaf, cafcaflı"
+        "answer": "Cilt, cildi"
     },
     {
-        "id": 1890,
-        "question": "“TORTU” KELİMESİNİN EŞ ANLAMLISI",
+        "id": 1542,
+        "question": "Değirmende buğday teknesi oluğu",
         "letter": "Ç",
-        "answer": "Çökelti"
+        "answer": "Çörtü"
     },
     {
-        "id": 198,
-        "question": "Başkalarını çekiştirmek ve kınamak üzere yapılan konuşma, gıybet",
+        "id": 184,
+        "question": "Zihinde beliren olayların, düşüncelerin bütünü, rüya",
         "letter": "D",
-        "answer": "dedikodu"
+        "answer": "düş"
     },
     {
-        "id": 79,
-        "question": "Kırkpınar yağlı güreşlerinin yapıldığı ilimiz",
+        "id": 207,
+        "question": "Benzer, eş, denk, daha önce benzeri görülen",
         "letter": "E",
-        "answer": "edirne"
+        "answer": "emsal"
     },
     {
-        "id": 228,
-        "question": "Eski Mısır hükümdarlarına verilen unvan",
+        "id": 969,
+        "question": "Başkalık, ayrım, nüans",
         "letter": "F",
-        "answer": "firavun"
+        "answer": "Fark, farklılık"
     },
     {
-        "id": 753,
-        "question": "Bitkilerin büyümesi için gerekli gıdayı ihtiva eden madde",
+        "id": 1174,
+        "question": "Biçim, desen ya da çizgilerle gösterme, anlatma",
         "letter": "G",
-        "answer": "Gübre"
+        "answer": "Grafik"
     },
     {
-        "id": 1175,
-        "question": "Görev ve yapı bakımından canlılığın bütün özelliklerini gösteren en küçük birim",
+        "id": 1247,
+        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
         "letter": "H",
-        "answer": "Hücre"
+        "answer": "Hegemonya, hegamonya, hegomonya"
     },
     {
-        "id": 1726,
-        "question": "Birim zamandaki hız değişimi",
+        "id": 269,
+        "question": "Yararlanılan uygun şart veya durum, olanak",
         "letter": "İ",
-        "answer": "İvme"
+        "answer": "imkan"
     },
     {
-        "id": 1905,
-        "question": "Soğuk mevsim kıyafetlerinin tümü",
+        "id": 613,
+        "question": "Uygunsuz hareket, çirkin, yakışıksız davranış, suç",
         "letter": "K",
-        "answer": "Kışlık"
+        "answer": "Kabahat"
     },
     {
-        "id": 618,
-        "question": "Bir kimsenin, kendisine iş verilmeye uygunluğu",
+        "id": 291,
+        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
         "letter": "L",
-        "answer": "Liyakat, Liyakatli, Liyakatliliği"
+        "answer": "loş"
     },
     {
-        "id": 28,
-        "question": "Doku ve organların yapısını inceleyen bilim dalı",
+        "id": 1633,
+        "question": "Toprak altına, üstüne veya suyun içine yerleştirilen patlayıcı madde",
         "letter": "M",
-        "answer": "morfoloji"
+        "answer": "Mayın"
     },
     {
-        "id": 328,
-        "question": "Tarafsız, yansız, eşit ya da ortada",
+        "id": 1242,
+        "question": "Düzyazı sanatı",
         "letter": "N",
-        "answer": "nötr"
+        "answer": "Nesir, nesir sanatı"
     },
     {
-        "id": 346,
-        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "id": 1711,
+        "question": "Norveç'in Başkenti",
         "letter": "O",
-        "answer": "otogar"
+        "answer": "Oslo"
     },
     {
-        "id": 362,
-        "question": "Bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz",
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
         "letter": "Ö",
-        "answer": "özet"
+        "answer": "Öbür, Öbürü"
     },
     {
-        "id": 1181,
-        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "id": 673,
+        "question": "Söz dalaşı",
         "letter": "P",
-        "answer": "Peron"
+        "answer": "Polemik"
     },
     {
-        "id": 1122,
-        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
+        "id": 764,
+        "question": "Selam ya da teşekkür anlamına eğilme ya da diz kırma biçiminde yapılan hareket",
         "letter": "R",
-        "answer": "rapor"
+        "answer": "Reverans"
     },
     {
-        "id": 693,
-        "question": "Bir bütün meydana getiren planlar dizisi",
+        "id": 1040,
+        "question": "Kuş tersi, kuş gübresi",
         "letter": "S",
-        "answer": "Sekans"
+        "answer": "Sağı"
     },
     {
-        "id": 1686,
-        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
+        "id": 1463,
+        "question": "Görür görmez seven, aşık olan kimse",
         "letter": "Ş",
-        "answer": "Şapel"
+        "answer": "Şıpsevdi"
     },
     {
         "id": 440,
@@ -126,33 +126,33 @@
         "answer": "tüyo, tüyo verme, tüyo vermek"
     },
     {
-        "id": 455,
-        "question": "Açıkgöz, kurnaz, cingöz",
+        "id": 456,
+        "question": "Gökyüzünde tanımlanamayan cisim",
         "letter": "U",
-        "answer": "uyanık"
+        "answer": "ufo"
     },
     {
-        "id": 460,
-        "question": "Kan bağı bulunmayan, öz olmayan",
+        "id": 1133,
+        "question": "Çoğunlukla ayın neden olduğu, yerin dönme ekseninin yaptığı koni hareketindeki dönemsel salınım, nütasyon",
         "letter": "Ü",
-        "answer": "üvey"
+        "answer": "Üğrüm"
     },
     {
-        "id": 1299,
-        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "id": 881,
+        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
         "letter": "V",
-        "answer": "Vize, vize belgesi"
+        "answer": "Vernik, vernık"
     },
     {
-        "id": 1577,
-        "question": "Hacmine oranla ağırlığı çok olan",
+        "id": 1950,
+        "question": "ESKİ EVLERDEKİ YATAK, YORGAN DEPOSU",
         "letter": "Y",
-        "answer": "Yoğun"
+        "answer": "Yüklük"
     },
     {
-        "id": 511,
-        "question": "Saçma, saçma sapan, boş, anlamsız söz",
+        "id": 1589,
+        "question": "Çok küçük parçacık",
         "letter": "Z",
-        "answer": "zırva"
+        "answer": "Zerre"
     }
 ]

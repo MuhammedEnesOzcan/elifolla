@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1331,
+        "question": "Başkalarından ayrı ve üstün tutulma durumu, imtiyaz",
+        "letter": "A",
+        "answer": "Ayrıcalık, ayrıcalıklı olma, ayrıcalıklı olmak"
+    },
+    {
+        "id": 1597,
+        "question": "Bilimsel bilgilerin veya nedenselliğin yanlış anlaşılmasından kaynaklanan inanç ya da uygulamalar",
+        "letter": "B",
+        "answer": "Batıl, batıl inanç, batıl inançlar"
+    },
+    {
+        "id": 1371,
+        "question": "Hayvanlarda tür, çeşit",
+        "letter": "C",
+        "answer": "Cins, cinsleri"
+    },
+    {
+        "id": 792,
+        "question": "Bodur şelale",
+        "letter": "Ç",
+        "answer": "Çağlayan"
+    },
+    {
+        "id": 557,
+        "question": "Doluluğunu, gücünü yitirme",
+        "letter": "D",
+        "answer": "Deşarj, deşarj olma, deşarj olmak"
+    },
+    {
+        "id": 216,
+        "question": "Damar tıkanıklığı",
+        "letter": "E",
+        "answer": "emboli"
+    },
+    {
+        "id": 1674,
+        "question": "Malzemesi marka sahibi tarafından karşılanarak başka bir firmaya yaptırılan mal",
+        "letter": "F",
+        "answer": "Fason"
+    },
+    {
+        "id": 1436,
+        "question": "Yerkürenin geometrik olmayan gerçek biçimi",
+        "letter": "G",
+        "answer": "Geoit"
+    },
+    {
+        "id": 255,
+        "question": "Uçak, araba, tarım aracı vb. nesneleri barındırmaya yarar kapalı yer",
+        "letter": "H",
+        "answer": "hangar"
+    },
+    {
+        "id": 1842,
+        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "letter": "İ",
+        "answer": "İmtina, İmtina etme, İmtina etmek"
+    },
+    {
+        "id": 611,
+        "question": "Giyilen kıyafetlerin birbiriyle uyum içinde olması",
+        "letter": "K",
+        "answer": "Kombin, Kombin yapma, kombin yapmak"
+    },
+    {
+        "id": 1529,
+        "question": "Kişiye alay yollu takılan takma ad",
+        "letter": "L",
+        "answer": "Lakap, lakab"
+    },
+    {
+        "id": 314,
+        "question": "Ayrı tutulmuş, ayrıcalık tanınmış",
+        "letter": "M",
+        "answer": "muaf"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 907,
+        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
+        "letter": "O",
+        "answer": "Obje"
+    },
+    {
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
+        "letter": "Ö",
+        "answer": "Öbür, Öbürü"
+    },
+    {
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
+        "letter": "P",
+        "answer": "plaj"
+    },
+    {
+        "id": 1032,
+        "question": "Pokerde, bir oyuncunun önündeki paranın tümü",
+        "letter": "R",
+        "answer": "rest"
+    },
+    {
+        "id": 829,
+        "question": "Bütün geceyi uyumadan geçirmek",
+        "letter": "S",
+        "answer": "Sabahlama, Sabahlamak"
+    },
+    {
+        "id": 1058,
+        "question": "Genellikle bazı sporları yaparken giyilen, paçaları dizlerin yukarısında başlayan kısa pantolon",
+        "letter": "Ş",
+        "answer": "Şort"
+    },
+    {
+        "id": 64,
+        "question": "Hava sıcaklığını ölçmeye yarayan alet",
+        "letter": "T",
+        "answer": "termometre"
+    },
+    {
+        "id": 1079,
+        "question": "Birinin yapmakla yükümlü olduğu iş, görev",
+        "letter": "U",
+        "answer": "uhde"
+    },
+    {
+        "id": 1702,
+        "question": "Bir peygambere inanıp onun yolunu seçen kimselerin tümü",
+        "letter": "Ü",
+        "answer": "Ümmet, Ümmed"
+    },
+    {
+        "id": 883,
+        "question": "Evleri kuşatan üstü kapalı ve camlı teras",
+        "letter": "V",
+        "answer": "Veranda"
+    },
+    {
+        "id": 1950,
+        "question": "ESKİ EVLERDEKİ YATAK, YORGAN DEPOSU",
+        "letter": "Y",
+        "answer": "Yüklük"
+    },
+    {
+        "id": 506,
+        "question": "Zorunlu, gerekli",
+        "letter": "Z",
+        "answer": "zaruri"
+    }
+]

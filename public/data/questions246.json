@@ -1,0 +1,158 @@
+[
+    {
+        "id": 515,
+        "question": "En yüksek, en büyük, en çok",
+        "letter": "A",
+        "answer": "Azami, Azâmi"
+    },
+    {
+        "id": 1597,
+        "question": "Bilimsel bilgilerin veya nedenselliğin yanlış anlaşılmasından kaynaklanan inanç ya da uygulamalar",
+        "letter": "B",
+        "answer": "Batıl, batıl inanç, batıl inançlar"
+    },
+    {
+        "id": 1257,
+        "question": "İşletmelere gün sonu giren para, kazanç",
+        "letter": "C",
+        "answer": "Ciro, cirosu"
+    },
+    {
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
+        "letter": "Ç",
+        "answer": "Çapak"
+    },
+    {
+        "id": 1904,
+        "question": "SADECE SOYAĞACINI GENİŞLETMEK İÇİN KULLANILAN HAYVAN",
+        "letter": "D",
+        "answer": "Damızlık"
+    },
+    {
+        "id": 206,
+        "question": "Gerçekleştirilmesi zamana bağlı istek",
+        "letter": "E",
+        "answer": "emel"
+    },
+    {
+        "id": 1285,
+        "question": "Uygun zaman, uygun durum veya şart, vesile, imkan, şans",
+        "letter": "F",
+        "answer": "Fırsat"
+    },
+    {
+        "id": 1899,
+        "question": "İLAÇ DESTEĞİ İLE DE YAPILAN AĞIZ VE BOĞAZ BANYOSU",
+        "letter": "G",
+        "answer": "Gargara"
+    },
+    {
+        "id": 592,
+        "question": "Sürtünme kuvvetinin yağ basıncı ile sağlandığı fren tipi",
+        "letter": "H",
+        "answer": "Hidrolik, hidrolik fren"
+    },
+    {
+        "id": 265,
+        "question": "Eksik bir şeyi tamamlama, daha iyi duruma getirme, bütünleme",
+        "letter": "İ",
+        "answer": "ikmal, ikmâl"
+    },
+    {
+        "id": 1811,
+        "question": "DENTAL TEMİZLİKTE KULLANILAN İNCE TAHTA ÇÖP",
+        "letter": "K",
+        "answer": "Kürdan"
+    },
+    {
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
+        "letter": "L",
+        "answer": "leziz"
+    },
+    {
+        "id": 310,
+        "question": "Bir emek karşılığında aylık, haftalık gibi verilen ödenek",
+        "letter": "M",
+        "answer": "maaş"
+    },
+    {
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
+        "letter": "N",
+        "answer": "Noter"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 1007,
+        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "letter": "Ö",
+        "answer": "Örk"
+    },
+    {
+        "id": 1942,
+        "question": "Hipodromda yarış atlarının yedekte gezdirildikleri yer",
+        "letter": "P",
+        "answer": "Padok"
+    },
+    {
+        "id": 1030,
+        "question": "Bir mal veya paranın, belirli bir süre içinde emek verilmeksizin sağladığı gelir",
+        "letter": "R",
+        "answer": "Rant"
+    },
+    {
+        "id": 1044,
+        "question": "Sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su",
+        "letter": "S",
+        "answer": "sel"
+    },
+    {
+        "id": 426,
+        "question": "Açık ve ayrıntılı anlatma",
+        "letter": "Ş",
+        "answer": "şerh"
+    },
+    {
+        "id": 1063,
+        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
+        "letter": "T",
+        "answer": "Takı"
+    },
+    {
+        "id": 896,
+        "question": "Orta Asya'da Büyük Devlet Ve Uygarlık Kurmuş, Yazılı Anıtlarla Sanat Yapıtları Bırakmış Olan Bir Türk Ulusu",
+        "letter": "U",
+        "answer": "Uygur, uygurlar"
+    },
+    {
+        "id": 464,
+        "question": "Korkuya çabuk kapılan",
+        "letter": "Ü",
+        "answer": "ürkek"
+    },
+    {
+        "id": 478,
+        "question": "Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç",
+        "letter": "V",
+        "answer": "vinç"
+    },
+    {
+        "id": 884,
+        "question": "Soğanlı et yemeği",
+        "letter": "Y",
+        "answer": "Yahni"
+    },
+    {
+        "id": 850,
+        "question": "Dermansızlık, Zayıf nokta",
+        "letter": "Z",
+        "answer": "Zafiyet, zafıyet"
+    }
+]

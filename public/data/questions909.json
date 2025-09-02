@@ -1,0 +1,158 @@
+[
+    {
+        "id": 513,
+        "question": "Kendisinden ve birden başka böleni olmayan sayılar",
+        "letter": "A",
+        "answer": "Asal, Asal sayı, Asal sayılar"
+    },
+    {
+        "id": 1600,
+        "question": "Kaybedilen bir şeyi yeniden ele geçirmek",
+        "letter": "B",
+        "answer": "Bulmak, bulma"
+    },
+    {
+        "id": 1372,
+        "question": "İnce, yuvarlak kesilerek kızartılmış patates",
+        "letter": "C",
+        "answer": "Cips"
+    },
+    {
+        "id": 539,
+        "question": "Adı çözen kişilerce konulmuş olan iplik demeti",
+        "letter": "Ç",
+        "answer": "Çile"
+    },
+    {
+        "id": 1387,
+        "question": "Oyunda, atılan zarlardan ikisinin de beş benekli yüzünün üste gelmesi",
+        "letter": "D",
+        "answer": "Dübeş"
+    },
+    {
+        "id": 1409,
+        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
+        "letter": "E",
+        "answer": "Ergonomik"
+    },
+    {
+        "id": 217,
+        "question": "Çalışır durumda olan, etkin",
+        "letter": "F",
+        "answer": "faal"
+    },
+    {
+        "id": 1430,
+        "question": "Makine yağı",
+        "letter": "G",
+        "answer": "Gres, gres yağ, gres yağı"
+    },
+    {
+        "id": 1496,
+        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "letter": "H",
+        "answer": "Hamak"
+    },
+    {
+        "id": 268,
+        "question": "Kabul etmeme, tanımama",
+        "letter": "İ",
+        "answer": "inkar, inkar etme, inkar etmek"
+    },
+    {
+        "id": 70,
+        "question": "Ünlü masala göre tavşanı yarışta geçen hayvan",
+        "letter": "K",
+        "answer": "kaplumbağa"
+    },
+    {
+        "id": 1787,
+        "question": "Greve çıkan işçileri işverenin topluca işten uzaklaştırması",
+        "letter": "L",
+        "answer": "Lokavt"
+    },
+    {
+        "id": 321,
+        "question": "Çalışma süresi",
+        "letter": "M",
+        "answer": "mesai, mesai saati"
+    },
+    {
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "letter": "N",
+        "answer": "Nostalji, nostaliji"
+    },
+    {
+        "id": 645,
+        "question": "Doğal yolla yapılan",
+        "letter": "O",
+        "answer": "Organik"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 384,
+        "question": "Çeşitli sporlarda kullanılan ölçüsü ve değeri değişken birim",
+        "letter": "P",
+        "answer": "puan"
+    },
+    {
+        "id": 1644,
+        "question": "Medya sektöründe bir yayını yöneten ekip",
+        "letter": "R",
+        "answer": "Reji, reji ekibi"
+    },
+    {
+        "id": 829,
+        "question": "Bütün geceyi uyumadan geçirmek",
+        "letter": "S",
+        "answer": "Sabahlama, Sabahlamak"
+    },
+    {
+        "id": 432,
+        "question": "Belli bir amaçla düzenlenen eğlence",
+        "letter": "Ş",
+        "answer": "şölen, şenlik"
+    },
+    {
+        "id": 438,
+        "question": "Üzüntülü düşünce durumu, kaygı, endişe",
+        "letter": "T",
+        "answer": "tasa, tasalanma, tasalanmak"
+    },
+    {
+        "id": 1076,
+        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "letter": "U",
+        "answer": "uysal"
+    },
+    {
+        "id": 1508,
+        "question": "Bir ülküye çıkar gütmeden bağlı olan, idealist",
+        "letter": "Ü",
+        "answer": "Ülkücü"
+    },
+    {
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "letter": "V",
+        "answer": "Vizyoner, Vizyonlu"
+    },
+    {
+        "id": 491,
+        "question": "Dağın veya tepenin herhangi bir yanı",
+        "letter": "Y",
+        "answer": "yamaç"
+    },
+    {
+        "id": 1589,
+        "question": "Çok küçük parçacık",
+        "letter": "Z",
+        "answer": "Zerre"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1331,
+        "question": "Başkalarından ayrı ve üstün tutulma durumu, imtiyaz",
+        "letter": "A",
+        "answer": "Ayrıcalık, ayrıcalıklı olma, ayrıcalıklı olmak"
+    },
+    {
+        "id": 1220,
+        "question": "Atış bilimi, mermi ve füzelerin hareketlerini inceleyen bir bilim dalı",
+        "letter": "B",
+        "answer": "Balistik, balistik bilimi"
+    },
+    {
+        "id": 1370,
+        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
+        "letter": "C",
+        "answer": "Cumhuriyet"
+    },
+    {
+        "id": 1548,
+        "question": "Eli veya kolu sakat olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çolak"
+    },
+    {
+        "id": 1737,
+        "question": "Okuma güçlüğü hastalığı",
+        "letter": "D",
+        "answer": "Disleksi"
+    },
+    {
+        "id": 1413,
+        "question": "Ücret karşılığı eşyayı koruyan kimse",
+        "letter": "E",
+        "answer": "Emanetçi"
+    },
+    {
+        "id": 1093,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "Facia"
+    },
+    {
+        "id": 1896,
+        "question": "DÜZENSİZ, RAHATSIZ EDİCİ YÜKSEK SES VEYA SESLER BÜTÜNÜ",
+        "letter": "G",
+        "answer": "Gürültü"
+    },
+    {
+        "id": 1902,
+        "question": "MECAZEN; “AHBAPLIK, DOSTLUK”",
+        "letter": "H",
+        "answer": "Hukuk"
+    },
+    {
+        "id": 1944,
+        "question": "BİR ESERİN ARKASINDA YER ALAN ALFABETİK LİSTE",
+        "letter": "İ",
+        "answer": "İndeks"
+    },
+    {
+        "id": 1194,
+        "question": "Arabalarda da bulunan, yaz aylarında ortamı soğutmak için kullanılan cihaz",
+        "letter": "K",
+        "answer": "Klima"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 818,
+        "question": "Eski zamanların tek kişilik komedi gösterisi ustası",
+        "letter": "M",
+        "answer": "Meddah"
+    },
+    {
+        "id": 988,
+        "question": "Açıklık, açık ve kesin yargı",
+        "letter": "N",
+        "answer": "nas"
+    },
+    {
+        "id": 645,
+        "question": "Doğal yolla yapılan",
+        "letter": "O",
+        "answer": "Organik"
+    },
+    {
+        "id": 31,
+        "question": "Yaşam, hayat",
+        "letter": "Ö",
+        "answer": "Ömür"
+    },
+    {
+        "id": 1740,
+        "question": "İnsanın yüzünün yandan görünüşü",
+        "letter": "P",
+        "answer": "Profil"
+    },
+    {
+        "id": 389,
+        "question": "Bir gemi veya uçağın gidiş yönü, izleyeceği yol",
+        "letter": "R",
+        "answer": "rota"
+    },
+    {
+        "id": 1038,
+        "question": "Bir günlük sürenin yirmi dörtte birine eşit, altmış dakikalık zaman dilimi, zaman parçası",
+        "letter": "S",
+        "answer": "saat"
+    },
+    {
+        "id": 1686,
+        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
+        "letter": "Ş",
+        "answer": "Şapel"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 722,
+        "question": "İnsana iyilik getirdiğine inanılan belirti",
+        "letter": "U",
+        "answer": "Uğur"
+    },
+    {
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
+        "letter": "Ü",
+        "answer": "Üzenti"
+    },
+    {
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "letter": "V",
+        "answer": "Vize, vize belgesi"
+    },
+    {
+        "id": 1572,
+        "question": "Bir yere bağlamak veya çekerek götürmek için hayvanın başlığına veya tasmasına bağlanan ip",
+        "letter": "Y",
+        "answer": "Yular"
+    },
+    {
+        "id": 1843,
+        "question": "RENKSİZ YA DA SARI, YEŞİL VE KAHVERENGİ RENKLERDE OLABİLEN DOĞAL, SAYDAM DEĞERLİ BİR TAŞ",
+        "letter": "Z",
+        "answer": "Zirkon"
+    }
+]

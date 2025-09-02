@@ -1,0 +1,158 @@
+[
+    {
+        "id": 109,
+        "question": "Yaklaşık 68 santimetreye eşit olan uzunluk ölçüsü",
+        "letter": "A",
+        "answer": "arşın"
+    },
+    {
+        "id": 1084,
+        "question": "Vücudun kasıktan tabana kadar olan bölümü",
+        "letter": "B",
+        "answer": "Bacak"
+    },
+    {
+        "id": 1377,
+        "question": "Mahkemede oturum, duruşma",
+        "letter": "C",
+        "answer": "Celse"
+    },
+    {
+        "id": 99,
+        "question": "Bulunulan çağın anlayışına, şartlarına uygun olan, modern, muasır",
+        "letter": "Ç",
+        "answer": "çağdaş"
+    },
+    {
+        "id": 1764,
+        "question": "ACI, ÜZÜNTÜ VEYA PİŞMANLIK SEBEBİYLE KENDİ KENDİNE VURMAK",
+        "letter": "D",
+        "answer": "Dövünme, Dövünmek"
+    },
+    {
+        "id": 1219,
+        "question": "Çok uzak ve yabancı ülkelerle ilgili ya da böyle ülkelerden gelmiş, getirilmiş",
+        "letter": "E",
+        "answer": "Egzotik, ekzotik"
+    },
+    {
+        "id": 752,
+        "question": "Anlayış, seziş, sezgi",
+        "letter": "F",
+        "answer": "Feraset"
+    },
+    {
+        "id": 1966,
+        "question": "Tavla oyununda elinde kırık taşı bulunan oyuncunun attığı, uygun olmayan zar",
+        "letter": "G",
+        "answer": "GELE"
+    },
+    {
+        "id": 60,
+        "question": "Güney yarım küre'de en uzun gecenin yaşandığı ay",
+        "letter": "H",
+        "answer": "haziran"
+    },
+    {
+        "id": 275,
+        "question": "İçine alma, içinde bulundurma, içerme",
+        "letter": "İ",
+        "answer": "ihtiva"
+    },
+    {
+        "id": 286,
+        "question": "Var olan ancak bilinmeyen bir şeyi bulan, ortaya çıkaran kimse, bulucu",
+        "letter": "K",
+        "answer": "kaşif, kâşif"
+    },
+    {
+        "id": 297,
+        "question": "Nilüfer cinsinden birçok bitkiye verilen genel ad",
+        "letter": "L",
+        "answer": "lotus"
+    },
+    {
+        "id": 1617,
+        "question": "Denizlerde görülen bazı mikroorganizmalar tarafından üretilen kalın, yapışkan maddeler, Deniz salyası",
+        "letter": "M",
+        "answer": "Müsilaj"
+    },
+    {
+        "id": 1111,
+        "question": "At nalı yapan demirci",
+        "letter": "N",
+        "answer": "Nalbant"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 1481,
+        "question": "Bir sorunu çözmek üzere öne sürülen görüş, düşünce, teklif",
+        "letter": "Ö",
+        "answer": "Öneri"
+    },
+    {
+        "id": 1825,
+        "question": "Yüzme yeteneği çok zayıf olan ve akıntılarla taşınan küçük organizmalar",
+        "letter": "P",
+        "answer": "Plankton"
+    },
+    {
+        "id": 1644,
+        "question": "Medya sektöründe bir yayını yöneten ekip",
+        "letter": "R",
+        "answer": "Reji, reji ekibi"
+    },
+    {
+        "id": 1291,
+        "question": "Görev, yetki vb.ni kötüye kullanma",
+        "letter": "S",
+        "answer": "Suistimal, suistimal etme, suistimal etmek"
+    },
+    {
+        "id": 766,
+        "question": "Haşlanmış gıdayı hızlıca buz ile soğutmak",
+        "letter": "Ş",
+        "answer": "Şoklama, Şoklamak, Şoklama işlemi"
+    },
+    {
+        "id": 767,
+        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "letter": "T",
+        "answer": "Takılmak"
+    },
+    {
+        "id": 1073,
+        "question": "Akla uygun, yalnız akla dayanan, akli, rasyonel",
+        "letter": "U",
+        "answer": "Ussal"
+    },
+    {
+        "id": 714,
+        "question": "En fazla çeşide sahip olan meyve türü",
+        "letter": "Ü",
+        "answer": "Üzüm"
+    },
+    {
+        "id": 1137,
+        "question": "Kent veya kasabada dış mahalle",
+        "letter": "V",
+        "answer": "varoş"
+    },
+    {
+        "id": 1476,
+        "question": "Su parkı gösterilerinde zekasıyla öne çıkan memeli su hayvanı",
+        "letter": "Y",
+        "answer": "Yunus, yunus balığı"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

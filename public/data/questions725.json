@@ -1,0 +1,158 @@
+[
+    {
+        "id": 123,
+        "question": "Rütbesi general ile aynı olan deniz subayı",
+        "letter": "A",
+        "answer": "amiral"
+    },
+    {
+        "id": 1209,
+        "question": "Aynı zamanda Muğla'nın bir ilçesi de olan, apartmanların genellikle zeminin altında bulunan katı ",
+        "letter": "B",
+        "answer": "Bodrum, bodrum kat, bodrum katı"
+    },
+    {
+        "id": 1309,
+        "question": "Canlı, neşeli ve sokulgan",
+        "letter": "C",
+        "answer": "Civelek"
+    },
+    {
+        "id": 1451,
+        "question": "Bilgisayarda yazılan bir metnin kâğıda dökülmüş biçimi",
+        "letter": "Ç",
+        "answer": "Çıktı, çıktısı"
+    },
+    {
+        "id": 1941,
+        "question": "YAPILARIN KABA AĞAÇ İŞLERİNİ YAPAN USTA",
+        "letter": "D",
+        "answer": "Dülger, Dülger Ustası"
+    },
+    {
+        "id": 207,
+        "question": "Benzer, eş, denk, daha önce benzeri görülen",
+        "letter": "E",
+        "answer": "emsal"
+    },
+    {
+        "id": 1323,
+        "question": "Buzlu veya dondurulmuş olarak sunulan içki, meşrubat",
+        "letter": "F",
+        "answer": "Frape, frappe, frozen"
+    },
+    {
+        "id": 242,
+        "question": "Yaşanan günlük olaylar",
+        "letter": "G",
+        "answer": "gündem"
+    },
+    {
+        "id": 1225,
+        "question": "Özel olarak, özel bir biçimde",
+        "letter": "H",
+        "answer": "Hususi"
+    },
+    {
+        "id": 1199,
+        "question": "Damıtma işinde kullanılan araç, damıtıcı",
+        "letter": "İ",
+        "answer": "İmbik"
+    },
+    {
+        "id": 812,
+        "question": "Başkalarına belli etmeden, gizlice yapılan şey",
+        "letter": "K",
+        "answer": "Kaçamak"
+    },
+    {
+        "id": 615,
+        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
+        "letter": "L",
+        "answer": "Lümpen"
+    },
+    {
+        "id": 628,
+        "question": "Ruh hali, mizaç, hal, anlık hal durumu",
+        "letter": "M",
+        "answer": "Mod, moral"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 1898,
+        "question": "GÖZETİLEN AMACA VEYA BEKLENİLENE UYGUN OLMAYAN, MENFİ",
+        "letter": "O",
+        "answer": "Olumsuz"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 671,
+        "question": "Aynı düzlem içinde bulunan ve birbiriyle kesişmeyen",
+        "letter": "P",
+        "answer": "Paralel"
+    },
+    {
+        "id": 1643,
+        "question": "Tarımda bir yılda derlenen ürünlerin bütünü",
+        "letter": "R",
+        "answer": "Rekolte"
+    },
+    {
+        "id": 1235,
+        "question": "Karaciğer tarafından üretilen sindirim sıvısı",
+        "letter": "S",
+        "answer": "Safra, safra sıvısı"
+    },
+    {
+        "id": 1684,
+        "question": "Otomobil iç lastiği",
+        "letter": "Ş",
+        "answer": "Şambrel"
+    },
+    {
+        "id": 1970,
+        "question": "BİR ŞEYİ RESMİ OLARAK KAYDETME, KÜTÜĞE GEÇİRME",
+        "letter": "T",
+        "answer": "TESCİL, TESCİLLEME, TESCİLLEMEK"
+    },
+    {
+        "id": 1561,
+        "question": "Merkezi sinir sistemine etki ederek farkındalığı, dikkati ve uyanıklığı artıran ilaçlar ya da maddeler",
+        "letter": "U",
+        "answer": "Uyarıcı, uyarıcı ilaçlar, uyarıcı maddeler"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 472,
+        "question": "İki dağ arasındaki çukurca arazi veya geçit",
+        "letter": "V",
+        "answer": "vadi"
+    },
+    {
+        "id": 884,
+        "question": "Soğanlı et yemeği",
+        "letter": "Y",
+        "answer": "Yahni"
+    },
+    {
+        "id": 738,
+        "question": "Boşuna harcama, zarar",
+        "letter": "Z",
+        "answer": "Ziyan, ziyan etme, ziyan etmek"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 779,
+        "question": "Üstünlük, kazanım, yarar",
+        "letter": "A",
+        "answer": "Avantaj"
+    },
+    {
+        "id": 1230,
+        "question": "Birdenbire ortaya çıkan tehlikeli durum",
+        "letter": "B",
+        "answer": "Badire, badire atlatma, badire atlatmak"
+    },
+    {
+        "id": 156,
+        "question": "Bir devlet veya kuruluşun gizli amaçları için çalışan kimse, ajan",
+        "letter": "C",
+        "answer": "casus"
+    },
+    {
+        "id": 966,
+        "question": "Bir kimsenin, satın aldığı hizmet veya ürün karşılığında para yerine verdiği ve karşılığı banka hesabından ödenen yazılı belge",
+        "letter": "Ç",
+        "answer": "Çek"
+    },
+    {
+        "id": 1382,
+        "question": "Bedensel veya ruhsal dengenin değişmesi sonucu ortaya çıkan ve canlıyı türlü tepkilere sürükleyebilen içten gelen gerilim",
+        "letter": "D",
+        "answer": "Dürtü"
+    },
+    {
+        "id": 1869,
+        "question": "GERİLDİĞİNDE ESKİ HALİNE GELEBİLEN, ESNEK VE DAYANIKLI YAPIYA SAHİP MADDEYİ TANIMLAYAN SÖZCÜK",
+        "letter": "E",
+        "answer": "Elastik"
+    },
+    {
+        "id": 219,
+        "question": "İstenilen şeylerin yazılması, doldurulması için hazırlanmış basılı belge",
+        "letter": "F",
+        "answer": "form"
+    },
+    {
+        "id": 1421,
+        "question": "İzmir yöresinde simitin diğer adı",
+        "letter": "G",
+        "answer": "Gevrek"
+    },
+    {
+        "id": 89,
+        "question": "Bir şirketin ortaklarından her biri",
+        "letter": "H",
+        "answer": "hissedar"
+    },
+    {
+        "id": 604,
+        "question": "Gerçeğin gülünç yanını ortaya koyan ince alay",
+        "letter": "İ",
+        "answer": "İroni"
+    },
+    {
+        "id": 1153,
+        "question": "İki kümenin ortak elemanlarını ifade eder",
+        "letter": "K",
+        "answer": "Kesişim, kesişim kümesi"
+    },
+    {
+        "id": 1787,
+        "question": "Greve çıkan işçileri işverenin topluca işten uzaklaştırması",
+        "letter": "L",
+        "answer": "Lokavt"
+    },
+    {
+        "id": 815,
+        "question": "Bir şeyi iflah olmaz, onmaz hale getirmek",
+        "letter": "M",
+        "answer": "Mahvetmek, Mahvetme"
+    },
+    {
+        "id": 640,
+        "question": "Söz, konuşma, söylev",
+        "letter": "N",
+        "answer": "Nutuk, Nutuk okuma, Nutuk okumak"
+    },
+    {
+        "id": 1000,
+        "question": "Keçi yavrusu",
+        "letter": "O",
+        "answer": "Oğlak"
+    },
+    {
+        "id": 357,
+        "question": "Kızgınlık, hışım, hiddet, gazap",
+        "letter": "Ö",
+        "answer": "öfke"
+    },
+    {
+        "id": 1707,
+        "question": "Hristiyan din adamı, peder",
+        "letter": "P",
+        "answer": "Papaz"
+    },
+    {
+        "id": 1646,
+        "question": "Hastanelerde hastanın yanında kalan, hastaya yardımcı olan kimse",
+        "letter": "R",
+        "answer": "Refakatçi"
+    },
+    {
+        "id": 1931,
+        "question": "BİR ŞEYİN YAYILABİLECEĞİ VEYA GENİŞLEYEBİLECEĞİ SON ÇİZGİ",
+        "letter": "S",
+        "answer": "Sınır"
+    },
+    {
+        "id": 935,
+        "question": "Kesme veya oyma kalıbı",
+        "letter": "Ş",
+        "answer": "şablon"
+    },
+    {
+        "id": 1157,
+        "question": "Arnavutluk'un başkenti",
+        "letter": "T",
+        "answer": "Tiran, Tirana"
+    },
+    {
+        "id": 1068,
+        "question": "Çok uzun",
+        "letter": "U",
+        "answer": "upuzun"
+    },
+    {
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
+        "letter": "Ü",
+        "answer": "Üzenti"
+    },
+    {
+        "id": 471,
+        "question": "Bir işi yerine getirmek için verilen söz",
+        "letter": "V",
+        "answer": "vaat"
+    },
+    {
+        "id": 497,
+        "question": "Yıkılmış olan, harap, viran",
+        "letter": "Y",
+        "answer": "yıkık"
+    },
+    {
+        "id": 504,
+        "question": "Savaşta kazanılan başarı",
+        "letter": "Z",
+        "answer": "zafer"
+    }
+]

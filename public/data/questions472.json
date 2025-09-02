@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1754,
+        "question": "Anlaşmazlık konusunda çözüm için araya giren üçünçü kimse ya da kurum",
+        "letter": "A",
+        "answer": "Arabulucu"
+    },
+    {
+        "id": 127,
+        "question": "Bağlama işinde kullanılan şerit biçiminde bağ",
+        "letter": "B",
+        "answer": "bağcık"
+    },
+    {
+        "id": 160,
+        "question": "Üzerinde savaşın sürdüğü bölge",
+        "letter": "C",
+        "answer": "cephe, cephe bölgesi"
+    },
+    {
+        "id": 180,
+        "question": "Kadro, kademe, basamak ve derecelerin yer aldığı liste",
+        "letter": "Ç",
+        "answer": "çizelge"
+    },
+    {
+        "id": 1391,
+        "question": "Yabancı ülke parası",
+        "letter": "D",
+        "answer": "Döviz"
+    },
+    {
+        "id": 1211,
+        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
+        "letter": "E",
+        "answer": "Emekleme, emeklemek"
+    },
+    {
+        "id": 575,
+        "question": "Ses, akım vb. için birim zamandaki titreşim sayısı, titreşim sıklığı",
+        "letter": "F",
+        "answer": "Frekans"
+    },
+    {
+        "id": 1425,
+        "question": "Eksikliği duyulan şey, ihtiyaç",
+        "letter": "G",
+        "answer": "Gereksinim, gerekli"
+    },
+    {
+        "id": 255,
+        "question": "Uçak, araba, tarım aracı vb. nesneleri barındırmaya yarar kapalı yer",
+        "letter": "H",
+        "answer": "hangar"
+    },
+    {
+        "id": 1810,
+        "question": "BİR KURUM VEYA KURULUŞUN YÖNETİLDİĞİ YER VEYA MAKAM",
+        "letter": "İ",
+        "answer": "İdare, İdari işler, İdari daire"
+    },
+    {
+        "id": 276,
+        "question": "Yeterli, yetecek ölçüde olan",
+        "letter": "K",
+        "answer": "kafi, kâfi"
+    },
+    {
+        "id": 1612,
+        "question": "Yanardağların ağzından fışkırıp akan, soğuyunca donan erimiş madde",
+        "letter": "L",
+        "answer": "Lav"
+    },
+    {
+        "id": 1625,
+        "question": "Bir şeyi anlamak veya öğrenmek için duyulan istek",
+        "letter": "M",
+        "answer": "Merak"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 1003,
+        "question": "On açısı, on kenarı olan çokgen",
+        "letter": "O",
+        "answer": "Ongen"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 1742,
+        "question": "Yerden kaynayarak çıkan su kaynağı",
+        "letter": "P",
+        "answer": "Pınar"
+    },
+    {
+        "id": 1034,
+        "question": "Demir, tahta yüzeylerdeki boya, pas vb.ni çıkarma, pürüzleri gidermek amacıyla kullanılan iri dişli bir törpü",
+        "letter": "R",
+        "answer": "raspa"
+    },
+    {
+        "id": 81,
+        "question": "Çatal biçiminde, taş atmaya yarayan ilkel alet",
+        "letter": "S",
+        "answer": "sapan"
+    },
+    {
+        "id": 1459,
+        "question": "Gerçeklerle olan ilişkilerin büyük ölçüde azalması gibi belirtiler gösteren bir ruh hastalığı",
+        "letter": "Ş",
+        "answer": "Şizofreni"
+    },
+    {
+        "id": 1847,
+        "question": "İRİ İRİ DOĞRANMIŞ İŞKEMBEDEN YAPILAN BİR TÜR ÇORBA",
+        "letter": "T",
+        "answer": "Tuzlama, Tuzlama çorba, Tuzlama çorbası"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 727,
+        "question": "Her yandan çokça bir araya gelmek, toplanmak, birikmek",
+        "letter": "Ü",
+        "answer": "Üşüşme, Üşüşmek"
+    },
+    {
+        "id": 1569,
+        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "letter": "V",
+        "answer": "Varyete"
+    },
+    {
+        "id": 733,
+        "question": "Alışamamak, yabancılık çekmek",
+        "letter": "Y",
+        "answer": "Yadırgama, Yadırgamak"
+    },
+    {
+        "id": 1588,
+        "question": "Bebeklere iç çamaşırı olarak giydirilen, ince pamukludan kısa ve kollu giysi",
+        "letter": "Z",
+        "answer": "Zıbın"
+    }
+]

@@ -1,99 +1,99 @@
 [
     {
-        "id": 102,
-        "question": "Bir işin yabancısı olan, eli işe alışmamış, bir işi beceremeyen",
+        "id": 1250,
+        "question": "Mavi turnusol kağıdını kırmızıya çeviren, pH derecesi 7'den düşük olan, yakıcı - aşındırıcı özelliğe sahip kimyasal madde",
         "letter": "A",
-        "answer": "acemi"
+        "answer": "Asit, asidik madde, asitik madde, asitler"
     },
     {
-        "id": 529,
-        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
+        "id": 136,
+        "question": "Orkestrada vurmalı çalgı takımı, davul",
         "letter": "B",
-        "answer": "Bulanık"
+        "answer": "bateri"
     },
     {
-        "id": 1369,
-        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
+        "id": 538,
+        "question": "Sayılar teorisini, geometriyi ve analizi içine alan bir matematik dalı",
         "letter": "C",
-        "answer": "Cemre, cemre düşmesi"
+        "answer": "Cebir"
     },
     {
-        "id": 172,
-        "question": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
+        "id": 1547,
+        "question": "Balık kılçığı",
         "letter": "Ç",
-        "answer": "çakı"
+        "answer": "Çopra"
     },
     {
-        "id": 557,
-        "question": "Doluluğunu, gücünü yitirme",
+        "id": 1904,
+        "question": "SADECE SOYAĞACINI GENİŞLETMEK İÇİN KULLANILAN HAYVAN",
         "letter": "D",
-        "answer": "Deşarj, deşarj olma, deşarj olmak"
+        "answer": "Damızlık"
     },
     {
-        "id": 1414,
-        "question": "Özellikle bilginin temellerini ve doğruluk durumunu inceleme, sınama, yargılama",
+        "id": 750,
+        "question": "Kazalara alınmış tedbirler",
         "letter": "E",
-        "answer": "Eleştiri, eleştirme, eleştirmek"
+        "answer": "Emniyet"
     },
     {
-        "id": 55,
-        "question": "Yeşil bitkilerin ışık enerjisiyle besin üretmesi",
+        "id": 1490,
+        "question": "Koku, ilaç vb. sıvıları püskürtmek için kullanılan araç",
         "letter": "F",
-        "answer": "fotosentez"
+        "answer": "Fısfıs"
     },
     {
-        "id": 580,
-        "question": "Çökmüş, kaymış toprak, yıkıntı",
+        "id": 1790,
+        "question": "BENZERLERİ ARASINDA NİTELİKLERİ SEBEBİYLE ÜSTÜN TUTULAN, BEĞENİLEN, ÖNEM VERİLEN KİMSE VEYA ŞEY",
         "letter": "G",
-        "answer": "Göçük"
+        "answer": "Gözde"
     },
     {
-        "id": 588,
-        "question": "İlgi ile karşılanabilecek haber",
+        "id": 1443,
+        "question": "Mecazen; Yasa dışı yollarla zimmetine para veya mal geçirmek",
         "letter": "H",
-        "answer": "Havadis"
+        "answer": "Hortumlama, hortumlamak"
     },
     {
-        "id": 272,
-        "question": "Barınma amacıyla bir yerde oturma",
+        "id": 1199,
+        "question": "Damıtma işinde kullanılan araç, damıtıcı",
         "letter": "İ",
-        "answer": "ikamet, ikamet etme, ikamet etmek"
+        "answer": "İmbik"
     },
     {
-        "id": 1751,
-        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
+        "id": 606,
+        "question": "Kara ile suyun birleştiği yer",
         "letter": "K",
-        "answer": "Kıta"
+        "answer": "Kıyı"
     },
     {
-        "id": 298,
-        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "id": 297,
+        "question": "Nilüfer cinsinden birçok bitkiye verilen genel ad",
         "letter": "L",
-        "answer": "levha"
+        "answer": "lotus"
     },
     {
-        "id": 630,
-        "question": "Dayanaksız, delilsiz, arkası boş olan",
+        "id": 1108,
+        "question": "Miskete fiske vurarak oynanan zıpzıp oyunu",
         "letter": "M",
-        "answer": "Mesnetsiz, mesnetsiz iddia"
+        "answer": "madık, Madik"
     },
     {
-        "id": 1275,
-        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "id": 990,
+        "question": "Güzel, uyumlu ses, ezgi, melodi",
         "letter": "N",
-        "answer": "Nostalji, nostaliji"
+        "answer": "Nağme"
     },
     {
-        "id": 1000,
-        "question": "Keçi yavrusu",
+        "id": 349,
+        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
         "letter": "O",
-        "answer": "Oğlak"
+        "answer": "onbaşı"
     },
     {
-        "id": 661,
-        "question": "Kötü bir durumun ya da olayın duyulmasını gizlemek",
+        "id": 358,
+        "question": "Bir vakitte yenilen yemek",
         "letter": "Ö",
-        "answer": "Örtbas, Örtbas etmek"
+        "answer": "öğün"
     },
     {
         "id": 763,
@@ -102,57 +102,57 @@
         "answer": "Pozisyon"
     },
     {
-        "id": 684,
-        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
+        "id": 1191,
+        "question": "Atın ritmik yürüşü",
         "letter": "R",
-        "answer": "Rivayet"
+        "answer": "Rahvan"
     },
     {
-        "id": 1276,
-        "question": "Elle tutulur, gerçek",
+        "id": 1123,
+        "question": "Geçen, önceki, eski",
         "letter": "S",
-        "answer": "Somut, sahi, sahici"
+        "answer": "sabık, selef, selefi"
     },
     {
-        "id": 1683,
-        "question": "Çoğunlukla saç yıkamakta kullanılan, kokulu ve bol köpüklü bir tür sıvı sabun",
+        "id": 1846,
+        "question": "YAPRAKLARI HER MEVSİM YEŞİL KALAN, BAHÇELERDE SÜS BİTKİSİ OLARAK YETİŞTİRİLEN, SARIMSI RENKLİ BİR TÜR AĞAÇÇIK",
         "letter": "Ş",
-        "answer": "Şampuan"
+        "answer": "Şimşir"
     },
     {
-        "id": 1927,
-        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
+        "id": 721,
+        "question": "Bir şeyi bir kimseye veya bir yere ayırma",
         "letter": "T",
-        "answer": "Takıntı, Takıntılık, Takma, Takmak"
+        "answer": "Tahsis, tahsis etme, tahsis etmek"
     },
     {
-        "id": 1564,
-        "question": "Aklında kalmamak, hatırlamamak",
+        "id": 847,
+        "question": "Bir düşünceyi, bir tasarıyı ya da bir kuramı gerçekleştirme",
         "letter": "U",
-        "answer": "Unutmak, unutma"
+        "answer": "Uygulama, uygulamak"
     },
     {
-        "id": 1565,
-        "question": "Birlikçi, birlikten yana, birleştirici (siyaset)",
+        "id": 466,
+        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
         "letter": "Ü",
-        "answer": "Üniter, üniter devlet"
+        "answer": "üslup"
     },
     {
-        "id": 1571,
-        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
+        "id": 888,
+        "question": "Kedigillerden, kürkünden yararlanılan çok yırtıcı hayvan",
         "letter": "V",
-        "answer": "Vasıfsız, vasıfsız eleman"
+        "answer": "Vaşak, vasak"
     },
     {
-        "id": 901,
-        "question": "Özel gezinti gemisi",
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
         "letter": "Y",
-        "answer": "Yat"
+        "answer": "Yalapşap, yalap şap, yalapsap"
     },
     {
-        "id": 774,
-        "question": "Şundan dolayı, şu sebeple, çünkü anlamlarındaki bağlaç",
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
         "letter": "Z",
-        "answer": "Zira"
+        "answer": "zikzak"
     }
 ]

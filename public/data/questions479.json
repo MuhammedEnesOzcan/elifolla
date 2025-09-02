@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1183,
+        "question": "Yargı önünde kişiyi savunan kimse",
+        "letter": "A",
+        "answer": "Avukat"
+    },
+    {
+        "id": 1356,
+        "question": "Bir şeyin gerçek sebebi gizlenerek ileri sürülen uydurma sebep",
+        "letter": "B",
+        "answer": "Bahane, bahane etme, bahane etmek, bahane sunma, bahane sunmak"
+    },
+    {
+        "id": 1530,
+        "question": "Adam öldürme",
+        "letter": "C",
+        "answer": "Cinayet"
+    },
+    {
+        "id": 1200,
+        "question": "Evlenecekler için hazırlanan yada alınan ev eşyalarının tümü",
+        "letter": "Ç",
+        "answer": "Çeyiz"
+    },
+    {
+        "id": 1786,
+        "question": "KARDİYOVASKÜLER VE LENFATİK SİSTEMİN TÜRKÇE KÖKENLİ ADI",
+        "letter": "D",
+        "answer": "Dolaşım, Dolaşım sistemi"
+    },
+    {
+        "id": 216,
+        "question": "Damar tıkanıklığı",
+        "letter": "E",
+        "answer": "emboli"
+    },
+    {
+        "id": 222,
+        "question": "Genellikle boyuna bağlanan, bir tür ince ipek kumaş",
+        "letter": "F",
+        "answer": "fular"
+    },
+    {
+        "id": 801,
+        "question": "Kolları açarak, göğsü ileriye omuzları geriye doğru esnetmek",
+        "letter": "G",
+        "answer": "Gerinmek, Gerinme, Gerilmek, Gerilme"
+    },
+    {
+        "id": 588,
+        "question": "İlgi ile karşılanabilecek haber",
+        "letter": "H",
+        "answer": "Havadis"
+    },
+    {
+        "id": 1606,
+        "question": "Birine güler yüz gösterme, hatırını sorma, tatlı davranma",
+        "letter": "İ",
+        "answer": "İltifat, iltifat etme, iltifat etmek"
+    },
+    {
+        "id": 1153,
+        "question": "İki kümenin ortak elemanlarını ifade eder",
+        "letter": "K",
+        "answer": "Kesişim, kesişim kümesi"
+    },
+    {
+        "id": 292,
+        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "letter": "L",
+        "answer": "lobi"
+    },
+    {
+        "id": 1627,
+        "question": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki)",
+        "letter": "M",
+        "answer": "Melez"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 645,
+        "question": "Doğal yolla yapılan",
+        "letter": "O",
+        "answer": "Organik"
+    },
+    {
+        "id": 355,
+        "question": "Öğretmenin öğrencilere okul dışında yapmaları için verdiği çalışma",
+        "letter": "Ö",
+        "answer": "ödev"
+    },
+    {
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
+        "letter": "P",
+        "answer": "plaj"
+    },
+    {
+        "id": 1640,
+        "question": "Müzikte durakların düzenli bir biçimde tekrarlanmasından doğan ses uygunluğu",
+        "letter": "R",
+        "answer": "Ritim, ritm"
+    },
+    {
+        "id": 1874,
+        "question": "ÇEKİNİLMESİ, DİKKATLİ OLUNMASI GEREKEN DURUM",
+        "letter": "S",
+        "answer": "Sakınca, Sakıncalı, Sakıncalı durum"
+    },
+    {
+        "id": 1458,
+        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
+        "letter": "Ş",
+        "answer": "Şurup"
+    },
+    {
+        "id": 1907,
+        "question": "YER ÇEKİMİ ETKİSİNDEN YARARLANAN ÖLÇÜM ALETİ",
+        "letter": "T",
+        "answer": "Terazi"
+    },
+    {
+        "id": 1559,
+        "question": "Mecazen; Her hangi bir işi yapmak istemeyen, tembel, miskin",
+        "letter": "U",
+        "answer": "Uyuşuk"
+    },
+    {
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
+        "letter": "Ü",
+        "answer": "ücret"
+    },
+    {
+        "id": 476,
+        "question": "Karşı çıkma, engelleme, reddetme",
+        "letter": "V",
+        "answer": "veto, veto etme, veto etmek"
+    },
+    {
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
+        "letter": "Y",
+        "answer": "Yassı"
+    },
+    {
+        "id": 843,
+        "question": "Telli Bir Çalgıyı Acemice Çalarak Çıkarılan Çirkin Sesin Adı",
+        "letter": "Z",
+        "answer": "Zımbırtı, zimbirti"
+    }
+]

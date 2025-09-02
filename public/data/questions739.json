@@ -1,0 +1,158 @@
+[
+    {
+        "id": 108,
+        "question": "İki şey arasında bağlantı kuran kimse, vasıta",
+        "letter": "A",
+        "answer": "aracı, ara bulucu"
+    },
+    {
+        "id": 1287,
+        "question": "Verme, bağışlama",
+        "letter": "B",
+        "answer": "Bahşetme, bahşetmek"
+    },
+    {
+        "id": 787,
+        "question": "“Öfke, kızgınlık” anlamındaki bir erkek ismi",
+        "letter": "C",
+        "answer": "Celal"
+    },
+    {
+        "id": 1269,
+        "question": "\"Dünyanın en kalabalık ülkesi\" unvanına sahip olan ülke",
+        "letter": "Ç",
+        "answer": "Çin, Çin Halk Cumhuriyeti"
+    },
+    {
+        "id": 193,
+        "question": "Sıkıştırılmış hava içine püskürtülen yakıtla çalışan motor",
+        "letter": "D",
+        "answer": "dizel, dizel motor"
+    },
+    {
+        "id": 750,
+        "question": "Kazalara alınmış tedbirler",
+        "letter": "E",
+        "answer": "Emniyet"
+    },
+    {
+        "id": 227,
+        "question": "Satıcının alıcıya verdiği hesap pusulası",
+        "letter": "F",
+        "answer": "fatura, fiş"
+    },
+    {
+        "id": 240,
+        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "letter": "G",
+        "answer": "gonca"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 257,
+        "question": "Örnek alınan, en çok hayranlık duyulan kimse",
+        "letter": "İ",
+        "answer": "idol"
+    },
+    {
+        "id": 613,
+        "question": "Uygunsuz hareket, çirkin, yakışıksız davranış, suç",
+        "letter": "K",
+        "answer": "Kabahat"
+    },
+    {
+        "id": 1106,
+        "question": "Üzerinde su muslukları bulunan, el, yüz, bulaşık yıkamaya yarar, çukur yer veya eşya",
+        "letter": "L",
+        "answer": "Lavabo, lavobo"
+    },
+    {
+        "id": 626,
+        "question": "Birbirini kesen demiryolu hatlarının kesiştiği yer",
+        "letter": "M",
+        "answer": "Makas"
+    },
+    {
+        "id": 993,
+        "question": "Hoş olmayan, hoşa gitmeyen, kötü, çirkin",
+        "letter": "N",
+        "answer": "Nahoş"
+    },
+    {
+        "id": 344,
+        "question": "İçinde su biriken çukur yer, doğal kuyu",
+        "letter": "O",
+        "answer": "obruk, oyuk, oymak"
+    },
+    {
+        "id": 1533,
+        "question": "Tazminat",
+        "letter": "Ö",
+        "answer": "Ödence"
+    },
+    {
+        "id": 381,
+        "question": "Elektrik akımı almak için fişin sokulduğu yuva",
+        "letter": "P",
+        "answer": "priz"
+    },
+    {
+        "id": 1646,
+        "question": "Hastanelerde hastanın yanında kalan, hastaya yardımcı olan kimse",
+        "letter": "R",
+        "answer": "Refakatçi"
+    },
+    {
+        "id": 685,
+        "question": "Yapay, yapma, sentetik",
+        "letter": "S",
+        "answer": "Suni"
+    },
+    {
+        "id": 427,
+        "question": "İstek, heves",
+        "letter": "Ş",
+        "answer": "şevk"
+    },
+    {
+        "id": 836,
+        "question": "Bulunduğu kaba sığmayıp kenarları aşmak",
+        "letter": "T",
+        "answer": "Taşma, Taşmak, Taşması"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 482,
+        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
+        "letter": "V",
+        "answer": "vezne"
+    },
+    {
+        "id": 1237,
+        "question": "\"Veya, ya da\" eş anlamlısı",
+        "letter": "Y",
+        "answer": "Yahut"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 779,
+        "question": "Üstünlük, kazanım, yarar",
+        "letter": "A",
+        "answer": "Avantaj"
+    },
+    {
+        "id": 138,
+        "question": "Bir işi, bir davranışı yapmama kararı alma",
+        "letter": "B",
+        "answer": "boykot"
+    },
+    {
+        "id": 1360,
+        "question": "Kuşların ötüşürken çıkardıkları ses",
+        "letter": "C",
+        "answer": "Cıvıltı, cıvıldama, cıvıldamak"
+    },
+    {
+        "id": 1218,
+        "question": "Doğal hayatta sığınak olarak kullanılan kamp malzemesi, barınak",
+        "letter": "Ç",
+        "answer": "Çadır, çat"
+    },
+    {
+        "id": 1396,
+        "question": "Sıkıştırılmış hava içine püskürtülen mazotla çalışan motor",
+        "letter": "D",
+        "answer": "Dizel, dizel motor"
+    },
+    {
+        "id": 206,
+        "question": "Gerçekleştirilmesi zamana bağlı istek",
+        "letter": "E",
+        "answer": "emel"
+    },
+    {
+        "id": 1322,
+        "question": "Tornacılıkta, bir deliğin ağzını genişletmeye yarayan çelik alet",
+        "letter": "F",
+        "answer": "Freze"
+    },
+    {
+        "id": 1284,
+        "question": "Cildin nefes almasını ve nemli kalmasını sağlayan küçük kanallar",
+        "letter": "G",
+        "answer": "Gözenek, gözenekler"
+    },
+    {
+        "id": 1248,
+        "question": "Pandemiyle hayatımıza girmiş, eğitimin hem çevrimiçi hem de yüzyüze yapılması durumu",
+        "letter": "H",
+        "answer": "Hibrit, hibrit eğitim"
+    },
+    {
+        "id": 1606,
+        "question": "Birine güler yüz gösterme, hatırını sorma, tatlı davranma",
+        "letter": "İ",
+        "answer": "İltifat, iltifat etme, iltifat etmek"
+    },
+    {
+        "id": 282,
+        "question": "Başlangıcı olmayan, eski, ezeli",
+        "letter": "K",
+        "answer": "kadim"
+    },
+    {
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
+        "letter": "L",
+        "answer": "Larva, larva dönemi"
+    },
+    {
+        "id": 1878,
+        "question": "Seçkin kişilerin yaşantılarını konu alan yayın",
+        "letter": "M",
+        "answer": "Magazin"
+    },
+    {
+        "id": 641,
+        "question": "Sinir sisteminin uyarıyı iletmekle görevli anatomik ve işlevsel birimi",
+        "letter": "N",
+        "answer": "Nöron, nöronlar"
+    },
+    {
+        "id": 1889,
+        "question": "KAVİMLER GÖÇÜYLE BAŞLAYAN TARİHİ DÖNEM",
+        "letter": "O",
+        "answer": "Ortaçağ"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 1120,
+        "question": "İnce ve yarı saydam bir tür kâğıt",
+        "letter": "P",
+        "answer": "Pelür"
+    },
+    {
+        "id": 1805,
+        "question": "OSMANLIDA MALİYE İŞLEMLERİNDE KULLANILAN, GÜNEŞ YILI ESASINA DAYALI BİR TAKVİM TÜRÜ",
+        "letter": "R",
+        "answer": "Rumi, Rumi Takvim"
+    },
+    {
+        "id": 407,
+        "question": "Güldürü niteliğinde kısa oyun",
+        "letter": "S",
+        "answer": "skeç"
+    },
+    {
+        "id": 419,
+        "question": "Yetki ve sorumluluğu olan, yöneten kimse",
+        "letter": "Ş",
+        "answer": "şef"
+    },
+    {
+        "id": 1927,
+        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
+        "letter": "T",
+        "answer": "Takıntı, Takıntılık, Takma, Takmak"
+    },
+    {
+        "id": 768,
+        "question": "Sıkıntı duyumsamak, bezmek, bıkmak",
+        "letter": "U",
+        "answer": "Usanma, Usanmak"
+    },
+    {
+        "id": 466,
+        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
+        "letter": "Ü",
+        "answer": "üslup"
+    },
+    {
+        "id": 477,
+        "question": "Döndürülerek bir yere sokulan burmalı çivi",
+        "letter": "V",
+        "answer": "vida"
+    },
+    {
+        "id": 510,
+        "question": "Sesin bir yere çarpıp geri dönmesiyle duyulan ikinci ses",
+        "letter": "Y",
+        "answer": "yankı"
+    },
+    {
+        "id": 853,
+        "question": "Kabe yakınında bulunan kuyu ve bu kuyunun Müslümanlarca kutsal sayılan suyu",
+        "letter": "Z",
+        "answer": "Zemzem"
+    }
+]

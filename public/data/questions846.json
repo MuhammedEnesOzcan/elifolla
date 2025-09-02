@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1240,
+        "question": "Ameliyatlarda işlemden önce bölgenin uyuşturulması",
+        "letter": "A",
+        "answer": "Anestezi, aneztezi, anestesi"
+    },
+    {
+        "id": 1286,
+        "question": "Dolu olmayan alan, aralık",
+        "letter": "B",
+        "answer": "Boşluk, boş, boş alan"
+    },
+    {
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
+        "letter": "C",
+        "answer": "Cenah"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1090,
+        "question": "\"Bir olay sebebiyle birden ayılmak, doğruyu anlamak\"",
+        "letter": "D",
+        "answer": "dank, dank etme, dank etmek, dank etmesi"
+    },
+    {
+        "id": 20,
+        "question": "Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli",
+        "letter": "E",
+        "answer": "Etalon"
+    },
+    {
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "letter": "F",
+        "answer": "Fidan"
+    },
+    {
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
+        "letter": "G",
+        "answer": "Gelir"
+    },
+    {
+        "id": 807,
+        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
+        "letter": "H",
+        "answer": "Hüsran"
+    },
+    {
+        "id": 1725,
+        "question": "Hainlik etme, yarı yolda bırakma",
+        "letter": "İ",
+        "answer": "İhanet, ihanet etme, ihanet etmek"
+    },
+    {
+        "id": 285,
+        "question": "Taşıtların uğrayacakları kazadan doğacak zararların tamamının karşılanması için yapılan sigorta türü",
+        "letter": "K",
+        "answer": "kasko, kasko sigortası"
+    },
+    {
+        "id": 1959,
+        "question": "İçinde her türlü donanım bulunan lüks, uzun ve geniş otomobil türü",
+        "letter": "L",
+        "answer": "Limuzin"
+    },
+    {
+        "id": 1623,
+        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "letter": "M",
+        "answer": "Mimar"
+    },
+    {
+        "id": 991,
+        "question": "Petrolden 100-250 °C arasında damıtılan ürün",
+        "letter": "N",
+        "answer": "Nafta"
+    },
+    {
+        "id": 93,
+        "question": "Bir ülkenin askeri kuvvetlerinin tümü",
+        "letter": "O",
+        "answer": "ordu"
+    },
+    {
+        "id": 664,
+        "question": "Bir işi ileri tarihe atma, ertelemek",
+        "letter": "Ö",
+        "answer": "Öteleme, ötelemek"
+    },
+    {
+        "id": 1728,
+        "question": "İlaç kutularının içinde bulunan ilaçla ilgili bilgileri içeren kağıt ",
+        "letter": "P",
+        "answer": "Prospektüs"
+    },
+    {
+        "id": 1815,
+        "question": "ÇAYI YAPILAN, TOHUMLARI ANASON GİBİ KULLANILAN BİR BİTKİ",
+        "letter": "R",
+        "answer": "Rezene"
+    },
+    {
+        "id": 1948,
+        "question": "MECAZEN, “AKIL SAĞLIĞINI YİTİRMEK” ANLAMINA GELEN SÖZ",
+        "letter": "S",
+        "answer": "Sıyırma, Sıyırmak"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
+        "letter": "T",
+        "answer": "Taktik"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 1871,
+        "question": "BİR DEVLETİN BAŞKA BİR DEVLET İÇİN, TANIDIĞI SÜREDE İSTEKLERİNİN YERİNE GETİRİLMESİ İÇİN VERDİĞİ NOTA",
+        "letter": "Ü",
+        "answer": "Ültimatom"
+    },
+    {
+        "id": 1567,
+        "question": "Miras bırakılan kimse, mirasçı",
+        "letter": "V",
+        "answer": "Varis"
+    },
+    {
+        "id": 1140,
+        "question": "Dik, sarp",
+        "letter": "Y",
+        "answer": "yalçın"
+    },
+    {
+        "id": 506,
+        "question": "Zorunlu, gerekli",
+        "letter": "Z",
+        "answer": "zaruri"
+    }
+]

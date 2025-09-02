@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1330,
+        "question": "Kılçıksız, lezzetli bir tür taze fasulye",
+        "letter": "A",
+        "answer": "Ayşekadın"
+    },
+    {
+        "id": 1353,
+        "question": "Bazı ağaçlardan elde edilen, parfüm ve ilaç yapımında kullanılan reçine",
+        "letter": "B",
+        "answer": "Balsam"
+    },
+    {
+        "id": 1360,
+        "question": "Kuşların ötüşürken çıkardıkları ses",
+        "letter": "C",
+        "answer": "Cıvıltı, cıvıldama, cıvıldamak"
+    },
+    {
+        "id": 1540,
+        "question": "Sağlam ve dayanıklı olmayan",
+        "letter": "Ç",
+        "answer": "Çürük"
+    },
+    {
+        "id": 1231,
+        "question": "Otomobilin vites geçirmek için en sol tarafta ayak ile basılan pedalı",
+        "letter": "D",
+        "answer": "Debriyaj, debriaj, debriyaj pedalı, debriaj pedalı"
+    },
+    {
+        "id": 210,
+        "question": "Zaman içinde birdenbire olmayan, kesintisiz, niteliksel ve niceliksel gelişme süreci",
+        "letter": "E",
+        "answer": "evrim"
+    },
+    {
+        "id": 1226,
+        "question": "Herhangi bir konuda verilen kararın kısa bir özet haline getirilmesi, soruşturma evrakı",
+        "letter": "F",
+        "answer": "Fezleke"
+    },
+    {
+        "id": 94,
+        "question": "Günlük çıkarılan haber kaynağı, yazılı yayın",
+        "letter": "G",
+        "answer": "gazete"
+    },
+    {
+        "id": 806,
+        "question": "Monarşik aile",
+        "letter": "H",
+        "answer": "Hanedan, Hanedanlık"
+    },
+    {
+        "id": 1199,
+        "question": "Damıtma işinde kullanılan araç, damıtıcı",
+        "letter": "İ",
+        "answer": "İmbik"
+    },
+    {
+        "id": 283,
+        "question": "Mısırın taneleri atıldıktan sonra kalan sert bölüm",
+        "letter": "K",
+        "answer": "koçan"
+    },
+    {
+        "id": 1706,
+        "question": "Yeni doğum yapmış kadın",
+        "letter": "L",
+        "answer": "Lohusa"
+    },
+    {
+        "id": 1627,
+        "question": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki)",
+        "letter": "M",
+        "answer": "Melez"
+    },
+    {
+        "id": 1521,
+        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "letter": "N",
+        "answer": "Nova"
+    },
+    {
+        "id": 1519,
+        "question": "İşitme taşı",
+        "letter": "O",
+        "answer": "Otolit"
+    },
+    {
+        "id": 356,
+        "question": "Bir başarı karşılığında verilen armağan, mükâfat",
+        "letter": "Ö",
+        "answer": "ödül"
+    },
+    {
+        "id": 376,
+        "question": "Bir başkasına bağımlılığı olan",
+        "letter": "P",
+        "answer": "peyk"
+    },
+    {
+        "id": 680,
+        "question": "İzin belgesi",
+        "letter": "R",
+        "answer": "Ruhsat, Ruhsat belgesi"
+    },
+    {
+        "id": 1835,
+        "question": "MECAZ ANLAMDA HABER VERMEDEN SESSİZCE GİDİVERME",
+        "letter": "S",
+        "answer": "Sıvışma, Sıvışmak, Sıyrılma, Sıyrılmak"
+    },
+    {
+        "id": 699,
+        "question": "Ev, fabrika, baraj vb.nin yapımının sürdüğü yer",
+        "letter": "Ş",
+        "answer": "Şantiye, şantiye alanı"
+    },
+    {
+        "id": 1774,
+        "question": "KEYFİ ALIŞKANLIĞA DÖNÜŞTÜRMÜŞ OLAN KİŞİ",
+        "letter": "T",
+        "answer": "Tiryaki"
+    },
+    {
+        "id": 722,
+        "question": "İnsana iyilik getirdiğine inanılan belirti",
+        "letter": "U",
+        "answer": "Uğur"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
+        "letter": "V",
+        "answer": "Virüs"
+    },
+    {
+        "id": 906,
+        "question": "Kısa kollu ceket, mont",
+        "letter": "Y",
+        "answer": "Yelek"
+    },
+    {
+        "id": 1868,
+        "question": "ÇİÇEKLERİ BEYAZ VEYA PEMBE RENKLİ, KIŞIN YAPRAKLARINI DÖKMEYEN BİR TÜR ZEHİRLİ AĞAÇÇIK",
+        "letter": "Z",
+        "answer": "Zakkum"
+    }
+]

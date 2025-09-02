@@ -1,0 +1,158 @@
+[
+    {
+        "id": 104,
+        "question": "Bir kaynağa dayanmayan, hayali",
+        "letter": "A",
+        "answer": "afaki, afâki"
+    },
+    {
+        "id": 1084,
+        "question": "Vücudun kasıktan tabana kadar olan bölümü",
+        "letter": "B",
+        "answer": "Bacak"
+    },
+    {
+        "id": 163,
+        "question": "Bir yeri, bir veya daha çok bölüme ayıran cam bölme",
+        "letter": "C",
+        "answer": "camekan"
+    },
+    {
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
+        "letter": "Ç",
+        "answer": "Çaça"
+    },
+    {
+        "id": 1385,
+        "question": "Evlenme veya sünnet dolayısıyla yapılan tören, eğlence",
+        "letter": "D",
+        "answer": "Düğün"
+    },
+    {
+        "id": 566,
+        "question": "Bilirkişi tarafından yapılan inceleme",
+        "letter": "E",
+        "answer": "Ekspertiz, Ekspertiz raporu"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 1896,
+        "question": "DÜZENSİZ, RAHATSIZ EDİCİ YÜKSEK SES VEYA SESLER BÜTÜNÜ",
+        "letter": "G",
+        "answer": "Gürültü"
+    },
+    {
+        "id": 1495,
+        "question": "Satrançta taş sürme işi",
+        "letter": "H",
+        "answer": "Hamle, hamle yapma, hamle yapmak"
+    },
+    {
+        "id": 1944,
+        "question": "BİR ESERİN ARKASINDA YER ALAN ALFABETİK LİSTE",
+        "letter": "İ",
+        "answer": "İndeks"
+    },
+    {
+        "id": 1828,
+        "question": "ARAPÇA KÖKENLİSİ \"HÜVİYET\" OLAN KELİMENİN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Kimlik"
+    },
+    {
+        "id": 1528,
+        "question": "Üzeri toprak veya otla örtülmüş saman yığını",
+        "letter": "L",
+        "answer": "Loda"
+    },
+    {
+        "id": 1215,
+        "question": "Güneşe en yakın gezegen",
+        "letter": "M",
+        "answer": "Merkür, merkür gezegeni"
+    },
+    {
+        "id": 987,
+        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
+        "letter": "N",
+        "answer": "Naz"
+    },
+    {
+        "id": 648,
+        "question": "İyimser, pesimist karşıtı",
+        "letter": "O",
+        "answer": "Optimist"
+    },
+    {
+        "id": 660,
+        "question": "Bir kuruluşa bağlı alt bölümlerin bütünü, teşkilat",
+        "letter": "Ö",
+        "answer": "Örgüt"
+    },
+    {
+        "id": 673,
+        "question": "Söz dalaşı",
+        "letter": "P",
+        "answer": "Polemik"
+    },
+    {
+        "id": 1637,
+        "question": "Herhangi bir organın durumunu tespit etmek için çekilen film",
+        "letter": "R",
+        "answer": "Röntgen"
+    },
+    {
+        "id": 81,
+        "question": "Çatal biçiminde, taş atmaya yarayan ilkel alet",
+        "letter": "S",
+        "answer": "sapan"
+    },
+    {
+        "id": 1680,
+        "question": "İnce yufkaların içine kaymak konulup üstüne dövülmüş fıstık serpilerek yapılan bir tür baklava",
+        "letter": "Ş",
+        "answer": "Şöbiyet"
+    },
+    {
+        "id": 1214,
+        "question": "Bir duyguyu, bir düşünceyi birinin belleğine sokma, ona aşılama",
+        "letter": "T",
+        "answer": "Telkin, telkin etme, teklin etmek"
+    },
+    {
+        "id": 1223,
+        "question": "Bir sonuca varmak üzere, ortadaki engelleri kaldırmak için tutulması gereken yol, çıkar yol, çözüm, çare",
+        "letter": "U",
+        "answer": "Umar"
+    },
+    {
+        "id": 1314,
+        "question": "Manevi hazdan yoksunluk",
+        "letter": "Ü",
+        "answer": "Üzenti"
+    },
+    {
+        "id": 472,
+        "question": "İki dağ arasındaki çukurca arazi veya geçit",
+        "letter": "V",
+        "answer": "vadi"
+    },
+    {
+        "id": 889,
+        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "letter": "Y",
+        "answer": "Yalak"
+    },
+    {
+        "id": 1587,
+        "question": "İç içe geçen sehpa",
+        "letter": "Z",
+        "answer": "Zigon, zigon sehpa"
+    }
+]

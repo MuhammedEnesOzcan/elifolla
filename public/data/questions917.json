@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1900,
+        "question": "“ÇOK BİLEN KİMSE” ANLAMINDA ARAPÇA KÖKENLİ BİR SIFAT",
+        "letter": "A",
+        "answer": "Alim"
+    },
+    {
+        "id": 1351,
+        "question": "Deniz, havuz vb. yerlere girerken veya güneşlenirken giyilen, iki parçadan oluşan kadın giysisi",
+        "letter": "B",
+        "answer": "Bikini"
+    },
+    {
+        "id": 1368,
+        "question": "Şaka olmayan, gerçek",
+        "letter": "C",
+        "answer": "Ciddi"
+    },
+    {
+        "id": 1218,
+        "question": "Doğal hayatta sığınak olarak kullanılan kamp malzemesi, barınak",
+        "letter": "Ç",
+        "answer": "Çadır, çat"
+    },
+    {
+        "id": 1402,
+        "question": "Üniversitelerde bir fakültenin yönetiminden sorumlu profesör",
+        "letter": "D",
+        "answer": "Dekan"
+    },
+    {
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
+        "letter": "E",
+        "answer": "Endoskop"
+    },
+    {
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
+        "letter": "F",
+        "answer": "Ferah"
+    },
+    {
+        "id": 1769,
+        "question": "BELLİ BİR BÜTÜNE GÖRE KALEME ALINAN METNİN SONUÇTAN ÖNCEKİ BÖLÜMÜ",
+        "letter": "G",
+        "answer": "Gelişme"
+    },
+    {
+        "id": 255,
+        "question": "Uçak, araba, tarım aracı vb. nesneleri barındırmaya yarar kapalı yer",
+        "letter": "H",
+        "answer": "hangar"
+    },
+    {
+        "id": 1842,
+        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "letter": "İ",
+        "answer": "İmtina, İmtina etme, İmtina etmek"
+    },
+    {
+        "id": 1811,
+        "question": "DENTAL TEMİZLİKTE KULLANILAN İNCE TAHTA ÇÖP",
+        "letter": "K",
+        "answer": "Kürdan"
+    },
+    {
+        "id": 1107,
+        "question": "Hanigillerden, Akdeniz ve Ege'de yaşayan lezzetli bir balık, kaya hanisi",
+        "letter": "L",
+        "answer": "lahos"
+    },
+    {
+        "id": 1633,
+        "question": "Toprak altına, üstüne veya suyun içine yerleştirilen patlayıcı madde",
+        "letter": "M",
+        "answer": "Mayın"
+    },
+    {
+        "id": 1111,
+        "question": "At nalı yapan demirci",
+        "letter": "N",
+        "answer": "Nalbant"
+    },
+    {
+        "id": 820,
+        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
+        "letter": "O",
+        "answer": "Otlak, otlak arazi, ova"
+    },
+    {
+        "id": 663,
+        "question": "Bir işin ilerisini kestirme, tahmin etmek",
+        "letter": "Ö",
+        "answer": "Öngörü, Öngörmek"
+    },
+    {
+        "id": 1014,
+        "question": "Resim ve fotoğrafta duruş",
+        "letter": "P",
+        "answer": "poz"
+    },
+    {
+        "id": 395,
+        "question": "Orta kaldırım",
+        "letter": "R",
+        "answer": "refüj"
+    },
+    {
+        "id": 765,
+        "question": "İşlerine önem vermeyen, ihmalkâr",
+        "letter": "S",
+        "answer": "Savsak"
+    },
+    {
+        "id": 1057,
+        "question": "İçine mendil, gecelik vb. şeyleri koymaya yarayan, çeşitli büyüklükte, kumaştan koruncak",
+        "letter": "Ş",
+        "answer": "Şase"
+    },
+    {
+        "id": 59,
+        "question": " Novak Djokovic'in şampiyonlukları olduğu spor dalı",
+        "letter": "T",
+        "answer": "tenis"
+    },
+    {
+        "id": 1512,
+        "question": "Bütün varlıkların içinde bulunduğu sonsuz boşluk, feza, mekân",
+        "letter": "U",
+        "answer": "Uzay"
+    },
+    {
+        "id": 854,
+        "question": "Isı azlığı nedeniyle soğuğun etkisini duymak",
+        "letter": "Ü",
+        "answer": "Üşümek"
+    },
+    {
+        "id": 1300,
+        "question": "Para dalgalanmalarından yararlanarak kolay yoldan kazanç elde eden, spekülatör",
+        "letter": "V",
+        "answer": "Vurguncu"
+    },
+    {
+        "id": 718,
+        "question": "Üstünde yaşadığımız gök cismi",
+        "letter": "Y",
+        "answer": "Yer küre"
+    },
+    {
+        "id": 1590,
+        "question": "Taban, döşeme, yer",
+        "letter": "Z",
+        "answer": "Zemin"
+    }
+]

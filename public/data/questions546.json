@@ -1,0 +1,158 @@
+[
+    {
+        "id": 117,
+        "question": "Sayı boncuğu",
+        "letter": "A",
+        "answer": "abaküs"
+    },
+    {
+        "id": 525,
+        "question": "Kullanılması önlenmiş, el konulmuş",
+        "letter": "B",
+        "answer": "Bloke, bloke edilmiş, bloke olmuş"
+    },
+    {
+        "id": 1149,
+        "question": "Dokumacılıkta, çözgü makinesinde çözgü ipliği bobinlerinin desen ve renk sırasına göre yerleştirildiği sehpa",
+        "letter": "C",
+        "answer": "cağlık"
+    },
+    {
+        "id": 965,
+        "question": "Zaman dilimi, vakit",
+        "letter": "Ç",
+        "answer": "Çağ"
+    },
+    {
+        "id": 1168,
+        "question": "Bir elektrik devresinde akım akışına karşı oluşan etkinin ölçümü",
+        "letter": "D",
+        "answer": "Direnç"
+    },
+    {
+        "id": 201,
+        "question": "Bir işte yetkili olan, bir işi yapan, erbap",
+        "letter": "E",
+        "answer": "ehil, ehli"
+    },
+    {
+        "id": 572,
+        "question": "Bir kimseyi veya bir yeri koruyan kimse",
+        "letter": "F",
+        "answer": "Fedai"
+    },
+    {
+        "id": 1424,
+        "question": "Buzul bilimi",
+        "letter": "G",
+        "answer": "Glasiyoloji, Glasyoloji"
+    },
+    {
+        "id": 974,
+        "question": "Hiçbir işe yaramadan yok olma, boşa gitme",
+        "letter": "H",
+        "answer": "Heba, heba olma, heba olmak, heba olması"
+    },
+    {
+        "id": 1842,
+        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "letter": "İ",
+        "answer": "İmtina, İmtina etme, İmtina etmek"
+    },
+    {
+        "id": 1803,
+        "question": "“TÜM ORTAKLARIN SINIRSIZ SORUMLULUK ALTINDA OLDUĞU ŞİRKETLERİ” NİTELEYEN SÖZ",
+        "letter": "K",
+        "answer": "Kolektif, Kollektif"
+    },
+    {
+        "id": 622,
+        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
+        "letter": "L",
+        "answer": "Liste"
+    },
+    {
+        "id": 1213,
+        "question": "Başarılı, becerikli olmak, işin rast gitmesi",
+        "letter": "M",
+        "answer": "Muvaffak, muvaffak olma, muvaffak olmak"
+    },
+    {
+        "id": 912,
+        "question": "Hristiyanların en büyük bayramı",
+        "letter": "N",
+        "answer": "Noel"
+    },
+    {
+        "id": 1516,
+        "question": "Elle yapılan kalın, seyrek dikiş",
+        "letter": "O",
+        "answer": "Oyulga"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 1854,
+        "question": "YAYA OLARAK SAVAŞAN ASKERLERİN OLUŞTURDUĞU SINIF",
+        "letter": "P",
+        "answer": "Piyade"
+    },
+    {
+        "id": 393,
+        "question": "Gemi, tren, kışla, yatılı okul vb. yerlerde üst üste yapılan yatak yeri",
+        "letter": "R",
+        "answer": "ranza"
+    },
+    {
+        "id": 34,
+        "question": "Yüz, çehre",
+        "letter": "S",
+        "answer": "Surat, Sima"
+    },
+    {
+        "id": 428,
+        "question": "Gürültü patırtı",
+        "letter": "Ş",
+        "answer": "şamata"
+    },
+    {
+        "id": 436,
+        "question": "Bir taşınmazın üstündeki mülkiyet hakkını gösteren belge",
+        "letter": "T",
+        "answer": "tapu, tapu belgesi"
+    },
+    {
+        "id": 722,
+        "question": "İnsana iyilik getirdiğine inanılan belirti",
+        "letter": "U",
+        "answer": "Uğur"
+    },
+    {
+        "id": 861,
+        "question": "Sivrisineğe benzer çok küçük bir sinek türü",
+        "letter": "Ü",
+        "answer": "Üvez"
+    },
+    {
+        "id": 867,
+        "question": "Elektromotor Gücün Ya Da Gerilimin Birimi",
+        "letter": "V",
+        "answer": "Volt"
+    },
+    {
+        "id": 1578,
+        "question": "Bir düşünceye, bir inanca aşırı ölçüde bağlı olan baskıcı kimse",
+        "letter": "Y",
+        "answer": "Yobaz"
+    },
+    {
+        "id": 502,
+        "question": "Aldatıcı şey, tuzak, hile",
+        "letter": "Z",
+        "answer": "zoka"
+    }
+]

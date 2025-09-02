@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1670,
+        "question": "Bir ülkede ayrı soydan veya inançtan olan ve sayıca az bulunan topluluk",
+        "letter": "A",
+        "answer": "Azınlık"
+    },
+    {
+        "id": 1766,
+        "question": "Dal, kol, bölüm; ihtisas alanı",
+        "letter": "B",
+        "answer": "Branş"
+    },
+    {
+        "id": 1888,
+        "question": "MECAZEN, “GELİŞTİRİLEBİLİR YETENEK, İYİ YETENEK” ANLAMLARINA GELEN SÖZCÜK",
+        "letter": "C",
+        "answer": "Cevher, Cevherli"
+    },
+    {
+        "id": 1449,
+        "question": "Diz kapaklarına kadar çıkan bir çeşit ayakkabı",
+        "letter": "Ç",
+        "answer": "Çizme"
+    },
+    {
+        "id": 1392,
+        "question": "Aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü",
+        "letter": "D",
+        "answer": "Dosya, doküman"
+    },
+    {
+        "id": 560,
+        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "letter": "E",
+        "answer": "Edip"
+    },
+    {
+        "id": 1671,
+        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
+        "letter": "F",
+        "answer": "Filiz"
+    },
+    {
+        "id": 1863,
+        "question": "YEMEK YENİLEN, GÖSTERİ İZLENEN, MÜZİK DİNLENEN, BAZEN OYUN SERGİLENEN EĞLENCE YERİ",
+        "letter": "G",
+        "answer": "Gazino"
+    },
+    {
+        "id": 255,
+        "question": "Uçak, araba, tarım aracı vb. nesneleri barındırmaya yarar kapalı yer",
+        "letter": "H",
+        "answer": "hangar"
+    },
+    {
+        "id": 1804,
+        "question": "Dinlenme, rahat etme",
+        "letter": "İ",
+        "answer": "İstirahat, İstirahat etme, İstirahat etmek"
+    },
+    {
+        "id": 1840,
+        "question": "ÜST GİYSİLERİNİN YAKALARINA TAKILI BAŞLIK",
+        "letter": "K",
+        "answer": "Kapüşon, Kapşon"
+    },
+    {
+        "id": 1528,
+        "question": "Üzeri toprak veya otla örtülmüş saman yığını",
+        "letter": "L",
+        "answer": "Loda"
+    },
+    {
+        "id": 1631,
+        "question": "Bir ilgi veya benzetme sonucu gerçek anlamından başka anlamda kullanılan söz",
+        "letter": "M",
+        "answer": "Mecaz, mecazi, mecazen"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 995,
+        "question": "Plastik, tahta, mika vb. maddelerden yapılmış taşlarla oynanan ve konkene benzeyen bir tür oyun",
+        "letter": "O",
+        "answer": "okey"
+    },
+    {
+        "id": 355,
+        "question": "Öğretmenin öğrencilere okul dışında yapmaları için verdiği çalışma",
+        "letter": "Ö",
+        "answer": "ödev"
+    },
+    {
+        "id": 1761,
+        "question": "Çalışma saati bitiminde işi bırakma",
+        "letter": "P",
+        "answer": "Paydos, paydos etme, paydos etmek"
+    },
+    {
+        "id": 681,
+        "question": "Sporda veya oyunda yenilmiş olanın aynı rakiple oynadığı ikinci oyun",
+        "letter": "R",
+        "answer": "Rövanş, Rövanş maçı, Rovanş, Rovanş maçı"
+    },
+    {
+        "id": 1789,
+        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
+        "letter": "S",
+        "answer": "Sarsıntı"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 56,
+        "question": "Kara tahtaya yazı yazmak için kullanılan kireçli çubuk",
+        "letter": "T",
+        "answer": "Tebeşir"
+    },
+    {
+        "id": 452,
+        "question": "Kalçadan dize kadar olan bacak bölümü",
+        "letter": "U",
+        "answer": "uyluk"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 1136,
+        "question": "Değer, kıymet",
+        "letter": "V",
+        "answer": "valör"
+    },
+    {
+        "id": 1573,
+        "question": "Bir olayı belli bir görüşe göre açıklama, değerlendirme",
+        "letter": "Y",
+        "answer": "Yorum, yorum yapma, yorum yapmak, yorumlama, yorumlamak"
+    },
+    {
+        "id": 853,
+        "question": "Kabe yakınında bulunan kuyu ve bu kuyunun Müslümanlarca kutsal sayılan suyu",
+        "letter": "Z",
+        "answer": "Zemzem"
+    }
+]

@@ -1,158 +1,158 @@
 [
     {
-        "id": 1669,
-        "question": "Burgu ile delinerek açılan ve suyu yükseğe fışkırtan kuyu",
+        "id": 104,
+        "question": "Bir kaynağa dayanmayan, hayali",
         "letter": "A",
-        "answer": "Artezyen"
+        "answer": "afaki, afâki"
     },
     {
-        "id": 1596,
-        "question": "Bir öğrencinin öğrenimini sürdürebilmesi için verilen ödenek",
+        "id": 133,
+        "question": "Belirli bir davranışta bulunmaya zorlayıcı söz, buyuru, emir, ferman",
         "letter": "B",
-        "answer": "Burs, burs verme, burs vermek"
+        "answer": "buyruk"
     },
     {
-        "id": 14,
-        "question": "Ülkemizde de sık görülen bir tür köpek balığı?",
+        "id": 1357,
+        "question": "Elindeki parayı harcamaya kıyamayan",
         "letter": "C",
-        "answer": "camgöz"
+        "answer": "Cimri, cimrilik"
     },
     {
-        "id": 1544,
-        "question": "Bazı toprakların yüzünde beyaz bir katman durumunda toplanan ve eskiden barut yapmakta kullanılan potaslı, sutlu tuz",
+        "id": 172,
+        "question": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
         "letter": "Ç",
-        "answer": "Çorak"
+        "answer": "çakı"
     },
     {
-        "id": 749,
-        "question": "Dozu düzenleme, ayarlama",
+        "id": 1768,
+        "question": "BİR DEVLETİN BAŞKA DEVLETLERLE İLGİLİ HER TÜRLÜ ETKİNLİĞİ, HARİCİYE",
         "letter": "D",
-        "answer": "dozaj"
+        "answer": "Dışişleri"
     },
     {
-        "id": 1487,
-        "question": "Organizmada hastalığa yol açan bir mikrobun genel veya yerel gelişmesi, yayılması",
+        "id": 1405,
+        "question": "Yalnızca ahlak üzerine kurulu yönetim biçimi",
         "letter": "E",
-        "answer": "Enfeksiyon, enfekte olma, enfekte olma"
+        "answer": "Etokrasi"
     },
     {
-        "id": 71,
-        "question": "Satrançta sadece çapraz hareket edebilen taş",
+        "id": 1968,
+        "question": "KURAL İHLALİ SONRASI, KALEYE DOĞRUDAN ŞUT ÇEKİLEN SERBEST VURUŞ",
         "letter": "F",
-        "answer": "fil"
+        "answer": "FRİKİK"
     },
     {
-        "id": 584,
-        "question": "Seçkin, seçilmiş, seçme",
+        "id": 583,
+        "question": "At yarışlarında birinciliği kazanan at",
         "letter": "G",
-        "answer": "Güzide, Gûzide"
+        "answer": "Ganyan"
     },
     {
-        "id": 1098,
-        "question": "Kur'an'ı bütünüyle ezbere bilen kimse",
+        "id": 1902,
+        "question": "MECAZEN; “AHBAPLIK, DOSTLUK”",
         "letter": "H",
-        "answer": "Hafız"
+        "answer": "Hukuk"
     },
     {
-        "id": 755,
-        "question": "Ticari hezimet",
+        "id": 1953,
+        "question": "ACI VE ÜZÜNTÜYÜ BELİRTEN KESİK KESİK SESLER",
         "letter": "İ",
-        "answer": "İflas, iflas etme, iflas etmek"
+        "answer": "İnilti"
     },
     {
-        "id": 978,
-        "question": "Herhangi bir şeyin veya vücudun üzerinde oluşan, biriken pislik",
+        "id": 26,
+        "question": "Dar dik yamaçlı ve derin vadi",
         "letter": "K",
-        "answer": "Kir"
+        "answer": "Kanyon"
     },
     {
-        "id": 1611,
-        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "id": 306,
+        "question": "Deniz veya ırmaklarda birdenbire derinleşen yer",
         "letter": "L",
-        "answer": "Logo"
+        "answer": "longoz, longuz"
     },
     {
-        "id": 956,
-        "question": "Mendelevyum'un simgesi",
+        "id": 626,
+        "question": "Birbirini kesen demiryolu hatlarının kesiştiği yer",
         "letter": "M",
-        "answer": "md"
+        "answer": "Makas"
     },
     {
-        "id": 994,
-        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
+        "id": 960,
+        "question": "Az şey, az",
         "letter": "N",
-        "answer": "naip"
+        "answer": "nebze"
     },
     {
-        "id": 353,
-        "question": "Aşırı kilolu (kimse)",
+        "id": 1517,
+        "question": "Alçak iskemle",
         "letter": "O",
-        "answer": "obez"
+        "answer": "Oturak"
     },
     {
-        "id": 358,
-        "question": "Bir vakitte yenilen yemek",
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
         "letter": "Ö",
-        "answer": "öğün"
+        "answer": "ödünç, ödünç alma, ödünç almak"
     },
     {
-        "id": 1942,
-        "question": "Hipodromda yarış atlarının yedekte gezdirildikleri yer",
+        "id": 1014,
+        "question": "Resim ve fotoğrafta duruş",
         "letter": "P",
-        "answer": "Padok"
+        "answer": "poz"
     },
     {
-        "id": 385,
-        "question": "Gerçek olmayan davranış, gösteriş",
+        "id": 684,
+        "question": "Kanıtlanmamış bir haber ya da olay, söylenti",
         "letter": "R",
-        "answer": "rol"
+        "answer": "Rivayet"
     },
     {
-        "id": 1826,
-        "question": "EN AZ İKİ KİŞİ ARASINDA DÜZENLENEN, BİR TARAFIN ÖBÜRÜNE ÖDEME YAPMA YÜKÜMLÜLÜĞÜNÜ BEYAN ETTİĞİ KÂĞIT",
+        "id": 1921,
+        "question": "“EKSTREM” SÖZCÜĞÜNÜN KARŞILIĞI OLAN SÖZ DİZİSİ",
         "letter": "S",
-        "answer": "Senet"
+        "answer": "Sıradışı"
     },
     {
-        "id": 1057,
-        "question": "İçine mendil, gecelik vb. şeyleri koymaya yarayan, çeşitli büyüklükte, kumaştan koruncak",
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
         "letter": "Ş",
-        "answer": "Şase"
+        "answer": "şakrak"
     },
     {
-        "id": 1907,
-        "question": "YER ÇEKİMİ ETKİSİNDEN YARARLANAN ÖLÇÜM ALETİ",
+        "id": 439,
+        "question": "Manyetik bir bant üzerine sesleri kaydeden ve okuyan aygıt",
         "letter": "T",
-        "answer": "Terazi"
+        "answer": "teyp"
     },
     {
-        "id": 455,
-        "question": "Açıkgöz, kurnaz, cingöz",
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
         "letter": "U",
-        "answer": "uyanık"
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
     },
     {
-        "id": 1871,
-        "question": "BİR DEVLETİN BAŞKA BİR DEVLET İÇİN, TANIDIĞI SÜREDE İSTEKLERİNİN YERİNE GETİRİLMESİ İÇİN VERDİĞİ NOTA",
+        "id": 1508,
+        "question": "Bir ülküye çıkar gütmeden bağlı olan, idealist",
         "letter": "Ü",
-        "answer": "Ültimatom"
+        "answer": "Ülkücü"
     },
     {
-        "id": 1136,
-        "question": "Değer, kıymet",
+        "id": 890,
+        "question": "Giysilerde omuzların dik durması için konulan parça",
         "letter": "V",
-        "answer": "valör"
+        "answer": "Vatka"
     },
     {
-        "id": 953,
-        "question": "Tibet öküzü",
+        "id": 497,
+        "question": "Yıkılmış olan, harap, viran",
         "letter": "Y",
-        "answer": "yak, yak sığırı"
+        "answer": "yıkık"
     },
     {
-        "id": 1290,
-        "question": "Keyifli, eğlenceli olan",
+        "id": 842,
+        "question": "Zeki, anlayış sahibi",
         "letter": "Z",
-        "answer": "Zevkli, zevk"
+        "answer": "Zeren"
     }
 ]

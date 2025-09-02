@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1659,
+        "question": "Konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak",
+        "letter": "A",
+        "answer": "Ağırlamak, ağırlama"
+    },
+    {
+        "id": 1773,
+        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "letter": "B",
+        "answer": "Buluş"
+    },
+    {
+        "id": 1359,
+        "question": "Hekimliğin deri hastalıkları ile ilgili dalı, dermatoloji",
+        "letter": "C",
+        "answer": "Cildiye"
+    },
+    {
+        "id": 1762,
+        "question": "Her zaman menfaati doğrultusunda hareket eden kişi",
+        "letter": "Ç",
+        "answer": "Çıkarcı"
+    },
+    {
+        "id": 187,
+        "question": "İçi boş, her yanı kapalı, suyun üstünde yüzen bir tür büyük şamandıra",
+        "letter": "D",
+        "answer": "Duba"
+    },
+    {
+        "id": 798,
+        "question": "Yazıtları ve tarihi yapıtlardaki yazıları inceleyen bilim dalı",
+        "letter": "E",
+        "answer": "Epigrafi"
+    },
+    {
+        "id": 219,
+        "question": "İstenilen şeylerin yazılması, doldurulması için hazırlanmış basılı belge",
+        "letter": "F",
+        "answer": "form"
+    },
+    {
+        "id": 1284,
+        "question": "Cildin nefes almasını ve nemli kalmasını sağlayan küçük kanallar",
+        "letter": "G",
+        "answer": "Gözenek, gözenekler"
+    },
+    {
+        "id": 586,
+        "question": "Tek seferde söylenen ses birliği",
+        "letter": "H",
+        "answer": "Hece, Heceleme, Hecelemek"
+    },
+    {
+        "id": 1497,
+        "question": "Ülke adına makamlara sunulmak üzere toplanmış taktik içerikli bilgiler",
+        "letter": "İ",
+        "answer": "İstihbarat"
+    },
+    {
+        "id": 1886,
+        "question": "KALABALIK HÂLİNDE YAŞANAN YERLERDE, İÇİNDE BİRÇOK KİMSENİN YATTIĞI VEYA BARINDIĞI BÜYÜK ODA",
+        "letter": "K",
+        "answer": "Koğuş"
+    },
+    {
+        "id": 983,
+        "question": "Deniz kulağı",
+        "letter": "L",
+        "answer": "Lagün"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 1252,
+        "question": "Hastalığın yeniden ortaya çıkma, tekrarlaması durumu",
+        "letter": "N",
+        "answer": "Nüks, nüks etme, nüks etmesi, nüks etmek"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 666,
+        "question": "Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha",
+        "letter": "P",
+        "answer": "Palet"
+    },
+    {
+        "id": 1032,
+        "question": "Pokerde, bir oyuncunun önündeki paranın tümü",
+        "letter": "R",
+        "answer": "rest"
+    },
+    {
+        "id": 63,
+        "question": "Garri Kasparov'un \"Büyük Usta\" unvanına sahip olduğu oyun",
+        "letter": "S",
+        "answer": "Satranç"
+    },
+    {
+        "id": 935,
+        "question": "Kesme veya oyma kalıbı",
+        "letter": "Ş",
+        "answer": "şablon"
+    },
+    {
+        "id": 440,
+        "question": "Herhangi bir konuda verilen gizli bilgi",
+        "letter": "T",
+        "answer": "tüyo, tüyo verme, tüyo vermek"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 1472,
+        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
+        "letter": "Ü",
+        "answer": "Ürkmek"
+    },
+    {
+        "id": 866,
+        "question": "Futbolda Top Yere Değmeden Yapılan Vuruş",
+        "letter": "V",
+        "answer": "Vole"
+    },
+    {
+        "id": 489,
+        "question": "Kişiye isnat edilen haksız suçlama",
+        "letter": "Y",
+        "answer": "yafta, yaftalama, yaftalamak"
+    },
+    {
+        "id": 841,
+        "question": "Kimse, kişi",
+        "letter": "Z",
+        "answer": "Zat"
+    }
+]

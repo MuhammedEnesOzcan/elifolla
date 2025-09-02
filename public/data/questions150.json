@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1240,
+        "question": "Ameliyatlarda işlemden önce bölgenin uyuşturulması",
+        "letter": "A",
+        "answer": "Anestezi, aneztezi, anestesi"
+    },
+    {
+        "id": 1919,
+        "question": "FRANSIZCA KÖKENLİ “TÜRBÜLANS” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "letter": "B",
+        "answer": "Burgaç"
+    },
+    {
+        "id": 789,
+        "question": "Bir maddenin özü, değerli taş",
+        "letter": "C",
+        "answer": "Cevher"
+    },
+    {
+        "id": 1087,
+        "question": "Herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor",
+        "letter": "Ç",
+        "answer": "Çaba"
+    },
+    {
+        "id": 1168,
+        "question": "Bir elektrik devresinde akım akışına karşı oluşan etkinin ölçümü",
+        "letter": "D",
+        "answer": "Direnç"
+    },
+    {
+        "id": 200,
+        "question": "Boyut, ölçü",
+        "letter": "E",
+        "answer": "ebat"
+    },
+    {
+        "id": 1671,
+        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
+        "letter": "F",
+        "answer": "Filiz"
+    },
+    {
+        "id": 1425,
+        "question": "Eksikliği duyulan şey, ihtiyaç",
+        "letter": "G",
+        "answer": "Gereksinim, gerekli"
+    },
+    {
+        "id": 1439,
+        "question": "Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz",
+        "letter": "H",
+        "answer": "Haşa"
+    },
+    {
+        "id": 600,
+        "question": "Bir yeri ele geçirme",
+        "letter": "İ",
+        "answer": "İşgal, işgal etme, işgal etmek"
+    },
+    {
+        "id": 1783,
+        "question": "KİTABIN, DERGİNİN İÇERİĞİNİ ÖZETLEYEN DIŞ YÜZÜ",
+        "letter": "K",
+        "answer": "Kapak"
+    },
+    {
+        "id": 303,
+        "question": "İnsanın davranışlarının temelini oluşturan cinsel içgüdü",
+        "letter": "L",
+        "answer": "libido"
+    },
+    {
+        "id": 1807,
+        "question": "Bir kişiye haberi verilmiş olan şeyler, havadisler",
+        "letter": "M",
+        "answer": "Malumat"
+    },
+    {
+        "id": 326,
+        "question": "Açık seçik olan, anlaşılmaz yanı bulunmayan",
+        "letter": "N",
+        "answer": "net"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 362,
+        "question": "Bir yazı veya sözün anlamını daha kısa ve özlü biçimde veren yazı veya söz",
+        "letter": "Ö",
+        "answer": "özet"
+    },
+    {
+        "id": 666,
+        "question": "Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha",
+        "letter": "P",
+        "answer": "Palet"
+    },
+    {
+        "id": 1122,
+        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
+        "letter": "R",
+        "answer": "rapor"
+    },
+    {
+        "id": 1835,
+        "question": "MECAZ ANLAMDA HABER VERMEDEN SESSİZCE GİDİVERME",
+        "letter": "S",
+        "answer": "Sıvışma, Sıvışmak, Sıyrılma, Sıyrılmak"
+    },
+    {
+        "id": 703,
+        "question": "Oturduğu yerde hafif ve kısa süreli uyuma",
+        "letter": "Ş",
+        "answer": "Şekerleme"
+    },
+    {
+        "id": 1063,
+        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
+        "letter": "T",
+        "answer": "Takı"
+    },
+    {
+        "id": 452,
+        "question": "Kalçadan dize kadar olan bacak bölümü",
+        "letter": "U",
+        "answer": "uyluk"
+    },
+    {
+        "id": 457,
+        "question": "Tanınma durumu, san, şöhret, şan",
+        "letter": "Ü",
+        "answer": "Ün"
+    },
+    {
+        "id": 771,
+        "question": "Araç, taşıt anlamlarındaki söz",
+        "letter": "V",
+        "answer": "Vasıta"
+    },
+    {
+        "id": 906,
+        "question": "Kısa kollu ceket, mont",
+        "letter": "Y",
+        "answer": "Yelek"
+    },
+    {
+        "id": 857,
+        "question": "Çiçek Açan - Çoban Yıldızı (Venüs)",
+        "letter": "Z",
+        "answer": "Zühre, zuhre"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1918,
+        "question": "“SERBEST, HÜR, ÖZGÜR” ANLAMLARINDA FARSÇA KÖKENLİ BİR SÖZCÜK",
+        "letter": "A",
+        "answer": "Azat, Azad, Azade"
+    },
+    {
+        "id": 138,
+        "question": "Bir işi, bir davranışı yapmama kararı alma",
+        "letter": "B",
+        "answer": "boykot"
+    },
+    {
+        "id": 530,
+        "question": "Gösterişli, şatafatlı",
+        "letter": "C",
+        "answer": "Cafcaf, cafcaflı"
+    },
+    {
+        "id": 1545,
+        "question": "Yüzü çiçek hastalığından kalma küçük yara izleri taşıyan, aşırı çiçek bozuğu olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çopur"
+    },
+    {
+        "id": 1392,
+        "question": "Aynı konu, aynı kimse, aynı işle ilgili belgeler bütünü",
+        "letter": "D",
+        "answer": "Dosya, doküman"
+    },
+    {
+        "id": 564,
+        "question": "Mutluluk Hormonu",
+        "letter": "E",
+        "answer": "Endorfin"
+    },
+    {
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
+        "letter": "F",
+        "answer": "Ferah"
+    },
+    {
+        "id": 577,
+        "question": "Çenede veya yanakta olan küçük çukur",
+        "letter": "G",
+        "answer": "Gamze"
+    },
+    {
+        "id": 254,
+        "question": "Zarla oynanan oyunlarda zarların tek benekli yönlerinin üste gelmesi",
+        "letter": "H",
+        "answer": "hepyek"
+    },
+    {
+        "id": 1198,
+        "question": "Sığınma, sığınma hakkı",
+        "letter": "İ",
+        "answer": "İltica, iltica hakkı"
+    },
+    {
+        "id": 1939,
+        "question": "Küp şekere göre daha büyük boyutta özellikle Erzurum yöresine ait şeker türü",
+        "letter": "K",
+        "answer": "Kıtlama, Kıtlama Şeker"
+    },
+    {
+        "id": 299,
+        "question": "Önder, şef",
+        "letter": "L",
+        "answer": "lider"
+    },
+    {
+        "id": 1628,
+        "question": "Genellikle karın kaslarının güçlendirilmesi için yapılan beden hareketi",
+        "letter": "M",
+        "answer": "Mekik, mekik çekme, mekik çekmek"
+    },
+    {
+        "id": 329,
+        "question": "Bir yerden alıp başka bir yere iletme, aktarma, taşıma",
+        "letter": "N",
+        "answer": "nakil, nakil işlemi"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "letter": "Ö",
+        "answer": "özel"
+    },
+    {
+        "id": 823,
+        "question": "Bir balık ve bir meyve türünün ortak adı",
+        "letter": "P",
+        "answer": "Palamut"
+    },
+    {
+        "id": 392,
+        "question": "Derece, kerte",
+        "letter": "R",
+        "answer": "radde"
+    },
+    {
+        "id": 1800,
+        "question": "Hareketlinin birim zamanda aldığı yol",
+        "letter": "S",
+        "answer": "Sürat"
+    },
+    {
+        "id": 1681,
+        "question": "Üzerine uzanılabilecek biçimde ayarlanan bir tür taşınabilir koltuk",
+        "letter": "Ş",
+        "answer": "Şezlong"
+    },
+    {
+        "id": 437,
+        "question": "Güzel sanatlarda üslup, stil, konsept",
+        "letter": "T",
+        "answer": "tarz"
+    },
+    {
+        "id": 450,
+        "question": "Bilgiçlik taslayan (kimse)",
+        "letter": "U",
+        "answer": "ukala"
+    },
+    {
+        "id": 1133,
+        "question": "Çoğunlukla ayın neden olduğu, yerin dönme ekseninin yaptığı koni hareketindeki dönemsel salınım, nütasyon",
+        "letter": "Ü",
+        "answer": "Üğrüm"
+    },
+    {
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
+        "letter": "V",
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
+    },
+    {
+        "id": 1845,
+        "question": "SEYAHATE ÇIKMIŞ KİMSE",
+        "letter": "Y",
+        "answer": "Yolcu"
+    },
+    {
+        "id": 853,
+        "question": "Kabe yakınında bulunan kuyu ve bu kuyunun Müslümanlarca kutsal sayılan suyu",
+        "letter": "Z",
+        "answer": "Zemzem"
+    }
+]

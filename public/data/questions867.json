@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1656,
+        "question": "Alfabe sırasına göre dizilmiş",
+        "letter": "A",
+        "answer": "Alfabetik"
+    },
+    {
+        "id": 523,
+        "question": "Havaya atılmış, uçurulmuş",
+        "letter": "B",
+        "answer": "Berhava"
+    },
+    {
+        "id": 1530,
+        "question": "Adam öldürme",
+        "letter": "C",
+        "answer": "Cinayet"
+    },
+    {
+        "id": 790,
+        "question": "Düşman kıyılarına asker indirme işi",
+        "letter": "Ç",
+        "answer": "Çıkarma, çıkarma yapmak, çıkarma yapma"
+    },
+    {
+        "id": 112,
+        "question": "Müzik, ürün, hizmet gibi alanlarda kısa ön sunum",
+        "letter": "D",
+        "answer": "demo"
+    },
+    {
+        "id": 750,
+        "question": "Kazalara alınmış tedbirler",
+        "letter": "E",
+        "answer": "Emniyet"
+    },
+    {
+        "id": 1713,
+        "question": "Karınca asidi olarak bilinen kimyadaki asit türü",
+        "letter": "F",
+        "answer": "Formik, Formik asit, Formik asid"
+    },
+    {
+        "id": 1746,
+        "question": "Evlenmekte olan bir erkeğe düğün töreni sırasında verilen ad",
+        "letter": "G",
+        "answer": "Güvey"
+    },
+    {
+        "id": 1733,
+        "question": "Normalin üstünde bir hareketliliğe ve aktifliğe sahip olma durumu",
+        "letter": "H",
+        "answer": "Hiperaktivite, hiperaktiflik"
+    },
+    {
+        "id": 1182,
+        "question": "Birlikte el birliği ile yapılan",
+        "letter": "İ",
+        "answer": "İmece, imece usulü, imece usulüyle, imece usulü ile"
+    },
+    {
+        "id": 1925,
+        "question": "Kertenkelenin avcısından kurtulmak için geride bıraktığı uzvu",
+        "letter": "K",
+        "answer": "Kuyruk, Kuyruğu"
+    },
+    {
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
+        "letter": "L",
+        "answer": "Lift"
+    },
+    {
+        "id": 1807,
+        "question": "Bir kişiye haberi verilmiş olan şeyler, havadisler",
+        "letter": "M",
+        "answer": "Malumat"
+    },
+    {
+        "id": 991,
+        "question": "Petrolden 100-250 °C arasında damıtılan ürün",
+        "letter": "N",
+        "answer": "Nafta"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 1538,
+        "question": "Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak",
+        "letter": "Ö",
+        "answer": "Örtmek"
+    },
+    {
+        "id": 377,
+        "question": "Gramofonda dinlemek amacıyla hazırlanan plastik daire biçiminde nesne",
+        "letter": "P",
+        "answer": "plak"
+    },
+    {
+        "id": 1278,
+        "question": "Uyku sırasında görülen olaylar",
+        "letter": "R",
+        "answer": "Rüya"
+    },
+    {
+        "id": 1047,
+        "question": "Vücutta kalbin bulunduğu tarafta olan, sağ karşıtı",
+        "letter": "S",
+        "answer": "sol"
+    },
+    {
+        "id": 1057,
+        "question": "İçine mendil, gecelik vb. şeyleri koymaya yarayan, çeşitli büyüklükte, kumaştan koruncak",
+        "letter": "Ş",
+        "answer": "Şase"
+    },
+    {
+        "id": 64,
+        "question": "Hava sıcaklığını ölçmeye yarayan alet",
+        "letter": "T",
+        "answer": "termometre"
+    },
+    {
+        "id": 455,
+        "question": "Açıkgöz, kurnaz, cingöz",
+        "letter": "U",
+        "answer": "uyanık"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 478,
+        "question": "Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç",
+        "letter": "V",
+        "answer": "vinç"
+    },
+    {
+        "id": 1575,
+        "question": "Aşağıdan yukarıya gittikçe yükselen eğimli yer",
+        "letter": "Y",
+        "answer": "Yokuş"
+    },
+    {
+        "id": 1595,
+        "question": "Her hangi bir darbeden sonra bölgedeki ağrının hissedilmesi şekli",
+        "letter": "Z",
+        "answer": "Zonklama, zonklamak"
+    }
+]

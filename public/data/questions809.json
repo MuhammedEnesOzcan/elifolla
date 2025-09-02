@@ -1,0 +1,158 @@
+[
+    {
+        "id": 122,
+        "question": "Acındıracak, acı verecek nitelikte olan, dokunaklı, üzücü",
+        "letter": "A",
+        "answer": "acıklı, acınası"
+    },
+    {
+        "id": 1230,
+        "question": "Birdenbire ortaya çıkan tehlikeli durum",
+        "letter": "B",
+        "answer": "Badire, badire atlatma, badire atlatmak"
+    },
+    {
+        "id": 14,
+        "question": "Ülkemizde de sık görülen bir tür köpek balığı?",
+        "letter": "C",
+        "answer": "camgöz"
+    },
+    {
+        "id": 1448,
+        "question": "İri köpek, çoban köpeği",
+        "letter": "Ç",
+        "answer": "Çomar"
+    },
+    {
+        "id": 1385,
+        "question": "Evlenme veya sünnet dolayısıyla yapılan tören, eğlence",
+        "letter": "D",
+        "answer": "Düğün"
+    },
+    {
+        "id": 1408,
+        "question": "hastalığın nedeni, kökeni. Hastalık nedenleri ile uğraşan bilim dalı",
+        "letter": "E",
+        "answer": "Etiyoloji"
+    },
+    {
+        "id": 229,
+        "question": "Tanıtma filmi",
+        "letter": "F",
+        "answer": "fragman"
+    },
+    {
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
+        "letter": "G",
+        "answer": "Gelir"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 808,
+        "question": "Kararlılık, stabilizasyon",
+        "letter": "İ",
+        "answer": "İstikrar"
+    },
+    {
+        "id": 610,
+        "question": "Araştırma ve incelemede yararlanılan belge, referans",
+        "letter": "K",
+        "answer": "Kaynak"
+    },
+    {
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
+        "letter": "L",
+        "answer": "Lanse, lanse etme, lanse etmek"
+    },
+    {
+        "id": 1615,
+        "question": "Bir diğer söylemle; Önemli, gerekli",
+        "letter": "M",
+        "answer": "Mühim"
+    },
+    {
+        "id": 327,
+        "question": "Haykırma, bağırma",
+        "letter": "N",
+        "answer": "nara, nara atma, nara atmak"
+    },
+    {
+        "id": 646,
+        "question": "Kağıt katlama sanatı",
+        "letter": "O",
+        "answer": "Origami"
+    },
+    {
+        "id": 1478,
+        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "letter": "Ö",
+        "answer": "Özerk"
+    },
+    {
+        "id": 1271,
+        "question": "\"Sokrates'in Savunması\" adlı eseri yazan ünlü filozof",
+        "letter": "P",
+        "answer": "Platon"
+    },
+    {
+        "id": 396,
+        "question": "Yönetme, düzenleme biçimi, düzen",
+        "letter": "R",
+        "answer": "rejim"
+    },
+    {
+        "id": 1124,
+        "question": "Acı, yoksulluk, haksızlık vb. üzücü durumlar karşısında ses çıkarmadan onların geçmesini bekleme erdemi, dayanç",
+        "letter": "S",
+        "answer": "sabır"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 1852,
+        "question": "KALIPTA PİŞEN BİR TÜR MEYVELİ PASTA",
+        "letter": "T",
+        "answer": "Tart, Turta"
+    },
+    {
+        "id": 37,
+        "question": "Belli bir işte belli bir konuda bilgili olan (kimse)",
+        "letter": "U",
+        "answer": "Uzman, Usta"
+    },
+    {
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
+        "letter": "Ü",
+        "answer": "üvey"
+    },
+    {
+        "id": 475,
+        "question": "Gözlem ve deneye dayalı araştırmanın sonuçları",
+        "letter": "V",
+        "answer": "veri, veri seti"
+    },
+    {
+        "id": 1239,
+        "question": "Bir parçadan oluşan, tek parça, bütün",
+        "letter": "Y",
+        "answer": "Yekpare"
+    },
+    {
+        "id": 1972,
+        "question": "Övendirenin ucuna çakılan çivi",
+        "letter": "Z",
+        "answer": "zakıt"
+    }
+]

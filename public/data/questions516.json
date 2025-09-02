@@ -1,0 +1,158 @@
+[
+    {
+        "id": 113,
+        "question": "İki veya daha çok renkli",
+        "letter": "A",
+        "answer": "alaca"
+    },
+    {
+        "id": 149,
+        "question": "`Aferin, yaşa` anlamlarında beğeni bildiren bir söz",
+        "letter": "B",
+        "answer": "bravo"
+    },
+    {
+        "id": 14,
+        "question": "Ülkemizde de sık görülen bir tür köpek balığı?",
+        "letter": "C",
+        "answer": "camgöz"
+    },
+    {
+        "id": 1762,
+        "question": "Her zaman menfaati doğrultusunda hareket eden kişi",
+        "letter": "Ç",
+        "answer": "Çıkarcı"
+    },
+    {
+        "id": 1231,
+        "question": "Otomobilin vites geçirmek için en sol tarafta ayak ile basılan pedalı",
+        "letter": "D",
+        "answer": "Debriyaj, debriaj, debriyaj pedalı, debriaj pedalı"
+    },
+    {
+        "id": 798,
+        "question": "Yazıtları ve tarihi yapıtlardaki yazıları inceleyen bilim dalı",
+        "letter": "E",
+        "answer": "Epigrafi"
+    },
+    {
+        "id": 1672,
+        "question": "Birdenbire, düşünmeden yapan",
+        "letter": "F",
+        "answer": "Fevri"
+    },
+    {
+        "id": 972,
+        "question": "Ülkeler veya şehirler arasında yapılan uzun yolculuk, seyahat",
+        "letter": "G",
+        "answer": "Gezi"
+    },
+    {
+        "id": 1229,
+        "question": "Yakını görememe kusuru",
+        "letter": "H",
+        "answer": "Hipermetrop, hipermetropluk"
+    },
+    {
+        "id": 258,
+        "question": "Bir konuda birinin inanmasını sağlama, inandırma, kandırma",
+        "letter": "İ",
+        "answer": "ikna"
+    },
+    {
+        "id": 606,
+        "question": "Kara ile suyun birleştiği yer",
+        "letter": "K",
+        "answer": "Kıyı"
+    },
+    {
+        "id": 983,
+        "question": "Deniz kulağı",
+        "letter": "L",
+        "answer": "Lagün"
+    },
+    {
+        "id": 1621,
+        "question": "Hareketli, taşınabilir",
+        "letter": "M",
+        "answer": "Mobil"
+    },
+    {
+        "id": 819,
+        "question": "Deneyimsiz, doğal, saf, sade kimse ya da kişilik",
+        "letter": "N",
+        "answer": "Naif, naif kişilik"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 1482,
+        "question": "Bir yargıya varmak veya değer vermek için başvurulan ilke, kıstas, mısdak, kriter",
+        "letter": "Ö",
+        "answer": "Ölçüt"
+    },
+    {
+        "id": 1802,
+        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
+        "letter": "P",
+        "answer": "Peksimet"
+    },
+    {
+        "id": 401,
+        "question": "Su düzeyindeki sıra kayalar",
+        "letter": "R",
+        "answer": "resif, resifler"
+    },
+    {
+        "id": 685,
+        "question": "Yapay, yapma, sentetik",
+        "letter": "S",
+        "answer": "Suni"
+    },
+    {
+        "id": 1054,
+        "question": "Bir makinenin dönme hareketini öteki parçalara aktaran ve ucuna dişli çarklar, tekerlekler veya pervane bağlanan demir mil",
+        "letter": "Ş",
+        "answer": "Şaft"
+    },
+    {
+        "id": 1650,
+        "question": "Lisans ve yüksek lisans yapan öğrencilerin bilimsel yöntemlere dayandırdıkları ve hazırladıkları makaleler",
+        "letter": "T",
+        "answer": "Tez"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 864,
+        "question": "Olması istenmeyen olaylardan doğan ruh tedirginliği",
+        "letter": "Ü",
+        "answer": "Üzüntü"
+    },
+    {
+        "id": 1300,
+        "question": "Para dalgalanmalarından yararlanarak kolay yoldan kazanç elde eden, spekülatör",
+        "letter": "V",
+        "answer": "Vurguncu"
+    },
+    {
+        "id": 1237,
+        "question": "\"Veya, ya da\" eş anlamlısı",
+        "letter": "Y",
+        "answer": "Yahut"
+    },
+    {
+        "id": 736,
+        "question": "\"Kara Kekik\" olarak bilinen yabani ot çeşidi, baharat",
+        "letter": "Z",
+        "answer": "Zahter, zahter otu"
+    }
+]

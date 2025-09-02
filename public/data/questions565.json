@@ -1,0 +1,158 @@
+[
+    {
+        "id": 520,
+        "question": "Kana al rengini veren hücre",
+        "letter": "A",
+        "answer": "Alyuvar, Alyuvarlar, Alyuvar hücre"
+    },
+    {
+        "id": 1601,
+        "question": "Genellikle bir şeyi tanıtmayı amaçlayan, sayfa sayısı az, küçük kitap",
+        "letter": "B",
+        "answer": "Broşür"
+    },
+    {
+        "id": 533,
+        "question": "Mecbur bırakma, zoraki",
+        "letter": "C",
+        "answer": "Cebren, cebir"
+    },
+    {
+        "id": 183,
+        "question": "Oy vermekten, eğilim göstermekten veya bir şey yapmaktan kaçınan, kararsız kimse",
+        "letter": "Ç",
+        "answer": "çekimser"
+    },
+    {
+        "id": 1768,
+        "question": "BİR DEVLETİN BAŞKA DEVLETLERLE İLGİLİ HER TÜRLÜ ETKİNLİĞİ, HARİCİYE",
+        "letter": "D",
+        "answer": "Dışişleri"
+    },
+    {
+        "id": 1236,
+        "question": "Gizlerle, sırlarla örtülü olan, gizemli",
+        "letter": "E",
+        "answer": "Esrarengiz"
+    },
+    {
+        "id": 1325,
+        "question": "Eskiden topları ateşlemekte kullanılan kaytan biçiminde tutuşturucu madde",
+        "letter": "F",
+        "answer": "Fitil"
+    },
+    {
+        "id": 239,
+        "question": "Alabildiğine, çokça",
+        "letter": "G",
+        "answer": "gırla"
+    },
+    {
+        "id": 590,
+        "question": "Bir mala icra dairesi tarafından el konulması",
+        "letter": "H",
+        "answer": "Haciz, haciz işlemi, haczetmek, haciz etme, haciz etmek"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 290,
+        "question": "Askeri birliği ve onunla ilgili işleri yönetme görevi, kumanda",
+        "letter": "K",
+        "answer": "komuta, komuta etme, komuta etmek"
+    },
+    {
+        "id": 1731,
+        "question": "Şubat ve mart aylarında, çokça renkli çiçek açan, kokusuz, soğanlı, güzel bir bahçe bitkisi",
+        "letter": "L",
+        "answer": "Lale"
+    },
+    {
+        "id": 1879,
+        "question": "İnsanoğlunun ilkçağlardan günümüze kadar kullanmayı sürdürdüğü doğal barınak",
+        "letter": "M",
+        "answer": "Mağara"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 1736,
+        "question": "Elektrik sinyallerini görselleştirmek, ölçmek ve analiz etmek için kullanılan cihaz",
+        "letter": "O",
+        "answer": "Osiloskop"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
+        "letter": "P",
+        "answer": "plaj"
+    },
+    {
+        "id": 679,
+        "question": "Bir mağazanın yalnız bir tür eşya satılan bölümü",
+        "letter": "R",
+        "answer": "Reyon, reyonu"
+    },
+    {
+        "id": 830,
+        "question": "Toplumda büyük yankı uyandıran utanç verici olay ya da durum",
+        "letter": "S",
+        "answer": "Skandal"
+    },
+    {
+        "id": 695,
+        "question": "Motorlu taşıt iskeleti",
+        "letter": "Ş",
+        "answer": "Şasi, Şase"
+    },
+    {
+        "id": 441,
+        "question": "Bir şeyi yapabilme gücü, hâl, derman",
+        "letter": "T",
+        "answer": "takat"
+    },
+    {
+        "id": 893,
+        "question": "Kaşındırıcı bir deri hastalığı",
+        "letter": "U",
+        "answer": "Uyuz"
+    },
+    {
+        "id": 879,
+        "question": "Geniş Anlamıyla Derş Ya Da Mukoza Altı Dokuları Meydanda Bırakan Kronik Yaralar",
+        "letter": "Ü",
+        "answer": "Ülser"
+    },
+    {
+        "id": 887,
+        "question": "Tarihte \"Kara Ölüm\" olarak da bilinen, bulaşıcı ve öldürücü bir hastalık",
+        "letter": "V",
+        "answer": "Veba"
+    },
+    {
+        "id": 840,
+        "question": "Akarsuyun aktığı yer, mecra",
+        "letter": "Y",
+        "answer": "Yatak, yatağı"
+    },
+    {
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
+        "letter": "Z",
+        "answer": "Züğürt, züürt, zürt, zügürt"
+    }
+]

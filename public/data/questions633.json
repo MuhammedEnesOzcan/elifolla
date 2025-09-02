@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1164,
+        "question": "Gerçeğe, sağduyuya, akla aykırı",
+        "letter": "A",
+        "answer": "Abes"
+    },
+    {
+        "id": 1599,
+        "question": "Şehir içinde ağaçlı, geniş cadde",
+        "letter": "B",
+        "answer": "Bulvar"
+    },
+    {
+        "id": 787,
+        "question": "“Öfke, kızgınlık” anlamındaki bir erkek ismi",
+        "letter": "C",
+        "answer": "Celal"
+    },
+    {
+        "id": 1544,
+        "question": "Bazı toprakların yüzünde beyaz bir katman durumunda toplanan ve eskiden barut yapmakta kullanılan potaslı, sutlu tuz",
+        "letter": "Ç",
+        "answer": "Çorak"
+    },
+    {
+        "id": 793,
+        "question": "Para basılan yer",
+        "letter": "D",
+        "answer": "Darphane"
+    },
+    {
+        "id": 68,
+        "question": "Malta, papaz, mürdüm gibi çeşitleri olan meyve",
+        "letter": "E",
+        "answer": "erik"
+    },
+    {
+        "id": 228,
+        "question": "Eski Mısır hükümdarlarına verilen unvan",
+        "letter": "F",
+        "answer": "firavun"
+    },
+    {
+        "id": 579,
+        "question": "Su veya hava akıntısının dönerek ve çukurlaşarak yaptığı çevrinti",
+        "letter": "G",
+        "answer": "Girdap"
+    },
+    {
+        "id": 754,
+        "question": "Hem et hem de otla beslenen canlılar",
+        "letter": "H",
+        "answer": "Hepçil, Hepobur"
+    },
+    {
+        "id": 808,
+        "question": "Kararlılık, stabilizasyon",
+        "letter": "İ",
+        "answer": "İstikrar"
+    },
+    {
+        "id": 1186,
+        "question": "Hız kesici, tümsek",
+        "letter": "K",
+        "answer": "Kasis"
+    },
+    {
+        "id": 1457,
+        "question": "Elektronikte erime noktaları düşük metalleri tutturma işlemi",
+        "letter": "L",
+        "answer": "Lehim, lehimleme, lehimlemek, lehin yapma, lehim yapmak"
+    },
+    {
+        "id": 759,
+        "question": "Denk, eş, eşdeğer, eşit",
+        "letter": "M",
+        "answer": "Muadil"
+    },
+    {
+        "id": 921,
+        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "letter": "N",
+        "answer": "Nabza, nabız, nabız atması"
+    },
+    {
+        "id": 1760,
+        "question": "Beklenilen zaman gelinceye kadar zaman geçirmek",
+        "letter": "O",
+        "answer": "Oyalanma, Oyalanmak"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 668,
+        "question": "Bir ilacın telkine dayalı bir etki ortaya çıkarma hali",
+        "letter": "P",
+        "answer": "Plasebo, Plasebo etkisi"
+    },
+    {
+        "id": 399,
+        "question": "Mertebe, derece",
+        "letter": "R",
+        "answer": "rütbe"
+    },
+    {
+        "id": 408,
+        "question": "Bir müzik parçasının bir kişi tarafından söylenmesi veya çalınması",
+        "letter": "S",
+        "answer": "solo"
+    },
+    {
+        "id": 421,
+        "question": "Güzel, zarif, modaya uygun",
+        "letter": "Ş",
+        "answer": "şık"
+    },
+    {
+        "id": 1932,
+        "question": "EL ALTINDAN VE ÇOK YÜKSEK FAİZLE BORÇ PARA VERME İŞİ",
+        "letter": "T",
+        "answer": "Tefecilik, Tefeci"
+    },
+    {
+        "id": 1066,
+        "question": "Dik ve derin yamaç",
+        "letter": "U",
+        "answer": "Uçurum"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "letter": "V",
+        "answer": "Vizyoner, Vizyonlu"
+    },
+    {
+        "id": 510,
+        "question": "Sesin bir yere çarpıp geri dönmesiyle duyulan ikinci ses",
+        "letter": "Y",
+        "answer": "yankı"
+    },
+    {
+        "id": 1586,
+        "question": "Dinç, canlı, diri, sağlam",
+        "letter": "Z",
+        "answer": "Zinde"
+    }
+]

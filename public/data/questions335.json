@@ -1,0 +1,158 @@
+[
+    {
+        "id": 782,
+        "question": "Ruh biliminde karşıt duygu, sevimsizlik, soğukluk",
+        "letter": "A",
+        "answer": "Antipati"
+    },
+    {
+        "id": 1352,
+        "question": "Ağırlıkları tartmaya yarayan alet, kantar",
+        "letter": "B",
+        "answer": "Baskül"
+    },
+    {
+        "id": 1362,
+        "question": "Aynı eğilimde olan, aynı görüşü paylaşan kimselerin oluşturduğu hareket",
+        "letter": "C",
+        "answer": "Cereyan, cereyan etme, cereyan etmek"
+    },
+    {
+        "id": 1485,
+        "question": "Etkili, dikkat çeken, sansasyonel",
+        "letter": "Ç",
+        "answer": "Çarpıcı, çarpıcı olay"
+    },
+    {
+        "id": 1201,
+        "question": "Elektrik devresinde ampulün takıldığı devre elemanı",
+        "letter": "D",
+        "answer": "Duy, duyu"
+    },
+    {
+        "id": 750,
+        "question": "Kazalara alınmış tedbirler",
+        "letter": "E",
+        "answer": "Emniyet"
+    },
+    {
+        "id": 224,
+        "question": "Talih, baht, şans",
+        "letter": "F",
+        "answer": "felek"
+    },
+    {
+        "id": 1260,
+        "question": "Bisiklet direksiyonu",
+        "letter": "G",
+        "answer": "Gidon"
+    },
+    {
+        "id": 1439,
+        "question": "Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz",
+        "letter": "H",
+        "answer": "Haşa"
+    },
+    {
+        "id": 1953,
+        "question": "ACI VE ÜZÜNTÜYÜ BELİRTEN KESİK KESİK SESLER",
+        "letter": "İ",
+        "answer": "İnilti"
+    },
+    {
+        "id": 1935,
+        "question": "Hem taşıt hem konut olarak kullanılan üstü kapalı araç",
+        "letter": "K",
+        "answer": "Karavan"
+    },
+    {
+        "id": 982,
+        "question": "Bir dilin tarihi, yapısı, politik sebeplerden dolayı ses, yapı ve söz dizimiyle ayrılan bir kolu",
+        "letter": "L",
+        "answer": "Lehçe, lehçesi"
+    },
+    {
+        "id": 1957,
+        "question": "Tekrarlanmış, Yinelenmiş",
+        "letter": "M",
+        "answer": "Mükerrer"
+    },
+    {
+        "id": 994,
+        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
+        "letter": "N",
+        "answer": "naip"
+    },
+    {
+        "id": 650,
+        "question": "Bir yayanın yoldan geçen bir otomobili durdurarak binmesi",
+        "letter": "O",
+        "answer": "Otostop"
+    },
+    {
+        "id": 1534,
+        "question": "Bir alışveriş ilişkisinde, borcu alacaklıya vermek, tediye etmek",
+        "letter": "Ö",
+        "answer": "Ödemek, Ödeme, ödeme yapma, ödeme yapmak"
+    },
+    {
+        "id": 957,
+        "question": "Canlı bir organizmanın oluşturduğu ona özel bir renk veren kimyasal madde",
+        "letter": "P",
+        "answer": "pigment"
+    },
+    {
+        "id": 1638,
+        "question": "Motorlu taşıtlarda motorun en az yakıtla çalışma ayarı",
+        "letter": "R",
+        "answer": "Rölanti"
+    },
+    {
+        "id": 407,
+        "question": "Güldürü niteliğinde kısa oyun",
+        "letter": "S",
+        "answer": "skeç"
+    },
+    {
+        "id": 1912,
+        "question": "ÜLKE ÇAPINDA YAYGINLAŞTIRILMIŞ ULAŞIM VE İLETİŞİM ÖRGÜSÜ, AĞ",
+        "letter": "Ş",
+        "answer": "Şebeke, Şebeke ağı"
+    },
+    {
+        "id": 707,
+        "question": "Alçak gönüllülük",
+        "letter": "T",
+        "answer": "Tevazu"
+    },
+    {
+        "id": 1068,
+        "question": "Çok uzun",
+        "letter": "U",
+        "answer": "upuzun"
+    },
+    {
+        "id": 876,
+        "question": "Türlü Duyguları Anlatan Veya Bir Doğa Sesini Yansıtan Kelime",
+        "letter": "Ü",
+        "answer": "Ünlem"
+    },
+    {
+        "id": 39,
+        "question": "Güneş sistemindeki en sıcak gezegen",
+        "letter": "V",
+        "answer": "venüs"
+    },
+    {
+        "id": 772,
+        "question": "Genellikle eylemin çekiciliğini arttıran engelleyici kural",
+        "letter": "Y",
+        "answer": "Yasak"
+    },
+    {
+        "id": 1972,
+        "question": "Övendirenin ucuna çakılan çivi",
+        "letter": "Z",
+        "answer": "zakıt"
+    }
+]

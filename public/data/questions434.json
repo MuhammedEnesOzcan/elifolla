@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1155,
+        "question": "Gözleri görmeyen, eski dilde kör",
+        "letter": "A",
+        "answer": "Ama, Âmâ, Amâ"
+    },
+    {
+        "id": 1083,
+        "question": "Erkek kümes hayvanlarının en iri ve yaşlı olanı",
+        "letter": "B",
+        "answer": "Babaç"
+    },
+    {
+        "id": 1923,
+        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "letter": "C",
+        "answer": "Cıvık"
+    },
+    {
+        "id": 167,
+        "question": "Kumluk, susuz ve ıssız geniş arazi, sahra, badiye",
+        "letter": "Ç",
+        "answer": "çöl"
+    },
+    {
+        "id": 196,
+        "question": "Belirli miktarın veya büyüklüğün iki katı",
+        "letter": "D",
+        "answer": "duble"
+    },
+    {
+        "id": 558,
+        "question": "Nağme ve melodi sözlerinin Türkçe kökenli karşılığı",
+        "letter": "E",
+        "answer": "Ezgi"
+    },
+    {
+        "id": 569,
+        "question": "Bir kişiyi ya da kurumu finanse etmek",
+        "letter": "F",
+        "answer": "Fon, Fonlama, Fonlamak"
+    },
+    {
+        "id": 22,
+        "question": "Ahmaklık, anlayışsızlık, kalın kafalılık, bönlük",
+        "letter": "G",
+        "answer": "gabavet"
+    },
+    {
+        "id": 1437,
+        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "letter": "H",
+        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+    },
+    {
+        "id": 260,
+        "question": "Kötü bir olaydan alınması gereken ders, uyarıcı sonuç",
+        "letter": "İ",
+        "answer": "ibret, ibret alma, ibret almak"
+    },
+    {
+        "id": 1288,
+        "question": "Mukayese etmek, karşılaştırmak",
+        "letter": "K",
+        "answer": "Kıyaslamak, kıyaslama, kıyas yapma, kıyas yapmak"
+    },
+    {
+        "id": 985,
+        "question": "Tanrı'nın sevgi ve ilgisinden yoksun olma, beddua",
+        "letter": "L",
+        "answer": "Lanet, lanetleme, lanetlenme, lanetlenmek"
+    },
+    {
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "letter": "M",
+        "answer": "makam"
+    },
+    {
+        "id": 912,
+        "question": "Hristiyanların en büyük bayramı",
+        "letter": "N",
+        "answer": "Noel"
+    },
+    {
+        "id": 998,
+        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
+        "letter": "O",
+        "answer": "oya"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 381,
+        "question": "Elektrik akımı almak için fişin sokulduğu yuva",
+        "letter": "P",
+        "answer": "priz"
+    },
+    {
+        "id": 391,
+        "question": "Yol, yöntem, usul",
+        "letter": "R",
+        "answer": "racon"
+    },
+    {
+        "id": 688,
+        "question": "Ölçüm aletlerinde gösterge çizelgesi",
+        "letter": "S",
+        "answer": "Skala"
+    },
+    {
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "letter": "Ş",
+        "answer": "Şema, şablon"
+    },
+    {
+        "id": 712,
+        "question": "Sıcak kaplıca suyu",
+        "letter": "T",
+        "answer": "Termal, termal su, termal kaynak suyu"
+    },
+    {
+        "id": 892,
+        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "letter": "U",
+        "answer": "Uzman"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 1568,
+        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "letter": "V",
+        "answer": "Vardiya"
+    },
+    {
+        "id": 889,
+        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "letter": "Y",
+        "answer": "Yalak"
+    },
+    {
+        "id": 1290,
+        "question": "Keyifli, eğlenceli olan",
+        "letter": "Z",
+        "answer": "Zevkli, zevk"
+    }
+]

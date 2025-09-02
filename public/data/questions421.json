@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1668,
+        "question": "Eş zamanlı olmayan, başlama ve bitme anları başka olan (olaylar)",
+        "letter": "A",
+        "answer": "Asenkron"
+    },
+    {
+        "id": 144,
+        "question": "Mecazi anlamda \"Şanslı\"",
+        "letter": "B",
+        "answer": "ballı"
+    },
+    {
+        "id": 1358,
+        "question": "Bir eserin ayrı ayrı basılan bölümlerinden her biri",
+        "letter": "C",
+        "answer": "Cilt, cildi"
+    },
+    {
+        "id": 545,
+        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "letter": "Ç",
+        "answer": "Çeviri"
+    },
+    {
+        "id": 1259,
+        "question": "Tahıl tanelerini öğütmeye yarayan alet",
+        "letter": "D",
+        "answer": "Değirmen, değirmen taşı"
+    },
+    {
+        "id": 1411,
+        "question": "Zorluğa sahip olarak düz olmayan bir yeri bulunan arazi türü",
+        "letter": "E",
+        "answer": "Engebeli, engebeli arazi"
+    },
+    {
+        "id": 575,
+        "question": "Ses, akım vb. için birim zamandaki titreşim sayısı, titreşim sıklığı",
+        "letter": "F",
+        "answer": "Frekans"
+    },
+    {
+        "id": 1746,
+        "question": "Evlenmekte olan bir erkeğe düğün töreni sırasında verilen ad",
+        "letter": "G",
+        "answer": "Güvey"
+    },
+    {
+        "id": 1439,
+        "question": "Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz",
+        "letter": "H",
+        "answer": "Haşa"
+    },
+    {
+        "id": 1944,
+        "question": "BİR ESERİN ARKASINDA YER ALAN ALFABETİK LİSTE",
+        "letter": "İ",
+        "answer": "İndeks"
+    },
+    {
+        "id": 1905,
+        "question": "Soğuk mevsim kıyafetlerinin tümü",
+        "letter": "K",
+        "answer": "Kışlık"
+    },
+    {
+        "id": 301,
+        "question": "Cilt ve saç bakımında kullanılan alkollü veya alkolsüz, kokulu sıvı",
+        "letter": "L",
+        "answer": "losyon"
+    },
+    {
+        "id": 1633,
+        "question": "Toprak altına, üstüne veya suyun içine yerleştirilen patlayıcı madde",
+        "letter": "M",
+        "answer": "Mayın"
+    },
+    {
+        "id": 637,
+        "question": "Bir şeyin iyi veya kötü olma özelliği, kalite, özellik",
+        "letter": "N",
+        "answer": "Nitelik, niteliği"
+    },
+    {
+        "id": 910,
+        "question": "Evin bir bölümü",
+        "letter": "O",
+        "answer": "Oda"
+    },
+    {
+        "id": 657,
+        "question": "Mecliste bir konuda oylamaya sunularak karar verilmesi istenen yazılı kâğıt",
+        "letter": "Ö",
+        "answer": "Önerge"
+    },
+    {
+        "id": 671,
+        "question": "Aynı düzlem içinde bulunan ve birbiriyle kesişmeyen",
+        "letter": "P",
+        "answer": "Paralel"
+    },
+    {
+        "id": 1122,
+        "question": "Herhangi bir işte, bir konuda yapılan inceleme ve araştırma sonucunu, düşünceleri veya gözlemleri bildiren yazı",
+        "letter": "R",
+        "answer": "rapor"
+    },
+    {
+        "id": 416,
+        "question": "Çok bulunmayan, az rastlanan, nadir",
+        "letter": "S",
+        "answer": "seyrek"
+    },
+    {
+        "id": 1912,
+        "question": "ÜLKE ÇAPINDA YAYGINLAŞTIRILMIŞ ULAŞIM VE İLETİŞİM ÖRGÜSÜ, AĞ",
+        "letter": "Ş",
+        "answer": "Şebeke, Şebeke ağı"
+    },
+    {
+        "id": 1128,
+        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "letter": "T",
+        "answer": "tabak"
+    },
+    {
+        "id": 1559,
+        "question": "Mecazen; Her hangi bir işi yapmak istemeyen, tembel, miskin",
+        "letter": "U",
+        "answer": "Uyuşuk"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 1136,
+        "question": "Değer, kıymet",
+        "letter": "V",
+        "answer": "valör"
+    },
+    {
+        "id": 953,
+        "question": "Tibet öküzü",
+        "letter": "Y",
+        "answer": "yak, yak sığırı"
+    },
+    {
+        "id": 1720,
+        "question": "Olayların oluş ve akış sırasını belirleyen kavram",
+        "letter": "Z",
+        "answer": "Zaman, zaman kavramı"
+    }
+]

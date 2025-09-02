@@ -1,0 +1,158 @@
+[
+    {
+        "id": 117,
+        "question": "Sayı boncuğu",
+        "letter": "A",
+        "answer": "abaküs"
+    },
+    {
+        "id": 1484,
+        "question": "Bazı mikroplara karşı aşı veya doğal yolla kazanılmış direnç durumu",
+        "letter": "B",
+        "answer": "Bağışıklık"
+    },
+    {
+        "id": 1364,
+        "question": "Bilgisizlik, cahil olma durumu",
+        "letter": "C",
+        "answer": "Cehalet"
+    },
+    {
+        "id": 966,
+        "question": "Bir kimsenin, satın aldığı hizmet veya ürün karşılığında para yerine verdiği ve karşılığı banka hesabından ödenen yazılı belge",
+        "letter": "Ç",
+        "answer": "Çek"
+    },
+    {
+        "id": 1217,
+        "question": "Bir devletin resmi para biriminin diğer ülke dövizleri karşısında değer kaybettirilmesi ",
+        "letter": "D",
+        "answer": "Devaülasyon, develasyon, devalasyon, devolasyon, devalüasyon"
+    },
+    {
+        "id": 200,
+        "question": "Boyut, ölçü",
+        "letter": "E",
+        "answer": "ebat"
+    },
+    {
+        "id": 226,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "facia, feci"
+    },
+    {
+        "id": 1769,
+        "question": "BELLİ BİR BÜTÜNE GÖRE KALEME ALINAN METNİN SONUÇTAN ÖNCEKİ BÖLÜMÜ",
+        "letter": "G",
+        "answer": "Gelişme"
+    },
+    {
+        "id": 804,
+        "question": "Taht sahibi olan devlet başkanı",
+        "letter": "H",
+        "answer": "Hükümdür, Hükümdar"
+    },
+    {
+        "id": 755,
+        "question": "Ticari hezimet",
+        "letter": "İ",
+        "answer": "İflas, iflas etme, iflas etmek"
+    },
+    {
+        "id": 1153,
+        "question": "İki kümenin ortak elemanlarını ifade eder",
+        "letter": "K",
+        "answer": "Kesişim, kesişim kümesi"
+    },
+    {
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
+        "letter": "L",
+        "answer": "Lift"
+    },
+    {
+        "id": 1614,
+        "question": "Sevindirici haber verileceği zaman söylenen bir söz",
+        "letter": "M",
+        "answer": "Müjde, müjdemi isterim"
+    },
+    {
+        "id": 1785,
+        "question": "Ney üfleyen sanatçı",
+        "letter": "N",
+        "answer": "Neyzen"
+    },
+    {
+        "id": 345,
+        "question": "Yenecek duruma gelmiş (meyve)",
+        "letter": "O",
+        "answer": "olgun, olgunlaşmış, olgun meyve"
+    },
+    {
+        "id": 662,
+        "question": "Yıpratmak, eskitmek, hırpalamak, zedelemek",
+        "letter": "Ö",
+        "answer": "Örselemek, örseleme"
+    },
+    {
+        "id": 670,
+        "question": "Kişiye onur nişanesi olarak verilen küçük levha",
+        "letter": "P",
+        "answer": "Plaket"
+    },
+    {
+        "id": 1639,
+        "question": "Yabani at veya boğa üzerinde uzun zaman kalabilme oyunu",
+        "letter": "R",
+        "answer": "Rodeo"
+    },
+    {
+        "id": 1887,
+        "question": "ROMAN JARGONUNDA “PARA” ANLAMINDA KULLANILAN SÖZCÜK",
+        "letter": "S",
+        "answer": "Sipali"
+    },
+    {
+        "id": 1056,
+        "question": "Karaları çevreleyen ve karalardan sayılan, 200 m derinliğe kadar olan sığ deniz dipleri",
+        "letter": "Ş",
+        "answer": "Şelf"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 1067,
+        "question": "Uğraşılan şey, iş güç, meşgale",
+        "letter": "U",
+        "answer": "Uğraşı"
+    },
+    {
+        "id": 1565,
+        "question": "Birlikçi, birlikten yana, birleştirici (siyaset)",
+        "letter": "Ü",
+        "answer": "Üniter, üniter devlet"
+    },
+    {
+        "id": 875,
+        "question": "Foseptik Kuyularındaki Pis Suları Çekmeye Yarayan Makine",
+        "letter": "V",
+        "answer": "Vidanjör, vıdanjor"
+    },
+    {
+        "id": 901,
+        "question": "Özel gezinti gemisi",
+        "letter": "Y",
+        "answer": "Yat"
+    },
+    {
+        "id": 501,
+        "question": "Korunmak için giyilen, demir ve tel levhalardan yapılmış giysi",
+        "letter": "Z",
+        "answer": "zırh"
+    }
+]

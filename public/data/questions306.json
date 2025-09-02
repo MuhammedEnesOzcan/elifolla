@@ -1,0 +1,158 @@
+[
+    {
+        "id": 104,
+        "question": "Bir kaynağa dayanmayan, hayali",
+        "letter": "A",
+        "answer": "afaki, afâki"
+    },
+    {
+        "id": 133,
+        "question": "Belirli bir davranışta bulunmaya zorlayıcı söz, buyuru, emir, ferman",
+        "letter": "B",
+        "answer": "buyruk"
+    },
+    {
+        "id": 158,
+        "question": "Çok yakın, sıkı fıkı, pek içten (arkadaş)",
+        "letter": "C",
+        "answer": "can ciğer"
+    },
+    {
+        "id": 1218,
+        "question": "Doğal hayatta sığınak olarak kullanılan kamp malzemesi, barınak",
+        "letter": "Ç",
+        "answer": "Çadır, çat"
+    },
+    {
+        "id": 77,
+        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
+        "letter": "D",
+        "answer": "daktilo"
+    },
+    {
+        "id": 79,
+        "question": "Kırkpınar yağlı güreşlerinin yapıldığı ilimiz",
+        "letter": "E",
+        "answer": "edirne"
+    },
+    {
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "letter": "F",
+        "answer": "Fidan"
+    },
+    {
+        "id": 800,
+        "question": "Abartılı, aldatıcı ve yapay davranış",
+        "letter": "G",
+        "answer": "Gösteriş, Gösterişli"
+    },
+    {
+        "id": 586,
+        "question": "Tek seferde söylenen ses birliği",
+        "letter": "H",
+        "answer": "Hece, Heceleme, Hecelemek"
+    },
+    {
+        "id": 1810,
+        "question": "BİR KURUM VEYA KURULUŞUN YÖNETİLDİĞİ YER VEYA MAKAM",
+        "letter": "İ",
+        "answer": "İdare, İdari işler, İdari daire"
+    },
+    {
+        "id": 277,
+        "question": "Cam veya seramikten yapılmış, kulplu, büyük bardak",
+        "letter": "K",
+        "answer": "kupa"
+    },
+    {
+        "id": 298,
+        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "letter": "L",
+        "answer": "levha"
+    },
+    {
+        "id": 312,
+        "question": "Ev, dükkân, arazi vb. taşınmaz mal",
+        "letter": "M",
+        "answer": "mülk"
+    },
+    {
+        "id": 326,
+        "question": "Açık seçik olan, anlaşılmaz yanı bulunmayan",
+        "letter": "N",
+        "answer": "net"
+    },
+    {
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
+        "letter": "O",
+        "answer": "Opak"
+    },
+    {
+        "id": 360,
+        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "letter": "Ö",
+        "answer": "ödünç, ödünç alma, ödünç almak"
+    },
+    {
+        "id": 1742,
+        "question": "Yerden kaynayarak çıkan su kaynağı",
+        "letter": "P",
+        "answer": "Pınar"
+    },
+    {
+        "id": 1848,
+        "question": "\"BİRLİKTE BULUNMA\", \"EŞLİK ETME\" ANLAMINA GELEN BİR SÖZCÜK",
+        "letter": "R",
+        "answer": "Refakat, Refakat etme, Refakat etmek"
+    },
+    {
+        "id": 1270,
+        "question": "Tarihte ilk yazılı metinlere sahip olan medeniyet",
+        "letter": "S",
+        "answer": "Sümer, Sümerler"
+    },
+    {
+        "id": 1127,
+        "question": "Şen, neşeli (ses)",
+        "letter": "Ş",
+        "answer": "şakrak"
+    },
+    {
+        "id": 833,
+        "question": "Kompleks yapıdaki sebze yemeği",
+        "letter": "T",
+        "answer": "Türlü"
+    },
+    {
+        "id": 1068,
+        "question": "Çok uzun",
+        "letter": "U",
+        "answer": "upuzun"
+    },
+    {
+        "id": 1315,
+        "question": "Ütopyaya dayanan, ütopya ile ilgili",
+        "letter": "Ü",
+        "answer": "Ütopik"
+    },
+    {
+        "id": 1568,
+        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "letter": "V",
+        "answer": "Vardiya"
+    },
+    {
+        "id": 1140,
+        "question": "Dik, sarp",
+        "letter": "Y",
+        "answer": "yalçın"
+    },
+    {
+        "id": 851,
+        "question": "Sarı renkli, kökleri ile birlikte toplanan, kökü bir baharat türü olan bitki",
+        "letter": "Z",
+        "answer": "Zencefil, zencefıl"
+    }
+]

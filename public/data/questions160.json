@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1333,
+        "question": "Yıldız falcılığı",
+        "letter": "A",
+        "answer": "Astroloji"
+    },
+    {
+        "id": 523,
+        "question": "Havaya atılmış, uçurulmuş",
+        "letter": "B",
+        "answer": "Berhava"
+    },
+    {
+        "id": 1369,
+        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
+        "letter": "C",
+        "answer": "Cemre, cemre düşmesi"
+    },
+    {
+        "id": 1269,
+        "question": "\"Dünyanın en kalabalık ülkesi\" unvanına sahip olan ülke",
+        "letter": "Ç",
+        "answer": "Çin, Çin Halk Cumhuriyeti"
+    },
+    {
+        "id": 1152,
+        "question": "En son il olan şehrimiz",
+        "letter": "D",
+        "answer": "Düzce"
+    },
+    {
+        "id": 559,
+        "question": "\"Şayet\" ile eş anlamlı bir söz",
+        "letter": "E",
+        "answer": "Eğer"
+    },
+    {
+        "id": 218,
+        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+        "letter": "F",
+        "answer": "file"
+    },
+    {
+        "id": 1428,
+        "question": "Eskrim, boks vb. oyunlarda korunmak için alınan durum",
+        "letter": "G",
+        "answer": "Gard"
+    },
+    {
+        "id": 252,
+        "question": "Niteliği değişmemiş, aslına uygun olan",
+        "letter": "H",
+        "answer": "hakiki"
+    },
+    {
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
+        "letter": "İ",
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
+    },
+    {
+        "id": 280,
+        "question": "Kumaştan veya örgüden küçük torba",
+        "letter": "K",
+        "answer": "kese"
+    },
+    {
+        "id": 1106,
+        "question": "Üzerinde su muslukları bulunan, el, yüz, bulaşık yıkamaya yarar, çukur yer veya eşya",
+        "letter": "L",
+        "answer": "Lavabo, lavobo"
+    },
+    {
+        "id": 758,
+        "question": "Eksiksiz, kusursuz ve yetkin durumda olan",
+        "letter": "M",
+        "answer": "Mükemmel, müthiş"
+    },
+    {
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
+        "letter": "N",
+        "answer": "Nüve"
+    },
+    {
+        "id": 654,
+        "question": "Kendini kontrol edebilen sürücüsüz araç",
+        "letter": "O",
+        "answer": "Otonom, Otonom araç, Otonom araba"
+    },
+    {
+        "id": 1478,
+        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "letter": "Ö",
+        "answer": "Özerk"
+    },
+    {
+        "id": 1013,
+        "question": "Yaşlı, koca, ihtiyar kimse",
+        "letter": "P",
+        "answer": "Pir"
+    },
+    {
+        "id": 1036,
+        "question": "Hayvanın başlığı, yuları ve gemi",
+        "letter": "R",
+        "answer": "Reşme"
+    },
+    {
+        "id": 1232,
+        "question": "Yanılarak, yanlışlıkla",
+        "letter": "S",
+        "answer": "Sehven"
+    },
+    {
+        "id": 700,
+        "question": "Bir alanla ilgili olarak oluşturulan danışma kurulu",
+        "letter": "Ş",
+        "answer": "Şura"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 1558,
+        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "letter": "U",
+        "answer": "Ulus"
+    },
+    {
+        "id": 880,
+        "question": "Hastalıkları iyileştirdiğine inanılan soluk",
+        "letter": "Ü",
+        "answer": "Üfürük, üfürme"
+    },
+    {
+        "id": 1838,
+        "question": "SADECE CANLI HÜCRELERİ ENFEKTE EDEREK ÇOĞALAN MİKROSKOBİK ENFEKSİYON ETKENLERİ",
+        "letter": "V",
+        "answer": "Virüs"
+    },
+    {
+        "id": 497,
+        "question": "Yıkılmış olan, harap, viran",
+        "letter": "Y",
+        "answer": "yıkık"
+    },
+    {
+        "id": 500,
+        "question": "İçine mektup veya başka kâğıtlar konulan kağıttan kese",
+        "letter": "Z",
+        "answer": "zarf"
+    }
+]

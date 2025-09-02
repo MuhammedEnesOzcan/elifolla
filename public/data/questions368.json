@@ -1,0 +1,158 @@
+[
+    {
+        "id": 109,
+        "question": "Yaklaşık 68 santimetreye eşit olan uzunluk ölçüsü",
+        "letter": "A",
+        "answer": "arşın"
+    },
+    {
+        "id": 529,
+        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
+        "letter": "B",
+        "answer": "Bulanık"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 748,
+        "question": "Araçların trafikte üstünlük sağlamak için kullandığı kırmızı-mavi ışıklar",
+        "letter": "Ç",
+        "answer": "Çakar, çakar lamba, çakar lambası"
+    },
+    {
+        "id": 1388,
+        "question": "Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva",
+        "letter": "D",
+        "answer": "Dübel"
+    },
+    {
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
+        "letter": "E",
+        "answer": "emare"
+    },
+    {
+        "id": 1671,
+        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
+        "letter": "F",
+        "answer": "Filiz"
+    },
+    {
+        "id": 585,
+        "question": "Boya sanayisinde kullanılan beş litrelik ambalaj",
+        "letter": "G",
+        "answer": "Galon"
+    },
+    {
+        "id": 244,
+        "question": "Hoşa giden duygulanma, hoşlanma, zevk",
+        "letter": "H",
+        "answer": "haz"
+    },
+    {
+        "id": 810,
+        "question": "Daha kolay ve yalın duruma getirmek",
+        "letter": "İ",
+        "answer": "İndirgemek, İndirgeme"
+    },
+    {
+        "id": 1194,
+        "question": "Arabalarda da bulunan, yaz aylarında ortamı soğutmak için kullanılan cihaz",
+        "letter": "K",
+        "answer": "Klima"
+    },
+    {
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "letter": "L",
+        "answer": "Logo"
+    },
+    {
+        "id": 1878,
+        "question": "Seçkin kişilerin yaşantılarını konu alan yayın",
+        "letter": "M",
+        "answer": "Magazin"
+    },
+    {
+        "id": 1524,
+        "question": "Çağırma, bağırma, seslenme",
+        "letter": "N",
+        "answer": "Nida"
+    },
+    {
+        "id": 911,
+        "question": "Eski İskandinav Mitolojisinde Baş Tanrı",
+        "letter": "O",
+        "answer": "Odin"
+    },
+    {
+        "id": 903,
+        "question": "Fethiye yakınlarında, önemli bir turizm merkezi olan doğa harikası",
+        "letter": "Ö",
+        "answer": "Ölüdeniz, oludeniz"
+    },
+    {
+        "id": 1802,
+        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
+        "letter": "P",
+        "answer": "Peksimet"
+    },
+    {
+        "id": 1025,
+        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
+        "letter": "R",
+        "answer": "run"
+    },
+    {
+        "id": 406,
+        "question": "Dik, çıkması ve geçilmesi güç (yer)",
+        "letter": "S",
+        "answer": "sarp"
+    },
+    {
+        "id": 1679,
+        "question": "Ulusal ve uluslararası bir yarışmada ilk dereceyi alan, birinci olan kimse veya takım",
+        "letter": "Ş",
+        "answer": "Şampiyon"
+    },
+    {
+        "id": 710,
+        "question": "Cep telefonu operatörlerinin belirledikleri fiyatlandırma sistemi",
+        "letter": "T",
+        "answer": "Tarife"
+    },
+    {
+        "id": 1066,
+        "question": "Dik ve derin yamaç",
+        "letter": "U",
+        "answer": "Uçurum"
+    },
+    {
+        "id": 470,
+        "question": "Hile, düzen, dolap",
+        "letter": "Ü",
+        "answer": "üçkağıt, üçkağıtçılık"
+    },
+    {
+        "id": 1570,
+        "question": "Bir kimsenin ölümünden sonra yapılmasını istediği şey",
+        "letter": "V",
+        "answer": "Vasiyet, vasiyeti, vasiyetname"
+    },
+    {
+        "id": 838,
+        "question": "Dokunarak incelemek",
+        "letter": "Y",
+        "answer": "Yoklamak"
+    },
+    {
+        "id": 1587,
+        "question": "İç içe geçen sehpa",
+        "letter": "Z",
+        "answer": "Zigon, zigon sehpa"
+    }
+]

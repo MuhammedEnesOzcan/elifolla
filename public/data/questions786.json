@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1338,
+        "question": "Kazı bilimi",
+        "letter": "A",
+        "answer": "Arkeoloji"
+    },
+    {
+        "id": 1599,
+        "question": "Şehir içinde ağaçlı, geniş cadde",
+        "letter": "B",
+        "answer": "Bulvar"
+    },
+    {
+        "id": 152,
+        "question": "Geçerli olan, yürürlükte olan",
+        "letter": "C",
+        "answer": "cari, câri"
+    },
+    {
+        "id": 1548,
+        "question": "Eli veya kolu sakat olan (kimse)",
+        "letter": "Ç",
+        "answer": "Çolak"
+    },
+    {
+        "id": 1383,
+        "question": "Eşlerin baba ve analarının birbirlerine göre durumu",
+        "letter": "D",
+        "answer": "Dünür, dünürü, dünürlük"
+    },
+    {
+        "id": 207,
+        "question": "Benzer, eş, denk, daha önce benzeri görülen",
+        "letter": "E",
+        "answer": "emsal"
+    },
+    {
+        "id": 1226,
+        "question": "Herhangi bir konuda verilen kararın kısa bir özet haline getirilmesi, soruşturma evrakı",
+        "letter": "F",
+        "answer": "Fezleke"
+    },
+    {
+        "id": 577,
+        "question": "Çenede veya yanakta olan küçük çukur",
+        "letter": "G",
+        "answer": "Gamze"
+    },
+    {
+        "id": 245,
+        "question": "Karşılıksız vermek, bağış",
+        "letter": "H",
+        "answer": "hibe, hibe etmek"
+    },
+    {
+        "id": 269,
+        "question": "Yararlanılan uygun şart veya durum, olanak",
+        "letter": "İ",
+        "answer": "imkan"
+    },
+    {
+        "id": 756,
+        "question": "Saygısızlığı meziyet olarak kabul eden kişi",
+        "letter": "K",
+        "answer": "Küstah"
+    },
+    {
+        "id": 624,
+        "question": "Çok sulu ve fazla pişmiş pilav/pirinç",
+        "letter": "L",
+        "answer": "Lapa, Lapa pilav, Lapa pirinç"
+    },
+    {
+        "id": 1807,
+        "question": "Bir kişiye haberi verilmiş olan şeyler, havadisler",
+        "letter": "M",
+        "answer": "Malumat"
+    },
+    {
+        "id": 912,
+        "question": "Hristiyanların en büyük bayramı",
+        "letter": "N",
+        "answer": "Noel"
+    },
+    {
+        "id": 349,
+        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
+        "letter": "O",
+        "answer": "onbaşı"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 65,
+        "question": "Yalan söylediğinde burnu uzayan roman karakteri",
+        "letter": "P",
+        "answer": "pinokyo"
+    },
+    {
+        "id": 826,
+        "question": "İrade dışı sinir etkinliği",
+        "letter": "R",
+        "answer": "Refleks"
+    },
+    {
+        "id": 1895,
+        "question": "ÖZELLİKLE MANAV VE PAZARDA MÜŞTERİNİN TERCİHİNİ TEMEL ALAN SATIŞ YÖNTEMİ",
+        "letter": "S",
+        "answer": "Seçmece"
+    },
+    {
+        "id": 425,
+        "question": "Bilinç, akıl",
+        "letter": "Ş",
+        "answer": "şuur"
+    },
+    {
+        "id": 438,
+        "question": "Üzüntülü düşünce durumu, kaygı, endişe",
+        "letter": "T",
+        "answer": "tasa, tasalanma, tasalanmak"
+    },
+    {
+        "id": 1070,
+        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
+        "letter": "U",
+        "answer": "Uçkun"
+    },
+    {
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "letter": "Ü",
+        "answer": "Ütopya"
+    },
+    {
+        "id": 1504,
+        "question": "Açık, aydın, belli",
+        "letter": "V",
+        "answer": "Vazıh"
+    },
+    {
+        "id": 1772,
+        "question": "Bazı bitki türlerinde besinler için depolama organı olarak kullanılan genişlemiş yapılar",
+        "letter": "Y",
+        "answer": "Yumru, Yumrular"
+    },
+    {
+        "id": 858,
+        "question": "Üflemeli bir çalgı",
+        "letter": "Z",
+        "answer": "Zurna"
+    }
+]

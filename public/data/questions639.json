@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1663,
+        "question": "Genellikle korku ve heyecan verici aktivite sırasında böbreküstübezlerinin salgıladığı etkili bir madde",
+        "letter": "A",
+        "answer": "Adrenalin, adrenalin hormonu"
+    },
+    {
+        "id": 1345,
+        "question": "Kum ve çimentonun birleştirilmesiyle elde edilen yapı malzemesi",
+        "letter": "B",
+        "answer": "Briket"
+    },
+    {
+        "id": 964,
+        "question": "Cam ticaretini veya cam takmayı meslek edinmiş kimse",
+        "letter": "C",
+        "answer": "Camcı"
+    },
+    {
+        "id": 178,
+        "question": "Kişileri taşımak için kullanılan, insan gücüyle işleyen iki tekerlekli araç",
+        "letter": "Ç",
+        "answer": "çekçek"
+    },
+    {
+        "id": 1877,
+        "question": "Savmak ya da savuşturmak anlamındaki söz",
+        "letter": "D",
+        "answer": "Defetmek, Defetme"
+    },
+    {
+        "id": 216,
+        "question": "Damar tıkanıklığı",
+        "letter": "E",
+        "answer": "emboli"
+    },
+    {
+        "id": 1671,
+        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
+        "letter": "F",
+        "answer": "Filiz"
+    },
+    {
+        "id": 803,
+        "question": "Ağız ve burun boşluğunun arka bölümü",
+        "letter": "G",
+        "answer": "Geniz"
+    },
+    {
+        "id": 252,
+        "question": "Niteliği değişmemiş, aslına uygun olan",
+        "letter": "H",
+        "answer": "hakiki"
+    },
+    {
+        "id": 1498,
+        "question": "Alınacak tedbirleri uygulamama, savsaklama",
+        "letter": "İ",
+        "answer": "İhmal, ihmalkarlık, ihmal etme, ihmal etmek"
+    },
+    {
+        "id": 1697,
+        "question": "GERÇEĞİN NE OLDUĞUNU TAM OLARAK KESTİREMEMEKTEN DOĞAN KARARSIZLIK, İŞKİL",
+        "letter": "K",
+        "answer": "Kuşku, kuşkulanma, kuşkulanmak"
+    },
+    {
+        "id": 624,
+        "question": "Çok sulu ve fazla pişmiş pilav/pirinç",
+        "letter": "L",
+        "answer": "Lapa, Lapa pilav, Lapa pirinç"
+    },
+    {
+        "id": 316,
+        "question": "Büyük, geniş, mikro karşıtı",
+        "letter": "M",
+        "answer": "makro"
+    },
+    {
+        "id": 636,
+        "question": "Boks maçında yumruk etkisiyle yere düşme ve devam edememek",
+        "letter": "N",
+        "answer": "Nakavt, nakavt olma, nakavt olmak"
+    },
+    {
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
+        "letter": "O",
+        "answer": "Ozalit"
+    },
+    {
+        "id": 1478,
+        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "letter": "Ö",
+        "answer": "Özerk"
+    },
+    {
+        "id": 825,
+        "question": "Futbolda topa kavisli ve yumuşak vuruş",
+        "letter": "P",
+        "answer": "Plase"
+    },
+    {
+        "id": 1643,
+        "question": "Tarımda bir yılda derlenen ürünlerin bütünü",
+        "letter": "R",
+        "answer": "Rekolte"
+    },
+    {
+        "id": 403,
+        "question": "Derinliği az, dibi yüzeyine yakın olan",
+        "letter": "S",
+        "answer": "sığ"
+    },
+    {
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "letter": "Ş",
+        "answer": "Şakak"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 462,
+        "question": "Tanınmış, şöhretli, meşhur",
+        "letter": "Ü",
+        "answer": "ünlü"
+    },
+    {
+        "id": 1570,
+        "question": "Bir kimsenin ölümünden sonra yapılmasını istediği şey",
+        "letter": "V",
+        "answer": "Vasiyet, vasiyeti, vasiyetname"
+    },
+    {
+        "id": 717,
+        "question": "Yüksek mahkeme, yüksek yargı kurulu",
+        "letter": "Y",
+        "answer": "Yargıtay"
+    },
+    {
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "letter": "Z",
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
+    }
+]

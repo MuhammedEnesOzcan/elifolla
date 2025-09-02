@@ -1,0 +1,158 @@
+[
+    {
+        "id": 783,
+        "question": "Bir yapının veya yapı grubunun ortasında kalan, etrafı çevrili üstü açık alan",
+        "letter": "A",
+        "answer": "Avlu, Avlusu"
+    },
+    {
+        "id": 128,
+        "question": "Sağ ayağı sol uyluğun, sol ayağı sağ uyluğun altına alarak oturma biçimi",
+        "letter": "B",
+        "answer": "bağdaş"
+    },
+    {
+        "id": 152,
+        "question": "Geçerli olan, yürürlükte olan",
+        "letter": "C",
+        "answer": "cari, câri"
+    },
+    {
+        "id": 1452,
+        "question": "Yenilen yaş veya kuru yemiş vb. şeyler",
+        "letter": "Ç",
+        "answer": "Çerez, çerezler"
+    },
+    {
+        "id": 551,
+        "question": "Çapraz Bağların bulunduğu uzuv",
+        "letter": "D",
+        "answer": "Diz"
+    },
+    {
+        "id": 1822,
+        "question": "Bir evin gelinlerinin birbirine göre akrabalık durumu",
+        "letter": "E",
+        "answer": "Elti, Eltilik"
+    },
+    {
+        "id": 217,
+        "question": "Çalışır durumda olan, etkin",
+        "letter": "F",
+        "answer": "faal"
+    },
+    {
+        "id": 580,
+        "question": "Çökmüş, kaymış toprak, yıkıntı",
+        "letter": "G",
+        "answer": "Göçük"
+    },
+    {
+        "id": 255,
+        "question": "Uçak, araba, tarım aracı vb. nesneleri barındırmaya yarar kapalı yer",
+        "letter": "H",
+        "answer": "hangar"
+    },
+    {
+        "id": 1101,
+        "question": "Bir düşünceyi anlatan bir veya birkaç cümlelik söz",
+        "letter": "İ",
+        "answer": "İbare"
+    },
+    {
+        "id": 73,
+        "question": "Rusça, Bulgarca gibi Slav dillerinin yazımında kullanılan alfabe",
+        "letter": "K",
+        "answer": "Kiril, Kiril Alfabesi"
+    },
+    {
+        "id": 1454,
+        "question": "Kirliliği gösteren iz",
+        "letter": "L",
+        "answer": "Leke"
+    },
+    {
+        "id": 1858,
+        "question": "ESKİ ZAMANLARDA OKUL YERİNE KULLANILAN KELİME",
+        "letter": "M",
+        "answer": "Mektep"
+    },
+    {
+        "id": 636,
+        "question": "Boks maçında yumruk etkisiyle yere düşme ve devam edememek",
+        "letter": "N",
+        "answer": "Nakavt, nakavt olma, nakavt olmak"
+    },
+    {
+        "id": 1711,
+        "question": "Norveç'in Başkenti",
+        "letter": "O",
+        "answer": "Oslo"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 380,
+        "question": "Tüylü hayvan derisi",
+        "letter": "P",
+        "answer": "post"
+    },
+    {
+        "id": 675,
+        "question": "İstek, arz, ilgi, itibar",
+        "letter": "R",
+        "answer": "Rağbet"
+    },
+    {
+        "id": 411,
+        "question": "Yoğun bir biçimde yapılan atak",
+        "letter": "S",
+        "answer": "salvo"
+    },
+    {
+        "id": 1679,
+        "question": "Ulusal ve uluslararası bir yarışmada ilk dereceyi alan, birinci olan kimse veya takım",
+        "letter": "Ş",
+        "answer": "Şampiyon"
+    },
+    {
+        "id": 1647,
+        "question": "Başladığı noktada biten, bir veya daha fazla yere önceden belirlenmiş bir programa göre yapılan seyahat",
+        "letter": "T",
+        "answer": "Tur"
+    },
+    {
+        "id": 456,
+        "question": "Gökyüzünde tanımlanamayan cisim",
+        "letter": "U",
+        "answer": "ufo"
+    },
+    {
+        "id": 462,
+        "question": "Tanınmış, şöhretli, meşhur",
+        "letter": "Ü",
+        "answer": "ünlü"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 947,
+        "question": "Köpek ve ineklere yedirilmek üzere un ve kepekle hazırlanan yiyecek",
+        "letter": "Y",
+        "answer": "yal, yem"
+    },
+    {
+        "id": 502,
+        "question": "Aldatıcı şey, tuzak, hile",
+        "letter": "Z",
+        "answer": "zoka"
+    }
+]

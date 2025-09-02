@@ -1,0 +1,158 @@
+[
+    {
+        "id": 519,
+        "question": "Tatar yayı veya kurmalı yay denen uzak mesafe silahı",
+        "letter": "A",
+        "answer": "Arbalet"
+    },
+    {
+        "id": 1287,
+        "question": "Verme, bağışlama",
+        "letter": "B",
+        "answer": "Bahşetme, bahşetmek"
+    },
+    {
+        "id": 747,
+        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
+        "letter": "C",
+        "answer": "Cesaret, Cesaretlilik"
+    },
+    {
+        "id": 1485,
+        "question": "Etkili, dikkat çeken, sansasyonel",
+        "letter": "Ç",
+        "answer": "Çarpıcı, çarpıcı olay"
+    },
+    {
+        "id": 1403,
+        "question": "Titreşimin bir ortam içinde yayılma hareketi",
+        "letter": "D",
+        "answer": "Dalga, dalga frekansı, dalga boyu"
+    },
+    {
+        "id": 1954,
+        "question": "İnsanın davranışlarını etkileyecek kadar güçlü olan tılsım, büyü",
+        "letter": "E",
+        "answer": "Efsun"
+    },
+    {
+        "id": 1292,
+        "question": "Bahçıvanlıkta, tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze ya da körpe çiçek",
+        "letter": "F",
+        "answer": "Fide"
+    },
+    {
+        "id": 802,
+        "question": "Pişirilerek kurutulmuş yuvarlak veya uzun biçimli peksimet",
+        "letter": "G",
+        "answer": "Galeta, Grisini, Gevrek"
+    },
+    {
+        "id": 253,
+        "question": "Çok güzel el yazısı yazan sanatçı",
+        "letter": "H",
+        "answer": "hattat"
+    },
+    {
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
+        "letter": "İ",
+        "answer": "ikame"
+    },
+    {
+        "id": 608,
+        "question": "Büyük taarruzda karargah olarak kullanılan tepe",
+        "letter": "K",
+        "answer": "Kocatepe, Koca"
+    },
+    {
+        "id": 1731,
+        "question": "Şubat ve mart aylarında, çokça renkli çiçek açan, kokusuz, soğanlı, güzel bir bahçe bitkisi",
+        "letter": "L",
+        "answer": "Lale"
+    },
+    {
+        "id": 1628,
+        "question": "Genellikle karın kaslarının güçlendirilmesi için yapılan beden hareketi",
+        "letter": "M",
+        "answer": "Mekik, mekik çekme, mekik çekmek"
+    },
+    {
+        "id": 990,
+        "question": "Güzel, uyumlu ses, ezgi, melodi",
+        "letter": "N",
+        "answer": "Nağme"
+    },
+    {
+        "id": 931,
+        "question": "Kışı geçirmek için yapılan çoban kulübesi",
+        "letter": "O",
+        "answer": "Odak"
+    },
+    {
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
+        "letter": "Ö",
+        "answer": "Öbür, Öbürü"
+    },
+    {
+        "id": 1181,
+        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "letter": "P",
+        "answer": "Peron"
+    },
+    {
+        "id": 675,
+        "question": "İstek, arz, ilgi, itibar",
+        "letter": "R",
+        "answer": "Rağbet"
+    },
+    {
+        "id": 410,
+        "question": "Dayanıklı, kolay bozulmaz, yıkılmaz, stabil",
+        "letter": "S",
+        "answer": "sağlam"
+    },
+    {
+        "id": 426,
+        "question": "Açık ve ayrıntılı anlatma",
+        "letter": "Ş",
+        "answer": "şerh"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
+        "letter": "U",
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
+    },
+    {
+        "id": 878,
+        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
+        "letter": "Ü",
+        "answer": "Ülkü"
+    },
+    {
+        "id": 890,
+        "question": "Giysilerde omuzların dik durması için konulan parça",
+        "letter": "V",
+        "answer": "Vatka"
+    },
+    {
+        "id": 1500,
+        "question": "Genellikle dağlık bölgelerde, yazın havası iyi ve serin olan, hayvan otlatma veya dinlenme yeri",
+        "letter": "Y",
+        "answer": "Yayla"
+    },
+    {
+        "id": 1972,
+        "question": "Övendirenin ucuna çakılan çivi",
+        "letter": "Z",
+        "answer": "zakıt"
+    }
+]

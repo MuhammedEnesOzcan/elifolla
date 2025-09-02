@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1378,
+        "question": "Bir şeye dikkati yönelterek o şeyin bilincine varma, idrak",
+        "letter": "A",
+        "answer": "Algı, algılama, algılamak"
+    },
+    {
+        "id": 140,
+        "question": "Yaşama veya iş görme isteğini yitirmiş",
+        "letter": "B",
+        "answer": "Bezgin, bezmiş, bitap"
+    },
+    {
+        "id": 1358,
+        "question": "Bir eserin ayrı ayrı basılan bölümlerinden her biri",
+        "letter": "C",
+        "answer": "Cilt, cildi"
+    },
+    {
+        "id": 175,
+        "question": "Taklit olan, sahte",
+        "letter": "Ç",
+        "answer": "çakma"
+    },
+    {
+        "id": 794,
+        "question": "Belli bir esasa göre verilen buyruk, talimat, yönerge",
+        "letter": "D",
+        "answer": "Direktif"
+    },
+    {
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
+        "letter": "E",
+        "answer": "emare"
+    },
+    {
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "letter": "F",
+        "answer": "Faiz"
+    },
+    {
+        "id": 1262,
+        "question": "Huzursuz, kaygılı, sinirli kimse",
+        "letter": "G",
+        "answer": "Gergin"
+    },
+    {
+        "id": 592,
+        "question": "Sürtünme kuvvetinin yağ basıncı ile sağlandığı fren tipi",
+        "letter": "H",
+        "answer": "Hidrolik, hidrolik fren"
+    },
+    {
+        "id": 1605,
+        "question": "Birinin iyi niyetini kötüye kullanma",
+        "letter": "İ",
+        "answer": "İstismar, istismar etme, istismar etmek"
+    },
+    {
+        "id": 1105,
+        "question": "Halk hizmeti gören devlet organlarının tümü",
+        "letter": "K",
+        "answer": "kamu"
+    },
+    {
+        "id": 1526,
+        "question": "Su samurundan elde edilen post",
+        "letter": "L",
+        "answer": "Lutr"
+    },
+    {
+        "id": 314,
+        "question": "Ayrı tutulmuş, ayrıcalık tanınmış",
+        "letter": "M",
+        "answer": "muaf"
+    },
+    {
+        "id": 635,
+        "question": "Kuzey Atlantik Antlaşması Örgütü",
+        "letter": "N",
+        "answer": "NATO"
+    },
+    {
+        "id": 351,
+        "question": "Kişisel değer, şeref, itibar",
+        "letter": "O",
+        "answer": "onur"
+    },
+    {
+        "id": 363,
+        "question": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye",
+        "letter": "Ö",
+        "answer": "övgü"
+    },
+    {
+        "id": 379,
+        "question": "Bir işin gerçekleştirilmesi için uyulması tasarlanan düzen",
+        "letter": "P",
+        "answer": "plan"
+    },
+    {
+        "id": 392,
+        "question": "Derece, kerte",
+        "letter": "R",
+        "answer": "radde"
+    },
+    {
+        "id": 1806,
+        "question": "At Bakıcısı",
+        "letter": "S",
+        "answer": "Seyis"
+    },
+    {
+        "id": 695,
+        "question": "Motorlu taşıt iskeleti",
+        "letter": "Ş",
+        "answer": "Şasi, Şase"
+    },
+    {
+        "id": 1910,
+        "question": "BİR YAZARIN, KONU VE FİKRİ YAPI OLARAK BİRBİRİNİ İZLEYEN ÜÇ ESERİ",
+        "letter": "T",
+        "answer": "Triloji"
+    },
+    {
+        "id": 892,
+        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "letter": "U",
+        "answer": "Uzman"
+    },
+    {
+        "id": 769,
+        "question": "Korkunun yarattığı serinlik",
+        "letter": "Ü",
+        "answer": "Ürperti, Ürpermek"
+    },
+    {
+        "id": 477,
+        "question": "Döndürülerek bir yere sokulan burmalı çivi",
+        "letter": "V",
+        "answer": "vida"
+    },
+    {
+        "id": 1580,
+        "question": "Sınırlı bir yerle ilgili olan, bölgesel, lokal",
+        "letter": "Y",
+        "answer": "Yerel, yöresel"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

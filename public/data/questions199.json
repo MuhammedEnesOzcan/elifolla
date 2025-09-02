@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1670,
+        "question": "Bir ülkede ayrı soydan veya inançtan olan ve sayıca az bulunan topluluk",
+        "letter": "A",
+        "answer": "Azınlık"
+    },
+    {
+        "id": 129,
+        "question": "Veteriner hekim",
+        "letter": "B",
+        "answer": "baytar"
+    },
+    {
+        "id": 1530,
+        "question": "Adam öldürme",
+        "letter": "C",
+        "answer": "Cinayet"
+    },
+    {
+        "id": 543,
+        "question": "Aynı türden olmayan, türlü",
+        "letter": "Ç",
+        "answer": "Çeşit, Çeşitli"
+    },
+    {
+        "id": 74,
+        "question": "Kabıyla birlikte tartılan nesnelerin kabının ağırlığı",
+        "letter": "D",
+        "answer": "dara, darası"
+    },
+    {
+        "id": 798,
+        "question": "Yazıtları ve tarihi yapıtlardaki yazıları inceleyen bilim dalı",
+        "letter": "E",
+        "answer": "Epigrafi"
+    },
+    {
+        "id": 799,
+        "question": "Yürekler acısı, trajik anlamındaki söz",
+        "letter": "F",
+        "answer": "Feci, facia"
+    },
+    {
+        "id": 1174,
+        "question": "Biçim, desen ya da çizgilerle gösterme, anlatma",
+        "letter": "G",
+        "answer": "Grafik"
+    },
+    {
+        "id": 1444,
+        "question": "Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü",
+        "letter": "H",
+        "answer": "Hıfzıssıhha"
+    },
+    {
+        "id": 1180,
+        "question": "Trenlerin durarak yolcu ve yük indirdikleri ya da aldıkları yer",
+        "letter": "İ",
+        "answer": "İstasyon"
+    },
+    {
+        "id": 285,
+        "question": "Taşıtların uğrayacakları kazadan doğacak zararların tamamının karşılanması için yapılan sigorta türü",
+        "letter": "K",
+        "answer": "kasko, kasko sigortası"
+    },
+    {
+        "id": 918,
+        "question": "Hiç tuzu olmayan yumuşak krem peynir",
+        "letter": "L",
+        "answer": "Labne"
+    },
+    {
+        "id": 632,
+        "question": "Ara, aralık, uzaklık",
+        "letter": "M",
+        "answer": "Mesafe"
+    },
+    {
+        "id": 642,
+        "question": "Davranışı kaba, sert ve gönül kırıcı olan",
+        "letter": "N",
+        "answer": "Nobran"
+    },
+    {
+        "id": 907,
+        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
+        "letter": "O",
+        "answer": "Obje"
+    },
+    {
+        "id": 355,
+        "question": "Öğretmenin öğrencilere okul dışında yapmaları için verdiği çalışma",
+        "letter": "Ö",
+        "answer": "ödev"
+    },
+    {
+        "id": 1728,
+        "question": "İlaç kutularının içinde bulunan ilaçla ilgili bilgileri içeren kağıt ",
+        "letter": "P",
+        "answer": "Prospektüs"
+    },
+    {
+        "id": 1643,
+        "question": "Tarımda bir yılda derlenen ürünlerin bütünü",
+        "letter": "R",
+        "answer": "Rekolte"
+    },
+    {
+        "id": 418,
+        "question": "Sefalet çeken, yoksul",
+        "letter": "S",
+        "answer": "sefil, sersefil"
+    },
+    {
+        "id": 1460,
+        "question": "Peynir, zeytin, salam, sucuk vb. yiyeceklerin satıldığı market bölümü",
+        "letter": "Ş",
+        "answer": "Şarküteri"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 1072,
+        "question": "Fikir, sanat ve endüstri alanlarında çok büyük bir gelişme göstermiş olan, medeni, mütemeddin",
+        "letter": "U",
+        "answer": "uygar"
+    },
+    {
+        "id": 465,
+        "question": "Bilim veya sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "üstat, üstad"
+    },
+    {
+        "id": 1568,
+        "question": "İş yerinde çalışan işçilerin belirli bir sırayla görevi yürütmeleri",
+        "letter": "V",
+        "answer": "Vardiya"
+    },
+    {
+        "id": 497,
+        "question": "Yıkılmış olan, harap, viran",
+        "letter": "Y",
+        "answer": "yıkık"
+    },
+    {
+        "id": 506,
+        "question": "Zorunlu, gerekli",
+        "letter": "Z",
+        "answer": "zaruri"
+    }
+]

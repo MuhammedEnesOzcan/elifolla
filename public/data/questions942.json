@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1296,
+        "question": "Elektrik enerjisini kimyasal enerji olarak depolayıp ihtiyaç durumunda bu enerjiyi tekrar elektrik enerjisine çeviren cihaz",
+        "letter": "A",
+        "answer": "Akü"
+    },
+    {
+        "id": 1352,
+        "question": "Ağırlıkları tartmaya yarayan alet, kantar",
+        "letter": "B",
+        "answer": "Baskül"
+    },
+    {
+        "id": 1086,
+        "question": "Şehir içinde ana yol",
+        "letter": "C",
+        "answer": "cadde"
+    },
+    {
+        "id": 1452,
+        "question": "Yenilen yaş veya kuru yemiş vb. şeyler",
+        "letter": "Ç",
+        "answer": "Çerez, çerezler"
+    },
+    {
+        "id": 557,
+        "question": "Doluluğunu, gücünü yitirme",
+        "letter": "D",
+        "answer": "Deşarj, deşarj olma, deşarj olmak"
+    },
+    {
+        "id": 1420,
+        "question": "Esneklik barındıran ve esneme kabiliyeti yüksek olan",
+        "letter": "E",
+        "answer": "Elastik, Elastiki"
+    },
+    {
+        "id": 575,
+        "question": "Ses, akım vb. için birim zamandaki titreşim sayısı, titreşim sıklığı",
+        "letter": "F",
+        "answer": "Frekans"
+    },
+    {
+        "id": 241,
+        "question": "Öfke, kızgınlık, hiddet",
+        "letter": "G",
+        "answer": "gazap"
+    },
+    {
+        "id": 247,
+        "question": "Nişan alınacak yer, nişangah",
+        "letter": "H",
+        "answer": "hedef"
+    },
+    {
+        "id": 263,
+        "question": "Anlama yeteneği, anlayış, akıl erdirme",
+        "letter": "İ",
+        "answer": "idrak, idrak etme, idrak etmek, izan"
+    },
+    {
+        "id": 979,
+        "question": "Damızlık erkek koyun",
+        "letter": "K",
+        "answer": "Koç"
+    },
+    {
+        "id": 919,
+        "question": "Türklere özgü bir şekerleme",
+        "letter": "L",
+        "answer": "Lokum"
+    },
+    {
+        "id": 1274,
+        "question": "Uzay araçlarında özel bir göreve sahip olan ve ana gövdeden ayrılıp gerekli durumlarda birleşebilen kısım",
+        "letter": "M",
+        "answer": "Modül"
+    },
+    {
+        "id": 988,
+        "question": "Açıklık, açık ve kesin yargı",
+        "letter": "N",
+        "answer": "nas"
+    },
+    {
+        "id": 1515,
+        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "letter": "O",
+        "answer": "Oyuncu"
+    },
+    {
+        "id": 371,
+        "question": "Belirli bir ölçüde olan, uygun",
+        "letter": "Ö",
+        "answer": "ölçülü"
+    },
+    {
+        "id": 1742,
+        "question": "Yerden kaynayarak çıkan su kaynağı",
+        "letter": "P",
+        "answer": "Pınar"
+    },
+    {
+        "id": 1036,
+        "question": "Hayvanın başlığı, yuları ve gemi",
+        "letter": "R",
+        "answer": "Reşme"
+    },
+    {
+        "id": 404,
+        "question": "Kale duvarı",
+        "letter": "S",
+        "answer": "sur"
+    },
+    {
+        "id": 1463,
+        "question": "Görür görmez seven, aşık olan kimse",
+        "letter": "Ş",
+        "answer": "Şıpsevdi"
+    },
+    {
+        "id": 1717,
+        "question": "Atmosferin yere temas eden en alt katı",
+        "letter": "T",
+        "answer": "Troposfer"
+    },
+    {
+        "id": 1066,
+        "question": "Dik ve derin yamaç",
+        "letter": "U",
+        "answer": "Uçurum"
+    },
+    {
+        "id": 727,
+        "question": "Her yandan çokça bir araya gelmek, toplanmak, birikmek",
+        "letter": "Ü",
+        "answer": "Üşüşme, Üşüşmek"
+    },
+    {
+        "id": 872,
+        "question": "Bulaşıcı Hastalıklara Yol Açan Mikrop",
+        "letter": "V",
+        "answer": "Virüs, vırus"
+    },
+    {
+        "id": 717,
+        "question": "Yüksek mahkeme, yüksek yargı kurulu",
+        "letter": "Y",
+        "answer": "Yargıtay"
+    },
+    {
+        "id": 1594,
+        "question": "Şiddetli bir şekilde titremek veya sallanmak",
+        "letter": "Z",
+        "answer": "Zangırdamak, zangırdama"
+    }
+]

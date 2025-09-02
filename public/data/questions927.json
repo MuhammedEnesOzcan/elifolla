@@ -1,0 +1,158 @@
+[
+    {
+        "id": 517,
+        "question": "Bir şeyi, bir olayı olduğundan büyük veya çok gösterme",
+        "letter": "A",
+        "answer": "Abartı, Abartma, Abartmak"
+    },
+    {
+        "id": 145,
+        "question": "Kendine özgü nitelikleri yitirmeden bölünemeyen tek varlık, fert",
+        "letter": "B",
+        "answer": "birey"
+    },
+    {
+        "id": 1362,
+        "question": "Aynı eğilimde olan, aynı görüşü paylaşan kimselerin oluşturduğu hareket",
+        "letter": "C",
+        "answer": "Cereyan, cereyan etme, cereyan etmek"
+    },
+    {
+        "id": 1485,
+        "question": "Etkili, dikkat çeken, sansasyonel",
+        "letter": "Ç",
+        "answer": "Çarpıcı, çarpıcı olay"
+    },
+    {
+        "id": 1904,
+        "question": "SADECE SOYAĞACINI GENİŞLETMEK İÇİN KULLANILAN HAYVAN",
+        "letter": "D",
+        "answer": "Damızlık"
+    },
+    {
+        "id": 1417,
+        "question": "Tek veya çok hücreden oluşan, vücudun bütün dış ve iç yüzeylerini kaplayan doku",
+        "letter": "E",
+        "answer": "Epitelyum"
+    },
+    {
+        "id": 225,
+        "question": "Ancak, ama, lakin",
+        "letter": "F",
+        "answer": "fakat"
+    },
+    {
+        "id": 584,
+        "question": "Seçkin, seçilmiş, seçme",
+        "letter": "G",
+        "answer": "Güzide, Gûzide"
+    },
+    {
+        "id": 590,
+        "question": "Bir mala icra dairesi tarafından el konulması",
+        "letter": "H",
+        "answer": "Haciz, haciz işlemi, haczetmek, haciz etme, haciz etmek"
+    },
+    {
+        "id": 1604,
+        "question": "Bir kimsenin ya da bir şeyin benzerlerinden ayrı tutulması durumu",
+        "letter": "İ",
+        "answer": "İstisna, istisnai"
+    },
+    {
+        "id": 279,
+        "question": "Üstün nitelikli, üstün yetenekli",
+        "letter": "K",
+        "answer": "klas, kalifiyeli, kalifiye"
+    },
+    {
+        "id": 1176,
+        "question": "Döne dolap, korku treni gibi çeşitli oyun araçları bulunan yer, eğlence mekanı",
+        "letter": "L",
+        "answer": "Lunapark"
+    },
+    {
+        "id": 311,
+        "question": "Bir topluluğu simgelemek için düzenlenmiş müzik parçası",
+        "letter": "M",
+        "answer": "marş"
+    },
+    {
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
+        "letter": "N",
+        "answer": "Nostalji, nostaliji"
+    },
+    {
+        "id": 1188,
+        "question": "Yazarın kendi yaşam öyküsünün anlattığı edebiyat türü",
+        "letter": "O",
+        "answer": "Otobiyografi"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 957,
+        "question": "Canlı bir organizmanın oluşturduğu ona özel bir renk veren kimyasal madde",
+        "letter": "P",
+        "answer": "pigment"
+    },
+    {
+        "id": 1029,
+        "question": "Bir tiyatro sahnesinin önünde, ışık ve ışıldakların yerleştirildiği, izleyiciye en yakın yer",
+        "letter": "R",
+        "answer": "Ramp"
+    },
+    {
+        "id": 1163,
+        "question": "Söylenmemesi gereken, giz",
+        "letter": "S",
+        "answer": "Sır"
+    },
+    {
+        "id": 430,
+        "question": "Saydam, yalın, açık",
+        "letter": "Ş",
+        "answer": "şeffaf"
+    },
+    {
+        "id": 439,
+        "question": "Manyetik bir bant üzerine sesleri kaydeden ve okuyan aygıt",
+        "letter": "T",
+        "answer": "teyp"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 1138,
+        "question": "Tehlikeli durum",
+        "letter": "V",
+        "answer": "varta, vuku, vukuat"
+    },
+    {
+        "id": 1578,
+        "question": "Bir düşünceye, bir inanca aşırı ölçüde bağlı olan baskıcı kimse",
+        "letter": "Y",
+        "answer": "Yobaz"
+    },
+    {
+        "id": 843,
+        "question": "Telli Bir Çalgıyı Acemice Çalarak Çıkarılan Çirkin Sesin Adı",
+        "letter": "Z",
+        "answer": "Zımbırtı, zimbirti"
+    }
+]

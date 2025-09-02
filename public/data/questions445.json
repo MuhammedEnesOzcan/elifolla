@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1330,
+        "question": "Kılçıksız, lezzetli bir tür taze fasulye",
+        "letter": "A",
+        "answer": "Ayşekadın"
+    },
+    {
+        "id": 1343,
+        "question": "Bükülmüş, kıvrılmış şeylerin oluşturduğu kat, kıvrım",
+        "letter": "B",
+        "answer": "Büklüm, büklümler"
+    },
+    {
+        "id": 535,
+        "question": "Gerçekten, hakikaten anlamlarındaki bir söz",
+        "letter": "C",
+        "answer": "Cidden"
+    },
+    {
+        "id": 1451,
+        "question": "Bilgisayarda yazılan bir metnin kâğıda dökülmüş biçimi",
+        "letter": "Ç",
+        "answer": "Çıktı, çıktısı"
+    },
+    {
+        "id": 551,
+        "question": "Çapraz Bağların bulunduğu uzuv",
+        "letter": "D",
+        "answer": "Diz"
+    },
+    {
+        "id": 1219,
+        "question": "Çok uzak ve yabancı ülkelerle ilgili ya da böyle ülkelerden gelmiş, getirilmiş",
+        "letter": "E",
+        "answer": "Egzotik, ekzotik"
+    },
+    {
+        "id": 226,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "facia, feci"
+    },
+    {
+        "id": 239,
+        "question": "Alabildiğine, çokça",
+        "letter": "G",
+        "answer": "gırla"
+    },
+    {
+        "id": 1437,
+        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "letter": "H",
+        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+    },
+    {
+        "id": 599,
+        "question": "Açıkça bildirme, açıkça duyurma",
+        "letter": "İ",
+        "answer": "İlan, ilan etme, ilan etmek, ilan verme, ilan vermek"
+    },
+    {
+        "id": 1792,
+        "question": "Genellikle Türklere özgü, ters döndürülmüş kesik koni şeklinde, kürk, kumaş veya deriden şapka türü",
+        "letter": "K",
+        "answer": "Kalpak"
+    },
+    {
+        "id": 1612,
+        "question": "Yanardağların ağzından fışkırıp akan, soğuyunca donan erimiş madde",
+        "letter": "L",
+        "answer": "Lav"
+    },
+    {
+        "id": 625,
+        "question": "Ayrı bir yeri olan, üstün, seçkin",
+        "letter": "M",
+        "answer": "Mümtaz"
+    },
+    {
+        "id": 644,
+        "question": "Atomun çekirdeğinden elde edilen bir enerji türü",
+        "letter": "N",
+        "answer": "Nükleer, Nükleer enerji"
+    },
+    {
+        "id": 1711,
+        "question": "Norveç'in Başkenti",
+        "letter": "O",
+        "answer": "Oslo"
+    },
+    {
+        "id": 1856,
+        "question": "DÜZENLİ, PLANLI VE YÖNTEMLİ BİÇİMDE VERİLEN EĞİTİM TÜRÜ",
+        "letter": "Ö",
+        "answer": "Örgün, Örgün eğitim"
+    },
+    {
+        "id": 825,
+        "question": "Futbolda topa kavisli ve yumuşak vuruş",
+        "letter": "P",
+        "answer": "Plase"
+    },
+    {
+        "id": 1639,
+        "question": "Yabani at veya boğa üzerinde uzun zaman kalabilme oyunu",
+        "letter": "R",
+        "answer": "Rodeo"
+    },
+    {
+        "id": 1263,
+        "question": "Kadın veya çocuklarda en ince ses, sesi böyle olan sanatçı",
+        "letter": "S",
+        "answer": "Soprano"
+    },
+    {
+        "id": 1683,
+        "question": "Çoğunlukla saç yıkamakta kullanılan, kokulu ve bol köpüklü bir tür sıvı sabun",
+        "letter": "Ş",
+        "answer": "Şampuan"
+    },
+    {
+        "id": 720,
+        "question": "Tutum, idareli tüketme",
+        "letter": "T",
+        "answer": "Tasarruf, Tasaruf"
+    },
+    {
+        "id": 1563,
+        "question": "Nükleer santrallerde en yaygın kullanılan ve radyoaktif atık bırakan yakıt",
+        "letter": "U",
+        "answer": "Uranyum"
+    },
+    {
+        "id": 466,
+        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
+        "letter": "Ü",
+        "answer": "üslup"
+    },
+    {
+        "id": 1571,
+        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
+        "letter": "V",
+        "answer": "Vasıfsız, vasıfsız eleman"
+    },
+    {
+        "id": 953,
+        "question": "Tibet öküzü",
+        "letter": "Y",
+        "answer": "yak, yak sığırı"
+    },
+    {
+        "id": 1147,
+        "question": "Saf, tatlı su",
+        "letter": "Z",
+        "answer": "zülal"
+    }
+]

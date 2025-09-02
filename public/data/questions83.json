@@ -1,0 +1,158 @@
+[
+    {
+        "id": 125,
+        "question": "Eşyayı sarmaya yarayan mukavva, kâğıt, tahta, plastik vb. malzeme",
+        "letter": "A",
+        "answer": "ambalaj"
+    },
+    {
+        "id": 1355,
+        "question": "Çoğunlukla bakırdan yapılan küçük kova",
+        "letter": "B",
+        "answer": "Bakraç"
+    },
+    {
+        "id": 164,
+        "question": "Gürültülü, karışık durum",
+        "letter": "C",
+        "answer": "curcuna"
+    },
+    {
+        "id": 1087,
+        "question": "Herhangi bir işi yapmak için ortaya konan güç, zorlu, sürekli çalışma, gayret, ceht, efor",
+        "letter": "Ç",
+        "answer": "Çaba"
+    },
+    {
+        "id": 1210,
+        "question": "Ayın tamamlanmış hali, parlak tam ay",
+        "letter": "D",
+        "answer": "Dolunay"
+    },
+    {
+        "id": 563,
+        "question": "Öğrenci yurt dışı değişim programı",
+        "letter": "E",
+        "answer": "Erasmus"
+    },
+    {
+        "id": 219,
+        "question": "İstenilen şeylerin yazılması, doldurulması için hazırlanmış basılı belge",
+        "letter": "F",
+        "answer": "form"
+    },
+    {
+        "id": 753,
+        "question": "Bitkilerin büyümesi için gerekli gıdayı ihtiva eden madde",
+        "letter": "G",
+        "answer": "Gübre"
+    },
+    {
+        "id": 1441,
+        "question": "Normalden yüksek olan atardamar basıncı",
+        "letter": "H",
+        "answer": "Hipertansiyon"
+    },
+    {
+        "id": 266,
+        "question": "Bir kararı, bir yargıyı yerine getirme, uygulama, yürütüm",
+        "letter": "İ",
+        "answer": "infaz, infaz etme, infaz etmek"
+    },
+    {
+        "id": 289,
+        "question": "Düşünüleni dolaylı olarak anlatan söz",
+        "letter": "K",
+        "answer": "kinaye, kinayeli"
+    },
+    {
+        "id": 300,
+        "question": "Yasal olan",
+        "letter": "L",
+        "answer": "legal"
+    },
+    {
+        "id": 28,
+        "question": "Doku ve organların yapısını inceleyen bilim dalı",
+        "letter": "M",
+        "answer": "morfoloji"
+    },
+    {
+        "id": 916,
+        "question": "Durgun sularda ya da havuzlarda yetişen, geniş yapraklı su bitkisi",
+        "letter": "N",
+        "answer": "Nilüfer, nılufer"
+    },
+    {
+        "id": 1969,
+        "question": "BİRTAKIM OLAYLARIN DAYANDIĞI SEBEP VEYA BU SEBEPLERİN YOL AÇTIĞI SONUÇ",
+        "letter": "O",
+        "answer": "OLGU"
+    },
+    {
+        "id": 354,
+        "question": "Dokularda, hücreler arası boşluklarda aşırı miktarda sıvı birikmesi",
+        "letter": "Ö",
+        "answer": "ödem"
+    },
+    {
+        "id": 1730,
+        "question": "Kolaylıkla uygulanabilir, kullanışlı olan",
+        "letter": "P",
+        "answer": "Pratik"
+    },
+    {
+        "id": 1906,
+        "question": "BASKETBOLDA, SAYI OLMAYAN BİR ATIŞTAN SONRA POTADAN SEKEN TOPUN HAVADAYKEN YAKALANMASI",
+        "letter": "R",
+        "answer": "Ribaund"
+    },
+    {
+        "id": 92,
+        "question": "Trafik ışıklarında \"hazırlan\" anlamına gelen renk",
+        "letter": "S",
+        "answer": "sarı"
+    },
+    {
+        "id": 697,
+        "question": "Bir diğer adı \"Enjektör\" olan nesne",
+        "letter": "Ş",
+        "answer": "Şırınga"
+    },
+    {
+        "id": 438,
+        "question": "Üzüntülü düşünce durumu, kaygı, endişe",
+        "letter": "T",
+        "answer": "tasa, tasalanma, tasalanmak"
+    },
+    {
+        "id": 445,
+        "question": "Boyutları normalden küçük",
+        "letter": "U",
+        "answer": "ufak"
+    },
+    {
+        "id": 38,
+        "question": "Fakülteler topluluğu",
+        "letter": "Ü",
+        "answer": "ÜNİVERSİTE"
+    },
+    {
+        "id": 870,
+        "question": "Bir vadi ya da ırmak üzerine kurulan yüksek ve uzun köprü",
+        "letter": "V",
+        "answer": "Viyadük, vıyaduk"
+    },
+    {
+        "id": 884,
+        "question": "Soğanlı et yemeği",
+        "letter": "Y",
+        "answer": "Yahni"
+    },
+    {
+        "id": 850,
+        "question": "Dermansızlık, Zayıf nokta",
+        "letter": "Z",
+        "answer": "Zafiyet, zafıyet"
+    }
+]

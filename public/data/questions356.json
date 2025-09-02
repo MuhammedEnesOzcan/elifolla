@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1183,
+        "question": "Yargı önünde kişiyi savunan kimse",
+        "letter": "A",
+        "answer": "Avukat"
+    },
+    {
+        "id": 1349,
+        "question": "Bankacılıkta bir varlığın yetkili otoritelerin izni olmadan sahibi tarafından kullanılamaması durumu",
+        "letter": "B",
+        "answer": "Blokaj, bloke, bloke koyma, bloke koymak"
+    },
+    {
+        "id": 1305,
+        "question": "Yurt, baba ocağı gibi çok sevilen şeylerden ayrılmış olan, uzak kalmış olan",
+        "letter": "C",
+        "answer": "Cüda"
+    },
+    {
+        "id": 182,
+        "question": "Halı, kilim vb. şeyleri hızla ve kesik kesik silkelemek",
+        "letter": "Ç",
+        "answer": "çırpmak"
+    },
+    {
+        "id": 552,
+        "question": "Her şeyi zamanında yapmaya özen gösteren",
+        "letter": "D",
+        "answer": "Dakik"
+    },
+    {
+        "id": 1408,
+        "question": "hastalığın nedeni, kökeni. Hastalık nedenleri ile uğraşan bilim dalı",
+        "letter": "E",
+        "answer": "Etiyoloji"
+    },
+    {
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
+        "letter": "F",
+        "answer": "fünye"
+    },
+    {
+        "id": 970,
+        "question": "Oluşması genellikle tektonik, volkanik vb. olaylara bağlı olan, toprakla çevrili, derin ve geniş, tuzlu veya tuzsuz durgun su örtüsü",
+        "letter": "G",
+        "answer": "Göl"
+    },
+    {
+        "id": 1965,
+        "question": "BİTKİLERİN DOĞAL OLARAK YERLEŞTİĞİ YER, YURT",
+        "letter": "H",
+        "answer": "HABİTAT"
+    },
+    {
+        "id": 1604,
+        "question": "Bir kimsenin ya da bir şeyin benzerlerinden ayrı tutulması durumu",
+        "letter": "İ",
+        "answer": "İstisna, istisnai"
+    },
+    {
+        "id": 1840,
+        "question": "ÜST GİYSİLERİNİN YAKALARINA TAKILI BAŞLIK",
+        "letter": "K",
+        "answer": "Kapüşon, Kapşon"
+    },
+    {
+        "id": 621,
+        "question": "Kelime, sözlük",
+        "letter": "L",
+        "answer": "Lügat, Lugat, Lûgat"
+    },
+    {
+        "id": 1893,
+        "question": "“BİLEREK, İSTEYEREK, KASTEN” ANLAMLARINA GELEN SÖZCÜK",
+        "letter": "M",
+        "answer": "Mahsus"
+    },
+    {
+        "id": 337,
+        "question": "Benzer, aynı, kopya",
+        "letter": "N",
+        "answer": "nüsha"
+    },
+    {
+        "id": 341,
+        "question": "Yüksek ve alçaktan mermi atabilen kısa namlulu top",
+        "letter": "O",
+        "answer": "obüs"
+    },
+    {
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "letter": "Ö",
+        "answer": "öğüt"
+    },
+    {
+        "id": 1023,
+        "question": "Baykuşgillerden, orman, dağ ve kayalıklarda yaşayan, uzunluğu 65 cm, sırtı koyu kahverengi bir kuş türü",
+        "letter": "P",
+        "answer": "Puhu"
+    },
+    {
+        "id": 397,
+        "question": "Okul, kışla vb. yerlerde hastalar için ayrılmış bölüm",
+        "letter": "R",
+        "answer": "revir"
+    },
+    {
+        "id": 830,
+        "question": "Toplumda büyük yankı uyandıran utanç verici olay ya da durum",
+        "letter": "S",
+        "answer": "Skandal"
+    },
+    {
+        "id": 1846,
+        "question": "YAPRAKLARI HER MEVSİM YEŞİL KALAN, BAHÇELERDE SÜS BİTKİSİ OLARAK YETİŞTİRİLEN, SARIMSI RENKLİ BİR TÜR AĞAÇÇIK",
+        "letter": "Ş",
+        "answer": "Şimşir"
+    },
+    {
+        "id": 36,
+        "question": "1500 km²'lik yüzeyi ile Türkiye'nin ikinci büyük gölü ",
+        "letter": "T",
+        "answer": "Tuz Gölü, Tuz"
+    },
+    {
+        "id": 456,
+        "question": "Gökyüzünde tanımlanamayan cisim",
+        "letter": "U",
+        "answer": "ufo"
+    },
+    {
+        "id": 769,
+        "question": "Korkunun yarattığı serinlik",
+        "letter": "Ü",
+        "answer": "Ürperti, Ürpermek"
+    },
+    {
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "letter": "V",
+        "answer": "Vize, vize belgesi"
+    },
+    {
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
+        "letter": "Y",
+        "answer": "Yalapşap, yalap şap, yalapsap"
+    },
+    {
+        "id": 1588,
+        "question": "Bebeklere iç çamaşırı olarak giydirilen, ince pamukludan kısa ve kollu giysi",
+        "letter": "Z",
+        "answer": "Zıbın"
+    }
+]

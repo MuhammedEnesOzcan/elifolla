@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1241,
+        "question": "Genellikle dişte meydana gelen şişlik oluşturan iltihap türü",
+        "letter": "A",
+        "answer": "Apse"
+    },
+    {
+        "id": 151,
+        "question": "Küçük balon",
+        "letter": "B",
+        "answer": "baloncuk"
+    },
+    {
+        "id": 1358,
+        "question": "Bir eserin ayrı ayrı basılan bölümlerinden her biri",
+        "letter": "C",
+        "answer": "Cilt, cildi"
+    },
+    {
+        "id": 547,
+        "question": "Atomda proton ve nötronun bulunduğu merkezi kısım",
+        "letter": "Ç",
+        "answer": "Çekirdek"
+    },
+    {
+        "id": 1201,
+        "question": "Elektrik devresinde ampulün takıldığı devre elemanı",
+        "letter": "D",
+        "answer": "Duy, duyu"
+    },
+    {
+        "id": 1416,
+        "question": "Araçlarla koruma işi",
+        "letter": "E",
+        "answer": "Eskortluk, eskort"
+    },
+    {
+        "id": 574,
+        "question": "Dönem sonu sınavı",
+        "letter": "F",
+        "answer": "Final, Final sınavı"
+    },
+    {
+        "id": 1899,
+        "question": "İLAÇ DESTEĞİ İLE DE YAPILAN AĞIZ VE BOĞAZ BANYOSU",
+        "letter": "G",
+        "answer": "Gargara"
+    },
+    {
+        "id": 1443,
+        "question": "Mecazen; Yasa dışı yollarla zimmetine para veya mal geçirmek",
+        "letter": "H",
+        "answer": "Hortumlama, hortumlamak"
+    },
+    {
+        "id": 264,
+        "question": "Bir şeyi armağan olarak verme, sunma",
+        "letter": "İ",
+        "answer": "ikram, ikram etme, ikram etmek"
+    },
+    {
+        "id": 609,
+        "question": "Kutu şeklindeki büyük eşya paketi",
+        "letter": "K",
+        "answer": "Koli"
+    },
+    {
+        "id": 919,
+        "question": "Türklere özgü bir şekerleme",
+        "letter": "L",
+        "answer": "Lokum"
+    },
+    {
+        "id": 311,
+        "question": "Bir topluluğu simgelemek için düzenlenmiş müzik parçası",
+        "letter": "M",
+        "answer": "marş"
+    },
+    {
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
+        "letter": "N",
+        "answer": "nihai"
+    },
+    {
+        "id": 347,
+        "question": "Yiyecek, içecek gibi şeylerin alınabildiği mekanik veya elektrikli araç",
+        "letter": "O",
+        "answer": "otomat"
+    },
+    {
+        "id": 356,
+        "question": "Bir başarı karşılığında verilen armağan, mükâfat",
+        "letter": "Ö",
+        "answer": "ödül"
+    },
+    {
+        "id": 1119,
+        "question": "Ebegümecigillerden, koza biçimindeki meyvesi üç, dört, beş dilimli olan, sıcak bölgelerde yetişen tarım bitkisi",
+        "letter": "P",
+        "answer": "pamuk"
+    },
+    {
+        "id": 1031,
+        "question": "Yakışır, yerinde, uygun",
+        "letter": "R",
+        "answer": "Reva"
+    },
+    {
+        "id": 63,
+        "question": "Garri Kasparov'un \"Büyük Usta\" unvanına sahip olduğu oyun",
+        "letter": "S",
+        "answer": "Satranç"
+    },
+    {
+        "id": 1126,
+        "question": "Düşen su damlasının çıkardığı ses",
+        "letter": "Ş",
+        "answer": "şıp"
+    },
+    {
+        "id": 1258,
+        "question": "Yaslanılamayan sandalye",
+        "letter": "T",
+        "answer": "Tabure"
+    },
+    {
+        "id": 1563,
+        "question": "Nükleer santrallerde en yaygın kullanılan ve radyoaktif atık bırakan yakıt",
+        "letter": "U",
+        "answer": "Uranyum"
+    },
+    {
+        "id": 864,
+        "question": "Olması istenmeyen olaylardan doğan ruh tedirginliği",
+        "letter": "Ü",
+        "answer": "Üzüntü"
+    },
+    {
+        "id": 1867,
+        "question": "Tramvay Sürücüsü",
+        "letter": "V",
+        "answer": "Vatman"
+    },
+    {
+        "id": 1476,
+        "question": "Su parkı gösterilerinde zekasıyla öne çıkan memeli su hayvanı",
+        "letter": "Y",
+        "answer": "Yunus, yunus balığı"
+    },
+    {
+        "id": 1591,
+        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "letter": "Z",
+        "answer": "Zarar, ziyan"
+    }
+]

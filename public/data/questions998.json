@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1162,
+        "question": "Birden fazla sıralı halde iki tarafı ağaçlı yol",
+        "letter": "A",
+        "answer": "Alle, Alle yol"
+    },
+    {
+        "id": 522,
+        "question": "İşçilerin başlarına giydikleri, metal veya plastikten yapılmış koruyucu başlık",
+        "letter": "B",
+        "answer": "Baret"
+    },
+    {
+        "id": 1368,
+        "question": "Şaka olmayan, gerçek",
+        "letter": "C",
+        "answer": "Ciddi"
+    },
+    {
+        "id": 177,
+        "question": "Çiçek, dal ve yapraklarla yapılmış halka",
+        "letter": "Ç",
+        "answer": "çelenk"
+    },
+    {
+        "id": 1904,
+        "question": "SADECE SOYAĞACINI GENİŞLETMEK İÇİN KULLANILAN HAYVAN",
+        "letter": "D",
+        "answer": "Damızlık"
+    },
+    {
+        "id": 1407,
+        "question": "Kaynatılarak koyu kıvamlı duruma getirilen sert İtalyan kahvesi",
+        "letter": "E",
+        "answer": "Espresso"
+    },
+    {
+        "id": 1780,
+        "question": "Sahneyi destekleyecek rol alan dekoratif oyuncu",
+        "letter": "F",
+        "answer": "Figüran, Figüran Oyuncu"
+    },
+    {
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
+        "letter": "G",
+        "answer": "Gelir"
+    },
+    {
+        "id": 89,
+        "question": "Bir şirketin ortaklarından her biri",
+        "letter": "H",
+        "answer": "hissedar"
+    },
+    {
+        "id": 595,
+        "question": "Futbolda \"Üç Büyükler\"in bulunduğu ilimiz",
+        "letter": "İ",
+        "answer": "İstanbul"
+    },
+    {
+        "id": 282,
+        "question": "Başlangıcı olmayan, eski, ezeli",
+        "letter": "K",
+        "answer": "kadim"
+    },
+    {
+        "id": 983,
+        "question": "Deniz kulağı",
+        "letter": "L",
+        "answer": "Lagün"
+    },
+    {
+        "id": 312,
+        "question": "Ev, dükkân, arazi vb. taşınmaz mal",
+        "letter": "M",
+        "answer": "mülk"
+    },
+    {
+        "id": 644,
+        "question": "Atomun çekirdeğinden elde edilen bir enerji türü",
+        "letter": "N",
+        "answer": "Nükleer, Nükleer enerji"
+    },
+    {
+        "id": 909,
+        "question": "Taş ya da maden çıkarılan yer",
+        "letter": "O",
+        "answer": "Ocak"
+    },
+    {
+        "id": 366,
+        "question": "Bir kusurun hoş görülmesini gerektiren sebep, mazeret",
+        "letter": "Ö",
+        "answer": "özür"
+    },
+    {
+        "id": 824,
+        "question": "Yufka biçiminde kurutulmuş meyve ezmesi",
+        "letter": "P",
+        "answer": "Pestil"
+    },
+    {
+        "id": 1205,
+        "question": "TV'deki günlük veya haftalık izlenme oranı, izleniş durumu",
+        "letter": "R",
+        "answer": "Reyting, rating"
+    },
+    {
+        "id": 1940,
+        "question": "Öğretmenin diyaloğa dayalı yaptığı sınav biçimi",
+        "letter": "S",
+        "answer": "Sözlü"
+    },
+    {
+        "id": 427,
+        "question": "İstek, heves",
+        "letter": "Ş",
+        "answer": "şevk"
+    },
+    {
+        "id": 709,
+        "question": "Bildiri, haber verme",
+        "letter": "T",
+        "answer": "Tebliğ, Tebliğ etme, Tebliğ etmek, Tebligat"
+    },
+    {
+        "id": 894,
+        "question": "Türlü Amaçlarla Yer'den Fırlatılan Ve Genellikle Kapalı Bir Yörünge Çizerek Yer Çevresinde Dolanan Aygıt",
+        "letter": "U",
+        "answer": "Uydu"
+    },
+    {
+        "id": 469,
+        "question": "Ayrıca, bir de, bundan başka",
+        "letter": "Ü",
+        "answer": "üstelik"
+    },
+    {
+        "id": 1138,
+        "question": "Tehlikeli durum",
+        "letter": "V",
+        "answer": "varta, vuku, vukuat"
+    },
+    {
+        "id": 1845,
+        "question": "SEYAHATE ÇIKMIŞ KİMSE",
+        "letter": "Y",
+        "answer": "Yolcu"
+    },
+    {
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
+        "letter": "Z",
+        "answer": "zikzak"
+    }
+]

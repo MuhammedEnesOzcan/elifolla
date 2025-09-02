@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1971,
+        "question": "BİR KİŞİYİ GÖREVİNDEN ALMAK, UZAKLAŞTIRMAK",
+        "letter": "A",
+        "answer": "AZLETME, AZLETMEK"
+    },
+    {
+        "id": 145,
+        "question": "Kendine özgü nitelikleri yitirmeden bölünemeyen tek varlık, fert",
+        "letter": "B",
+        "answer": "birey"
+    },
+    {
+        "id": 1367,
+        "question": "Bireye, üreme işinde ayrı bir rol veren ve erkekle dişiyi ayırt ettiren özellik",
+        "letter": "C",
+        "answer": "Cinsiyet"
+    },
+    {
+        "id": 1543,
+        "question": "Tahta kepçe, çemçe",
+        "letter": "Ç",
+        "answer": "Çömçe"
+    },
+    {
+        "id": 1737,
+        "question": "Okuma güçlüğü hastalığı",
+        "letter": "D",
+        "answer": "Disleksi"
+    },
+    {
+        "id": 1410,
+        "question": "Mal ve değerlere ait döküm",
+        "letter": "E",
+        "answer": "Envanter"
+    },
+    {
+        "id": 568,
+        "question": "Aynı olmayan, değişik",
+        "letter": "F",
+        "answer": "Farklı"
+    },
+    {
+        "id": 1790,
+        "question": "BENZERLERİ ARASINDA NİTELİKLERİ SEBEBİYLE ÜSTÜN TUTULAN, BEĞENİLEN, ÖNEM VERİLEN KİMSE VEYA ŞEY",
+        "letter": "G",
+        "answer": "Gözde"
+    },
+    {
+        "id": 975,
+        "question": "Birini aldatmak, yanıltmak için yapılan düzen, dolap, oyun, desise, entrika",
+        "letter": "H",
+        "answer": "Hile"
+    },
+    {
+        "id": 258,
+        "question": "Bir konuda birinin inanmasını sağlama, inandırma, kandırma",
+        "letter": "İ",
+        "answer": "ikna"
+    },
+    {
+        "id": 1922,
+        "question": "FRANSIZCA KÖKENLİ “KONTRAST” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "letter": "K",
+        "answer": "Karşıtlık"
+    },
+    {
+        "id": 918,
+        "question": "Hiç tuzu olmayan yumuşak krem peynir",
+        "letter": "L",
+        "answer": "Labne"
+    },
+    {
+        "id": 1763,
+        "question": "ÜRETİMDE BİR MAL ELDE EDİLİNCEYE KADAR HARCANAN DEĞERLERİN TOPLAMI",
+        "letter": "M",
+        "answer": "Maliyet"
+    },
+    {
+        "id": 338,
+        "question": "Yararsız, boşuna, boş yere",
+        "letter": "N",
+        "answer": "nafile"
+    },
+    {
+        "id": 348,
+        "question": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+        "letter": "O",
+        "answer": "obur"
+    },
+    {
+        "id": 1537,
+        "question": "En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek",
+        "letter": "Ö",
+        "answer": "Ölçmek, ölçme, ölçüm"
+    },
+    {
+        "id": 1179,
+        "question": "Zehrin etkisini ortadan kaldırabilme özelliği olan madde ",
+        "letter": "P",
+        "answer": "Panzehir"
+    },
+    {
+        "id": 1026,
+        "question": "Şeker kamışından şeker yapılırken elde edilen öz suyun, melasla mayalandırılarak kurutulmasıyla elde edilen alkollü sert içki",
+        "letter": "R",
+        "answer": "Rom"
+    },
+    {
+        "id": 831,
+        "question": "Laik yaşama ait, dinden bağımsız olan",
+        "letter": "S",
+        "answer": "Seküler"
+    },
+    {
+        "id": 424,
+        "question": "Okullarda aynı düzeydeki sınıflardan her biri",
+        "letter": "Ş",
+        "answer": "şube"
+    },
+    {
+        "id": 1649,
+        "question": "Herhangi bir kas kümesinin irade dışı hareketi",
+        "letter": "T",
+        "answer": "Tik"
+    },
+    {
+        "id": 1564,
+        "question": "Aklında kalmamak, hatırlamamak",
+        "letter": "U",
+        "answer": "Unutmak, unutma"
+    },
+    {
+        "id": 861,
+        "question": "Sivrisineğe benzer çok küçük bir sinek türü",
+        "letter": "Ü",
+        "answer": "Üvez"
+    },
+    {
+        "id": 863,
+        "question": "Tahıl tanelerinin damıtılmasıyla elde edilen alkollü içki",
+        "letter": "V",
+        "answer": "Votka, vodka"
+    },
+    {
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
+        "letter": "Y",
+        "answer": "Yassı"
+    },
+    {
+        "id": 774,
+        "question": "Şundan dolayı, şu sebeple, çünkü anlamlarındaki bağlaç",
+        "letter": "Z",
+        "answer": "Zira"
+    }
+]

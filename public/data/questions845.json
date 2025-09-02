@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1338,
+        "question": "Kazı bilimi",
+        "letter": "A",
+        "answer": "Arkeoloji"
+    },
+    {
+        "id": 1788,
+        "question": "ÖNÜNDEKİ GENİŞ BIÇAKLA TOPRAĞI SIYIRIP KALDIRAN, TEKERLEKLİ VEYA PALETLİ BİR YOL MAKİNESİ",
+        "letter": "B",
+        "answer": "Buldozer"
+    },
+    {
+        "id": 1309,
+        "question": "Canlı, neşeli ve sokulgan",
+        "letter": "C",
+        "answer": "Civelek"
+    },
+    {
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
+        "letter": "Ç",
+        "answer": "çakar"
+    },
+    {
+        "id": 1967,
+        "question": "BOZUK VE KUSURLU GİYSİLER VEYA EŞYALARIN GENEL ADI",
+        "letter": "D",
+        "answer": "DEFOLU"
+    },
+    {
+        "id": 1404,
+        "question": "Kanunlar yönünden insanlar arasında ayrım bulunmaması durumu",
+        "letter": "E",
+        "answer": "Eşitlik, eşitlik hakkı"
+    },
+    {
+        "id": 572,
+        "question": "Bir kimseyi veya bir yeri koruyan kimse",
+        "letter": "F",
+        "answer": "Fedai"
+    },
+    {
+        "id": 238,
+        "question": "Değersiz, aşağı görülen, küçümsenen topluluk, derinti, sürü",
+        "letter": "G",
+        "answer": "güruh"
+    },
+    {
+        "id": 245,
+        "question": "Karşılıksız vermek, bağış",
+        "letter": "H",
+        "answer": "hibe, hibe etmek"
+    },
+    {
+        "id": 598,
+        "question": "Yapı kurma, yapı yapma, kurma",
+        "letter": "İ",
+        "answer": "İnşa, inşaat, inşa etme, inşa etmek"
+    },
+    {
+        "id": 26,
+        "question": "Dar dik yamaçlı ve derin vadi",
+        "letter": "K",
+        "answer": "Kanyon"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 814,
+        "question": "Devletin egemenliği altında bulunan toprakların bütünü",
+        "letter": "M",
+        "answer": "Mülk, mülki"
+    },
+    {
+        "id": 333,
+        "question": "İstenilen düzende olan, düzene uygun olan",
+        "letter": "N",
+        "answer": "nizami"
+    },
+    {
+        "id": 344,
+        "question": "İçinde su biriken çukur yer, doğal kuyu",
+        "letter": "O",
+        "answer": "obruk, oyuk, oymak"
+    },
+    {
+        "id": 762,
+        "question": "Belli bir kurala göre devam eden sayı ya da şekil dizisi",
+        "letter": "Ö",
+        "answer": "Örüntü"
+    },
+    {
+        "id": 1734,
+        "question": "Engebeli yerlerden gelip geçenlerin ayak izlerinden oluşan, tekerlekli araç işlemeyen dar yol",
+        "letter": "P",
+        "answer": "Patika, patika yol"
+    },
+    {
+        "id": 1639,
+        "question": "Yabani at veya boğa üzerinde uzun zaman kalabilme oyunu",
+        "letter": "R",
+        "answer": "Rodeo"
+    },
+    {
+        "id": 1047,
+        "question": "Vücutta kalbin bulunduğu tarafta olan, sağ karşıtı",
+        "letter": "S",
+        "answer": "sol"
+    },
+    {
+        "id": 766,
+        "question": "Haşlanmış gıdayı hızlıca buz ile soğutmak",
+        "letter": "Ş",
+        "answer": "Şoklama, Şoklamak, Şoklama işlemi"
+    },
+    {
+        "id": 1782,
+        "question": "İşe girişmek veya kalkışmak",
+        "letter": "T",
+        "answer": "Teşebbüs, Teşebbüs etme, Teşebbüs etmek"
+    },
+    {
+        "id": 1559,
+        "question": "Mecazen; Her hangi bir işi yapmak istemeyen, tembel, miskin",
+        "letter": "U",
+        "answer": "Uyuşuk"
+    },
+    {
+        "id": 727,
+        "question": "Her yandan çokça bir araya gelmek, toplanmak, birikmek",
+        "letter": "Ü",
+        "answer": "Üşüşme, Üşüşmek"
+    },
+    {
+        "id": 473,
+        "question": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi",
+        "letter": "V",
+        "answer": "vali"
+    },
+    {
+        "id": 733,
+        "question": "Alışamamak, yabancılık çekmek",
+        "letter": "Y",
+        "answer": "Yadırgama, Yadırgamak"
+    },
+    {
+        "id": 502,
+        "question": "Aldatıcı şey, tuzak, hile",
+        "letter": "Z",
+        "answer": "zoka"
+    }
+]

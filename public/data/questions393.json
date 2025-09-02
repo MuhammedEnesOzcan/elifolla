@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1155,
+        "question": "Gözleri görmeyen, eski dilde kör",
+        "letter": "A",
+        "answer": "Ama, Âmâ, Amâ"
+    },
+    {
+        "id": 127,
+        "question": "Bağlama işinde kullanılan şerit biçiminde bağ",
+        "letter": "B",
+        "answer": "bağcık"
+    },
+    {
+        "id": 1319,
+        "question": "Mızrap ile çalınan iki veya üç teli olan halk sazı",
+        "letter": "C",
+        "answer": "Cura"
+    },
+    {
+        "id": 176,
+        "question": "İnsan bedeninde bulunan enerjiyi tüm vücuda dağıttığına inanılan enerji noktaları",
+        "letter": "Ç",
+        "answer": "çakra, çakralar"
+    },
+    {
+        "id": 1246,
+        "question": "Dumanı ve kokuları toplayıp bacaya vermeye yarayan mutfak aracı",
+        "letter": "D",
+        "answer": "Davlumbaz, davlunbaz"
+    },
+    {
+        "id": 1413,
+        "question": "Ücret karşılığı eşyayı koruyan kimse",
+        "letter": "E",
+        "answer": "Emanetçi"
+    },
+    {
+        "id": 1913,
+        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
+        "letter": "F",
+        "answer": "Fasikül"
+    },
+    {
+        "id": 972,
+        "question": "Ülkeler veya şehirler arasında yapılan uzun yolculuk, seyahat",
+        "letter": "G",
+        "answer": "Gezi"
+    },
+    {
+        "id": 1444,
+        "question": "Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü",
+        "letter": "H",
+        "answer": "Hıfzıssıhha"
+    },
+    {
+        "id": 755,
+        "question": "Ticari hezimet",
+        "letter": "İ",
+        "answer": "İflas, iflas etme, iflas etmek"
+    },
+    {
+        "id": 1793,
+        "question": "İlgi uyandıran kişisel bir mevcudiyet veya çekicilik kalitesi",
+        "letter": "K",
+        "answer": "Karizma"
+    },
+    {
+        "id": 1959,
+        "question": "İçinde her türlü donanım bulunan lüks, uzun ve geniş otomobil türü",
+        "letter": "L",
+        "answer": "Limuzin"
+    },
+    {
+        "id": 323,
+        "question": "Kalıtım yoluyla gelen herhangi bir özellik",
+        "letter": "M",
+        "answer": "miras, mizaç"
+    },
+    {
+        "id": 641,
+        "question": "Sinir sisteminin uyarıyı iletmekle görevli anatomik ve işlevsel birimi",
+        "letter": "N",
+        "answer": "Nöron, nöronlar"
+    },
+    {
+        "id": 353,
+        "question": "Aşırı kilolu (kimse)",
+        "letter": "O",
+        "answer": "obez"
+    },
+    {
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
+        "letter": "Ö",
+        "answer": "Öbür, Öbürü"
+    },
+    {
+        "id": 666,
+        "question": "Ressamların boyaları üzerine dizerek fırça ile karıştırdıkları elde tutulan levha",
+        "letter": "P",
+        "answer": "Palet"
+    },
+    {
+        "id": 682,
+        "question": "Saçı yer yer değişik tonlarda boyama işlemi",
+        "letter": "R",
+        "answer": "Röfle, Röfle yapma, Röfle yaptırma, Röfle yaptırmak"
+    },
+    {
+        "id": 409,
+        "question": "Depolanmış, yığın",
+        "letter": "S",
+        "answer": "stok, stoklanmış"
+    },
+    {
+        "id": 702,
+        "question": "Kişilik, belirgin özellik",
+        "letter": "Ş",
+        "answer": "Şahsiyet"
+    },
+    {
+        "id": 705,
+        "question": "Güneş’in doğuşundan önceki alacakaranlık zaman",
+        "letter": "T",
+        "answer": "Tan, Tan vakti"
+    },
+    {
+        "id": 447,
+        "question": "Uysal bir biçimde",
+        "letter": "U",
+        "answer": "uslu"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 1569,
+        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "letter": "V",
+        "answer": "Varyete"
+    },
+    {
+        "id": 1724,
+        "question": "Bir gökcisminin devinmesi boyunca izlediği yol",
+        "letter": "Y",
+        "answer": "Yörünge"
+    },
+    {
+        "id": 719,
+        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "letter": "Z",
+        "answer": "Zindan"
+    }
+]

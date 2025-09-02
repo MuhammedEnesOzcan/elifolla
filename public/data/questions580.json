@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1668,
+        "question": "Eş zamanlı olmayan, başlama ve bitme anları başka olan (olaylar)",
+        "letter": "A",
+        "answer": "Asenkron"
+    },
+    {
+        "id": 784,
+        "question": "Yazı ya da sözle canlandırmak",
+        "letter": "B",
+        "answer": "Betimleme, Betimlemek"
+    },
+    {
+        "id": 1148,
+        "question": "Yerde ve tel, at, bisiklet, ip vb. üzerinde dengeye dayanan, tehlikeli, heyecan verici gösteriler yapan kimse, akrobat",
+        "letter": "C",
+        "answer": "cambaz"
+    },
+    {
+        "id": 966,
+        "question": "Bir kimsenin, satın aldığı hizmet veya ürün karşılığında para yerine verdiği ve karşılığı banka hesabından ödenen yazılı belge",
+        "letter": "Ç",
+        "answer": "Çek"
+    },
+    {
+        "id": 553,
+        "question": "Sınır dışı etme, uzaklaştırma",
+        "letter": "D",
+        "answer": "Deport, deport etme, deport etmek"
+    },
+    {
+        "id": 1267,
+        "question": "Rüzgarın bir yönden diğer yöne akması durumu",
+        "letter": "E",
+        "answer": "Esmek, esmesi, esme, esinti"
+    },
+    {
+        "id": 1699,
+        "question": "Sık rastlanan bir tür boğaz enfeksiyonu",
+        "letter": "F",
+        "answer": "Farenjit, faranjit"
+    },
+    {
+        "id": 1421,
+        "question": "İzmir yöresinde simitin diğer adı",
+        "letter": "G",
+        "answer": "Gevrek"
+    },
+    {
+        "id": 61,
+        "question": "Sıvıları dar ağızlı kaplara aktarmak için kullanılan koni şeklindeki araç",
+        "letter": "H",
+        "answer": "huni"
+    },
+    {
+        "id": 260,
+        "question": "Kötü bir olaydan alınması gereken ders, uyarıcı sonuç",
+        "letter": "İ",
+        "answer": "ibret, ibret alma, ibret almak"
+    },
+    {
+        "id": 281,
+        "question": "Silah, kılıç vb. şeylerde tutulacak yer, tutak, sap",
+        "letter": "K",
+        "answer": "kabza"
+    },
+    {
+        "id": 1457,
+        "question": "Elektronikte erime noktaları düşük metalleri tutturma işlemi",
+        "letter": "L",
+        "answer": "Lehim, lehimleme, lehimlemek, lehin yapma, lehim yapmak"
+    },
+    {
+        "id": 758,
+        "question": "Eksiksiz, kusursuz ve yetkin durumda olan",
+        "letter": "M",
+        "answer": "Mükemmel, müthiş"
+    },
+    {
+        "id": 991,
+        "question": "Petrolden 100-250 °C arasında damıtılan ürün",
+        "letter": "N",
+        "answer": "Nafta"
+    },
+    {
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "letter": "O",
+        "answer": "olası"
+    },
+    {
+        "id": 1536,
+        "question": "Tatlı sularda yaşayan, kamçı biçimindeki uzantısı ile hareket eden mekik biçimindeki bir hücreli",
+        "letter": "Ö",
+        "answer": "Öglena"
+    },
+    {
+        "id": 380,
+        "question": "Tüylü hayvan derisi",
+        "letter": "P",
+        "answer": "post"
+    },
+    {
+        "id": 1639,
+        "question": "Yabani at veya boğa üzerinde uzun zaman kalabilme oyunu",
+        "letter": "R",
+        "answer": "Rodeo"
+    },
+    {
+        "id": 1163,
+        "question": "Söylenmemesi gereken, giz",
+        "letter": "S",
+        "answer": "Sır"
+    },
+    {
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
+        "letter": "Ş",
+        "answer": "şirket"
+    },
+    {
+        "id": 1649,
+        "question": "Herhangi bir kas kümesinin irade dışı hareketi",
+        "letter": "T",
+        "answer": "Tik"
+    },
+    {
+        "id": 456,
+        "question": "Gökyüzünde tanımlanamayan cisim",
+        "letter": "U",
+        "answer": "ufo"
+    },
+    {
+        "id": 1507,
+        "question": "Canlı, doğup çoğalmak",
+        "letter": "Ü",
+        "answer": "Üremek"
+    },
+    {
+        "id": 867,
+        "question": "Elektromotor Gücün Ya Da Gerilimin Birimi",
+        "letter": "V",
+        "answer": "Volt"
+    },
+    {
+        "id": 1796,
+        "question": "AŞÇILIK, TERZİLİK GİBİ EL BECERİSİ İSTEYEN İŞLERDE, “YARDIMCI” ANLAMINDA KULLANILAN SÖZCÜK",
+        "letter": "Y",
+        "answer": "Yamak"
+    },
+    {
+        "id": 509,
+        "question": "İrade zayıflığı, eksiklik",
+        "letter": "Z",
+        "answer": "zaaf"
+    }
+]

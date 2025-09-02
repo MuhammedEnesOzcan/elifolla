@@ -1,0 +1,158 @@
+[
+    {
+        "id": 111,
+        "question": "Gıdalarda bulunan hoş koku ya da tat",
+        "letter": "A",
+        "answer": "aroma"
+    },
+    {
+        "id": 131,
+        "question": "Başıboş, serseri kimse",
+        "letter": "B",
+        "answer": "berduş"
+    },
+    {
+        "id": 162,
+        "question": "İri yapılı, iri gövdeli, iri yarı (kimse)",
+        "letter": "C",
+        "answer": "Cüsseli"
+    },
+    {
+        "id": 790,
+        "question": "Düşman kıyılarına asker indirme işi",
+        "letter": "Ç",
+        "answer": "Çıkarma, çıkarma yapmak, çıkarma yapma"
+    },
+    {
+        "id": 198,
+        "question": "Başkalarını çekiştirmek ve kınamak üzere yapılan konuşma, gıybet",
+        "letter": "D",
+        "answer": "dedikodu"
+    },
+    {
+        "id": 1211,
+        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
+        "letter": "E",
+        "answer": "Emekleme, emeklemek"
+    },
+    {
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
+        "letter": "F",
+        "answer": "Ferah"
+    },
+    {
+        "id": 583,
+        "question": "At yarışlarında birinciliği kazanan at",
+        "letter": "G",
+        "answer": "Ganyan"
+    },
+    {
+        "id": 250,
+        "question": "Hırsız, haydut, eşkıya",
+        "letter": "H",
+        "answer": "harami, haramiler"
+    },
+    {
+        "id": 1160,
+        "question": "Anlaşma, bağlaşma, birlik",
+        "letter": "İ",
+        "answer": "İttifak"
+    },
+    {
+        "id": 1886,
+        "question": "KALABALIK HÂLİNDE YAŞANAN YERLERDE, İÇİNDE BİRÇOK KİMSENİN YATTIĞI VEYA BARINDIĞI BÜYÜK ODA",
+        "letter": "K",
+        "answer": "Koğuş"
+    },
+    {
+        "id": 291,
+        "question": "Yeterince aydınlık olmayan, yarı karanlık, az ışık alan",
+        "letter": "L",
+        "answer": "loş"
+    },
+    {
+        "id": 629,
+        "question": "Tek, ayrı, kendi başına olan",
+        "letter": "M",
+        "answer": "Münferit"
+    },
+    {
+        "id": 339,
+        "question": "Tavsiye, öğüt",
+        "letter": "N",
+        "answer": "nasihat"
+    },
+    {
+        "id": 998,
+        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
+        "letter": "O",
+        "answer": "oya"
+    },
+    {
+        "id": 658,
+        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
+        "letter": "Ö",
+        "answer": "Özenti, Özentilik, Özenme, Özenmek"
+    },
+    {
+        "id": 384,
+        "question": "Çeşitli sporlarda kullanılan ölçüsü ve değeri değişken birim",
+        "letter": "P",
+        "answer": "puan"
+    },
+    {
+        "id": 392,
+        "question": "Derece, kerte",
+        "letter": "R",
+        "answer": "radde"
+    },
+    {
+        "id": 1934,
+        "question": "KENDİ GERÇEKLİĞİNİ YARATAN SANAT AKIMI, GERÇEKÜSTÜCÜLÜK",
+        "letter": "S",
+        "answer": "Sürrealizm"
+    },
+    {
+        "id": 420,
+        "question": "Kötülük, fenalık",
+        "letter": "Ş",
+        "answer": "şer"
+    },
+    {
+        "id": 1847,
+        "question": "İRİ İRİ DOĞRANMIŞ İŞKEMBEDEN YAPILAN BİR TÜR ÇORBA",
+        "letter": "T",
+        "answer": "Tuzlama, Tuzlama çorba, Tuzlama çorbası"
+    },
+    {
+        "id": 1223,
+        "question": "Bir sonuca varmak üzere, ortadaki engelleri kaldırmak için tutulması gereken yol, çıkar yol, çözüm, çare",
+        "letter": "U",
+        "answer": "Umar"
+    },
+    {
+        "id": 726,
+        "question": "Ata binerken ayak konulan binicilik aracı",
+        "letter": "Ü",
+        "answer": "Üzengi"
+    },
+    {
+        "id": 473,
+        "question": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi",
+        "letter": "V",
+        "answer": "vali"
+    },
+    {
+        "id": 838,
+        "question": "Dokunarak incelemek",
+        "letter": "Y",
+        "answer": "Yoklamak"
+    },
+    {
+        "id": 774,
+        "question": "Şundan dolayı, şu sebeple, çünkü anlamlarındaki bağlaç",
+        "letter": "Z",
+        "answer": "Zira"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 917,
+        "question": "Yünden dövülerek yapılan kalın ve kaba kumaş",
+        "letter": "A",
+        "answer": "Aba"
+    },
+    {
+        "id": 1601,
+        "question": "Genellikle bir şeyi tanıtmayı amaçlayan, sayfa sayısı az, küçük kitap",
+        "letter": "B",
+        "answer": "Broşür"
+    },
+    {
+        "id": 159,
+        "question": "Kazanmak, cebine indirmek, çalmak",
+        "letter": "C",
+        "answer": "ceplemek, cukkalamak"
+    },
+    {
+        "id": 1452,
+        "question": "Yenilen yaş veya kuru yemiş vb. şeyler",
+        "letter": "Ç",
+        "answer": "Çerez, çerezler"
+    },
+    {
+        "id": 1168,
+        "question": "Bir elektrik devresinde akım akışına karşı oluşan etkinin ölçümü",
+        "letter": "D",
+        "answer": "Direnç"
+    },
+    {
+        "id": 1410,
+        "question": "Mal ve değerlere ait döküm",
+        "letter": "E",
+        "answer": "Envanter"
+    },
+    {
+        "id": 1671,
+        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
+        "letter": "F",
+        "answer": "Filiz"
+    },
+    {
+        "id": 1212,
+        "question": "Maddenin uçucu hali",
+        "letter": "G",
+        "answer": "Gaz, gaz hali"
+    },
+    {
+        "id": 60,
+        "question": "Güney yarım küre'de en uzun gecenin yaşandığı ay",
+        "letter": "H",
+        "answer": "haziran"
+    },
+    {
+        "id": 1804,
+        "question": "Dinlenme, rahat etme",
+        "letter": "İ",
+        "answer": "İstirahat, İstirahat etme, İstirahat etmek"
+    },
+    {
+        "id": 1499,
+        "question": "Yanan şeylerden artakalan toz madde",
+        "letter": "K",
+        "answer": "Kül, küller"
+    },
+    {
+        "id": 307,
+        "question": "Doku bozukluğu",
+        "letter": "L",
+        "answer": "lezyon"
+    },
+    {
+        "id": 1318,
+        "question": "Kalın oklava",
+        "letter": "M",
+        "answer": "Merdane"
+    },
+    {
+        "id": 949,
+        "question": "Nikel'in simgesi",
+        "letter": "N",
+        "answer": "ni"
+    },
+    {
+        "id": 996,
+        "question": "Özenli, düzgün, uygun",
+        "letter": "O",
+        "answer": "Onat"
+    },
+    {
+        "id": 658,
+        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
+        "letter": "Ö",
+        "answer": "Özenti, Özentilik, Özenme, Özenmek"
+    },
+    {
+        "id": 78,
+        "question": "Eski Yunan'da, kent devletlerine verilen isim",
+        "letter": "P",
+        "answer": "polis"
+    },
+    {
+        "id": 1864,
+        "question": "YÜZEYDE KALMAYIP DERİNE İNEN, ASIL KONUYU DA İÇİNE ALAN, KÖKTEN",
+        "letter": "R",
+        "answer": "Radikal"
+    },
+    {
+        "id": 687,
+        "question": "Tarımsal yapay iklim alanı",
+        "letter": "S",
+        "answer": "Sera"
+    },
+    {
+        "id": 766,
+        "question": "Haşlanmış gıdayı hızlıca buz ile soğutmak",
+        "letter": "Ş",
+        "answer": "Şoklama, Şoklamak, Şoklama işlemi"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
+        "letter": "U",
+        "answer": "urba"
+    },
+    {
+        "id": 725,
+        "question": "Birci, birlikten yana olan, tekil, birimsel",
+        "letter": "Ü",
+        "answer": "Üniter"
+    },
+    {
+        "id": 1569,
+        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "letter": "V",
+        "answer": "Varyete"
+    },
+    {
+        "id": 1476,
+        "question": "Su parkı gösterilerinde zekasıyla öne çıkan memeli su hayvanı",
+        "letter": "Y",
+        "answer": "Yunus, yunus balığı"
+    },
+    {
+        "id": 1592,
+        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "letter": "Z",
+        "answer": "Ziyadesiyle"
+    }
+]

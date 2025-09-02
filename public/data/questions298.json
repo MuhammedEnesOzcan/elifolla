@@ -1,0 +1,158 @@
+[
+    {
+        "id": 955,
+        "question": "\"Kutup\", \"Boz gibi türleri bulunan iri gövdeli yırtıcı hayvan",
+        "letter": "A",
+        "answer": "ayı, ayi"
+    },
+    {
+        "id": 1600,
+        "question": "Kaybedilen bir şeyi yeniden ele geçirmek",
+        "letter": "B",
+        "answer": "Bulmak, bulma"
+    },
+    {
+        "id": 153,
+        "question": "Keder, Zulüm",
+        "letter": "C",
+        "answer": "cefa"
+    },
+    {
+        "id": 183,
+        "question": "Oy vermekten, eğilim göstermekten veya bir şey yapmaktan kaçınan, kararsız kimse",
+        "letter": "Ç",
+        "answer": "çekimser"
+    },
+    {
+        "id": 749,
+        "question": "Dozu düzenleme, ayarlama",
+        "letter": "D",
+        "answer": "dozaj"
+    },
+    {
+        "id": 204,
+        "question": "Tutsak, köle",
+        "letter": "E",
+        "answer": "esir"
+    },
+    {
+        "id": 1292,
+        "question": "Bahçıvanlıkta, tohumdan yetiştirilip başka yerlere dikilmek için hazırlanan sebze ya da körpe çiçek",
+        "letter": "F",
+        "answer": "Fide"
+    },
+    {
+        "id": 235,
+        "question": "Sözde, sanki",
+        "letter": "G",
+        "answer": "güya, gûya"
+    },
+    {
+        "id": 1445,
+        "question": "Sürekli hayal kuran, hep hayal peşinde koşan (kimse)",
+        "letter": "H",
+        "answer": "Hayalperest, hayalperver"
+    },
+    {
+        "id": 259,
+        "question": "Açıklama durumu",
+        "letter": "İ",
+        "answer": "izah, izah etme, izah etme"
+    },
+    {
+        "id": 66,
+        "question": "Diğer adı perçem olan alna düşen kısa kesilmiş saç",
+        "letter": "K",
+        "answer": "Kahkül, Kakül"
+    },
+    {
+        "id": 299,
+        "question": "Önder, şef",
+        "letter": "L",
+        "answer": "lider"
+    },
+    {
+        "id": 1625,
+        "question": "Bir şeyi anlamak veya öğrenmek için duyulan istek",
+        "letter": "M",
+        "answer": "Merak"
+    },
+    {
+        "id": 338,
+        "question": "Yararsız, boşuna, boş yere",
+        "letter": "N",
+        "answer": "nafile"
+    },
+    {
+        "id": 347,
+        "question": "Yiyecek, içecek gibi şeylerin alınabildiği mekanik veya elektrikli araç",
+        "letter": "O",
+        "answer": "otomat"
+    },
+    {
+        "id": 657,
+        "question": "Mecliste bir konuda oylamaya sunularak karar verilmesi istenen yazılı kâğıt",
+        "letter": "Ö",
+        "answer": "Önerge"
+    },
+    {
+        "id": 373,
+        "question": "Kimyasal enerjiyi elektrik enerjisine çeviren araç",
+        "letter": "P",
+        "answer": "pil"
+    },
+    {
+        "id": 398,
+        "question": "Havalimanında uçuşun gecikme durumu",
+        "letter": "R",
+        "answer": "rötar"
+    },
+    {
+        "id": 1163,
+        "question": "Söylenmemesi gereken, giz",
+        "letter": "S",
+        "answer": "Sır"
+    },
+    {
+        "id": 1679,
+        "question": "Ulusal ve uluslararası bir yarışmada ilk dereceyi alan, birinci olan kimse veya takım",
+        "letter": "Ş",
+        "answer": "Şampiyon"
+    },
+    {
+        "id": 1649,
+        "question": "Herhangi bir kas kümesinin irade dışı hareketi",
+        "letter": "T",
+        "answer": "Tik"
+    },
+    {
+        "id": 455,
+        "question": "Açıkgöz, kurnaz, cingöz",
+        "letter": "U",
+        "answer": "uyanık"
+    },
+    {
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
+        "letter": "Ü",
+        "answer": "üvey"
+    },
+    {
+        "id": 480,
+        "question": "Yapılması gerekli olan",
+        "letter": "V",
+        "answer": "vacip"
+    },
+    {
+        "id": 773,
+        "question": "Japon mafyası",
+        "letter": "Y",
+        "answer": "Yakuza"
+    },
+    {
+        "id": 860,
+        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "letter": "Z",
+        "answer": "Zorba"
+    }
+]

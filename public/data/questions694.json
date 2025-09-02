@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1661,
+        "question": "Davranışları ölçülü, olgun (kimse), vakur, ciddi",
+        "letter": "A",
+        "answer": "Ağırbaşlı"
+    },
+    {
+        "id": 131,
+        "question": "Başıboş, serseri kimse",
+        "letter": "B",
+        "answer": "berduş"
+    },
+    {
+        "id": 787,
+        "question": "“Öfke, kızgınlık” anlamındaki bir erkek ismi",
+        "letter": "C",
+        "answer": "Celal"
+    },
+    {
+        "id": 792,
+        "question": "Bodur şelale",
+        "letter": "Ç",
+        "answer": "Çağlayan"
+    },
+    {
+        "id": 1401,
+        "question": "Yetkili bir kimsenin bir konuda yayın organlarına yaptığı açıklama, beyanat",
+        "letter": "D",
+        "answer": "Demeç, demeç verme, demeç vermek, demeç vermesi"
+    },
+    {
+        "id": 1405,
+        "question": "Yalnızca ahlak üzerine kurulu yönetim biçimi",
+        "letter": "E",
+        "answer": "Etokrasi"
+    },
+    {
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
+        "letter": "F",
+        "answer": "fünye"
+    },
+    {
+        "id": 1493,
+        "question": "Bazı saatlerde belirli zamanları bildiren zil düzeneği",
+        "letter": "G",
+        "answer": "Gonk, gong"
+    },
+    {
+        "id": 586,
+        "question": "Tek seferde söylenen ses birliği",
+        "letter": "H",
+        "answer": "Hece, Heceleme, Hecelemek"
+    },
+    {
+        "id": 1283,
+        "question": "Bir şeyi yapıp yapmamaya karar verme gücü, istenç",
+        "letter": "İ",
+        "answer": "İrade, iradiyet"
+    },
+    {
+        "id": 1793,
+        "question": "İlgi uyandıran kişisel bir mevcudiyet veya çekicilik kalitesi",
+        "letter": "K",
+        "answer": "Karizma"
+    },
+    {
+        "id": 1529,
+        "question": "Kişiye alay yollu takılan takma ad",
+        "letter": "L",
+        "answer": "Lakap, lakab"
+    },
+    {
+        "id": 1763,
+        "question": "ÜRETİMDE BİR MAL ELDE EDİLİNCEYE KADAR HARCANAN DEĞERLERİN TOPLAMI",
+        "letter": "M",
+        "answer": "Maliyet"
+    },
+    {
+        "id": 989,
+        "question": "Bir şeyi hatırlamak için yazılan kısa yazı",
+        "letter": "N",
+        "answer": "Not, not etme, not etmek"
+    },
+    {
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
+        "letter": "O",
+        "answer": "Ofris"
+    },
+    {
+        "id": 1479,
+        "question": "İstek",
+        "letter": "Ö",
+        "answer": "Özenç"
+    },
+    {
+        "id": 669,
+        "question": "İş merkezi",
+        "letter": "P",
+        "answer": "Plaza"
+    },
+    {
+        "id": 1234,
+        "question": "Marie Curie tarafından bulunan radyoaktif element",
+        "letter": "R",
+        "answer": "Radyum"
+    },
+    {
+        "id": 1281,
+        "question": "Gösteriş için bir şeyi daha iyi veya daha güzel yapmak için eklenen şey",
+        "letter": "S",
+        "answer": "Süs, süs ekleme, süsleme"
+    },
+    {
+        "id": 1682,
+        "question": "Çorba ve pilavda kullanılan, türlü biçimlerde kesilerek kurutulmuş buğday unu hamuru",
+        "letter": "Ş",
+        "answer": "Şehriye"
+    },
+    {
+        "id": 1735,
+        "question": "Bir dildeki ifadeleri baska bir dile aktaran kimse",
+        "letter": "T",
+        "answer": "Tercüman"
+    },
+    {
+        "id": 444,
+        "question": "Çok acayip, şaşılacak kadar çirkin olan",
+        "letter": "U",
+        "answer": "ucube"
+    },
+    {
+        "id": 1474,
+        "question": "Altyapı üzerine kurulan, oturmaya veya üretime yarayan yapıların tümü",
+        "letter": "Ü",
+        "answer": "Üstyapı"
+    },
+    {
+        "id": 477,
+        "question": "Döndürülerek bir yere sokulan burmalı çivi",
+        "letter": "V",
+        "answer": "vida"
+    },
+    {
+        "id": 840,
+        "question": "Akarsuyun aktığı yer, mecra",
+        "letter": "Y",
+        "answer": "Yatak, yatağı"
+    },
+    {
+        "id": 736,
+        "question": "\"Kara Kekik\" olarak bilinen yabani ot çeşidi, baharat",
+        "letter": "Z",
+        "answer": "Zahter, zahter otu"
+    }
+]

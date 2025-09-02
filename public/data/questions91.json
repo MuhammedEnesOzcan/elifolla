@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1669,
+        "question": "Burgu ile delinerek açılan ve suyu yükseğe fışkırtan kuyu",
+        "letter": "A",
+        "answer": "Artezyen"
+    },
+    {
+        "id": 745,
+        "question": "Kısa süreli beklenmedik saldırı",
+        "letter": "B",
+        "answer": "Baskın, Baskın yeme, Baskın yemek, Basılma, Basılmak"
+    },
+    {
+        "id": 788,
+        "question": "Az, azıcık, pek az",
+        "letter": "C",
+        "answer": "Cüzi, cüzzi, cüzi miktar"
+    },
+    {
+        "id": 792,
+        "question": "Bodur şelale",
+        "letter": "Ç",
+        "answer": "Çağlayan"
+    },
+    {
+        "id": 1393,
+        "question": "Taşıma araçlarındaki kasa",
+        "letter": "D",
+        "answer": "Dorse"
+    },
+    {
+        "id": 1415,
+        "question": "Bir malın niteliğini belirtmek, özelliklerini göstermek amacıyla, o malın parasız verilen veya gönderilen parçası",
+        "letter": "E",
+        "answer": "Eşantiyon"
+    },
+    {
+        "id": 967,
+        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "letter": "F",
+        "answer": "Fabl"
+    },
+    {
+        "id": 583,
+        "question": "At yarışlarında birinciliği kazanan at",
+        "letter": "G",
+        "answer": "Ganyan"
+    },
+    {
+        "id": 244,
+        "question": "Hoşa giden duygulanma, hoşlanma, zevk",
+        "letter": "H",
+        "answer": "haz"
+    },
+    {
+        "id": 1198,
+        "question": "Sığınma, sığınma hakkı",
+        "letter": "İ",
+        "answer": "İltica, iltica hakkı"
+    },
+    {
+        "id": 1777,
+        "question": "Genellikle spor aktivitesinde kullanılan, tek kişilik, uzun, dar, kürekle çekilerek giden, hafif tekne",
+        "letter": "K",
+        "answer": "Kano"
+    },
+    {
+        "id": 620,
+        "question": "Fazlalık, gereksiz, yersiz",
+        "letter": "L",
+        "answer": "Lüzumsuz, Luzumsuz"
+    },
+    {
+        "id": 1628,
+        "question": "Genellikle karın kaslarının güçlendirilmesi için yapılan beden hareketi",
+        "letter": "M",
+        "answer": "Mekik, mekik çekme, mekik çekmek"
+    },
+    {
+        "id": 636,
+        "question": "Boks maçında yumruk etkisiyle yere düşme ve devam edememek",
+        "letter": "N",
+        "answer": "Nakavt, nakavt olma, nakavt olmak"
+    },
+    {
+        "id": 1003,
+        "question": "On açısı, on kenarı olan çokgen",
+        "letter": "O",
+        "answer": "Ongen"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 671,
+        "question": "Aynı düzlem içinde bulunan ve birbiriyle kesişmeyen",
+        "letter": "P",
+        "answer": "Paralel"
+    },
+    {
+        "id": 1026,
+        "question": "Şeker kamışından şeker yapılırken elde edilen öz suyun, melasla mayalandırılarak kurutulmasıyla elde edilen alkollü sert içki",
+        "letter": "R",
+        "answer": "Rom"
+    },
+    {
+        "id": 1887,
+        "question": "ROMAN JARGONUNDA “PARA” ANLAMINDA KULLANILAN SÖZCÜK",
+        "letter": "S",
+        "answer": "Sipali"
+    },
+    {
+        "id": 1680,
+        "question": "İnce yufkaların içine kaymak konulup üstüne dövülmüş fıstık serpilerek yapılan bir tür baklava",
+        "letter": "Ş",
+        "answer": "Şöbiyet"
+    },
+    {
+        "id": 707,
+        "question": "Alçak gönüllülük",
+        "letter": "T",
+        "answer": "Tevazu"
+    },
+    {
+        "id": 447,
+        "question": "Uysal bir biçimde",
+        "letter": "U",
+        "answer": "uslu"
+    },
+    {
+        "id": 769,
+        "question": "Korkunun yarattığı serinlik",
+        "letter": "Ü",
+        "answer": "Ürperti, Ürpermek"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 906,
+        "question": "Kısa kollu ceket, mont",
+        "letter": "Y",
+        "answer": "Yelek"
+    },
+    {
+        "id": 1843,
+        "question": "RENKSİZ YA DA SARI, YEŞİL VE KAHVERENGİ RENKLERDE OLABİLEN DOĞAL, SAYDAM DEĞERLİ BİR TAŞ",
+        "letter": "Z",
+        "answer": "Zirkon"
+    }
+]

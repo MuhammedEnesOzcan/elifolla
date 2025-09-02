@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1296,
+        "question": "Elektrik enerjisini kimyasal enerji olarak depolayıp ihtiyaç durumunda bu enerjiyi tekrar elektrik enerjisine çeviren cihaz",
+        "letter": "A",
+        "answer": "Akü"
+    },
+    {
+        "id": 134,
+        "question": "Banyodan çıkarken kurulanmak için kullanılan, önden açık, havludan yapılmış giysi",
+        "letter": "B",
+        "answer": "bornoz"
+    },
+    {
+        "id": 914,
+        "question": "At Alıp Satan Kimse",
+        "letter": "C",
+        "answer": "Cambaz, canbaz"
+    },
+    {
+        "id": 170,
+        "question": "Hayatı boyunca birçok sıkıntı ve üzüntü çekmiş (kimse)",
+        "letter": "Ç",
+        "answer": "çilekeş"
+    },
+    {
+        "id": 551,
+        "question": "Çapraz Bağların bulunduğu uzuv",
+        "letter": "D",
+        "answer": "Diz"
+    },
+    {
+        "id": 565,
+        "question": "Saf dışı bırakmak",
+        "letter": "E",
+        "answer": "Ekarte, Ekarte etme, Ekarte etmek"
+    },
+    {
+        "id": 751,
+        "question": "Gerçekte var olmayan, hayali anlamındaki söz",
+        "letter": "F",
+        "answer": "Fantastik"
+    },
+    {
+        "id": 584,
+        "question": "Seçkin, seçilmiş, seçme",
+        "letter": "G",
+        "answer": "Güzide, Gûzide"
+    },
+    {
+        "id": 1853,
+        "question": "METAL, PLASTİK VEYA AHŞAPTAN YAPILMIŞ ÇEŞİTLİ KULLANIM ALANLARI OLAN ÇEMBER",
+        "letter": "H",
+        "answer": "Halka"
+    },
+    {
+        "id": 270,
+        "question": "Çözülmesi kolay düğüm, eğreti düğüm",
+        "letter": "İ",
+        "answer": "ilmek"
+    },
+    {
+        "id": 276,
+        "question": "Yeterli, yetecek ölçüde olan",
+        "letter": "K",
+        "answer": "kafi, kâfi"
+    },
+    {
+        "id": 981,
+        "question": "Amerikan devesi de denilen geviş getirenlerden bir hayvan",
+        "letter": "L",
+        "answer": "Lama"
+    },
+    {
+        "id": 313,
+        "question": "Ara verme, duraklama",
+        "letter": "M",
+        "answer": "mola"
+    },
+    {
+        "id": 339,
+        "question": "Tavsiye, öğüt",
+        "letter": "N",
+        "answer": "nasihat"
+    },
+    {
+        "id": 652,
+        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
+        "letter": "O",
+        "answer": "Odeon"
+    },
+    {
+        "id": 31,
+        "question": "Yaşam, hayat",
+        "letter": "Ö",
+        "answer": "Ömür"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 396,
+        "question": "Yönetme, düzenleme biçimi, düzen",
+        "letter": "R",
+        "answer": "rejim"
+    },
+    {
+        "id": 1235,
+        "question": "Karaciğer tarafından üretilen sindirim sıvısı",
+        "letter": "S",
+        "answer": "Safra, safra sıvısı"
+    },
+    {
+        "id": 1467,
+        "question": "Genellikle binaların girişine gelen elektrik akımını açıp kapamaya yarayan araç",
+        "letter": "Ş",
+        "answer": "Şalter"
+    },
+    {
+        "id": 1809,
+        "question": "TOPRAK ALTINDA YETİŞEN, TADI, KOKUSU VE YÜKSEK FİYATIYLA DA ÜNLÜ BİR MANTAR TÜRÜ",
+        "letter": "T",
+        "answer": "Trüf, Trüf mantarı"
+    },
+    {
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "letter": "U",
+        "answer": "Uydu, uydusu"
+    },
+    {
+        "id": 1468,
+        "question": "Güvercinlerden, korularda yaşayan, eti için avlanan, boz renkli bir kuş (Streptopelia turtur)",
+        "letter": "Ü",
+        "answer": "Üveyik"
+    },
+    {
+        "id": 865,
+        "question": "Kelimeler yerine, sadece sesli harfler kullanarak, insan sesiyle müzik icra etmek",
+        "letter": "V",
+        "answer": "Vokaliz, vokalız"
+    },
+    {
+        "id": 1501,
+        "question": "Parmağa geçirilen genellikle metal halka",
+        "letter": "Y",
+        "answer": "Yüzük"
+    },
+    {
+        "id": 1593,
+        "question": "Ard arda birden fazla aracın kazaya karışması durumu",
+        "letter": "Z",
+        "answer": "Zincirleme, zincirleme kaza"
+    }
+]

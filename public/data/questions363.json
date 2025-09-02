@@ -1,0 +1,158 @@
+[
+    {
+        "id": 114,
+        "question": "Benzin, gaz yağı, mazot vb. sıvı yakıt",
+        "letter": "A",
+        "answer": "akaryakıt"
+    },
+    {
+        "id": 132,
+        "question": "Yeni doğmuş, ana sütüyle beslenen sığır yavrusu",
+        "letter": "B",
+        "answer": "buzağı"
+    },
+    {
+        "id": 1362,
+        "question": "Aynı eğilimde olan, aynı görüşü paylaşan kimselerin oluşturduğu hareket",
+        "letter": "C",
+        "answer": "Cereyan, cereyan etme, cereyan etmek"
+    },
+    {
+        "id": 183,
+        "question": "Oy vermekten, eğilim göstermekten veya bir şey yapmaktan kaçınan, kararsız kimse",
+        "letter": "Ç",
+        "answer": "çekimser"
+    },
+    {
+        "id": 553,
+        "question": "Sınır dışı etme, uzaklaştırma",
+        "letter": "D",
+        "answer": "Deport, deport etme, deport etmek"
+    },
+    {
+        "id": 750,
+        "question": "Kazalara alınmış tedbirler",
+        "letter": "E",
+        "answer": "Emniyet"
+    },
+    {
+        "id": 572,
+        "question": "Bir kimseyi veya bir yeri koruyan kimse",
+        "letter": "F",
+        "answer": "Fedai"
+    },
+    {
+        "id": 1899,
+        "question": "İLAÇ DESTEĞİ İLE DE YAPILAN AĞIZ VE BOĞAZ BANYOSU",
+        "letter": "G",
+        "answer": "Gargara"
+    },
+    {
+        "id": 1446,
+        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "letter": "H",
+        "answer": "Hasbelkader"
+    },
+    {
+        "id": 53,
+        "question": "Yemek yeme isteği",
+        "letter": "İ",
+        "answer": "İştah"
+    },
+    {
+        "id": 1207,
+        "question": "Tenis oynamak için düzenlemiş dikdörtgen biçiminde alan ",
+        "letter": "K",
+        "answer": "Kort"
+    },
+    {
+        "id": 624,
+        "question": "Çok sulu ve fazla pişmiş pilav/pirinç",
+        "letter": "L",
+        "answer": "Lapa, Lapa pilav, Lapa pirinç"
+    },
+    {
+        "id": 1933,
+        "question": "SOMUT YASALARIN ÖTESİNDE OLAN BİR FELSEFE DALI",
+        "letter": "M",
+        "answer": "Metafizik"
+    },
+    {
+        "id": 913,
+        "question": "Kıskandırmak ya da inat olsun diye yapılan iş",
+        "letter": "N",
+        "answer": "Nispet, nıspet"
+    },
+    {
+        "id": 345,
+        "question": "Yenecek duruma gelmiş (meyve)",
+        "letter": "O",
+        "answer": "olgun, olgunlaşmış, olgun meyve"
+    },
+    {
+        "id": 354,
+        "question": "Dokularda, hücreler arası boşluklarda aşırı miktarda sıvı birikmesi",
+        "letter": "Ö",
+        "answer": "ödem"
+    },
+    {
+        "id": 373,
+        "question": "Kimyasal enerjiyi elektrik enerjisine çeviren araç",
+        "letter": "P",
+        "answer": "pil"
+    },
+    {
+        "id": 1273,
+        "question": "Yedi renkli yüzeyi olan zeka geliştirici küp oyuncak",
+        "letter": "R",
+        "answer": "Rubik, rubik küp, rubik küpü, rubik kübü"
+    },
+    {
+        "id": 416,
+        "question": "Çok bulunmayan, az rastlanan, nadir",
+        "letter": "S",
+        "answer": "seyrek"
+    },
+    {
+        "id": 1678,
+        "question": "Almanya ve Avusturya'da hükûmet başkanı ünvanı",
+        "letter": "Ş",
+        "answer": "Şansölye"
+    },
+    {
+        "id": 767,
+        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "letter": "T",
+        "answer": "Takılmak"
+    },
+    {
+        "id": 1073,
+        "question": "Akla uygun, yalnız akla dayanan, akli, rasyonel",
+        "letter": "U",
+        "answer": "Ussal"
+    },
+    {
+        "id": 468,
+        "question": "Gerçekleştirilmesi imkânsız tasarı veya düşünce",
+        "letter": "Ü",
+        "answer": "ütopya, ütopik"
+    },
+    {
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "letter": "V",
+        "answer": "Vizyoner, Vizyonlu"
+    },
+    {
+        "id": 1579,
+        "question": "Bir işte hiyerarşik düzende daha üstte bulunan, karar verme hakkına sahip olan, daha tecrübeli kimse",
+        "letter": "Y",
+        "answer": "Yetkili, yetki sahibi"
+    },
+    {
+        "id": 942,
+        "question": "Zirkonyum'un simgesi",
+        "letter": "Z",
+        "answer": "zr"
+    }
+]

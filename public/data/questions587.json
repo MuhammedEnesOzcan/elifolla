@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1666,
+        "question": "Soylu, asil bir soydan gelen (kimse)",
+        "letter": "A",
+        "answer": "Asilzade"
+    },
+    {
+        "id": 1908,
+        "question": "KIVRILMIŞ ŞEYLERİN OLUŞTURDUĞU KAT, KIVRIM",
+        "letter": "B",
+        "answer": "Büklüm"
+    },
+    {
+        "id": 1653,
+        "question": "Yeryüzünü fiziksel, ekonomik, beşerî, siyasal yönlerden inceleyen bilim",
+        "letter": "C",
+        "answer": "Coğrafya"
+    },
+    {
+        "id": 1218,
+        "question": "Doğal hayatta sığınak olarak kullanılan kamp malzemesi, barınak",
+        "letter": "Ç",
+        "answer": "Çadır, çat"
+    },
+    {
+        "id": 553,
+        "question": "Sınır dışı etme, uzaklaştırma",
+        "letter": "D",
+        "answer": "Deport, deport etme, deport etmek"
+    },
+    {
+        "id": 213,
+        "question": "Bir şeyin özünü oluşturan ana öge, temel, gerçek",
+        "letter": "E",
+        "answer": "esas"
+    },
+    {
+        "id": 1968,
+        "question": "KURAL İHLALİ SONRASI, KALEYE DOĞRUDAN ŞUT ÇEKİLEN SERBEST VURUŞ",
+        "letter": "F",
+        "answer": "FRİKİK"
+    },
+    {
+        "id": 1284,
+        "question": "Cildin nefes almasını ve nemli kalmasını sağlayan küçük kanallar",
+        "letter": "G",
+        "answer": "Gözenek, gözenekler"
+    },
+    {
+        "id": 1216,
+        "question": "Arma bilimi ve mühür biliminin diğer adı",
+        "letter": "H",
+        "answer": "Heraldik"
+    },
+    {
+        "id": 1810,
+        "question": "BİR KURUM VEYA KURULUŞUN YÖNETİLDİĞİ YER VEYA MAKAM",
+        "letter": "İ",
+        "answer": "İdare, İdari işler, İdari daire"
+    },
+    {
+        "id": 1943,
+        "question": "Bir şeyin üstünü kaplayan ve onu dış etkilere karşı koruyan, kendiliğinden oluşmuş sertçe bölüm",
+        "letter": "K",
+        "answer": "Kabuk"
+    },
+    {
+        "id": 615,
+        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
+        "letter": "L",
+        "answer": "Lümpen"
+    },
+    {
+        "id": 316,
+        "question": "Büyük, geniş, mikro karşıtı",
+        "letter": "M",
+        "answer": "makro"
+    },
+    {
+        "id": 329,
+        "question": "Bir yerden alıp başka bir yere iletme, aktarma, taşıma",
+        "letter": "N",
+        "answer": "nakil, nakil işlemi"
+    },
+    {
+        "id": 652,
+        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
+        "letter": "O",
+        "answer": "Odeon"
+    },
+    {
+        "id": 664,
+        "question": "Bir işi ileri tarihe atma, ertelemek",
+        "letter": "Ö",
+        "answer": "Öteleme, ötelemek"
+    },
+    {
+        "id": 1120,
+        "question": "İnce ve yarı saydam bir tür kâğıt",
+        "letter": "P",
+        "answer": "Pelür"
+    },
+    {
+        "id": 1278,
+        "question": "Uyku sırasında görülen olaylar",
+        "letter": "R",
+        "answer": "Rüya"
+    },
+    {
+        "id": 1045,
+        "question": "Toprağın kaymasını veya suyun akmasını önlemek için yapılan kalın duvar",
+        "letter": "S",
+        "answer": "set"
+    },
+    {
+        "id": 1686,
+        "question": "Büyük kiliselerin içinde bir azizin adına ayrılmış küçük ibadet yeri",
+        "letter": "Ş",
+        "answer": "Şapel"
+    },
+    {
+        "id": 52,
+        "question": "At ve eşek gibi tek tırnaklı hayvanların tırnağına verilen ad",
+        "letter": "T",
+        "answer": "Toynak"
+    },
+    {
+        "id": 893,
+        "question": "Kaşındırıcı bir deri hastalığı",
+        "letter": "U",
+        "answer": "Uyuz"
+    },
+    {
+        "id": 459,
+        "question": "Çok uçta, kenarda veya kıyıda köşede olan",
+        "letter": "Ü",
+        "answer": "ücra"
+    },
+    {
+        "id": 483,
+        "question": "Sürekli bir yönde gidip gelme, yürüme, dolaşma",
+        "letter": "V",
+        "answer": "volta, volta atma, volta atmak"
+    },
+    {
+        "id": 1796,
+        "question": "AŞÇILIK, TERZİLİK GİBİ EL BECERİSİ İSTEYEN İŞLERDE, “YARDIMCI” ANLAMINDA KULLANILAN SÖZCÜK",
+        "letter": "Y",
+        "answer": "Yamak"
+    },
+    {
+        "id": 844,
+        "question": "Argo tabir ile \"Aklına eseni yapan\"",
+        "letter": "Z",
+        "answer": "zirzop, zırzop, zırdeli, zibidi"
+    }
+]

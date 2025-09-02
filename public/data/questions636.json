@@ -1,0 +1,158 @@
+[
+    {
+        "id": 122,
+        "question": "Acındıracak, acı verecek nitelikte olan, dokunaklı, üzücü",
+        "letter": "A",
+        "answer": "acıklı, acınası"
+    },
+    {
+        "id": 529,
+        "question": "Açık seçik olmayan, net görünmeyen, iyi seçilemeyen",
+        "letter": "B",
+        "answer": "Bulanık"
+    },
+    {
+        "id": 1308,
+        "question": "Küçük ve tatlı bir tür karpuz",
+        "letter": "C",
+        "answer": "Cimcime"
+    },
+    {
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
+        "letter": "Ç",
+        "answer": "çakar"
+    },
+    {
+        "id": 190,
+        "question": "Bir yere süsleme amacıyla verilen düzen",
+        "letter": "D",
+        "answer": "dekor, dekorasyon"
+    },
+    {
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
+        "letter": "E",
+        "answer": "emare"
+    },
+    {
+        "id": 55,
+        "question": "Yeşil bitkilerin ışık enerjisiyle besin üretmesi",
+        "letter": "F",
+        "answer": "fotosentez"
+    },
+    {
+        "id": 1212,
+        "question": "Maddenin uçucu hali",
+        "letter": "G",
+        "answer": "Gaz, gaz hali"
+    },
+    {
+        "id": 1437,
+        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "letter": "H",
+        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+    },
+    {
+        "id": 1605,
+        "question": "Birinin iyi niyetini kötüye kullanma",
+        "letter": "İ",
+        "answer": "İstismar, istismar etme, istismar etmek"
+    },
+    {
+        "id": 70,
+        "question": "Ünlü masala göre tavşanı yarışta geçen hayvan",
+        "letter": "K",
+        "answer": "kaplumbağa"
+    },
+    {
+        "id": 616,
+        "question": "Şişkinlik yaptığıyla bilinen süt şekeri",
+        "letter": "L",
+        "answer": "Laktoz"
+    },
+    {
+        "id": 1108,
+        "question": "Miskete fiske vurarak oynanan zıpzıp oyunu",
+        "letter": "M",
+        "answer": "madık, Madik"
+    },
+    {
+        "id": 949,
+        "question": "Nikel'in simgesi",
+        "letter": "N",
+        "answer": "ni"
+    },
+    {
+        "id": 647,
+        "question": "Matematikte sıfır noktası",
+        "letter": "O",
+        "answer": "Orijin, Orjin, Orjin noktası, Orijin noktası"
+    },
+    {
+        "id": 1534,
+        "question": "Bir alışveriş ilişkisinde, borcu alacaklıya vermek, tediye etmek",
+        "letter": "Ö",
+        "answer": "Ödemek, Ödeme, ödeme yapma, ödeme yapmak"
+    },
+    {
+        "id": 665,
+        "question": "Hurdaya çıkmış taşıt",
+        "letter": "P",
+        "answer": "Pert"
+    },
+    {
+        "id": 683,
+        "question": "Yanlış, yozlaşmış, vb. şeylerin iyileştirilmesi veya köklü değiştirilmesi",
+        "letter": "R",
+        "answer": "Reform, Reform yapma, Reform yapmak"
+    },
+    {
+        "id": 1045,
+        "question": "Toprağın kaymasını veya suyun akmasını önlemek için yapılan kalın duvar",
+        "letter": "S",
+        "answer": "set"
+    },
+    {
+        "id": 1056,
+        "question": "Karaları çevreleyen ve karalardan sayılan, 200 m derinliğe kadar olan sığ deniz dipleri",
+        "letter": "Ş",
+        "answer": "Şelf"
+    },
+    {
+        "id": 1907,
+        "question": "YER ÇEKİMİ ETKİSİNDEN YARARLANAN ÖLÇÜM ALETİ",
+        "letter": "T",
+        "answer": "Terazi"
+    },
+    {
+        "id": 893,
+        "question": "Kaşındırıcı bir deri hastalığı",
+        "letter": "U",
+        "answer": "Uyuz"
+    },
+    {
+        "id": 878,
+        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
+        "letter": "Ü",
+        "answer": "Ülkü"
+    },
+    {
+        "id": 886,
+        "question": "Çiçek Koymak İçin Kullanılan Kap",
+        "letter": "V",
+        "answer": "Vazo"
+    },
+    {
+        "id": 40,
+        "question": "Günlük kazanç",
+        "letter": "Y",
+        "answer": "yevmiye"
+    },
+    {
+        "id": 850,
+        "question": "Dermansızlık, Zayıf nokta",
+        "letter": "Z",
+        "answer": "Zafiyet, zafıyet"
+    }
+]

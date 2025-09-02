@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1654,
+        "question": "Bir şeyin umulduğundan az olduğu yargısına varmak, az görmek, az bulmak",
+        "letter": "A",
+        "answer": "Azımsamak, azımsama"
+    },
+    {
+        "id": 524,
+        "question": "Sargı ile yarayı sarma işlemi",
+        "letter": "B",
+        "answer": "Bandaj, bandajlama, bandajlamak"
+    },
+    {
+        "id": 164,
+        "question": "Gürültülü, karışık durum",
+        "letter": "C",
+        "answer": "curcuna"
+    },
+    {
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
+        "letter": "Ç",
+        "answer": "Çaça"
+    },
+    {
+        "id": 1395,
+        "question": "Basım için harfleri, kelimeleri, satırları, sayfalar oluşturacak biçimde düzenleme",
+        "letter": "D",
+        "answer": "Dizgi"
+    },
+    {
+        "id": 210,
+        "question": "Zaman içinde birdenbire olmayan, kesintisiz, niteliksel ve niceliksel gelişme süreci",
+        "letter": "E",
+        "answer": "evrim"
+    },
+    {
+        "id": 221,
+        "question": "Ölçüyü aşan, aşırı, çok fazla",
+        "letter": "F",
+        "answer": "fahiş"
+    },
+    {
+        "id": 577,
+        "question": "Çenede veya yanakta olan küçük çukur",
+        "letter": "G",
+        "answer": "Gamze"
+    },
+    {
+        "id": 1100,
+        "question": "Din buyruklarını yerine getirmek için hacca gitmiş Müslüman",
+        "letter": "H",
+        "answer": "hacı"
+    },
+    {
+        "id": 256,
+        "question": "Alınmış bir şeyi geri verme",
+        "letter": "İ",
+        "answer": "iade"
+    },
+    {
+        "id": 1793,
+        "question": "İlgi uyandıran kişisel bir mevcudiyet veya çekicilik kalitesi",
+        "letter": "K",
+        "answer": "Karizma"
+    },
+    {
+        "id": 1611,
+        "question": "Bir ürün, firma ya da hizmet isminini, harf ve resimsel olarak belirten görsel öge",
+        "letter": "L",
+        "answer": "Logo"
+    },
+    {
+        "id": 1775,
+        "question": "ÇOK KÜÇÜK NESNELERİ VEYA ÇIPLAK GÖZLE GÖRÜLMEYENLERİ DAHA BELİRGİN DURUMA GETİRMEYE YARAYAN OPTİK ALET",
+        "letter": "M",
+        "answer": "Mikroskop"
+    },
+    {
+        "id": 639,
+        "question": "Tarlayı sürüp herhangi bir şey ekmeden dinlenmeye bırakma",
+        "letter": "N",
+        "answer": "Nadas, nadasa bırakma, nadasa bırakmak"
+    },
+    {
+        "id": 1114,
+        "question": "Yön bildirimi olarak \"Sözü edilen yerde, bulunduğu yerde\"",
+        "letter": "O",
+        "answer": "Orada, orda"
+    },
+    {
+        "id": 922,
+        "question": "Korkak, Tabansız, Yüreksiz",
+        "letter": "Ö",
+        "answer": "ödlek"
+    },
+    {
+        "id": 1118,
+        "question": "Büyük harita, plan veya modeli oluşturan ayrı parçalardan her biri",
+        "letter": "P",
+        "answer": "pafta"
+    },
+    {
+        "id": 1639,
+        "question": "Yabani at veya boğa üzerinde uzun zaman kalabilme oyunu",
+        "letter": "R",
+        "answer": "Rodeo"
+    },
+    {
+        "id": 411,
+        "question": "Yoğun bir biçimde yapılan atak",
+        "letter": "S",
+        "answer": "salvo"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 1698,
+        "question": "Eski dilde tıp doktoru, hekim",
+        "letter": "T",
+        "answer": "Tabip"
+    },
+    {
+        "id": 1558,
+        "question": "Tek bayrak altında toplanarak aynı sınırlar içinde yaşayan topluluk, millet",
+        "letter": "U",
+        "answer": "Ulus"
+    },
+    {
+        "id": 463,
+        "question": "Bir şeyin karşılığı olan para veya mal",
+        "letter": "Ü",
+        "answer": "ücret"
+    },
+    {
+        "id": 481,
+        "question": "Yabani, yırtıcı",
+        "letter": "V",
+        "answer": "vahşi"
+    },
+    {
+        "id": 1719,
+        "question": "Öğrencilerin topluca kaldıkları geçici ikametgah ",
+        "letter": "Y",
+        "answer": "Yurt"
+    },
+    {
+        "id": 851,
+        "question": "Sarı renkli, kökleri ile birlikte toplanan, kökü bir baharat türü olan bitki",
+        "letter": "Z",
+        "answer": "Zencefil, zencefıl"
+    }
+]

@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1296,
+        "question": "Elektrik enerjisini kimyasal enerji olarak depolayıp ihtiyaç durumunda bu enerjiyi tekrar elektrik enerjisine çeviren cihaz",
+        "letter": "A",
+        "answer": "Akü"
+    },
+    {
+        "id": 1346,
+        "question": "Orta ve Güney Anadolu'nun birçok bölgesinde bir türkü ezgisi",
+        "letter": "B",
+        "answer": "Bozlak, bozlak türküsü"
+    },
+    {
+        "id": 80,
+        "question": "Cem Karaca'nın şarkısında bahsettiği Gülhane parkındaki ağaç",
+        "letter": "C",
+        "answer": "Ceviz, Ceviz Ağacı"
+    },
+    {
+        "id": 547,
+        "question": "Atomda proton ve nötronun bulunduğu merkezi kısım",
+        "letter": "Ç",
+        "answer": "Çekirdek"
+    },
+    {
+        "id": 191,
+        "question": "Herhangi bir olayın birden fazla tekrarlanması",
+        "letter": "D",
+        "answer": "döngü, devir"
+    },
+    {
+        "id": 212,
+        "question": "Bütünleşmiş, dahili",
+        "letter": "E",
+        "answer": "entegre"
+    },
+    {
+        "id": 1093,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
+        "letter": "F",
+        "answer": "Facia"
+    },
+    {
+        "id": 1212,
+        "question": "Maddenin uçucu hali",
+        "letter": "G",
+        "answer": "Gaz, gaz hali"
+    },
+    {
+        "id": 58,
+        "question": "Sebze, meyve, bakliyat gibi ürünlerin toptan satıldığı yer",
+        "letter": "H",
+        "answer": "Hal, Hâl"
+    },
+    {
+        "id": 261,
+        "question": "Bildirme, bildirim, haber verme",
+        "letter": "İ",
+        "answer": "ihbar, ihbar etme, ihbar etmek"
+    },
+    {
+        "id": 287,
+        "question": "Posta, kargo, mektup vb. gönderileri alıcıya ulaştıran kimse",
+        "letter": "K",
+        "answer": "kurye"
+    },
+    {
+        "id": 1787,
+        "question": "Greve çıkan işçileri işverenin topluca işten uzaklaştırması",
+        "letter": "L",
+        "answer": "Lokavt"
+    },
+    {
+        "id": 1748,
+        "question": "Başkalarının hatalarını hoşgörüyle karşılama erdemi",
+        "letter": "M",
+        "answer": "Müsamaha, müsamaha gösterme, müsamaha göstermek"
+    },
+    {
+        "id": 819,
+        "question": "Deneyimsiz, doğal, saf, sade kimse ya da kişilik",
+        "letter": "N",
+        "answer": "Naif, naif kişilik"
+    },
+    {
+        "id": 652,
+        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
+        "letter": "O",
+        "answer": "Odeon"
+    },
+    {
+        "id": 368,
+        "question": "Herhangi bir kısıtlamaya, zorlamaya, şarta bağlı olmayan, hür",
+        "letter": "Ö",
+        "answer": "özgür"
+    },
+    {
+        "id": 1013,
+        "question": "Yaşlı, koca, ihtiyar kimse",
+        "letter": "P",
+        "answer": "Pir"
+    },
+    {
+        "id": 1028,
+        "question": "Rüşvet veren kimse",
+        "letter": "R",
+        "answer": "Raşi"
+    },
+    {
+        "id": 688,
+        "question": "Ölçüm aletlerinde gösterge çizelgesi",
+        "letter": "S",
+        "answer": "Skala"
+    },
+    {
+        "id": 701,
+        "question": "Bir kara yolunda trafik çizgileri ile ayrılmış bölümlerden her biri",
+        "letter": "Ş",
+        "answer": "Şerit"
+    },
+    {
+        "id": 1749,
+        "question": "Demokratik hak ve özgürlüklerin baskı altında tutulduğu devlet düzeni",
+        "letter": "T",
+        "answer": "Totaliter, Totaliter Rejim, Totalitarizm, Totalirite"
+    },
+    {
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "letter": "U",
+        "answer": "Uydu, uydusu"
+    },
+    {
+        "id": 468,
+        "question": "Gerçekleştirilmesi imkânsız tasarı veya düşünce",
+        "letter": "Ü",
+        "answer": "ütopya, ütopik"
+    },
+    {
+        "id": 485,
+        "question": "İnsanların kanını emdiğine inanılan yaratık",
+        "letter": "V",
+        "answer": "vampir"
+    },
+    {
+        "id": 1936,
+        "question": "Doğum tarihi ve saati dikkate alınarak yapılan hesaplama ile ortaya çıkan burç",
+        "letter": "Y",
+        "answer": "Yükselen, Yükselen burç"
+    },
+    {
+        "id": 1303,
+        "question": "Çapkın, kadın düşünü anlamlarındaki bir söz",
+        "letter": "Z",
+        "answer": "Zampara"
+    }
+]

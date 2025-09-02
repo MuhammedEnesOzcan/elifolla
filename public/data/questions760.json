@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1162,
+        "question": "Birden fazla sıralı halde iki tarafı ağaçlı yol",
+        "letter": "A",
+        "answer": "Alle, Alle yol"
+    },
+    {
+        "id": 1788,
+        "question": "ÖNÜNDEKİ GENİŞ BIÇAKLA TOPRAĞI SIYIRIP KALDIRAN, TEKERLEKLİ VEYA PALETLİ BİR YOL MAKİNESİ",
+        "letter": "B",
+        "answer": "Buldozer"
+    },
+    {
+        "id": 747,
+        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
+        "letter": "C",
+        "answer": "Cesaret, Cesaretlilik"
+    },
+    {
+        "id": 1449,
+        "question": "Diz kapaklarına kadar çıkan bir çeşit ayakkabı",
+        "letter": "Ç",
+        "answer": "Çizme"
+    },
+    {
+        "id": 551,
+        "question": "Çapraz Bağların bulunduğu uzuv",
+        "letter": "D",
+        "answer": "Diz"
+    },
+    {
+        "id": 213,
+        "question": "Bir şeyin özünü oluşturan ana öge, temel, gerçek",
+        "letter": "E",
+        "answer": "esas"
+    },
+    {
+        "id": 1094,
+        "question": "Süslü, ayaklı fener",
+        "letter": "F",
+        "answer": "Fanus"
+    },
+    {
+        "id": 242,
+        "question": "Yaşanan günlük olaylar",
+        "letter": "G",
+        "answer": "gündem"
+    },
+    {
+        "id": 1494,
+        "question": "Birinin ardından gelip onun makamına geçen kimse",
+        "letter": "H",
+        "answer": "Halef, halefi"
+    },
+    {
+        "id": 602,
+        "question": "Bir şeyin olabilmesi durumu, olabilirlik, olasılık",
+        "letter": "İ",
+        "answer": "İhtimal"
+    },
+    {
+        "id": 1233,
+        "question": "Bir düzlemdeki konum, coğrafik konum",
+        "letter": "K",
+        "answer": "Koordinat, kordinat"
+    },
+    {
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
+        "letter": "L",
+        "answer": "Lanse, lanse etme, lanse etmek"
+    },
+    {
+        "id": 1614,
+        "question": "Sevindirici haber verileceği zaman söylenen bir söz",
+        "letter": "M",
+        "answer": "Müjde, müjdemi isterim"
+    },
+    {
+        "id": 1758,
+        "question": "Bir olayın doğurduğu başka bir olay veya durum",
+        "letter": "N",
+        "answer": "Netice"
+    },
+    {
+        "id": 353,
+        "question": "Aşırı kilolu (kimse)",
+        "letter": "O",
+        "answer": "obez"
+    },
+    {
+        "id": 363,
+        "question": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye",
+        "letter": "Ö",
+        "answer": "övgü"
+    },
+    {
+        "id": 933,
+        "question": "Temizlik, Saflık",
+        "letter": "P",
+        "answer": "Paki"
+    },
+    {
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "letter": "R",
+        "answer": "rekor"
+    },
+    {
+        "id": 34,
+        "question": "Yüz, çehre",
+        "letter": "S",
+        "answer": "Surat, Sima"
+    },
+    {
+        "id": 1678,
+        "question": "Almanya ve Avusturya'da hükûmet başkanı ünvanı",
+        "letter": "Ş",
+        "answer": "Şansölye"
+    },
+    {
+        "id": 442,
+        "question": "Herhangi bir sebeple acelecilik",
+        "letter": "T",
+        "answer": "telaş, telaşlanma, telaşlanmak"
+    },
+    {
+        "id": 448,
+        "question": "Haberci",
+        "letter": "U",
+        "answer": "ulak"
+    },
+    {
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
+        "letter": "Ü",
+        "answer": "Üstübeç"
+    },
+    {
+        "id": 471,
+        "question": "Bir işi yerine getirmek için verilen söz",
+        "letter": "V",
+        "answer": "vaat"
+    },
+    {
+        "id": 40,
+        "question": "Günlük kazanç",
+        "letter": "Y",
+        "answer": "yevmiye"
+    },
+    {
+        "id": 858,
+        "question": "Üflemeli bir çalgı",
+        "letter": "Z",
+        "answer": "Zurna"
+    }
+]

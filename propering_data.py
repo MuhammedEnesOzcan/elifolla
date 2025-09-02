@@ -1,6 +1,7 @@
 import requests
 import json
 import os
+import time
 
 # API endpoint
 url = "https://api.radkod.com/parolla/api/v1/modes/unlimited"  # kendi endpointini yaz
@@ -9,9 +10,10 @@ url = "https://api.radkod.com/parolla/api/v1/modes/unlimited"  # kendi endpointi
 save_dir = "public/data"
 os.makedirs(save_dir, exist_ok=True)
 
-for i in range(1, 1001):  # 1'den 30'a kadar
+for i in range(101, 1001):  # 1'den 30'a kadar
     # API isteği
     response = requests.get(url)
+    time.sleep(1)	
     data = response.json()
 
     # Sadece "questions" kısmını al

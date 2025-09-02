@@ -1,0 +1,158 @@
+[
+    {
+        "id": 103,
+        "question": "Süreli yayınları, parasını önceden ödeyerek alma işi",
+        "letter": "A",
+        "answer": "abone, abonelik, abone olma, abone olmak"
+    },
+    {
+        "id": 745,
+        "question": "Kısa süreli beklenmedik saldırı",
+        "letter": "B",
+        "answer": "Baskın, Baskın yeme, Baskın yemek, Basılma, Basılmak"
+    },
+    {
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
+        "letter": "C",
+        "answer": "Cihaz"
+    },
+    {
+        "id": 183,
+        "question": "Oy vermekten, eğilim göstermekten veya bir şey yapmaktan kaçınan, kararsız kimse",
+        "letter": "Ç",
+        "answer": "çekimser"
+    },
+    {
+        "id": 1385,
+        "question": "Evlenme veya sünnet dolayısıyla yapılan tören, eğlence",
+        "letter": "D",
+        "answer": "Düğün"
+    },
+    {
+        "id": 558,
+        "question": "Nağme ve melodi sözlerinin Türkçe kökenli karşılığı",
+        "letter": "E",
+        "answer": "Ezgi"
+    },
+    {
+        "id": 1321,
+        "question": "Tütünleme suretiyle kurutulmuş ringa balığı",
+        "letter": "F",
+        "answer": "Frisa, firisa"
+    },
+    {
+        "id": 1691,
+        "question": "\"GÖSTERİŞ, HEYBET\" ANLAMLARINA GELEN SÖZCÜK",
+        "letter": "G",
+        "answer": "Görkem, görkemli"
+    },
+    {
+        "id": 1444,
+        "question": "Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü",
+        "letter": "H",
+        "answer": "Hıfzıssıhha"
+    },
+    {
+        "id": 1692,
+        "question": "“TRAFİĞİ ÇOK OLAN, CANLI, HAREKETLİ, YOĞUN VE KALABALIK” ANLAMLARINDA KULLANILAN BİR SÖZ",
+        "letter": "İ",
+        "answer": "İşlek, işlek yol, işlek cadde"
+    },
+    {
+        "id": 1897,
+        "question": "TENİ VE SAÇLARI SARIYA ÇALAN AÇIK BUĞDAY RENGİ OLAN KİMSE",
+        "letter": "K",
+        "answer": "Kumral"
+    },
+    {
+        "id": 616,
+        "question": "Şişkinlik yaptığıyla bilinen süt şekeri",
+        "letter": "L",
+        "answer": "Laktoz"
+    },
+    {
+        "id": 1839,
+        "question": "BİR BÖLGEYE ÖZGÜ OLAN, BÖLGESEL, YER, MAHAL",
+        "letter": "M",
+        "answer": "Mevzi, Mevzii"
+    },
+    {
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
+        "letter": "N",
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
+    },
+    {
+        "id": 652,
+        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
+        "letter": "O",
+        "answer": "Odeon"
+    },
+    {
+        "id": 922,
+        "question": "Korkak, Tabansız, Yüreksiz",
+        "letter": "Ö",
+        "answer": "ödlek"
+    },
+    {
+        "id": 1730,
+        "question": "Kolaylıkla uygulanabilir, kullanışlı olan",
+        "letter": "P",
+        "answer": "Pratik"
+    },
+    {
+        "id": 385,
+        "question": "Gerçek olmayan davranış, gösteriş",
+        "letter": "R",
+        "answer": "rol"
+    },
+    {
+        "id": 1159,
+        "question": "Uygulamalı öğrenme, iş öncesi öğrenme",
+        "letter": "S",
+        "answer": "Staj, stajyerlik, staj yapma, staj yapmak"
+    },
+    {
+        "id": 1688,
+        "question": "Güneş doğmadan az önce beliren aydınlık",
+        "letter": "Ş",
+        "answer": "Şafak"
+    },
+    {
+        "id": 834,
+        "question": "Hububatın diğer adı",
+        "letter": "T",
+        "answer": "Tahıl, Tahıllar"
+    },
+    {
+        "id": 892,
+        "question": "Belli Bir İşte Bilgi, Görüş Ve Becerisi Çok Olan Kimse",
+        "letter": "U",
+        "answer": "Uzman"
+    },
+    {
+        "id": 861,
+        "question": "Sivrisineğe benzer çok küçük bir sinek türü",
+        "letter": "Ü",
+        "answer": "Üvez"
+    },
+    {
+        "id": 1299,
+        "question": "Bir ülkeye girmek veya bir ülkeden çıkmak için yetkili makamlardan alınması gerekli izin",
+        "letter": "V",
+        "answer": "Vize, vize belgesi"
+    },
+    {
+        "id": 491,
+        "question": "Dağın veya tepenin herhangi bir yanı",
+        "letter": "Y",
+        "answer": "yamaç"
+    },
+    {
+        "id": 502,
+        "question": "Aldatıcı şey, tuzak, hile",
+        "letter": "Z",
+        "answer": "zoka"
+    }
+]

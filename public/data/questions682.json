@@ -1,0 +1,158 @@
+[
+    {
+        "id": 520,
+        "question": "Kana al rengini veren hücre",
+        "letter": "A",
+        "answer": "Alyuvar, Alyuvarlar, Alyuvar hücre"
+    },
+    {
+        "id": 784,
+        "question": "Yazı ya da sözle canlandırmak",
+        "letter": "B",
+        "answer": "Betimleme, Betimlemek"
+    },
+    {
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
+        "letter": "C",
+        "answer": "Cenah"
+    },
+    {
+        "id": 167,
+        "question": "Kumluk, susuz ve ıssız geniş arazi, sahra, badiye",
+        "letter": "Ç",
+        "answer": "çöl"
+    },
+    {
+        "id": 1387,
+        "question": "Oyunda, atılan zarlardan ikisinin de beş benekli yüzünün üste gelmesi",
+        "letter": "D",
+        "answer": "Dübeş"
+    },
+    {
+        "id": 201,
+        "question": "Bir işte yetkili olan, bir işi yapan, erbap",
+        "letter": "E",
+        "answer": "ehil, ehli"
+    },
+    {
+        "id": 799,
+        "question": "Yürekler acısı, trajik anlamındaki söz",
+        "letter": "F",
+        "answer": "Feci, facia"
+    },
+    {
+        "id": 1262,
+        "question": "Huzursuz, kaygılı, sinirli kimse",
+        "letter": "G",
+        "answer": "Gergin"
+    },
+    {
+        "id": 926,
+        "question": "İp, Urgan",
+        "letter": "H",
+        "answer": "Habl, halat"
+    },
+    {
+        "id": 272,
+        "question": "Barınma amacıyla bir yerde oturma",
+        "letter": "İ",
+        "answer": "ikamet, ikamet etme, ikamet etmek"
+    },
+    {
+        "id": 95,
+        "question": "Komutanı korgeneral olan askeri birlik",
+        "letter": "K",
+        "answer": "kolordu"
+    },
+    {
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
+        "letter": "L",
+        "answer": "Lanse, lanse etme, lanse etmek"
+    },
+    {
+        "id": 308,
+        "question": "Yasaklama, engel olma",
+        "letter": "M",
+        "answer": "men, men etme, men etmek"
+    },
+    {
+        "id": 990,
+        "question": "Güzel, uyumlu ses, ezgi, melodi",
+        "letter": "N",
+        "answer": "Nağme"
+    },
+    {
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
+        "letter": "O",
+        "answer": "onay, onaylama, onaylamak"
+    },
+    {
+        "id": 368,
+        "question": "Herhangi bir kısıtlamaya, zorlamaya, şarta bağlı olmayan, hür",
+        "letter": "Ö",
+        "answer": "özgür"
+    },
+    {
+        "id": 1298,
+        "question": "Yolun kaygan olması nedeniyle tekerlekler dönse de taşıtın ilerleyememesi durumu",
+        "letter": "P",
+        "answer": "Patinaj, patinaj çekme, patinaj çekmek"
+    },
+    {
+        "id": 1244,
+        "question": "Kaynar suda kabuğu ile az pişirilmiş olan",
+        "letter": "R",
+        "answer": "Rafadan"
+    },
+    {
+        "id": 685,
+        "question": "Yapay, yapma, sentetik",
+        "letter": "S",
+        "answer": "Suni"
+    },
+    {
+        "id": 1461,
+        "question": "Mecazen \"Kovmak, kapı dışarı etmek\"",
+        "letter": "Ş",
+        "answer": "Şutlama, Şutlamak"
+    },
+    {
+        "id": 1651,
+        "question": "Üç yaşına kadar olan at yavrusu",
+        "letter": "T",
+        "answer": "Tay"
+    },
+    {
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
+        "letter": "U",
+        "answer": "Utangaç"
+    },
+    {
+        "id": 465,
+        "question": "Bilim veya sanat alanında üstün bilgisi ve yeteneği olan kimse",
+        "letter": "Ü",
+        "answer": "üstat, üstad"
+    },
+    {
+        "id": 478,
+        "question": "Ağır yük kaldırmaya ve bir yere taşımaya yarayan araç",
+        "letter": "V",
+        "answer": "vinç"
+    },
+    {
+        "id": 488,
+        "question": "Yürüyerek giden kimse",
+        "letter": "Y",
+        "answer": "yaya"
+    },
+    {
+        "id": 500,
+        "question": "İçine mektup veya başka kâğıtlar konulan kağıttan kese",
+        "letter": "Z",
+        "answer": "zarf"
+    }
+]

@@ -1,158 +1,158 @@
 [
     {
-        "id": 107,
-        "question": "Yaş, meslek, toplumsal durum vb. bakımından birbirine eşit olanlardan her biri",
+        "id": 1926,
+        "question": "BOKSTA, BÜKÜK KOLLA AŞAĞIDAN YUKARIYA DOĞRU ÇENEYE ATILAN YUMRUK",
         "letter": "A",
-        "answer": "akran"
+        "answer": "Aparkat"
     },
     {
-        "id": 1773,
-        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "id": 523,
+        "question": "Havaya atılmış, uçurulmuş",
         "letter": "B",
-        "answer": "Buluş"
+        "answer": "Berhava"
     },
     {
-        "id": 915,
-        "question": "Sonu Olmayan, Sonsuz, Ebedi, Ölümsüz",
+        "id": 1367,
+        "question": "Bireye, üreme işinde ayrı bir rol veren ve erkekle dişiyi ayırt ettiren özellik",
         "letter": "C",
-        "answer": "Cavit"
+        "answer": "Cinsiyet"
     },
     {
-        "id": 1545,
-        "question": "Yüzü çiçek hastalığından kalma küçük yara izleri taşıyan, aşırı çiçek bozuğu olan (kimse)",
+        "id": 541,
+        "question": "Metal veya toprak eşya kenarlarında bulunan pürüz",
         "letter": "Ç",
-        "answer": "Çopur"
+        "answer": "Çapak"
     },
     {
-        "id": 1385,
-        "question": "Evlenme veya sünnet dolayısıyla yapılan tören, eğlence",
+        "id": 194,
+        "question": "Açık sözlü",
         "letter": "D",
-        "answer": "Düğün"
+        "answer": "dobra"
     },
     {
-        "id": 209,
-        "question": "Çok gerekli, vazgeçilmez",
+        "id": 1092,
+        "question": "Yemiş koparırken dalları çekmeye veya kovandan bal almaya yarayan araç",
         "letter": "E",
-        "answer": "elzem"
+        "answer": "Eğiç"
     },
     {
-        "id": 224,
-        "question": "Talih, baht, şans",
+        "id": 752,
+        "question": "Anlayış, seziş, sezgi",
         "letter": "F",
-        "answer": "felek"
+        "answer": "Feraset"
     },
     {
-        "id": 240,
-        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "id": 1427,
+        "question": "Amaç, hedef",
         "letter": "G",
-        "answer": "gonca"
+        "answer": "Gaye"
     },
     {
-        "id": 1437,
-        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "id": 1721,
+        "question": "Mahkeme lideri, hüküm veren",
         "letter": "H",
-        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+        "answer": "Hakim"
     },
     {
-        "id": 597,
-        "question": "Değerli, küçük, sert, sedef renginde süs tanesi",
+        "id": 1817,
+        "question": "Bir kardeşini de beraberinde getiren bebeklerin birbirine göre varoluşsal durumu",
         "letter": "İ",
-        "answer": "İnci, inci tanesi"
+        "answer": "İkiz, ikizlik"
     },
     {
-        "id": 1751,
-        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
+        "id": 1935,
+        "question": "Hem taşıt hem konut olarak kullanılan üstü kapalı araç",
         "letter": "K",
-        "answer": "Kıta"
+        "answer": "Karavan"
     },
     {
-        "id": 298,
-        "question": "Bir yere asılmak için yazılmış yazı, tabela",
+        "id": 1959,
+        "question": "İçinde her türlü donanım bulunan lüks, uzun ve geniş otomobil türü",
         "letter": "L",
-        "answer": "levha"
+        "answer": "Limuzin"
     },
     {
-        "id": 1753,
-        "question": "Bir işin yapılması veya bir borcun ödenmesi için tanınan süre",
+        "id": 315,
+        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
         "letter": "M",
-        "answer": "Mühlet"
+        "answer": "makam"
     },
     {
-        "id": 1242,
-        "question": "Düzyazı sanatı",
+        "id": 333,
+        "question": "İstenilen düzende olan, düzene uygun olan",
         "letter": "N",
-        "answer": "Nesir, nesir sanatı"
+        "answer": "nizami"
     },
     {
-        "id": 343,
-        "question": "Görünüşe göre olacağı sanılan, muhtemel",
+        "id": 653,
+        "question": "Yaş bakımından üç kardeşin büyüğü ile küçüğü arasında bulunan",
         "letter": "O",
-        "answer": "olası"
+        "answer": "Ortanca, ortanca çocuk, ortanca kardeş"
     },
     {
-        "id": 359,
-        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
+        "id": 357,
+        "question": "Kızgınlık, hışım, hiddet, gazap",
         "letter": "Ö",
-        "answer": "öğüt"
+        "answer": "öfke"
     },
     {
-        "id": 1181,
-        "question": "Otobüs terminallerinde aracın yanaştığı, yolcuların inip binmesine yarayan bölüm",
+        "id": 384,
+        "question": "Çeşitli sporlarda kullanılan ölçüsü ve değeri değişken birim",
         "letter": "P",
-        "answer": "Peron"
+        "answer": "puan"
     },
     {
-        "id": 1765,
-        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
+        "id": 1906,
+        "question": "BASKETBOLDA, SAYI OLMAYAN BİR ATIŞTAN SONRA POTADAN SEKEN TOPUN HAVADAYKEN YAKALANMASI",
         "letter": "R",
-        "answer": "Reaksiyon"
+        "answer": "Ribaund"
     },
     {
-        "id": 1317,
-        "question": "Bir şeye ayrılan, uygun görülen veya rastlayan zaman",
+        "id": 686,
+        "question": "Bir şey öğrenmek için yöneltilen söz veya yazı",
         "letter": "S",
-        "answer": "Sıra"
+        "answer": "Soru"
     },
     {
-        "id": 1685,
-        "question": "İsrail para birimi",
+        "id": 429,
+        "question": "Söyleyiş özelliği",
         "letter": "Ş",
-        "answer": "Şekel"
+        "answer": "şive"
     },
     {
-        "id": 706,
-        "question": "Bağırıp çağırarak, alkışlayıp tempo tutarak yapılan destek",
+        "id": 1757,
+        "question": "İstenen sonuca ulaşmak amacıyla izlenen yol ve kullanılan yöntemlerin tümü",
         "letter": "T",
-        "answer": "Tezahürat, Tezzahürat"
+        "answer": "Taktik"
     },
     {
-        "id": 455,
-        "question": "Açıkgöz, kurnaz, cingöz",
+        "id": 1079,
+        "question": "Birinin yapmakla yükümlü olduğu iş, görev",
         "letter": "U",
-        "answer": "uyanık"
+        "answer": "uhde"
     },
     {
-        "id": 467,
-        "question": "Dersin bölümlerinden her biri",
+        "id": 1472,
+        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
         "letter": "Ü",
-        "answer": "ünite"
+        "answer": "Ürkmek"
     },
     {
-        "id": 886,
-        "question": "Çiçek Koymak İçin Kullanılan Kap",
+        "id": 1504,
+        "question": "Açık, aydın, belli",
         "letter": "V",
-        "answer": "Vazo"
+        "answer": "Vazıh"
     },
     {
-        "id": 735,
-        "question": "Balıklarda sırt yüzgeci",
+        "id": 1500,
+        "question": "Genellikle dağlık bölgelerde, yazın havası iyi ve serin olan, hayvan otlatma veya dinlenme yeri",
         "letter": "Y",
-        "answer": "Yele"
+        "answer": "Yayla"
     },
     {
-        "id": 860,
-        "question": "Gücüne güvenerek başkalarının hakkını alan",
+        "id": 1295,
+        "question": "Ege bölgesinde oynanan meşhur halk dansı",
         "letter": "Z",
-        "answer": "Zorba"
+        "answer": "Zeybek, zeybek oyunu"
     }
 ]

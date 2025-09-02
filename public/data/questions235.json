@@ -1,0 +1,158 @@
+[
+    {
+        "id": 1549,
+        "question": "Kınamak, takbih etmek",
+        "letter": "A",
+        "answer": "Ayıplamak"
+    },
+    {
+        "id": 1484,
+        "question": "Bazı mikroplara karşı aşı veya doğal yolla kazanılmış direnç durumu",
+        "letter": "B",
+        "answer": "Bağışıklık"
+    },
+    {
+        "id": 1357,
+        "question": "Elindeki parayı harcamaya kıyamayan",
+        "letter": "C",
+        "answer": "Cimri, cimrilik"
+    },
+    {
+        "id": 165,
+        "question": "Bir eksenin döndürdüğü tekerlek biçimindeki makine parçası",
+        "letter": "Ç",
+        "answer": "çark"
+    },
+    {
+        "id": 938,
+        "question": "Fide dikilirken kullanılan ucu çatallı çubuk",
+        "letter": "D",
+        "answer": "dikeç"
+    },
+    {
+        "id": 1798,
+        "question": "İSLAM'DA İBADET ÇAĞRISI",
+        "letter": "E",
+        "answer": "Ezan"
+    },
+    {
+        "id": 1094,
+        "question": "Süslü, ayaklı fener",
+        "letter": "F",
+        "answer": "Fanus"
+    },
+    {
+        "id": 800,
+        "question": "Abartılı, aldatıcı ve yapay davranış",
+        "letter": "G",
+        "answer": "Gösteriş, Gösterişli"
+    },
+    {
+        "id": 1444,
+        "question": "Sağlıklı yaşamak için alınması gerekli önlemlerin bütünü",
+        "letter": "H",
+        "answer": "Hıfzıssıhha"
+    },
+    {
+        "id": 263,
+        "question": "Anlama yeteneği, anlayış, akıl erdirme",
+        "letter": "İ",
+        "answer": "idrak, idrak etme, idrak etmek, izan"
+    },
+    {
+        "id": 1952,
+        "question": "KALBUR, TEL ELEK GİBİ ŞEYLERİN TAHTA ÇEMBERİ",
+        "letter": "K",
+        "answer": "Kasnak"
+    },
+    {
+        "id": 1107,
+        "question": "Hanigillerden, Akdeniz ve Ege'de yaşayan lezzetli bir balık, kaya hanisi",
+        "letter": "L",
+        "answer": "lahos"
+    },
+    {
+        "id": 814,
+        "question": "Devletin egemenliği altında bulunan toprakların bütünü",
+        "letter": "M",
+        "answer": "Mülk, mülki"
+    },
+    {
+        "id": 638,
+        "question": "Sıklığı az olan, seyrek",
+        "letter": "N",
+        "answer": "Nadir"
+    },
+    {
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
+        "letter": "O",
+        "answer": "Ozalit"
+    },
+    {
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
+        "letter": "Ö",
+        "answer": "Ödün, Ödün verme, Ödün vermek"
+    },
+    {
+        "id": 383,
+        "question": "Birine saldırmak için saklanarak beklenilen yer",
+        "letter": "P",
+        "answer": "pusu"
+    },
+    {
+        "id": 1244,
+        "question": "Kaynar suda kabuğu ile az pişirilmiş olan",
+        "letter": "R",
+        "answer": "Rafadan"
+    },
+    {
+        "id": 1946,
+        "question": "Gelişme, ilerleme göstermeyen, Durağan, Sabit",
+        "letter": "S",
+        "answer": "Statik"
+    },
+    {
+        "id": 422,
+        "question": "Temel kural belgesi",
+        "letter": "Ş",
+        "answer": "şart, şartlar, şartname"
+    },
+    {
+        "id": 443,
+        "question": "Karşıtlık, karşıt olma, zıtlık, çelişki",
+        "letter": "T",
+        "answer": "tezat, tezatlık"
+    },
+    {
+        "id": 1559,
+        "question": "Mecazen; Her hangi bir işi yapmak istemeyen, tembel, miskin",
+        "letter": "U",
+        "answer": "Uyuşuk"
+    },
+    {
+        "id": 868,
+        "question": "Bina eteği, etek duvarı veya subasman",
+        "letter": "Ü",
+        "answer": "Üstemel"
+    },
+    {
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "letter": "V",
+        "answer": "Vizyoner, Vizyonlu"
+    },
+    {
+        "id": 1936,
+        "question": "Doğum tarihi ve saati dikkate alınarak yapılan hesaplama ile ortaya çıkan burç",
+        "letter": "Y",
+        "answer": "Yükselen, Yükselen burç"
+    },
+    {
+        "id": 845,
+        "question": "Yersiz ve zamansız davranışları olan kimse",
+        "letter": "Z",
+        "answer": "zibidi, zırzop"
+    }
+]

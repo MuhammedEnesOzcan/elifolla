@@ -1,158 +1,158 @@
 [
     {
-        "id": 126,
-        "question": "Eski dilde \"Dilekçe\"",
+        "id": 782,
+        "question": "Ruh biliminde karşıt duygu, sevimsizlik, soğukluk",
         "letter": "A",
-        "answer": "arzuhal, arzuhâl"
+        "answer": "Antipati"
     },
     {
-        "id": 1602,
-        "question": "Alım ve de satım işleri ile ilgilenmekte olan şirketlere aracılıklar yapan komisyoncu",
+        "id": 527,
+        "question": "Yanıltarak bir işten caydırmak",
         "letter": "B",
-        "answer": "Broker"
+        "answer": "Blöf, blöf yapma, blöf yapmak"
     },
     {
-        "id": 962,
-        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "id": 788,
+        "question": "Az, azıcık, pek az",
         "letter": "C",
-        "answer": "Cacık"
+        "answer": "Cüzi, cüzzi, cüzi miktar"
     },
     {
-        "id": 172,
-        "question": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
+        "id": 791,
+        "question": "Kim olduğunu hatırlamak, tanımak",
         "letter": "Ç",
-        "answer": "çakı"
+        "answer": "Çıkarma, Çıkarmak"
     },
     {
-        "id": 1089,
-        "question": "Kavga, gürültülü bağrışıp çağrışma",
+        "id": 1268,
+        "question": "Bütün siyasi yetkileri kendinde toplamış bulunan kimse, zorba",
         "letter": "D",
-        "answer": "Dalaş, dalaşı"
+        "answer": "Diktatör, dikta"
     },
     {
-        "id": 1418,
-        "question": "Vücutta istenmeyen kılları alma",
+        "id": 214,
+        "question": "Yalnız belirli duraklarda duran tren, otobüs veya gemi",
         "letter": "E",
-        "answer": "Epilasyon"
+        "answer": "ekspres"
     },
     {
-        "id": 1671,
-        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
+        "id": 1325,
+        "question": "Eskiden topları ateşlemekte kullanılan kaytan biçiminde tutuşturucu madde",
         "letter": "F",
-        "answer": "Filiz"
+        "answer": "Fitil"
     },
     {
-        "id": 971,
-        "question": "Sonbahar",
+        "id": 1746,
+        "question": "Evlenmekte olan bir erkeğe düğün töreni sırasında verilen ad",
         "letter": "G",
-        "answer": "Güz"
+        "answer": "Güvey"
     },
     {
-        "id": 807,
-        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
+        "id": 1442,
+        "question": "Sularda yaşayan canlıların hayatını inceleyen bilim dalı",
         "letter": "H",
-        "answer": "Hüsran"
+        "answer": "Hidrobiyoloji"
     },
     {
-        "id": 1951,
-        "question": "HEM “EKONOMİ” HEM “TUTUM” ANLAMINA GELEN SÖZCÜK",
+        "id": 755,
+        "question": "Ticari hezimet",
         "letter": "İ",
-        "answer": "İktisat, İktisad"
+        "answer": "İflas, iflas etme, iflas etmek"
     },
     {
-        "id": 612,
-        "question": "Isıtmada kullanılan yakıtı düzenli ve ayarlı biçimde yakan araç",
+        "id": 1939,
+        "question": "Küp şekere göre daha büyük boyutta özellikle Erzurum yöresine ait şeker türü",
         "letter": "K",
-        "answer": "Kombi"
+        "answer": "Kıtlama, Kıtlama Şeker"
     },
     {
-        "id": 617,
-        "question": "Çok dar bir ışık huzmesi üreten optik araç",
+        "id": 297,
+        "question": "Nilüfer cinsinden birçok bitkiye verilen genel ad",
         "letter": "L",
-        "answer": "Lazer"
+        "answer": "lotus"
     },
     {
-        "id": 1858,
-        "question": "ESKİ ZAMANLARDA OKUL YERİNE KULLANILAN KELİME",
+        "id": 1289,
+        "question": "Beceri, ustalık, hüner",
         "letter": "M",
-        "answer": "Mektep"
+        "answer": "Maharet, maharetlilik, marifet"
     },
     {
-        "id": 949,
-        "question": "Nikel'in simgesi",
+        "id": 994,
+        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
         "letter": "N",
-        "answer": "ni"
+        "answer": "naip"
     },
     {
-        "id": 999,
-        "question": "Klavyelilerden farklı ses ton ve modlarına sahip olabilen çalgı",
+        "id": 652,
+        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
         "letter": "O",
-        "answer": "org"
+        "answer": "Odeon"
     },
     {
-        "id": 355,
-        "question": "Öğretmenin öğrencilere okul dışında yapmaları için verdiği çalışma",
+        "id": 1479,
+        "question": "İstek",
         "letter": "Ö",
-        "answer": "ödev"
+        "answer": "Özenç"
     },
     {
-        "id": 65,
-        "question": "Yalan söylediğinde burnu uzayan roman karakteri",
+        "id": 1860,
+        "question": "\"HEMEN ARDINDAN\" ANLAMINDA KULLANILAN KELİME",
         "letter": "P",
-        "answer": "pinokyo"
+        "answer": "Peşisıra, Peşpeşe"
     },
     {
-        "id": 1032,
-        "question": "Pokerde, bir oyuncunun önündeki paranın tümü",
+        "id": 1640,
+        "question": "Müzikte durakların düzenli bir biçimde tekrarlanmasından doğan ses uygunluğu",
         "letter": "R",
-        "answer": "rest"
+        "answer": "Ritim, ritm"
     },
     {
-        "id": 1813,
-        "question": "Yapay ultraviyole ışınlarını kullanarak bronzlaşmayı sağlayan bir tür suni güneş",
+        "id": 414,
+        "question": "Bazı tedavi yöntemlerinin uygulanması için ayrılan süre",
         "letter": "S",
-        "answer": "Solaryum"
+        "answer": "seans"
     },
     {
-        "id": 1057,
-        "question": "İçine mendil, gecelik vb. şeyleri koymaya yarayan, çeşitli büyüklükte, kumaştan koruncak",
+        "id": 1681,
+        "question": "Üzerine uzanılabilecek biçimde ayarlanan bir tür taşınabilir koltuk",
         "letter": "Ş",
-        "answer": "Şase"
+        "answer": "Şezlong"
     },
     {
-        "id": 56,
-        "question": "Kara tahtaya yazı yazmak için kullanılan kireçli çubuk",
+        "id": 59,
+        "question": " Novak Djokovic'in şampiyonlukları olduğu spor dalı",
         "letter": "T",
-        "answer": "Tebeşir"
+        "answer": "tenis"
     },
     {
-        "id": 450,
-        "question": "Bilgiçlik taslayan (kimse)",
+        "id": 444,
+        "question": "Çok acayip, şaşılacak kadar çirkin olan",
         "letter": "U",
-        "answer": "ukala"
+        "answer": "ucube"
     },
     {
-        "id": 1566,
-        "question": "Mecazen; Delirmek, aklını yitirmek",
+        "id": 460,
+        "question": "Kan bağı bulunmayan, öz olmayan",
         "letter": "Ü",
-        "answer": "Üşütmek, üşütme"
+        "answer": "üvey"
     },
     {
-        "id": 890,
-        "question": "Giysilerde omuzların dik durması için konulan parça",
+        "id": 1251,
+        "question": "Orta, iki şeyin ortasında olan, ortalama",
         "letter": "V",
-        "answer": "Vatka"
+        "answer": "Vasat"
     },
     {
-        "id": 40,
-        "question": "Günlük kazanç",
+        "id": 1583,
+        "question": "Yayvan ve düz olan",
         "letter": "Y",
-        "answer": "yevmiye"
+        "answer": "Yassı"
     },
     {
-        "id": 1588,
-        "question": "Bebeklere iç çamaşırı olarak giydirilen, ince pamukludan kısa ve kollu giysi",
+        "id": 737,
+        "question": "Hoşluk, güzellik, incelik, zarif olma",
         "letter": "Z",
-        "answer": "Zıbın"
+        "answer": "Zarafet, Zerafet"
     }
 ]

@@ -1,158 +1,158 @@
 [
     {
-        "id": 96,
-        "question": "Vücudun bazı maddelere reaksiyon göstermesi sonucu oluşan duyarlılık",
+        "id": 1830,
+        "question": "TEMİZLENMEK, KATIŞIKSIZ BİR HÂLE GELMEK",
         "letter": "A",
-        "answer": "alerji"
+        "answer": "Arınma, Arınmak"
     },
     {
-        "id": 744,
-        "question": "Bir cismin herhangi bir yöndeki uzanımı",
+        "id": 132,
+        "question": "Yeni doğmuş, ana sütüyle beslenen sığır yavrusu",
         "letter": "B",
-        "answer": "Boyut, boyutu"
+        "answer": "buzağı"
     },
     {
-        "id": 747,
-        "question": "Güç veya tehlikeli bir işe girişirken kişinin kendisinde bulduğu güven",
+        "id": 787,
+        "question": "“Öfke, kızgınlık” anlamındaki bir erkek ismi",
         "letter": "C",
-        "answer": "Cesaret, Cesaretlilik"
+        "answer": "Celal"
     },
     {
-        "id": 181,
-        "question": "Silahlı büyük kavga, arbede",
+        "id": 1542,
+        "question": "Değirmende buğday teknesi oluğu",
         "letter": "Ç",
-        "answer": "çatışma"
+        "answer": "Çörtü"
     },
     {
-        "id": 1259,
-        "question": "Tahıl tanelerini öğütmeye yarayan alet",
+        "id": 1388,
+        "question": "Vidanın daha sağlam yerleşmesi için duvarlarda açılan deliğe önceden çakılan plastik yuva",
         "letter": "D",
-        "answer": "Değirmen, değirmen taşı"
+        "answer": "Dübel"
     },
     {
-        "id": 209,
-        "question": "Çok gerekli, vazgeçilmez",
+        "id": 1411,
+        "question": "Zorluğa sahip olarak düz olmayan bir yeri bulunan arazi türü",
         "letter": "E",
-        "answer": "elzem"
+        "answer": "Engebeli, engebeli arazi"
     },
     {
-        "id": 1489,
-        "question": "Etken, etmen",
+        "id": 1329,
+        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
         "letter": "F",
-        "answer": "Faktör"
+        "answer": "Fidan"
     },
     {
-        "id": 1423,
-        "question": "Gök gözlemleri yapan, gök cisimlerini ve olaylarını inceleyen yer, rasathane",
+        "id": 234,
+        "question": "Olağanüstü yarar göstererek savaştan sağ olarak dönen kimse",
         "letter": "G",
-        "answer": "Gözlemevi"
+        "answer": "gazi"
     },
     {
-        "id": 1496,
-        "question": "İki ağaç veya direk arasına asılarak içine yatılan ve sallanabilen yatak",
+        "id": 247,
+        "question": "Nişan alınacak yer, nişangah",
         "letter": "H",
-        "answer": "Hamak"
+        "answer": "hedef"
     },
     {
-        "id": 1804,
-        "question": "Dinlenme, rahat etme",
+        "id": 602,
+        "question": "Bir şeyin olabilmesi durumu, olabilirlik, olasılık",
         "letter": "İ",
-        "answer": "İstirahat, İstirahat etme, İstirahat etmek"
+        "answer": "İhtimal"
     },
     {
-        "id": 278,
-        "question": "Çocuk yuvası",
+        "id": 1897,
+        "question": "TENİ VE SAÇLARI SARIYA ÇALAN AÇIK BUĞDAY RENGİ OLAN KİMSE",
         "letter": "K",
-        "answer": "kreş"
+        "answer": "Kumral"
     },
     {
-        "id": 304,
-        "question": "Ara vermeden söylenilen saçma sapan söz dizisi, gevezelik",
+        "id": 986,
+        "question": "Tanıtmak amacıyla öne sürmek, ortaya çıkarmak",
         "letter": "L",
-        "answer": "laklak, lakırdı"
+        "answer": "Lanse, lanse etme, lanse etmek"
     },
     {
-        "id": 1623,
-        "question": "Yapıların planını yapıp bunların gerçekleşmesini sağlayan kimse",
+        "id": 1791,
+        "question": "“HUY, YARADILIŞ, TABİAT VEYA KARAKTER” ANLAMLARINDA KULLANILAN BİR SÖZCÜK",
         "letter": "M",
-        "answer": "Mimar"
+        "answer": "Mizaç"
     },
     {
-        "id": 643,
-        "question": "Örnek ya da göstermelik ürün",
+        "id": 1275,
+        "question": "Geçmişteki anıların ve olayların özlemini duyma durumu",
         "letter": "N",
-        "answer": "Numune"
+        "answer": "Nostalji, nostaliji"
     },
     {
-        "id": 1000,
-        "question": "Keçi yavrusu",
+        "id": 345,
+        "question": "Yenecek duruma gelmiş (meyve)",
         "letter": "O",
-        "answer": "Oğlak"
+        "answer": "olgun, olgunlaşmış, olgun meyve"
     },
     {
-        "id": 364,
-        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
+        "id": 363,
+        "question": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye",
         "letter": "Ö",
-        "answer": "özel"
+        "answer": "övgü"
     },
     {
-        "id": 673,
-        "question": "Söz dalaşı",
+        "id": 78,
+        "question": "Eski Yunan'da, kent devletlerine verilen isim",
         "letter": "P",
-        "answer": "Polemik"
+        "answer": "polis"
     },
     {
-        "id": 1805,
-        "question": "OSMANLIDA MALİYE İŞLEMLERİNDE KULLANILAN, GÜNEŞ YILI ESASINA DAYALI BİR TAKVİM TÜRÜ",
+        "id": 400,
+        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
         "letter": "R",
-        "answer": "Rumi, Rumi Takvim"
+        "answer": "rekor"
     },
     {
-        "id": 765,
-        "question": "İşlerine önem vermeyen, ihmalkâr",
+        "id": 1317,
+        "question": "Bir şeye ayrılan, uygun görülen veya rastlayan zaman",
         "letter": "S",
-        "answer": "Savsak"
+        "answer": "Sıra"
     },
     {
-        "id": 1465,
-        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
+        "id": 420,
+        "question": "Kötülük, fenalık",
         "letter": "Ş",
-        "answer": "Şema, şablon"
+        "answer": "şer"
     },
     {
-        "id": 1741,
-        "question": "Eski dilde saldırı",
+        "id": 767,
+        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
         "letter": "T",
-        "answer": "Taarruz"
+        "answer": "Takılmak"
     },
     {
-        "id": 1077,
-        "question": "Fiyatı yüksek olmayan, pahası az, düşük fiyatlı, pahalı karşıtı",
+        "id": 1078,
+        "question": "Yufka açılırken hamurun tahtaya yapışmaması için serpilen kalın un",
         "letter": "U",
-        "answer": "ucuz"
+        "answer": "Uğra"
     },
     {
-        "id": 458,
-        "question": "Herhangi bir topluluğu oluşturan bireylerden her biri",
+        "id": 465,
+        "question": "Bilim veya sanat alanında üstün bilgisi ve yeteneği olan kimse",
         "letter": "Ü",
-        "answer": "üye"
+        "answer": "üstat, üstad"
     },
     {
-        "id": 481,
-        "question": "Yabani, yırtıcı",
+        "id": 877,
+        "question": "Bir Yasanın, Bir Kararın Yürürlüğe Girmesine Karşı Çıkma Hakkı",
         "letter": "V",
-        "answer": "vahşi"
+        "answer": "Veto"
     },
     {
-        "id": 490,
-        "question": "İnsan yaşamayan ıssız yer",
+        "id": 1582,
+        "question": "Hoşa gitmeyen, tatsız",
         "letter": "Y",
-        "answer": "yaban"
+        "answer": "Yavan"
     },
     {
-        "id": 1294,
-        "question": "Parasız, yoksul, meteliksiz olan",
+        "id": 850,
+        "question": "Dermansızlık, Zayıf nokta",
         "letter": "Z",
-        "answer": "Züğürt, züürt, zürt, zügürt"
+        "answer": "Zafiyet, zafıyet"
     }
 ]

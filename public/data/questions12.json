@@ -1,147 +1,147 @@
 [
     {
-        "id": 1082,
-        "question": "Anıtsal",
+        "id": 122,
+        "question": "Acındıracak, acı verecek nitelikte olan, dokunaklı, üzücü",
         "letter": "A",
-        "answer": "Abidevi"
+        "answer": "acıklı, acınası"
     },
     {
-        "id": 1297,
-        "question": "Bir şeyin iyi gelişmesi, iyi bir durumda kalması için verilen emek",
+        "id": 1709,
+        "question": "Karaoğlan lakaplı eski türk siyasetçi",
         "letter": "B",
-        "answer": "Bakım, bakım yapma, bakım yapmak"
+        "answer": "Bülent Ecevit"
     },
     {
-        "id": 80,
-        "question": "Cem Karaca'nın şarkısında bahsettiği Gülhane parkındaki ağaç",
+        "id": 534,
+        "question": "Ameliyat yapan uzman hekim, operatör",
         "letter": "C",
-        "answer": "Ceviz, Ceviz Ağacı"
+        "answer": "Cerrah"
     },
     {
-        "id": 1448,
-        "question": "İri köpek, çoban köpeği",
+        "id": 1844,
+        "question": "PARÇALARA AYRILIP DAĞILMAYACAK BİR BİÇİMDE YARILMA",
         "letter": "Ç",
-        "answer": "Çomar"
+        "answer": "Çatlama, Çatlamak"
     },
     {
-        "id": 192,
-        "question": "Geri bildirim",
+        "id": 193,
+        "question": "Sıkıştırılmış hava içine püskürtülen yakıtla çalışan motor",
         "letter": "D",
-        "answer": "dönüt"
+        "answer": "dizel, dizel motor"
     },
     {
-        "id": 203,
-        "question": "Emek sonucu ortaya konan ürün, yapıt",
+        "id": 208,
+        "question": "Belirti, iz, ipucu",
         "letter": "E",
-        "answer": "eser"
+        "answer": "emare"
     },
     {
-        "id": 967,
-        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "id": 1311,
+        "question": "Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik, anekdot",
         "letter": "F",
-        "answer": "Fabl"
+        "answer": "Fıkra"
     },
     {
-        "id": 1899,
-        "question": "İLAÇ DESTEĞİ İLE DE YAPILAN AĞIZ VE BOĞAZ BANYOSU",
+        "id": 1430,
+        "question": "Makine yağı",
         "letter": "G",
-        "answer": "Gargara"
+        "answer": "Gres, gres yağ, gres yağı"
     },
     {
-        "id": 586,
-        "question": "Tek seferde söylenen ses birliği",
+        "id": 1225,
+        "question": "Özel olarak, özel bir biçimde",
         "letter": "H",
-        "answer": "Hece, Heceleme, Hecelemek"
+        "answer": "Hususi"
     },
     {
-        "id": 1180,
-        "question": "Trenlerin durarak yolcu ve yük indirdikleri ya da aldıkları yer",
+        "id": 273,
+        "question": "Anlaşma, uyuşma, uzlaşma",
         "letter": "İ",
-        "answer": "İstasyon"
+        "answer": "itilaf, ittifak"
     },
     {
-        "id": 280,
-        "question": "Kumaştan veya örgüden küçük torba",
+        "id": 1897,
+        "question": "TENİ VE SAÇLARI SARIYA ÇALAN AÇIK BUĞDAY RENGİ OLAN KİMSE",
         "letter": "K",
-        "answer": "kese"
+        "answer": "Kumral"
     },
     {
-        "id": 1612,
-        "question": "Yanardağların ağzından fışkırıp akan, soğuyunca donan erimiş madde",
+        "id": 1203,
+        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
         "letter": "L",
-        "answer": "Lav"
+        "answer": "Lens"
     },
     {
-        "id": 313,
-        "question": "Ara verme, duraklama",
+        "id": 1957,
+        "question": "Tekrarlanmış, Yinelenmiş",
         "letter": "M",
-        "answer": "mola"
+        "answer": "Mükerrer"
     },
     {
-        "id": 987,
-        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
+        "id": 913,
+        "question": "Kıskandırmak ya da inat olsun diye yapılan iş",
         "letter": "N",
-        "answer": "Naz"
+        "answer": "Nispet, nıspet"
     },
     {
-        "id": 1515,
-        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "id": 1514,
+        "question": "Yüzeyi ışığa karşı duyarlı bir madde ile kaplı kâğıt üzerine, kalıptan çekilmiş resim kopyası",
         "letter": "O",
-        "answer": "Oyuncu"
+        "answer": "Ozalit"
     },
     {
-        "id": 372,
-        "question": "Bir iş için ayrılan belli para, tahsisat",
+        "id": 369,
+        "question": "Yalnız kendine özgü bir nitelik taşıyan, orijinal",
         "letter": "Ö",
-        "answer": "ödenek"
+        "answer": "Özgün"
     },
     {
-        "id": 665,
-        "question": "Hurdaya çıkmış taşıt",
+        "id": 823,
+        "question": "Bir balık ve bir meyve türünün ortak adı",
         "letter": "P",
-        "answer": "Pert"
+        "answer": "Palamut"
     },
     {
-        "id": 389,
-        "question": "Bir gemi veya uçağın gidiş yönü, izleyeceği yol",
+        "id": 1191,
+        "question": "Atın ritmik yürüşü",
         "letter": "R",
-        "answer": "rota"
+        "answer": "Rahvan"
     },
     {
-        "id": 404,
-        "question": "Kale duvarı",
+        "id": 92,
+        "question": "Trafik ışıklarında \"hazırlan\" anlamına gelen renk",
         "letter": "S",
-        "answer": "sur"
+        "answer": "sarı"
     },
     {
-        "id": 1683,
-        "question": "Çoğunlukla saç yıkamakta kullanılan, kokulu ve bol köpüklü bir tür sıvı sabun",
+        "id": 700,
+        "question": "Bir alanla ilgili olarak oluşturulan danışma kurulu",
         "letter": "Ş",
-        "answer": "Şampuan"
+        "answer": "Şura"
     },
     {
-        "id": 1129,
-        "question": "Verimsiz duruma getirme, sonuçsuz bırakma, kısırlaştırma",
+        "id": 1910,
+        "question": "BİR YAZARIN, KONU VE FİKRİ YAPI OLARAK BİRBİRİNİ İZLEYEN ÜÇ ESERİ",
         "letter": "T",
-        "answer": "takim"
+        "answer": "Triloji"
     },
     {
-        "id": 447,
-        "question": "Uysal bir biçimde",
+        "id": 1560,
+        "question": "Bir kimseye bir davranışta bulunmamasını söylemek, ikaz etmek",
         "letter": "U",
-        "answer": "uslu"
+        "answer": "Uyarmak, uyarma, uyarı, uyarı yapma, uyarı yapmak"
     },
     {
-        "id": 878,
-        "question": "Ardından koşulan, uğruna çalışılan, ulaşılmak istenen yüce erek",
+        "id": 876,
+        "question": "Türlü Duyguları Anlatan Veya Bir Doğa Sesini Yansıtan Kelime",
         "letter": "Ü",
-        "answer": "Ülkü"
+        "answer": "Ünlem"
     },
     {
-        "id": 1569,
-        "question": "Birbirleri arasında ilişki bulunmayan şarkı, dans, temsil gibi tiyatro oyunlarının yer aldığı gösteriler",
+        "id": 731,
+        "question": "Hece veya kelime üzerine diğerlerinden daha farklı olarak yapılan baskı",
         "letter": "V",
-        "answer": "Varyete"
+        "answer": "Vurgu, vurgulama, vurgulamak, vurgu yapma, vurgu yapmak"
     },
     {
         "id": 1476,
@@ -150,9 +150,9 @@
         "answer": "Yunus, yunus balığı"
     },
     {
-        "id": 942,
-        "question": "Zirkonyum'un simgesi",
+        "id": 1587,
+        "question": "İç içe geçen sehpa",
         "letter": "Z",
-        "answer": "zr"
+        "answer": "Zigon, zigon sehpa"
     }
 ]

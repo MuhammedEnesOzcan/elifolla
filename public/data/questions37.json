@@ -1,123 +1,123 @@
 [
     {
-        "id": 118,
-        "question": "Genellikle üzeri siperli masa lambası veya ayaklı lamba",
+        "id": 114,
+        "question": "Benzin, gaz yağı, mazot vb. sıvı yakıt",
         "letter": "A",
-        "answer": "abajur"
+        "answer": "akaryakıt"
     },
     {
-        "id": 959,
-        "question": "Egemenliğini tanıma",
+        "id": 1083,
+        "question": "Erkek kümes hayvanlarının en iri ve yaşlı olanı",
         "letter": "B",
-        "answer": "biat, biat etme, biat etmek"
+        "answer": "Babaç"
     },
     {
-        "id": 157,
-        "question": "Alımlı, uygun",
+        "id": 1373,
+        "question": "Bir ülkede yönetime el koyan kimselerden oluşan kurul",
         "letter": "C",
-        "answer": "cazip"
+        "answer": "Cunta, cuntacılar, cunta kurulu"
     },
     {
-        "id": 167,
-        "question": "Kumluk, susuz ve ıssız geniş arazi, sahra, badiye",
+        "id": 1449,
+        "question": "Diz kapaklarına kadar çıkan bir çeşit ayakkabı",
         "letter": "Ç",
-        "answer": "çöl"
+        "answer": "Çizme"
     },
     {
-        "id": 77,
-        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
+        "id": 184,
+        "question": "Zihinde beliren olayların, düşüncelerin bütünü, rüya",
         "letter": "D",
-        "answer": "daktilo"
+        "answer": "düş"
     },
     {
-        "id": 1409,
-        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
+        "id": 1236,
+        "question": "Gizlerle, sırlarla örtülü olan, gizemli",
         "letter": "E",
-        "answer": "Ergonomik"
+        "answer": "Esrarengiz"
     },
     {
-        "id": 570,
-        "question": "Olağandan bol, aşırı çoklukta bulunma durumu",
+        "id": 220,
+        "question": "Belirli nesneler veya durumlar karşısında duyulan olağan dışı güçlü korku",
         "letter": "F",
-        "answer": "Furya, fazla, fazlaca, fazlalık"
+        "answer": "fobi"
     },
     {
-        "id": 1174,
-        "question": "Biçim, desen ya da çizgilerle gösterme, anlatma",
+        "id": 230,
+        "question": "Tasa, kaygı, üzüntü",
         "letter": "G",
-        "answer": "Grafik"
+        "answer": "gam"
     },
     {
-        "id": 594,
-        "question": "Sınır, uç noktası",
+        "id": 252,
+        "question": "Niteliği değişmemiş, aslına uygun olan",
         "letter": "H",
-        "answer": "Hudut"
+        "answer": "hakiki"
     },
     {
-        "id": 1842,
-        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "id": 1810,
+        "question": "BİR KURUM VEYA KURULUŞUN YÖNETİLDİĞİ YER VEYA MAKAM",
         "letter": "İ",
-        "answer": "İmtina, İmtina etme, İmtina etmek"
+        "answer": "İdare, İdari işler, İdari daire"
     },
     {
-        "id": 1818,
-        "question": "Alışverişte durgunluk",
+        "id": 612,
+        "question": "Isıtmada kullanılan yakıtı düzenli ve ayarlı biçimde yakan araç",
         "letter": "K",
-        "answer": "Kesat, kesatlık, kesat iş, kesat işler"
+        "answer": "Kombi"
     },
     {
-        "id": 615,
-        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
+        "id": 1455,
+        "question": "Eklembacaklılarda yaşamın ilk evresi",
         "letter": "L",
-        "answer": "Lümpen"
+        "answer": "Larva, larva dönemi"
     },
     {
-        "id": 625,
-        "question": "Ayrı bir yeri olan, üstün, seçkin",
+        "id": 818,
+        "question": "Eski zamanların tek kişilik komedi gösterisi ustası",
         "letter": "M",
-        "answer": "Mümtaz"
+        "answer": "Meddah"
     },
     {
-        "id": 327,
-        "question": "Haykırma, bağırma",
+        "id": 929,
+        "question": "Tek ağızlı balta",
         "letter": "N",
-        "answer": "nara, nara atma, nara atmak"
+        "answer": "Nacak"
     },
     {
-        "id": 653,
-        "question": "Yaş bakımından üç kardeşin büyüğü ile küçüğü arasında bulunan",
+        "id": 1889,
+        "question": "KAVİMLER GÖÇÜYLE BAŞLAYAN TARİHİ DÖNEM",
         "letter": "O",
-        "answer": "Ortanca, ortanca çocuk, ortanca kardeş"
+        "answer": "Ortaçağ"
     },
     {
-        "id": 1007,
-        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "id": 1482,
+        "question": "Bir yargıya varmak veya değer vermek için başvurulan ilke, kıstas, mısdak, kriter",
         "letter": "Ö",
-        "answer": "Örk"
+        "answer": "Ölçüt"
     },
     {
-        "id": 1740,
-        "question": "İnsanın yüzünün yandan görünüşü",
+        "id": 667,
+        "question": "Yalnız ad ve soyadının baş harfleriyle atılan kısa imza",
         "letter": "P",
-        "answer": "Profil"
+        "answer": "Paraf, paraf atma, paraf atmak"
     },
     {
-        "id": 397,
-        "question": "Okul, kışla vb. yerlerde hastalar için ayrılmış bölüm",
+        "id": 1906,
+        "question": "BASKETBOLDA, SAYI OLMAYAN BİR ATIŞTAN SONRA POTADAN SEKEN TOPUN HAVADAYKEN YAKALANMASI",
         "letter": "R",
-        "answer": "revir"
+        "answer": "Ribaund"
     },
     {
-        "id": 1039,
-        "question": "Klasik Türk müziğinde bir birleşik makam",
+        "id": 687,
+        "question": "Tarımsal yapay iklim alanı",
         "letter": "S",
-        "answer": "saba"
+        "answer": "Sera"
     },
     {
-        "id": 703,
-        "question": "Oturduğu yerde hafif ve kısa süreli uyuma",
+        "id": 1678,
+        "question": "Almanya ve Avusturya'da hükûmet başkanı ünvanı",
         "letter": "Ş",
-        "answer": "Şekerleme"
+        "answer": "Şansölye"
     },
     {
         "id": 1882,
@@ -126,33 +126,33 @@
         "answer": "Talep"
     },
     {
-        "id": 1070,
-        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
+        "id": 1068,
+        "question": "Çok uzun",
         "letter": "U",
-        "answer": "Uçkun"
+        "answer": "upuzun"
     },
     {
-        "id": 729,
-        "question": "Özen göstermeden, gelişigüzel, baştan savma yapılan",
+        "id": 1507,
+        "question": "Canlı, doğup çoğalmak",
         "letter": "Ü",
-        "answer": "Üstünkörü"
+        "answer": "Üremek"
     },
     {
-        "id": 1708,
-        "question": "Kökeni fransızca olup evlerin giriş kısmında ve ayakkabı, mont vb. şeylerin konulduğu yer",
+        "id": 1251,
+        "question": "Orta, iki şeyin ortasında olan, ortalama",
         "letter": "V",
-        "answer": "Vestiyer"
+        "answer": "Vasat"
     },
     {
-        "id": 1584,
-        "question": "Bir işten elde edilen iyi sonuç, fayda",
+        "id": 840,
+        "question": "Akarsuyun aktığı yer, mecra",
         "letter": "Y",
-        "answer": "Yarar"
+        "answer": "Yatak, yatağı"
     },
     {
-        "id": 1594,
-        "question": "Şiddetli bir şekilde titremek veya sallanmak",
+        "id": 738,
+        "question": "Boşuna harcama, zarar",
         "letter": "Z",
-        "answer": "Zangırdamak, zangırdama"
+        "answer": "Ziyan, ziyan etme, ziyan etmek"
     }
 ]

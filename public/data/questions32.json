@@ -1,158 +1,158 @@
 [
     {
-        "id": 1654,
-        "question": "Bir şeyin umulduğundan az olduğu yargısına varmak, az görmek, az bulmak",
+        "id": 1341,
+        "question": "Virüsün çoğalmasını engelleyen",
         "letter": "A",
-        "answer": "Azımsamak, azımsama"
+        "answer": "Antiviral"
     },
     {
-        "id": 1773,
-        "question": "DAHA ÖNCE BİLİNMEYEN YENİ BİR BULGUYA ULAŞMA VEYA YÖNTEM GELİŞTİRME, İCAT",
+        "id": 1799,
+        "question": "YÖRESEL AĞIZLARDA “KAZ VE ÖRDEK YAVRULARI” İÇİN KULLANILAN BİR SÖZCÜK",
         "letter": "B",
-        "answer": "Buluş"
+        "answer": "Badi"
     },
     {
-        "id": 1366,
-        "question": "Kümes hayvanlarının yumurtadan yeni çıkmış yavrusu",
+        "id": 1372,
+        "question": "İnce, yuvarlak kesilerek kızartılmış patates",
         "letter": "C",
-        "answer": "Civciv"
+        "answer": "Cips"
     },
     {
-        "id": 1542,
-        "question": "Değirmende buğday teknesi oluğu",
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
         "letter": "Ç",
-        "answer": "Çörtü"
+        "answer": "çakar"
     },
     {
-        "id": 199,
-        "question": "Yaşayışı ve davranışı düzensiz (kimse)",
+        "id": 1743,
+        "question": "Uluslararası ilişkileri düzenleyen antlaşmalar bütünü",
         "letter": "D",
-        "answer": "derbeder"
+        "answer": "Diplomasi"
     },
     {
-        "id": 560,
-        "question": "Edebiyatla uğraşan, edebi eser veren kimse, yazar",
+        "id": 79,
+        "question": "Kırkpınar yağlı güreşlerinin yapıldığı ilimiz",
         "letter": "E",
-        "answer": "Edip"
+        "answer": "edirne"
     },
     {
-        "id": 570,
-        "question": "Olağandan bol, aşırı çoklukta bulunma durumu",
+        "id": 969,
+        "question": "Başkalık, ayrım, nüans",
         "letter": "F",
-        "answer": "Furya, fazla, fazlaca, fazlalık"
+        "answer": "Fark, farklılık"
     },
     {
-        "id": 94,
-        "question": "Günlük çıkarılan haber kaynağı, yazılı yayın",
+        "id": 1434,
+        "question": "Kamıştan yapılmış çift düdük ve tulumdan oluşan, tiz sesli, nefesli, İskoçların millî çalgısı",
         "letter": "G",
-        "answer": "gazete"
+        "answer": "Gayda"
     },
     {
-        "id": 1099,
-        "question": "Adalete uygun bir biçimde, doğrulukla, adilane",
+        "id": 1441,
+        "question": "Normalden yüksek olan atardamar basıncı",
         "letter": "H",
-        "answer": "Hakça"
+        "answer": "Hipertansiyon"
     },
     {
-        "id": 601,
-        "question": "Gerçek yönünü ortaya çıkarma, kanıtlama",
+        "id": 958,
+        "question": "Uyarma",
         "letter": "İ",
-        "answer": "İspat, ispatlama, ispatlamak, ispat etme, ispat etmek"
+        "answer": "ikaz, ikaz etme, ikaz etmek"
     },
     {
-        "id": 812,
-        "question": "Başkalarına belli etmeden, gizlice yapılan şey",
+        "id": 283,
+        "question": "Mısırın taneleri atıldıktan sonra kalan sert bölüm",
         "letter": "K",
-        "answer": "Kaçamak"
+        "answer": "koçan"
     },
     {
-        "id": 304,
-        "question": "Ara vermeden söylenilen saçma sapan söz dizisi, gevezelik",
+        "id": 1454,
+        "question": "Kirliliği gösteren iz",
         "letter": "L",
-        "answer": "laklak, lakırdı"
+        "answer": "Leke"
     },
     {
-        "id": 1627,
-        "question": "Değişik türden hayvan veya bitkiden üremiş (hayvan veya bitki)",
+        "id": 1878,
+        "question": "Seçkin kişilerin yaşantılarını konu alan yayın",
         "letter": "M",
-        "answer": "Melez"
+        "answer": "Magazin"
     },
     {
-        "id": 994,
-        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
+        "id": 638,
+        "question": "Sıklığı az olan, seyrek",
         "letter": "N",
-        "answer": "naip"
+        "answer": "Nadir"
     },
     {
-        "id": 345,
-        "question": "Yenecek duruma gelmiş (meyve)",
+        "id": 907,
+        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
         "letter": "O",
-        "answer": "olgun, olgunlaşmış, olgun meyve"
+        "answer": "Obje"
     },
     {
-        "id": 1117,
-        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "id": 1537,
+        "question": "En, boy, hacim, süre gibi nicelikleri kendi cinslerinden seçilmiş bir birimle karşılaştırıp kaç birim geldiklerini belirtmek",
         "letter": "Ö",
-        "answer": "ölmek, ölüm, ölme"
+        "answer": "Ölçmek, ölçme, ölçüm"
     },
     {
-        "id": 1018,
-        "question": "Pantolon, don, şalvar vb. giyeceklerde bacakların çıktığı aşağı bölüm",
+        "id": 822,
+        "question": "Haftanın belli günleri seyyar satıcıların sergi açtıkları sokak veya alan",
         "letter": "P",
-        "answer": "Paça"
+        "answer": "Pazar, Pazaryeri"
     },
     {
-        "id": 389,
-        "question": "Bir gemi veya uçağın gidiş yönü, izleyeceği yol",
+        "id": 394,
+        "question": "Bir para biriminin veya malın satış ve sürüm değeri",
         "letter": "R",
-        "answer": "rota"
+        "answer": "rayiç, rayiç bedel, rayiç bedeli"
     },
     {
-        "id": 1895,
-        "question": "ÖZELLİKLE MANAV VE PAZARDA MÜŞTERİNİN TERCİHİNİ TEMEL ALAN SATIŞ YÖNTEMİ",
+        "id": 1946,
+        "question": "Gelişme, ilerleme göstermeyen, Durağan, Sabit",
         "letter": "S",
-        "answer": "Seçmece"
+        "answer": "Statik"
     },
     {
-        "id": 422,
-        "question": "Temel kural belgesi",
+        "id": 1846,
+        "question": "YAPRAKLARI HER MEVSİM YEŞİL KALAN, BAHÇELERDE SÜS BİTKİSİ OLARAK YETİŞTİRİLEN, SARIMSI RENKLİ BİR TÜR AĞAÇÇIK",
         "letter": "Ş",
-        "answer": "şart, şartlar, şartname"
+        "answer": "Şimşir"
     },
     {
-        "id": 767,
-        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
+        "id": 1819,
+        "question": "Askerlik görevini bitirenleri ordudan bırakma",
         "letter": "T",
-        "answer": "Takılmak"
+        "answer": "Terhis, terhis olma, terhis olmak, terhis etme, terhis etmek"
     },
     {
-        "id": 1076,
-        "question": "Başkalarına kolayca uyabilen, sözlerini dinleyip karşı gelmeyen, yumuşak başlı",
+        "id": 1072,
+        "question": "Fikir, sanat ve endüstri alanlarında çok büyük bir gelişme göstermiş olan, medeni, mütemeddin",
         "letter": "U",
-        "answer": "uysal"
+        "answer": "uygar"
     },
     {
-        "id": 1472,
-        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
+        "id": 879,
+        "question": "Geniş Anlamıyla Derş Ya Da Mukoza Altı Dokuları Meydanda Bırakan Kronik Yaralar",
         "letter": "Ü",
-        "answer": "Ürkmek"
+        "answer": "Ülser"
     },
     {
-        "id": 1861,
-        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
+        "id": 867,
+        "question": "Elektromotor Gücün Ya Da Gerilimin Birimi",
         "letter": "V",
-        "answer": "Vizyoner, Vizyonlu"
+        "answer": "Volt"
     },
     {
-        "id": 885,
-        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
+        "id": 840,
+        "question": "Akarsuyun aktığı yer, mecra",
         "letter": "Y",
-        "answer": "Yakut"
+        "answer": "Yatak, yatağı"
     },
     {
-        "id": 1592,
-        "question": "Bir diğer söylemle \"Fazlasıyla\"",
+        "id": 509,
+        "question": "İrade zayıflığı, eksiklik",
         "letter": "Z",
-        "answer": "Ziyadesiyle"
+        "answer": "zaaf"
     }
 ]

@@ -1,81 +1,81 @@
 [
     {
-        "id": 948,
-        "question": "Yarı yaş, yarı kuru nemli toprak",
+        "id": 1221,
+        "question": "Negatif elektrikle yüklü iyon",
         "letter": "A",
-        "answer": "alatav"
+        "answer": "Anyon"
     },
     {
-        "id": 1602,
-        "question": "Alım ve de satım işleri ile ilgilenmekte olan şirketlere aracılıklar yapan komisyoncu",
+        "id": 744,
+        "question": "Bir cismin herhangi bir yöndeki uzanımı",
         "letter": "B",
-        "answer": "Broker"
+        "answer": "Boyut, boyutu"
     },
     {
-        "id": 1366,
-        "question": "Kümes hayvanlarının yumurtadan yeni çıkmış yavrusu",
+        "id": 1368,
+        "question": "Şaka olmayan, gerçek",
         "letter": "C",
-        "answer": "Civciv"
+        "answer": "Ciddi"
     },
     {
-        "id": 1816,
-        "question": "MECAZEN; DİNÇLİĞİNİ KAYBETMEK, İHTİYARLAMAK",
+        "id": 544,
+        "question": "Derme çatma çadır, göçebe çadırı",
         "letter": "Ç",
-        "answer": "Çökme, Çökmek"
+        "answer": "Çerge"
     },
     {
-        "id": 192,
-        "question": "Geri bildirim",
+        "id": 1187,
+        "question": "Bir yeri daha önce görmüş olma veya bir olayı daha önce yaşamış olma hissi",
         "letter": "D",
-        "answer": "dönüt"
+        "answer": "Dejavu"
     },
     {
-        "id": 204,
-        "question": "Tutsak, köle",
+        "id": 1267,
+        "question": "Rüzgarın bir yönden diğer yöne akması durumu",
         "letter": "E",
-        "answer": "esir"
+        "answer": "Esmek, esmesi, esme, esinti"
     },
     {
-        "id": 224,
-        "question": "Talih, baht, şans",
+        "id": 228,
+        "question": "Eski Mısır hükümdarlarına verilen unvan",
         "letter": "F",
-        "answer": "felek"
+        "answer": "firavun"
     },
     {
-        "id": 1759,
-        "question": "Çevresiyle uyuşamayan, aksi tabiatlı, kavga çıkaran kimse",
+        "id": 1961,
+        "question": "SANAT ESERLERİNİN SERGİLENDİĞİ BÜYÜK SALON",
         "letter": "G",
-        "answer": "Geçimsiz"
+        "answer": "Galeri"
     },
     {
-        "id": 806,
-        "question": "Monarşik aile",
+        "id": 807,
+        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
         "letter": "H",
-        "answer": "Hanedan, Hanedanlık"
+        "answer": "Hüsran"
     },
     {
-        "id": 604,
-        "question": "Gerçeğin gülünç yanını ortaya koyan ince alay",
+        "id": 1692,
+        "question": "“TRAFİĞİ ÇOK OLAN, CANLI, HAREKETLİ, YOĞUN VE KALABALIK” ANLAMLARINDA KULLANILAN BİR SÖZ",
         "letter": "İ",
-        "answer": "İroni"
+        "answer": "İşlek, işlek yol, işlek cadde"
     },
     {
-        "id": 1905,
-        "question": "Soğuk mevsim kıyafetlerinin tümü",
+        "id": 1194,
+        "question": "Arabalarda da bulunan, yaz aylarında ortamı soğutmak için kullanılan cihaz",
         "letter": "K",
-        "answer": "Kışlık"
+        "answer": "Klima"
     },
     {
-        "id": 1528,
-        "question": "Üzeri toprak veya otla örtülmüş saman yığını",
+        "id": 1526,
+        "question": "Su samurundan elde edilen post",
         "letter": "L",
-        "answer": "Loda"
+        "answer": "Lutr"
     },
     {
-        "id": 28,
-        "question": "Doku ve organların yapısını inceleyen bilim dalı",
+        "id": 813,
+        "question": "'Ultraviyole'' sözcüğünün Türkçe karşılığı",
         "letter": "M",
-        "answer": "morfoloji"
+        "answer": "Morötesi"
     },
     {
         "id": 639,
@@ -84,75 +84,75 @@
         "answer": "Nadas, nadasa bırakma, nadasa bırakmak"
     },
     {
-        "id": 348,
-        "question": "Gereğinden çok yemek yiyen, doymak bilmeyen (kimse)",
+        "id": 343,
+        "question": "Görünüşe göre olacağı sanılan, muhtemel",
         "letter": "O",
-        "answer": "obur"
+        "answer": "olası"
     },
     {
-        "id": 1539,
-        "question": "Açıklama yapmadan, belli belirsiz bir biçimde, müphem",
+        "id": 356,
+        "question": "Bir başarı karşılığında verilen armağan, mükâfat",
         "letter": "Ö",
-        "answer": "Örtülü"
+        "answer": "ödül"
     },
     {
-        "id": 1014,
-        "question": "Resim ve fotoğrafta duruş",
+        "id": 822,
+        "question": "Haftanın belli günleri seyyar satıcıların sergi açtıkları sokak veya alan",
         "letter": "P",
-        "answer": "poz"
+        "answer": "Pazar, Pazaryeri"
     },
     {
-        "id": 1205,
-        "question": "TV'deki günlük veya haftalık izlenme oranı, izleniş durumu",
+        "id": 1765,
+        "question": "Fiziksel, kimyasal veya duygusal olarak bir duruma ya da olaya verilen yanıt",
         "letter": "R",
-        "answer": "Reyting, rating"
+        "answer": "Reaksiyon"
     },
     {
-        "id": 407,
-        "question": "Güldürü niteliğinde kısa oyun",
+        "id": 63,
+        "question": "Garri Kasparov'un \"Büyük Usta\" unvanına sahip olduğu oyun",
         "letter": "S",
-        "answer": "skeç"
+        "answer": "Satranç"
     },
     {
-        "id": 428,
-        "question": "Gürültü patırtı",
+        "id": 1465,
+        "question": "Bir aletin, bir aracın veya bir biçimin ana çizgilerini gösteren çizim",
         "letter": "Ş",
-        "answer": "şamata"
+        "answer": "Şema, şablon"
     },
     {
-        "id": 1650,
-        "question": "Lisans ve yüksek lisans yapan öğrencilerin bilimsel yöntemlere dayandırdıkları ve hazırladıkları makaleler",
+        "id": 1774,
+        "question": "KEYFİ ALIŞKANLIĞA DÖNÜŞTÜRMÜŞ OLAN KİŞİ",
         "letter": "T",
-        "answer": "Tez"
+        "answer": "Tiryaki"
     },
     {
-        "id": 1512,
-        "question": "Bütün varlıkların içinde bulunduğu sonsuz boşluk, feza, mekân",
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
         "letter": "U",
-        "answer": "Uzay"
+        "answer": "Uydu, uydusu"
     },
     {
-        "id": 852,
-        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
+        "id": 461,
+        "question": "Üretilen yararlı şey",
         "letter": "Ü",
-        "answer": "Ütopya"
+        "answer": "ürün"
     },
     {
-        "id": 865,
-        "question": "Kelimeler yerine, sadece sesli harfler kullanarak, insan sesiyle müzik icra etmek",
+        "id": 479,
+        "question": "Polisi ilgilendiren olay veya olaylar",
         "letter": "V",
-        "answer": "Vokaliz, vokalız"
+        "answer": "vukuat"
     },
     {
-        "id": 889,
-        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "id": 838,
+        "question": "Dokunarak incelemek",
         "letter": "Y",
-        "answer": "Yalak"
+        "answer": "Yoklamak"
     },
     {
-        "id": 511,
-        "question": "Saçma, saçma sapan, boş, anlamsız söz",
+        "id": 1587,
+        "question": "İç içe geçen sehpa",
         "letter": "Z",
-        "answer": "zırva"
+        "answer": "Zigon, zigon sehpa"
     }
 ]

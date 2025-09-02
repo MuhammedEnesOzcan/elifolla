@@ -1,158 +1,158 @@
 [
     {
-        "id": 1240,
-        "question": "Ameliyatlarda işlemden önce bölgenin uyuşturulması",
+        "id": 1241,
+        "question": "Genellikle dişte meydana gelen şişlik oluşturan iltihap türü",
         "letter": "A",
-        "answer": "Anestezi, aneztezi, anestesi"
+        "answer": "Apse"
     },
     {
-        "id": 49,
-        "question": "Duvarları boyamak için kullanılan sulandırılmış kireç ya da plastik boya",
+        "id": 129,
+        "question": "Veteriner hekim",
         "letter": "B",
-        "answer": "BADANA"
+        "answer": "baytar"
     },
     {
-        "id": 1308,
-        "question": "Küçük ve tatlı bir tür karpuz",
+        "id": 1358,
+        "question": "Bir eserin ayrı ayrı basılan bölümlerinden her biri",
         "letter": "C",
-        "answer": "Cimcime"
+        "answer": "Cilt, cildi"
     },
     {
-        "id": 167,
-        "question": "Kumluk, susuz ve ıssız geniş arazi, sahra, badiye",
+        "id": 1269,
+        "question": "\"Dünyanın en kalabalık ülkesi\" unvanına sahip olan ülke",
         "letter": "Ç",
-        "answer": "çöl"
+        "answer": "Çin, Çin Halk Cumhuriyeti"
     },
     {
-        "id": 556,
-        "question": "Gereği kadar pişmemiş",
+        "id": 1877,
+        "question": "Savmak ya da savuşturmak anlamındaki söz",
         "letter": "D",
-        "answer": "Diri"
+        "answer": "Defetmek, Defetme"
     },
     {
-        "id": 1404,
-        "question": "Kanunlar yönünden insanlar arasında ayrım bulunmaması durumu",
+        "id": 1407,
+        "question": "Kaynatılarak koyu kıvamlı duruma getirilen sert İtalyan kahvesi",
         "letter": "E",
-        "answer": "Eşitlik, eşitlik hakkı"
+        "answer": "Espresso"
     },
     {
-        "id": 217,
-        "question": "Çalışır durumda olan, etkin",
+        "id": 21,
+        "question": "Ağlayıp sızlama, bağırıp çağırma",
         "letter": "F",
-        "answer": "faal"
+        "answer": "Feryat, Figan, Feryat figan"
     },
     {
-        "id": 90,
-        "question": "Retina ve iris bulunan organımız",
+        "id": 1435,
+        "question": "Bir ekonomik birimin belli bir süre içinde kazandırdığı aylık, kira vb. getiri",
         "letter": "G",
-        "answer": "göz"
+        "answer": "Gelir"
     },
     {
-        "id": 593,
-        "question": "Uçan balonların içinde bulunan gaz",
+        "id": 248,
+        "question": "Dışta kalmak üzere, dışında sayılmak üzere, müstesna",
         "letter": "H",
-        "answer": "Helyum, Helyum gazı"
+        "answer": "hariç"
     },
     {
-        "id": 268,
-        "question": "Kabul etmeme, tanımama",
+        "id": 596,
+        "question": "Aşırı güçlü istek, tutku",
         "letter": "İ",
-        "answer": "inkar, inkar etme, inkar etmek"
+        "answer": "İhtiras"
     },
     {
-        "id": 1194,
-        "question": "Arabalarda da bulunan, yaz aylarında ortamı soğutmak için kullanılan cihaz",
+        "id": 1751,
+        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
         "letter": "K",
-        "answer": "Klima"
+        "answer": "Kıta"
     },
     {
-        "id": 985,
-        "question": "Tanrı'nın sevgi ve ilgisinden yoksun olma, beddua",
+        "id": 1703,
+        "question": "Yıkanmak için kullanılan bitki telleri demeti veya türlü ipliklerden yapılmış örgü",
         "letter": "L",
-        "answer": "Lanet, lanetleme, lanetlenme, lanetlenmek"
+        "answer": "Lif"
     },
     {
-        "id": 1618,
-        "question": "Bir kimsenin sürekli ilişkide bulunduğu insanlar topluluğu, çevre",
+        "id": 1166,
+        "question": "Küçük, ufak tefek, zarif",
         "letter": "M",
-        "answer": "Muhit"
+        "answer": "Minyon"
     },
     {
-        "id": 54,
-        "question": "Afrika'nın en uzun nehri",
+        "id": 1758,
+        "question": "Bir olayın doğurduğu başka bir olay veya durum",
         "letter": "N",
-        "answer": "Nil, Nil nehri"
+        "answer": "Netice"
     },
     {
-        "id": 647,
-        "question": "Matematikte sıfır noktası",
+        "id": 1898,
+        "question": "GÖZETİLEN AMACA VEYA BEKLENİLENE UYGUN OLMAYAN, MENFİ",
         "letter": "O",
-        "answer": "Orijin, Orjin, Orjin noktası, Orijin noktası"
+        "answer": "Olumsuz"
     },
     {
-        "id": 360,
-        "question": "İleride geri verilmek veya alınmak şartıyla alınan veya verilen (şey)",
+        "id": 364,
+        "question": "Yalnız bir kişiye, bir şeye ait veya ilişkin olan",
         "letter": "Ö",
-        "answer": "ödünç, ödünç alma, ödünç almak"
+        "answer": "özel"
     },
     {
-        "id": 1177,
-        "question": "Eskimiş bez veya kumaş parçası, çaput",
+        "id": 1023,
+        "question": "Baykuşgillerden, orman, dağ ve kayalıklarda yaşayan, uzunluğu 65 cm, sırtı koyu kahverengi bir kuş türü",
         "letter": "P",
-        "answer": "Paçavra"
+        "answer": "Puhu"
     },
     {
-        "id": 683,
-        "question": "Yanlış, yozlaşmış, vb. şeylerin iyileştirilmesi veya köklü değiştirilmesi",
+        "id": 680,
+        "question": "İzin belgesi",
         "letter": "R",
-        "answer": "Reform, Reform yapma, Reform yapmak"
+        "answer": "Ruhsat, Ruhsat belgesi"
     },
     {
-        "id": 1789,
-        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
+        "id": 412,
+        "question": "Bir kimsenin, bir kurum veya bir toplum içindeki durumu",
         "letter": "S",
-        "answer": "Sarsıntı"
+        "answer": "statü, statüsü"
     },
     {
-        "id": 832,
-        "question": "Sesi tanımlayan sözlerden oluşmuş “çabucak” anlamında kullanılan bir kelime",
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
         "letter": "Ş",
-        "answer": "Şipşak"
+        "answer": "şirket"
     },
     {
-        "id": 706,
-        "question": "Bağırıp çağırarak, alkışlayıp tempo tutarak yapılan destek",
+        "id": 441,
+        "question": "Bir şeyi yapabilme gücü, hâl, derman",
         "letter": "T",
-        "answer": "Tezahürat, Tezzahürat"
+        "answer": "takat"
     },
     {
-        "id": 778,
-        "question": "Zafer, Üstünlük Sağlama, Yenme",
+        "id": 454,
+        "question": "Sessiz bir biçimde, yavaşça",
         "letter": "U",
-        "answer": "utku"
+        "answer": "usulca"
     },
     {
-        "id": 464,
-        "question": "Korkuya çabuk kapılan",
+        "id": 861,
+        "question": "Sivrisineğe benzer çok küçük bir sinek türü",
         "letter": "Ü",
-        "answer": "ürkek"
+        "answer": "Üvez"
     },
     {
-        "id": 732,
-        "question": "Diğer adı petrol jelatini olan nemlendirici bakım ürünü",
+        "id": 482,
+        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
         "letter": "V",
-        "answer": "Vazelin, Vaseline"
+        "answer": "vezne"
     },
     {
-        "id": 891,
-        "question": "Baştan savma, üstünkörü",
+        "id": 773,
+        "question": "Japon mafyası",
         "letter": "Y",
-        "answer": "Yalapşap, yalap şap, yalapsap"
+        "answer": "Yakuza"
     },
     {
-        "id": 1303,
-        "question": "Çapkın, kadın düşünü anlamlarındaki bir söz",
+        "id": 1587,
+        "question": "İç içe geçen sehpa",
         "letter": "Z",
-        "answer": "Zampara"
+        "answer": "Zigon, zigon sehpa"
     }
 ]

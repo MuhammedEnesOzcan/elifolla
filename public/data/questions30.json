@@ -1,93 +1,93 @@
 [
     {
-        "id": 1380,
-        "question": "Tehlikeli oyunlar yapan gösteri sanatçısı",
+        "id": 106,
+        "question": "Bir uyarıyı, bir tehlikeyi bildirmek için verilen işaret",
         "letter": "A",
-        "answer": "Akrobat, akrobasi sanatçısı"
+        "answer": "alarm"
     },
     {
-        "id": 1602,
-        "question": "Alım ve de satım işleri ile ilgilenmekte olan şirketlere aracılıklar yapan komisyoncu",
+        "id": 1297,
+        "question": "Bir şeyin iyi gelişmesi, iyi bir durumda kalması için verilen emek",
         "letter": "B",
-        "answer": "Broker"
+        "answer": "Bakım, bakım yapma, bakım yapmak"
     },
     {
-        "id": 14,
-        "question": "Ülkemizde de sık görülen bir tür köpek balığı?",
+        "id": 1653,
+        "question": "Yeryüzünü fiziksel, ekonomik, beşerî, siyasal yönlerden inceleyen bilim",
         "letter": "C",
-        "answer": "camgöz"
+        "answer": "Coğrafya"
     },
     {
-        "id": 1449,
-        "question": "Diz kapaklarına kadar çıkan bir çeşit ayakkabı",
+        "id": 1448,
+        "question": "İri köpek, çoban köpeği",
         "letter": "Ç",
-        "answer": "Çizme"
+        "answer": "Çomar"
     },
     {
-        "id": 552,
-        "question": "Her şeyi zamanında yapmaya özen gösteren",
+        "id": 1829,
+        "question": "\"DOĞRU\", \"BİÇİMLİ\", \"MUNTAZAM\" ANLAMINA GELEN BİR SÖZCÜK",
         "letter": "D",
-        "answer": "Dakik"
+        "answer": "Düzgün, Düzenli"
     },
     {
-        "id": 202,
-        "question": "Bir devleti başka bir devlet katında temsil eden kimse, sefir",
+        "id": 1412,
+        "question": "İnsan vücudunun herhangi bir boşluğunu, muayeneyi kolaylaştırmak için aydınlatıp görünür duruma getiren alet",
         "letter": "E",
-        "answer": "elçi"
+        "answer": "Endoskop"
     },
     {
-        "id": 751,
-        "question": "Gerçekte var olmayan, hayali anlamındaki söz",
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
         "letter": "F",
-        "answer": "Fantastik"
+        "answer": "fünye"
     },
     {
-        "id": 972,
-        "question": "Ülkeler veya şehirler arasında yapılan uzun yolculuk, seyahat",
+        "id": 1899,
+        "question": "İLAÇ DESTEĞİ İLE DE YAPILAN AĞIZ VE BOĞAZ BANYOSU",
         "letter": "G",
-        "answer": "Gezi"
+        "answer": "Gargara"
     },
     {
-        "id": 973,
-        "question": "Yere veya mobilya üstüne serilmek, duvara gerilmek için, genellikle yünden dokunan, kısa ve sık tüylü, nakışlı, kalın yaygı",
+        "id": 1441,
+        "question": "Normalden yüksek olan atardamar basıncı",
         "letter": "H",
-        "answer": "Halı"
+        "answer": "Hipertansiyon"
     },
     {
-        "id": 260,
-        "question": "Kötü bir olaydan alınması gereken ders, uyarıcı sonuç",
+        "id": 1610,
+        "question": "Bir bedelin ödenmesi sırasında yapılan indirim",
         "letter": "İ",
-        "answer": "ibret, ibret alma, ibret almak"
+        "answer": "İskonto, iskonto uygulama, iskonto uygulamak"
     },
     {
-        "id": 1190,
-        "question": "Üzerinde harfler, rakamlar, işaretler ve bazı işlevleri bulunan bilgisayar giriş ögesi",
+        "id": 1795,
+        "question": "RUMCA KÖKENLİ “YIPRANMIŞ, ESKİ VE BAKIMSIZ” ANLAMLARINDA DAHA ÇOK ARAÇLAR, MAKİNELER İÇİN KULLANILAN SÖZCÜK",
         "letter": "K",
-        "answer": "Klavye"
+        "answer": "Külüstür"
     },
     {
-        "id": 300,
-        "question": "Yasal olan",
+        "id": 618,
+        "question": "Bir kimsenin, kendisine iş verilmeye uygunluğu",
         "letter": "L",
-        "answer": "legal"
+        "answer": "Liyakat, Liyakatli, Liyakatliliği"
     },
     {
-        "id": 634,
-        "question": "Akla uygun, doğru düşünülmüş",
+        "id": 316,
+        "question": "Büyük, geniş, mikro karşıtı",
         "letter": "M",
-        "answer": "Mantıklı"
+        "answer": "makro"
     },
     {
-        "id": 916,
-        "question": "Durgun sularda ya da havuzlarda yetişen, geniş yapraklı su bitkisi",
+        "id": 339,
+        "question": "Tavsiye, öğüt",
         "letter": "N",
-        "answer": "Nilüfer, nılufer"
+        "answer": "nasihat"
     },
     {
-        "id": 341,
-        "question": "Yüksek ve alçaktan mermi atabilen kısa namlulu top",
+        "id": 931,
+        "question": "Kışı geçirmek için yapılan çoban kulübesi",
         "letter": "O",
-        "answer": "obüs"
+        "answer": "Odak"
     },
     {
         "id": 369,
@@ -96,58 +96,58 @@
         "answer": "Özgün"
     },
     {
-        "id": 32,
-        "question": "Yer altından çıkartılan, yağa benzer, sıvı formda bulunan ham madde",
+        "id": 1119,
+        "question": "Ebegümecigillerden, koza biçimindeki meyvesi üç, dört, beş dilimli olan, sıcak bölgelerde yetişen tarım bitkisi",
         "letter": "P",
-        "answer": "Petrol"
+        "answer": "pamuk"
     },
     {
-        "id": 400,
-        "question": "Bir spor dalında erişilmiş derecelerin en üstünü",
+        "id": 385,
+        "question": "Gerçek olmayan davranış, gösteriş",
         "letter": "R",
-        "answer": "rekor"
+        "answer": "rol"
     },
     {
-        "id": 1931,
-        "question": "BİR ŞEYİN YAYILABİLECEĞİ VEYA GENİŞLEYEBİLECEĞİ SON ÇİZGİ",
+        "id": 63,
+        "question": "Garri Kasparov'un \"Büyük Usta\" unvanına sahip olduğu oyun",
         "letter": "S",
-        "answer": "Sınır"
+        "answer": "Satranç"
     },
     {
-        "id": 1687,
-        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "id": 429,
+        "question": "Söyleyiş özelliği",
         "letter": "Ş",
-        "answer": "Şakak"
+        "answer": "şive"
     },
     {
-        "id": 1064,
-        "question": "Şişe gibi dar delikleri tıkamaya yarayan mantar, cam, tahta veya plastikten tıkaç",
+        "id": 1130,
+        "question": "Ölünün içine konulduğu sandık biçiminde araç, sal",
         "letter": "T",
-        "answer": "tapa, tıpa"
+        "answer": "tabut"
     },
     {
-        "id": 778,
-        "question": "Zafer, Üstünlük Sağlama, Yenme",
+        "id": 1513,
+        "question": "Bir nesnenin uzayda kapladığı yer, vüsat",
         "letter": "U",
-        "answer": "utku"
+        "answer": "Uzam"
     },
     {
-        "id": 1473,
-        "question": "Oyunda, yenilmek, kaybetmek",
+        "id": 1509,
+        "question": "Boyacılıkta kullanılan zehirli, bazik kurşun karbonat",
         "letter": "Ü",
-        "answer": "Ütülmek"
+        "answer": "Üstübeç"
     },
     {
-        "id": 1506,
-        "question": "Geliş, gelme",
+        "id": 771,
+        "question": "Araç, taşıt anlamlarındaki söz",
         "letter": "V",
-        "answer": "Vürut"
+        "answer": "Vasıta"
     },
     {
-        "id": 1239,
-        "question": "Bir parçadan oluşan, tek parça, bütün",
+        "id": 773,
+        "question": "Japon mafyası",
         "letter": "Y",
-        "answer": "Yekpare"
+        "answer": "Yakuza"
     },
     {
         "id": 738,

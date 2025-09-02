@@ -1,75 +1,75 @@
 [
     {
-        "id": 1695,
-        "question": "Otobüs, tren gibi ulaşım araçlarında para yerine geçen sürekliliği olan bilet veya kart",
+        "id": 111,
+        "question": "Gıdalarda bulunan hoş koku ya da tat",
         "letter": "A",
-        "answer": "Abonman"
+        "answer": "aroma"
     },
     {
-        "id": 1598,
-        "question": "Bir yemek adı olarak da kullanılan; Büyükbaş ve küçükbaş hayvanların kalın bağırsağı",
+        "id": 786,
+        "question": "Deneme ve günce yazılarıyla doldurulan sanal platform",
         "letter": "B",
-        "answer": "Bumbar, bumbar dolması"
+        "answer": "Blog"
     },
     {
-        "id": 1370,
-        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
+        "id": 1374,
+        "question": "Aygıt, alet, takım",
         "letter": "C",
-        "answer": "Cumhuriyet"
+        "answer": "Cihaz"
     },
     {
-        "id": 175,
-        "question": "Taklit olan, sahte",
+        "id": 170,
+        "question": "Hayatı boyunca birçok sıkıntı ve üzüntü çekmiş (kimse)",
         "letter": "Ç",
-        "answer": "çakma"
+        "answer": "çilekeş"
     },
     {
-        "id": 1399,
-        "question": "Büyük takımlar arasında oynanan maç",
+        "id": 1382,
+        "question": "Bedensel veya ruhsal dengenin değişmesi sonucu ortaya çıkan ve canlıyı türlü tepkilere sürükleyebilen içten gelen gerilim",
         "letter": "D",
-        "answer": "Derbi, derbi maçı"
+        "answer": "Dürtü"
     },
     {
-        "id": 210,
-        "question": "Zaman içinde birdenbire olmayan, kesintisiz, niteliksel ve niceliksel gelişme süreci",
+        "id": 796,
+        "question": "“Hiç kuşku yok, kuşkusuz” anlamında kullanılan söz",
         "letter": "E",
-        "answer": "evrim"
+        "answer": "Elbette"
     },
     {
-        "id": 1189,
-        "question": "Yenen, fetheden kimse",
+        "id": 1827,
+        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
         "letter": "F",
-        "answer": "Fatih"
+        "answer": "Ferah"
     },
     {
-        "id": 1422,
-        "question": "Gece kalmadan aynı gün dönmek üzere yapılan ziyaret ya da gezi",
+        "id": 753,
+        "question": "Bitkilerin büyümesi için gerekli gıdayı ihtiva eden madde",
         "letter": "G",
-        "answer": "Günübirlik"
+        "answer": "Gübre"
     },
     {
-        "id": 591,
-        "question": "Merkezi vücut sıcaklığının 35°C altına düşmesi",
+        "id": 1216,
+        "question": "Arma bilimi ve mühür biliminin diğer adı",
         "letter": "H",
-        "answer": "Hipotermi"
+        "answer": "Heraldik"
     },
     {
-        "id": 600,
-        "question": "Bir yeri ele geçirme",
+        "id": 1817,
+        "question": "Bir kardeşini de beraberinde getiren bebeklerin birbirine göre varoluşsal durumu",
         "letter": "İ",
-        "answer": "İşgal, işgal etme, işgal etmek"
+        "answer": "İkiz, ikizlik"
     },
     {
-        "id": 757,
-        "question": "Bir işte, bir satışta aracılık eden kimseye bırakılan yüzdelik",
+        "id": 613,
+        "question": "Uygunsuz hareket, çirkin, yakışıksız davranış, suç",
         "letter": "K",
-        "answer": "Komisyon, Kar, Kâr"
+        "answer": "Kabahat"
     },
     {
-        "id": 307,
-        "question": "Doku bozukluğu",
+        "id": 1703,
+        "question": "Yıkanmak için kullanılan bitki telleri demeti veya türlü ipliklerden yapılmış örgü",
         "letter": "L",
-        "answer": "lezyon"
+        "answer": "Lif"
     },
     {
         "id": 1213,
@@ -78,70 +78,70 @@
         "answer": "Muvaffak, muvaffak olma, muvaffak olmak"
     },
     {
-        "id": 1785,
-        "question": "Ney üfleyen sanatçı",
+        "id": 1520,
+        "question": "Bir şeyin özü, çekirdek",
         "letter": "N",
-        "answer": "Neyzen"
+        "answer": "Nüve"
     },
     {
-        "id": 1515,
-        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "id": 350,
+        "question": "Türlü renklerde tırnak cilası",
         "letter": "O",
-        "answer": "Oyuncu"
+        "answer": "oje"
     },
     {
-        "id": 1479,
-        "question": "İstek",
+        "id": 1538,
+        "question": "Korumak, görünmez duruma getirmek veya gizlemek için üstüne bir şey koymak",
         "letter": "Ö",
-        "answer": "Özenç"
+        "answer": "Örtmek"
     },
     {
-        "id": 1178,
-        "question": "Sözsüz tiyatro oyunu, mim sanatı",
+        "id": 1730,
+        "question": "Kolaylıkla uygulanabilir, kullanışlı olan",
         "letter": "P",
-        "answer": "Pandomim, pandomim sanatı"
+        "answer": "Pratik"
     },
     {
-        "id": 1028,
-        "question": "Rüşvet veren kimse",
+        "id": 33,
+        "question": "Yüksek basınçtan, alçak basınca doğru olan hava akımları",
         "letter": "R",
-        "answer": "Raşi"
+        "answer": "Rüzgar"
     },
     {
-        "id": 1044,
-        "question": "Sürekli yağan yağmurdan veya eriyen kardan oluşan, geçtiği yerlere zarar veren taşkın su",
+        "id": 1263,
+        "question": "Kadın veya çocuklarda en ince ses, sesi böyle olan sanatçı",
         "letter": "S",
-        "answer": "sel"
+        "answer": "Soprano"
     },
     {
-        "id": 1687,
-        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "id": 1055,
+        "question": "Şiir söyleyen veya yazan kimse",
         "letter": "Ş",
-        "answer": "Şakak"
+        "answer": "Şair"
     },
     {
-        "id": 439,
-        "question": "Manyetik bir bant üzerine sesleri kaydeden ve okuyan aygıt",
+        "id": 706,
+        "question": "Bağırıp çağırarak, alkışlayıp tempo tutarak yapılan destek",
         "letter": "T",
-        "answer": "teyp"
+        "answer": "Tezahürat, Tezzahürat"
     },
     {
-        "id": 69,
-        "question": "Tıraş için kullanılan açılır kapanır keskin bıçak",
+        "id": 1070,
+        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
         "letter": "U",
-        "answer": "ustura"
+        "answer": "Uçkun"
     },
     {
-        "id": 1472,
-        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
+        "id": 38,
+        "question": "Fakülteler topluluğu",
         "letter": "Ü",
-        "answer": "Ürkmek"
+        "answer": "ÜNİVERSİTE"
     },
     {
-        "id": 472,
-        "question": "İki dağ arasındaki çukurca arazi veya geçit",
+        "id": 771,
+        "question": "Araç, taşıt anlamlarındaki söz",
         "letter": "V",
-        "answer": "vadi"
+        "answer": "Vasıta"
     },
     {
         "id": 1583,
@@ -150,9 +150,9 @@
         "answer": "Yassı"
     },
     {
-        "id": 719,
-        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
+        "id": 1294,
+        "question": "Parasız, yoksul, meteliksiz olan",
         "letter": "Z",
-        "answer": "Zindan"
+        "answer": "Züğürt, züürt, zürt, zügürt"
     }
 ]

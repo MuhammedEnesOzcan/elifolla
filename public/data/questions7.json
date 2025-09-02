@@ -1,158 +1,158 @@
 [
     {
-        "id": 1820,
-        "question": "Giysiyi bütünleyen çanta, kemer vb. gibi şeyler",
+        "id": 1900,
+        "question": "“ÇOK BİLEN KİMSE” ANLAMINDA ARAPÇA KÖKENLİ BİR SIFAT",
         "letter": "A",
-        "answer": "Aksesuar, Aksessuar"
+        "answer": "Alim"
     },
     {
-        "id": 1599,
-        "question": "Şehir içinde ağaçlı, geniş cadde",
+        "id": 148,
+        "question": "Bir müzik eserini oluşturan ezgilerin bütünü",
         "letter": "B",
-        "answer": "Bulvar"
+        "answer": "beste"
     },
     {
-        "id": 1367,
-        "question": "Bireye, üreme işinde ayrı bir rol veren ve erkekle dişiyi ayırt ettiren özellik",
+        "id": 163,
+        "question": "Bir yeri, bir veya daha çok bölüme ayıran cam bölme",
         "letter": "C",
-        "answer": "Cinsiyet"
+        "answer": "camekan"
     },
     {
-        "id": 1762,
-        "question": "Her zaman menfaati doğrultusunda hareket eden kişi",
+        "id": 1873,
+        "question": "DOĞA KİRLİLİĞİ SORUNLARIYLA UĞRAŞAN KİMSE VEYA TOPLULUK",
         "letter": "Ç",
-        "answer": "Çıkarcı"
+        "answer": "Çevreci"
     },
     {
-        "id": 552,
-        "question": "Her şeyi zamanında yapmaya özen gösteren",
+        "id": 196,
+        "question": "Belirli miktarın veya büyüklüğün iki katı",
         "letter": "D",
-        "answer": "Dakik"
+        "answer": "duble"
     },
     {
-        "id": 1211,
-        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
+        "id": 1413,
+        "question": "Ücret karşılığı eşyayı koruyan kimse",
         "letter": "E",
-        "answer": "Emekleme, emeklemek"
+        "answer": "Emanetçi"
     },
     {
-        "id": 1699,
-        "question": "Sık rastlanan bir tür boğaz enfeksiyonu",
+        "id": 1671,
+        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
         "letter": "F",
-        "answer": "Farenjit, faranjit"
+        "answer": "Filiz"
     },
     {
-        "id": 1746,
-        "question": "Evlenmekte olan bir erkeğe düğün töreni sırasında verilen ad",
+        "id": 1431,
+        "question": "Otomobil vb. taşıtların konulduğu üstü örtülü yer",
         "letter": "G",
-        "answer": "Güvey"
+        "answer": "Garaj"
     },
     {
-        "id": 1446,
-        "question": "Rastlantı sonucu olarak, tesadüfen",
+        "id": 1439,
+        "question": "Bir durum veya davranışın kesinlikle kabul edilmediğini anlatan bir söz",
         "letter": "H",
-        "answer": "Hasbelkader"
+        "answer": "Haşa"
     },
     {
-        "id": 259,
-        "question": "Açıklama durumu",
+        "id": 958,
+        "question": "Uyarma",
         "letter": "İ",
-        "answer": "izah, izah etme, izah etme"
+        "answer": "ikaz, ikaz etme, ikaz etmek"
     },
     {
-        "id": 607,
-        "question": "Kalp hastalıkları uzmanı",
+        "id": 1288,
+        "question": "Mukayese etmek, karşılaştırmak",
         "letter": "K",
-        "answer": "Kardiyolog"
+        "answer": "Kıyaslamak, kıyaslama, kıyas yapma, kıyas yapmak"
     },
     {
-        "id": 1705,
-        "question": "Sıvıları ölçmede kullanılan, bir desimetreküp hacminde ölçü birimi ",
+        "id": 616,
+        "question": "Şişkinlik yaptığıyla bilinen süt şekeri",
         "letter": "L",
-        "answer": "Litre"
+        "answer": "Laktoz"
     },
     {
-        "id": 314,
-        "question": "Ayrı tutulmuş, ayrıcalık tanınmış",
+        "id": 323,
+        "question": "Kalıtım yoluyla gelen herhangi bir özellik",
         "letter": "M",
-        "answer": "muaf"
+        "answer": "miras, mizaç"
     },
     {
-        "id": 639,
-        "question": "Tarlayı sürüp herhangi bir şey ekmeden dinlenmeye bırakma",
+        "id": 327,
+        "question": "Haykırma, bağırma",
         "letter": "N",
-        "answer": "Nadas, nadasa bırakma, nadasa bırakmak"
+        "answer": "nara, nara atma, nara atmak"
     },
     {
-        "id": 652,
-        "question": "Antik Yunan'da müzisyenlerin konser verdiği basamaklı yer",
+        "id": 1736,
+        "question": "Elektrik sinyallerini görselleştirmek, ölçmek ve analiz etmek için kullanılan cihaz",
         "letter": "O",
-        "answer": "Odeon"
+        "answer": "Osiloskop"
     },
     {
-        "id": 1479,
-        "question": "İstek",
+        "id": 363,
+        "question": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye",
         "letter": "Ö",
-        "answer": "Özenç"
+        "answer": "övgü"
     },
     {
-        "id": 1012,
-        "question": "İç içe geçen veya birbiri üzerine gelen parçaları tutturmaya yarayan bir tür tahta veya metal çivi",
+        "id": 1740,
+        "question": "İnsanın yüzünün yandan görünüşü",
         "letter": "P",
-        "answer": "Pim"
+        "answer": "Profil"
     },
     {
-        "id": 1864,
-        "question": "YÜZEYDE KALMAYIP DERİNE İNEN, ASIL KONUYU DA İÇİNE ALAN, KÖKTEN",
+        "id": 1172,
+        "question": "Adet haline gelen şey, geleneksel tören",
         "letter": "R",
-        "answer": "Radikal"
+        "answer": "Ritüel"
     },
     {
-        "id": 1800,
-        "question": "Hareketlinin birim zamanda aldığı yol",
+        "id": 403,
+        "question": "Derinliği az, dibi yüzeyine yakın olan",
         "letter": "S",
-        "answer": "Sürat"
+        "answer": "sığ"
     },
     {
-        "id": 431,
-        "question": "Ortaklık, ortaklık kuruluşu",
+        "id": 1687,
+        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
         "letter": "Ş",
-        "answer": "şirket"
+        "answer": "Şakak"
     },
     {
-        "id": 439,
-        "question": "Manyetik bir bant üzerine sesleri kaydeden ve okuyan aygıt",
+        "id": 36,
+        "question": "1500 km²'lik yüzeyi ile Türkiye'nin ikinci büyük gölü ",
         "letter": "T",
-        "answer": "teyp"
+        "answer": "Tuz Gölü, Tuz"
     },
     {
-        "id": 1563,
-        "question": "Nükleer santrallerde en yaygın kullanılan ve radyoaktif atık bırakan yakıt",
+        "id": 446,
+        "question": "Giysi, kılık kıyafet",
         "letter": "U",
-        "answer": "Uranyum"
+        "answer": "urba"
     },
     {
-        "id": 868,
-        "question": "Bina eteği, etek duvarı veya subasman",
+        "id": 1471,
+        "question": "Havlamak",
         "letter": "Ü",
-        "answer": "Üstemel"
+        "answer": "Ürümek"
     },
     {
-        "id": 863,
-        "question": "Tahıl tanelerinin damıtılmasıyla elde edilen alkollü içki",
+        "id": 474,
+        "question": "Sevgiyi sürdürme, sevgi, dostluk bağlılığı",
         "letter": "V",
-        "answer": "Votka, vodka"
+        "answer": "vefa"
     },
     {
-        "id": 906,
-        "question": "Kısa kollu ceket, mont",
+        "id": 1582,
+        "question": "Hoşa gitmeyen, tatsız",
         "letter": "Y",
-        "answer": "Yelek"
+        "answer": "Yavan"
     },
     {
-        "id": 737,
-        "question": "Hoşluk, güzellik, incelik, zarif olma",
+        "id": 1586,
+        "question": "Dinç, canlı, diri, sağlam",
         "letter": "Z",
-        "answer": "Zarafet, Zerafet"
+        "answer": "Zinde"
     }
 ]

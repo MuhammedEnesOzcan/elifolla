@@ -1,99 +1,99 @@
 [
     {
-        "id": 1926,
-        "question": "BOKSTA, BÜKÜK KOLLA AŞAĞIDAN YUKARIYA DOĞRU ÇENEYE ATILAN YUMRUK",
+        "id": 85,
+        "question": "Şubatın 29 çektiği yıla ne denir",
         "letter": "A",
-        "answer": "Aparkat"
+        "answer": "Artık yıl, Artık"
     },
     {
-        "id": 1343,
-        "question": "Bükülmüş, kıvrılmış şeylerin oluşturduğu kat, kıvrım",
+        "id": 1709,
+        "question": "Karaoğlan lakaplı eski türk siyasetçi",
         "letter": "B",
-        "answer": "Büklüm, büklümler"
+        "answer": "Bülent Ecevit"
     },
     {
-        "id": 1377,
-        "question": "Mahkemede oturum, duruşma",
+        "id": 537,
+        "question": "Öfke, kızgınlık",
         "letter": "C",
-        "answer": "Celse"
+        "answer": "Celal, celallenme, celallenmek"
     },
     {
-        "id": 1859,
-        "question": "AYAKLA ÇİĞNENDİĞİNDE YA DA DUVARA SÜRTÜLDÜĞÜNDE PATLAYAN EĞLENCE FİŞEĞİ",
+        "id": 99,
+        "question": "Bulunulan çağın anlayışına, şartlarına uygun olan, modern, muasır",
         "letter": "Ç",
-        "answer": "Çatapat"
+        "answer": "çağdaş"
     },
     {
-        "id": 1382,
-        "question": "Bedensel veya ruhsal dengenin değişmesi sonucu ortaya çıkan ve canlıyı türlü tepkilere sürükleyebilen içten gelen gerilim",
+        "id": 190,
+        "question": "Bir yere süsleme amacıyla verilen düzen",
         "letter": "D",
-        "answer": "Dürtü"
+        "answer": "dekor, dekorasyon"
     },
     {
-        "id": 20,
-        "question": "Ağırlık ve uzunluk ölçüleri için kabul edilmiş yasal ölçü modeli",
+        "id": 1405,
+        "question": "Yalnızca ahlak üzerine kurulu yönetim biçimi",
         "letter": "E",
-        "answer": "Etalon"
+        "answer": "Etokrasi"
     },
     {
-        "id": 967,
-        "question": "Kahramanları çoklukla hayvanlardan seçilen, sonunda ders verme amacı güden, genellikle manzum hikâye, öykünce",
+        "id": 223,
+        "question": "Barut vb. patlayıcı maddeleri ateşlemek için kullanılan kapsül",
         "letter": "F",
-        "answer": "Fabl"
+        "answer": "fünye"
     },
     {
-        "id": 1896,
-        "question": "DÜZENSİZ, RAHATSIZ EDİCİ YÜKSEK SES VEYA SESLER BÜTÜNÜ",
+        "id": 1436,
+        "question": "Yerkürenin geometrik olmayan gerçek biçimi",
         "letter": "G",
-        "answer": "Gürültü"
+        "answer": "Geoit"
     },
     {
-        "id": 805,
-        "question": "Atak tabiatlı küçük savaş gemisi",
+        "id": 754,
+        "question": "Hem et hem de otla beslenen canlılar",
         "letter": "H",
-        "answer": "Hücumbot, Hücumbotu"
+        "answer": "Hepçil, Hepobur"
     },
     {
-        "id": 257,
-        "question": "Örnek alınan, en çok hayranlık duyulan kimse",
+        "id": 595,
+        "question": "Futbolda \"Üç Büyükler\"in bulunduğu ilimiz",
         "letter": "İ",
-        "answer": "idol"
+        "answer": "İstanbul"
     },
     {
-        "id": 1793,
-        "question": "İlgi uyandıran kişisel bir mevcudiyet veya çekicilik kalitesi",
+        "id": 279,
+        "question": "Üstün nitelikli, üstün yetenekli",
         "letter": "K",
-        "answer": "Karizma"
+        "answer": "klas, kalifiyeli, kalifiye"
     },
     {
-        "id": 615,
-        "question": "Sınıfsız, ayaktakımı, paçavra, sefil",
+        "id": 294,
+        "question": "Gösterişli, şatafatlı olan",
         "letter": "L",
-        "answer": "Lümpen"
+        "answer": "lüks"
     },
     {
-        "id": 315,
-        "question": "Devlet kademesinde yüksek ve önemli memuriyet, mevki, kat",
+        "id": 316,
+        "question": "Büyük, geniş, mikro karşıtı",
         "letter": "M",
-        "answer": "makam"
+        "answer": "makro"
     },
     {
-        "id": 912,
-        "question": "Hristiyanların en büyük bayramı",
+        "id": 987,
+        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
         "letter": "N",
-        "answer": "Noel"
+        "answer": "Naz"
     },
     {
-        "id": 907,
-        "question": "Görülebilen veya dokunulanilen herhangi bir şey",
+        "id": 30,
+        "question": "Düz ve geniş arazi",
         "letter": "O",
-        "answer": "Obje"
+        "answer": "Ova"
     },
     {
-        "id": 664,
-        "question": "Bir işi ileri tarihe atma, ertelemek",
+        "id": 368,
+        "question": "Herhangi bir kısıtlamaya, zorlamaya, şarta bağlı olmayan, hür",
         "letter": "Ö",
-        "answer": "Öteleme, ötelemek"
+        "answer": "özgür"
     },
     {
         "id": 1271,
@@ -102,57 +102,57 @@
         "answer": "Platon"
     },
     {
-        "id": 1644,
-        "question": "Medya sektöründe bir yayını yöneten ekip",
+        "id": 683,
+        "question": "Yanlış, yozlaşmış, vb. şeylerin iyileştirilmesi veya köklü değiştirilmesi",
         "letter": "R",
-        "answer": "Reji, reji ekibi"
+        "answer": "Reform, Reform yapma, Reform yapmak"
     },
     {
-        "id": 1159,
-        "question": "Uygulamalı öğrenme, iş öncesi öğrenme",
+        "id": 1263,
+        "question": "Kadın veya çocuklarda en ince ses, sesi böyle olan sanatçı",
         "letter": "S",
-        "answer": "Staj, stajyerlik, staj yapma, staj yapmak"
+        "answer": "Soprano"
     },
     {
-        "id": 702,
-        "question": "Kişilik, belirgin özellik",
+        "id": 432,
+        "question": "Belli bir amaçla düzenlenen eğlence",
         "letter": "Ş",
-        "answer": "Şahsiyet"
+        "answer": "şölen, şenlik"
     },
     {
-        "id": 720,
-        "question": "Tutum, idareli tüketme",
+        "id": 1831,
+        "question": "BİR AĞIZLIK VE KENDİ ÜSTÜNE KIVRILMIŞ SİLİNDİR BİR BORUDAN OLUŞAN NEFESLİ ÇALGI",
         "letter": "T",
-        "answer": "Tasarruf, Tasaruf"
+        "answer": "Trompet"
     },
     {
-        "id": 724,
-        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
+        "id": 1131,
+        "question": "Düz arazide veya açık denizde gökle yerin birleşir gibi göründüğü yer, çevren",
         "letter": "U",
-        "answer": "Uydu, uydusu"
+        "answer": "ufuk"
     },
     {
-        "id": 769,
-        "question": "Korkunun yarattığı serinlik",
+        "id": 470,
+        "question": "Hile, düzen, dolap",
         "letter": "Ü",
-        "answer": "Ürperti, Ürpermek"
+        "answer": "üçkağıt, üçkağıtçılık"
     },
     {
-        "id": 1208,
-        "question": "Manşet, smaç, pas gibi terimlerin bulunduğu spor dalı",
+        "id": 886,
+        "question": "Çiçek Koymak İçin Kullanılan Kap",
         "letter": "V",
-        "answer": "Voleybol"
+        "answer": "Vazo"
     },
     {
-        "id": 773,
-        "question": "Japon mafyası",
+        "id": 1140,
+        "question": "Dik, sarp",
         "letter": "Y",
-        "answer": "Yakuza"
+        "answer": "yalçın"
     },
     {
-        "id": 1591,
-        "question": "Bir şeyin, bir olayın yol açtığı çıkar kaybı veya olumsuz, kötü sonuç",
+        "id": 851,
+        "question": "Sarı renkli, kökleri ile birlikte toplanan, kökü bir baharat türü olan bitki",
         "letter": "Z",
-        "answer": "Zarar, ziyan"
+        "answer": "Zencefil, zencefıl"
     }
 ]

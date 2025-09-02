@@ -1,158 +1,158 @@
 [
     {
-        "id": 518,
-        "question": "Boyanacak yerlere boyadan önce sürülen kat",
+        "id": 125,
+        "question": "Eşyayı sarmaya yarayan mukavva, kâğıt, tahta, plastik vb. malzeme",
         "letter": "A",
-        "answer": "Astar, Astarı"
+        "answer": "ambalaj"
     },
     {
-        "id": 1781,
-        "question": "Fransızca’da Marie’nin banyosu anlamına gelen 'sıcak suda eritme' işi olan gastronomi terimi",
+        "id": 1202,
+        "question": "Divan edebiyatında 2 dizelik şiir birimi",
         "letter": "B",
-        "answer": "Benmari, Bain Marie"
+        "answer": "Beyit"
     },
     {
-        "id": 1374,
-        "question": "Aygıt, alet, takım",
+        "id": 532,
+        "question": "Heyecanlı, coşkulu ve atik kimse",
         "letter": "C",
-        "answer": "Cihaz"
+        "answer": "Cevval"
     },
     {
-        "id": 540,
-        "question": "Sözlerin veya davranışların birbirini tutmaması",
+        "id": 1844,
+        "question": "PARÇALARA AYRILIP DAĞILMAYACAK BİR BİÇİMDE YARILMA",
         "letter": "Ç",
-        "answer": "Çelişki"
+        "answer": "Çatlama, Çatlamak"
     },
     {
-        "id": 1963,
-        "question": "YUNAN ALFABESİNİN DÖRDÜNCÜ HARFİ",
+        "id": 199,
+        "question": "Yaşayışı ve davranışı düzensiz (kimse)",
         "letter": "D",
-        "answer": "DELTA"
+        "answer": "derbeder"
     },
     {
-        "id": 205,
-        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
+        "id": 1413,
+        "question": "Ücret karşılığı eşyayı koruyan kimse",
         "letter": "E",
-        "answer": "ezel"
+        "answer": "Emanetçi"
     },
     {
-        "id": 1713,
-        "question": "Karınca asidi olarak bilinen kimyadaki asit türü",
+        "id": 219,
+        "question": "İstenilen şeylerin yazılması, doldurulması için hazırlanmış basılı belge",
         "letter": "F",
-        "answer": "Formik, Formik asit, Formik asid"
+        "answer": "form"
     },
     {
-        "id": 579,
-        "question": "Su veya hava akıntısının dönerek ve çukurlaşarak yaptığı çevrinti",
+        "id": 86,
+        "question": "Sinema, stad gibi etkinlik alanlarında bilet alınan yer",
         "letter": "G",
-        "answer": "Girdap"
+        "answer": "gişe"
     },
     {
-        "id": 1247,
-        "question": "Bir sistem içerisindeki bir elamanın diğerlerinden üstün ve baskın olması",
+        "id": 252,
+        "question": "Niteliği değişmemiş, aslına uygun olan",
         "letter": "H",
-        "answer": "Hegemonya, hegamonya, hegomonya"
+        "answer": "hakiki"
     },
     {
-        "id": 604,
-        "question": "Gerçeğin gülünç yanını ortaya koyan ince alay",
+        "id": 1605,
+        "question": "Birinin iyi niyetini kötüye kullanma",
         "letter": "İ",
-        "answer": "İroni"
+        "answer": "İstismar, istismar etme, istismar etmek"
     },
     {
-        "id": 1922,
-        "question": "FRANSIZCA KÖKENLİ “KONTRAST” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "id": 70,
+        "question": "Ünlü masala göre tavşanı yarışta geçen hayvan",
         "letter": "K",
-        "answer": "Karşıtlık"
+        "answer": "kaplumbağa"
     },
     {
-        "id": 292,
-        "question": "Bir yapının kapısından içeri girildiğinde görülen ilk boşluk, bekleme alanı",
+        "id": 1612,
+        "question": "Yanardağların ağzından fışkırıp akan, soğuyunca donan erimiş madde",
         "letter": "L",
-        "answer": "lobi"
+        "answer": "Lav"
     },
     {
-        "id": 815,
-        "question": "Bir şeyi iflah olmaz, onmaz hale getirmek",
+        "id": 325,
+        "question": "Konu, beklenmedik olay",
         "letter": "M",
-        "answer": "Mahvetmek, Mahvetme"
+        "answer": "mevzu"
     },
     {
-        "id": 921,
-        "question": "Kalp atışı, damarın bir kez vuruşu",
+        "id": 331,
+        "question": "Sona eren olay veya iş, son, sonuncu",
         "letter": "N",
-        "answer": "Nabza, nabız, nabız atması"
+        "answer": "nihai"
     },
     {
-        "id": 1000,
-        "question": "Keçi yavrusu",
+        "id": 1001,
+        "question": "Erkek çocuk",
         "letter": "O",
-        "answer": "Oğlak"
+        "answer": "Oğlan"
     },
     {
-        "id": 1117,
-        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "id": 367,
+        "question": "Bir maddenin herhangi bir yolla elde edilmiş olan özü",
         "letter": "Ö",
-        "answer": "ölmek, ölüm, ölme"
+        "answer": "özüt, özütü"
     },
     {
-        "id": 1016,
-        "question": "Posta parası karşılığı mektuplara, damga resmine karşılık kâğıtlara yapıştırılan, basılı küçük kâğıt parçası",
+        "id": 822,
+        "question": "Haftanın belli günleri seyyar satıcıların sergi açtıkları sokak veya alan",
         "letter": "P",
-        "answer": "Pul"
+        "answer": "Pazar, Pazaryeri"
     },
     {
-        "id": 390,
-        "question": "Üzerinde boks yapılan, çevresi kordonla çevrilmiş yer",
+        "id": 1037,
+        "question": "Aruz ölçülerinden biri",
         "letter": "R",
-        "answer": "ring"
+        "answer": "Remel"
     },
     {
-        "id": 1789,
-        "question": "Ruh biliminde 'Travma', Birdenbire gelişen karmaşık belirtilerin tümü",
+        "id": 1123,
+        "question": "Geçen, önceki, eski",
         "letter": "S",
-        "answer": "Sarsıntı"
+        "answer": "sabık, selef, selefi"
     },
     {
-        "id": 1684,
-        "question": "Otomobil iç lastiği",
+        "id": 430,
+        "question": "Saydam, yalın, açık",
         "letter": "Ş",
-        "answer": "Şambrel"
+        "answer": "şeffaf"
     },
     {
-        "id": 1831,
-        "question": "BİR AĞIZLIK VE KENDİ ÜSTÜNE KIVRILMIŞ SİLİNDİR BİR BORUDAN OLUŞAN NEFESLİ ÇALGI",
+        "id": 52,
+        "question": "At ve eşek gibi tek tırnaklı hayvanların tırnağına verilen ad",
         "letter": "T",
-        "answer": "Trompet"
+        "answer": "Toynak"
     },
     {
-        "id": 1561,
-        "question": "Merkezi sinir sistemine etki ederek farkındalığı, dikkati ve uyanıklığı artıran ilaçlar ya da maddeler",
+        "id": 1079,
+        "question": "Birinin yapmakla yükümlü olduğu iş, görev",
         "letter": "U",
-        "answer": "Uyarıcı, uyarıcı ilaçlar, uyarıcı maddeler"
+        "answer": "uhde"
     },
     {
-        "id": 769,
-        "question": "Korkunun yarattığı serinlik",
+        "id": 725,
+        "question": "Birci, birlikten yana olan, tekil, birimsel",
         "letter": "Ü",
-        "answer": "Ürperti, Ürpermek"
+        "answer": "Üniter"
     },
     {
-        "id": 474,
-        "question": "Sevgiyi sürdürme, sevgi, dostluk bağlılığı",
+        "id": 1571,
+        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
         "letter": "V",
-        "answer": "vefa"
+        "answer": "Vasıfsız, vasıfsız eleman"
     },
     {
-        "id": 733,
-        "question": "Alışamamak, yabancılık çekmek",
+        "id": 1584,
+        "question": "Bir işten elde edilen iyi sonuç, fayda",
         "letter": "Y",
-        "answer": "Yadırgama, Yadırgamak"
+        "answer": "Yarar"
     },
     {
-        "id": 1589,
-        "question": "Çok küçük parçacık",
+        "id": 1836,
+        "question": "HAYVANLARI İNCELEYEN BİLİM DALI",
         "letter": "Z",
-        "answer": "Zerre"
+        "answer": "Zooloji"
     }
 ]

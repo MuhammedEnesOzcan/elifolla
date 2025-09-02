@@ -1,158 +1,158 @@
 [
     {
-        "id": 1918,
-        "question": "“SERBEST, HÜR, ÖZGÜR” ANLAMLARINDA FARSÇA KÖKENLİ BİR SÖZCÜK",
+        "id": 121,
+        "question": "Kuşatma",
         "letter": "A",
-        "answer": "Azat, Azad, Azade"
+        "answer": "abluka"
     },
     {
-        "id": 1342,
-        "question": "Kuruluş veya yetkili kişilerce herhangi bir durumla ilgili olarak süreli veya süresiz yayımlanan duyuru",
+        "id": 145,
+        "question": "Kendine özgü nitelikleri yitirmeden bölünemeyen tek varlık, fert",
         "letter": "B",
-        "answer": "Bülten"
+        "answer": "birey"
     },
     {
-        "id": 1923,
-        "question": "MECAZEN, “SOĞUK, AYARSIZ VE CAN SIKICI ŞAKALAR YAPAN KİMSELERİ” NİTELEYEN BİR SÖZ",
+        "id": 914,
+        "question": "At Alıp Satan Kimse",
         "letter": "C",
-        "answer": "Cıvık"
+        "answer": "Cambaz, canbaz"
     },
     {
-        "id": 545,
-        "question": "Bir dilden başka bir dile aktarma, tercüme",
+        "id": 170,
+        "question": "Hayatı boyunca birçok sıkıntı ve üzüntü çekmiş (kimse)",
         "letter": "Ç",
-        "answer": "Çeviri"
+        "answer": "çilekeş"
     },
     {
-        "id": 1390,
-        "question": "Üstü şekerli, renkli ve parlak bir madde ile kaplanmış hap",
+        "id": 549,
+        "question": "Fiziksel veya dijital evrak ya da varlık, doküman",
         "letter": "D",
-        "answer": "Draje"
+        "answer": "Dosya"
     },
     {
-        "id": 1419,
-        "question": "Gereğinden fazla artış, pahalılaşma",
+        "id": 1410,
+        "question": "Mal ve değerlere ait döküm",
         "letter": "E",
-        "answer": "Enflasyon, enflasyon oranı"
+        "answer": "Envanter"
     },
     {
-        "id": 21,
-        "question": "Ağlayıp sızlama, bağırıp çağırma",
+        "id": 969,
+        "question": "Başkalık, ayrım, nüans",
         "letter": "F",
-        "answer": "Feryat, Figan, Feryat figan"
+        "answer": "Fark, farklılık"
     },
     {
-        "id": 240,
-        "question": "Henüz açılmamış veya açılmak üzere olan çiçek",
+        "id": 234,
+        "question": "Olağanüstü yarar göstererek savaştan sağ olarak dönen kimse",
         "letter": "G",
-        "answer": "gonca"
+        "answer": "gazi"
     },
     {
-        "id": 754,
-        "question": "Hem et hem de otla beslenen canlılar",
+        "id": 807,
+        "question": "İçe dert olan hayal kırıklığı, düşyıkımı",
         "letter": "H",
-        "answer": "Hepçil, Hepobur"
+        "answer": "Hüsran"
     },
     {
-        "id": 1842,
-        "question": "ESKİ DİLDE BİR ŞEYİ YAPMAKTAN ÇEKİNME DURUMU",
+        "id": 270,
+        "question": "Çözülmesi kolay düğüm, eğreti düğüm",
         "letter": "İ",
-        "answer": "İmtina, İmtina etme, İmtina etmek"
+        "answer": "ilmek"
     },
     {
-        "id": 1233,
-        "question": "Bir düzlemdeki konum, coğrafik konum",
+        "id": 1885,
+        "question": "BİR DÜŞÜNCEYİ EKSİKSİZ OLARAK ANLATAN KELİME DİZİSİ, SÖZ",
         "letter": "K",
-        "answer": "Koordinat, kordinat"
+        "answer": "Kelam"
     },
     {
-        "id": 620,
-        "question": "Fazlalık, gereksiz, yersiz",
+        "id": 622,
+        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
         "letter": "L",
-        "answer": "Lüzumsuz, Luzumsuz"
+        "answer": "Liste"
     },
     {
-        "id": 1621,
-        "question": "Hareketli, taşınabilir",
+        "id": 1108,
+        "question": "Miskete fiske vurarak oynanan zıpzıp oyunu",
         "letter": "M",
-        "answer": "Mobil"
+        "answer": "madık, Madik"
     },
     {
-        "id": 988,
-        "question": "Açıklık, açık ve kesin yargı",
+        "id": 908,
+        "question": "Sinir sisteminin bağımsız en küçük ünitesi",
         "letter": "N",
-        "answer": "nas"
+        "answer": "Nöron, noron, nöron ağı, nöron ağ"
     },
     {
-        "id": 646,
-        "question": "Kağıt katlama sanatı",
+        "id": 349,
+        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
         "letter": "O",
-        "answer": "Origami"
+        "answer": "onbaşı"
     },
     {
-        "id": 366,
-        "question": "Bir kusurun hoş görülmesini gerektiren sebep, mazeret",
+        "id": 655,
+        "question": "Öteki, diğer anlamlarındaki söz",
         "letter": "Ö",
-        "answer": "özür"
+        "answer": "Öbür, Öbürü"
     },
     {
-        "id": 1018,
-        "question": "Pantolon, don, şalvar vb. giyeceklerde bacakların çıktığı aşağı bölüm",
+        "id": 1271,
+        "question": "\"Sokrates'in Savunması\" adlı eseri yazan ünlü filozof",
         "letter": "P",
-        "answer": "Paça"
+        "answer": "Platon"
     },
     {
-        "id": 1635,
-        "question": "Evin duvarlarının suyu çekmesi ve ısı farkından dolayı su buharı oluşması",
+        "id": 1037,
+        "question": "Aruz ölçülerinden biri",
         "letter": "R",
-        "answer": "Rutubet"
+        "answer": "Remel"
     },
     {
-        "id": 1263,
-        "question": "Kadın veya çocuklarda en ince ses, sesi böyle olan sanatçı",
+        "id": 403,
+        "question": "Derinliği az, dibi yüzeyine yakın olan",
         "letter": "S",
-        "answer": "Soprano"
+        "answer": "sığ"
     },
     {
-        "id": 1056,
-        "question": "Karaları çevreleyen ve karalardan sayılan, 200 m derinliğe kadar olan sığ deniz dipleri",
+        "id": 427,
+        "question": "İstek, heves",
         "letter": "Ş",
-        "answer": "Şelf"
+        "answer": "şevk"
     },
     {
-        "id": 1847,
-        "question": "İRİ İRİ DOĞRANMIŞ İŞKEMBEDEN YAPILAN BİR TÜR ÇORBA",
+        "id": 1819,
+        "question": "Askerlik görevini bitirenleri ordudan bırakma",
         "letter": "T",
-        "answer": "Tuzlama, Tuzlama çorba, Tuzlama çorbası"
+        "answer": "Terhis, terhis olma, terhis olmak, terhis etme, terhis etmek"
     },
     {
-        "id": 1071,
-        "question": "Yakışır, yaraşır, mutabık, mütenasip",
+        "id": 1069,
+        "question": "ele avuca sığmaz (kimse)",
         "letter": "U",
-        "answer": "uygun"
+        "answer": "Uçarı"
     },
     {
-        "id": 1566,
-        "question": "Mecazen; Delirmek, aklını yitirmek",
+        "id": 714,
+        "question": "En fazla çeşide sahip olan meyve türü",
         "letter": "Ü",
-        "answer": "Üşütmek, üşütme"
+        "answer": "Üzüm"
     },
     {
-        "id": 1867,
-        "question": "Tramvay Sürücüsü",
+        "id": 886,
+        "question": "Çiçek Koymak İçin Kullanılan Kap",
         "letter": "V",
-        "answer": "Vatman"
+        "answer": "Vazo"
     },
     {
-        "id": 906,
-        "question": "Kısa kollu ceket, mont",
+        "id": 717,
+        "question": "Yüksek mahkeme, yüksek yargı kurulu",
         "letter": "Y",
-        "answer": "Yelek"
+        "answer": "Yargıtay"
     },
     {
-        "id": 1294,
-        "question": "Parasız, yoksul, meteliksiz olan",
+        "id": 1747,
+        "question": "Sıkıntı veya güçlükle yapılma durumu",
         "letter": "Z",
-        "answer": "Züğürt, züürt, zürt, zügürt"
+        "answer": "Zahmet, zahmetli"
     }
 ]

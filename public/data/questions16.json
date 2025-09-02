@@ -1,158 +1,158 @@
 [
     {
-        "id": 1661,
-        "question": "Davranışları ölçülü, olgun (kimse), vakur, ciddi",
+        "id": 113,
+        "question": "İki veya daha çok renkli",
         "letter": "A",
-        "answer": "Ağırbaşlı"
+        "answer": "alaca"
     },
     {
-        "id": 1599,
-        "question": "Şehir içinde ağaçlı, geniş cadde",
+        "id": 1345,
+        "question": "Kum ve çimentonun birleştirilmesiyle elde edilen yapı malzemesi",
         "letter": "B",
-        "answer": "Bulvar"
+        "answer": "Briket"
     },
     {
-        "id": 964,
-        "question": "Cam ticaretini veya cam takmayı meslek edinmiş kimse",
+        "id": 1369,
+        "question": "Şubat ayında birer hafta arayla havada, suda ve toprakta oluştuğu sanılan sıcaklık yükselişi",
         "letter": "C",
-        "answer": "Camcı"
+        "answer": "Cemre, cemre düşmesi"
     },
     {
-        "id": 1542,
-        "question": "Değirmende buğday teknesi oluğu",
+        "id": 543,
+        "question": "Aynı türden olmayan, türlü",
         "letter": "Ç",
-        "answer": "Çörtü"
+        "answer": "Çeşit, Çeşitli"
     },
     {
-        "id": 198,
-        "question": "Başkalarını çekiştirmek ve kınamak üzere yapılan konuşma, gıybet",
+        "id": 1399,
+        "question": "Büyük takımlar arasında oynanan maç",
         "letter": "D",
-        "answer": "dedikodu"
+        "answer": "Derbi, derbi maçı"
     },
     {
-        "id": 1409,
-        "question": "Çok rahat ya da kullanımı kolay tasarlanmış ürün",
+        "id": 1798,
+        "question": "İSLAM'DA İBADET ÇAĞRISI",
         "letter": "E",
-        "answer": "Ergonomik"
+        "answer": "Ezan"
     },
     {
-        "id": 1285,
-        "question": "Uygun zaman, uygun durum veya şart, vesile, imkan, şans",
+        "id": 1311,
+        "question": "Kısa ve özlü anlatımı olan, nükteli, güldürücü hikâyecik, anekdot",
         "letter": "F",
-        "answer": "Fırsat"
+        "answer": "Fıkra"
     },
     {
-        "id": 583,
-        "question": "At yarışlarında birinciliği kazanan at",
+        "id": 1260,
+        "question": "Bisiklet direksiyonu",
         "letter": "G",
-        "answer": "Ganyan"
+        "answer": "Gidon"
     },
     {
-        "id": 1098,
-        "question": "Kur'an'ı bütünüyle ezbere bilen kimse",
+        "id": 246,
+        "question": "Kıskançlık, çekememezlik",
         "letter": "H",
-        "answer": "Hafız"
+        "answer": "haset, hasetlik"
     },
     {
-        "id": 1555,
-        "question": "Bir şeyi belirtecek biçimde hareket etmek, belirleyici şekilde vurgulamak",
+        "id": 1605,
+        "question": "Birinin iyi niyetini kötüye kullanma",
         "letter": "İ",
-        "answer": "İşaretleme, işaretlemek"
+        "answer": "İstismar, istismar etme, istismar etmek"
     },
     {
-        "id": 276,
-        "question": "Yeterli, yetecek ölçüde olan",
+        "id": 1905,
+        "question": "Soğuk mevsim kıyafetlerinin tümü",
         "letter": "K",
-        "answer": "kafi, kâfi"
+        "answer": "Kışlık"
     },
     {
-        "id": 1203,
-        "question": "Gözlük kullanmayanların görmek için kullandığı şeffaf nesne",
+        "id": 622,
+        "question": "Sıralı yazılmış şeylerin bütünü, dizelge",
         "letter": "L",
-        "answer": "Lens"
+        "answer": "Liste"
     },
     {
-        "id": 1274,
-        "question": "Uzay araçlarında özel bir göreve sahip olan ve ana gövdeden ayrılıp gerekli durumlarda birleşebilen kısım",
+        "id": 1839,
+        "question": "BİR BÖLGEYE ÖZGÜ OLAN, BÖLGESEL, YER, MAHAL",
         "letter": "M",
-        "answer": "Modül"
+        "answer": "Mevzi, Mevzii"
     },
     {
-        "id": 1785,
-        "question": "Ney üfleyen sanatçı",
+        "id": 327,
+        "question": "Haykırma, bağırma",
         "letter": "N",
-        "answer": "Neyzen"
+        "answer": "nara, nara atma, nara atmak"
     },
     {
-        "id": 1517,
-        "question": "Alçak iskemle",
+        "id": 342,
+        "question": "Uygun bulma, tasdik, icazet, izin",
         "letter": "O",
-        "answer": "Oturak"
+        "answer": "onay, onaylama, onaylamak"
     },
     {
-        "id": 1117,
-        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
+        "id": 357,
+        "question": "Kızgınlık, hışım, hiddet, gazap",
         "letter": "Ö",
-        "answer": "ölmek, ölüm, ölme"
+        "answer": "öfke"
     },
     {
-        "id": 1761,
-        "question": "Çalışma saati bitiminde işi bırakma",
+        "id": 32,
+        "question": "Yer altından çıkartılan, yağa benzer, sıvı formda bulunan ham madde",
         "letter": "P",
-        "answer": "Paydos, paydos etme, paydos etmek"
+        "answer": "Petrol"
     },
     {
-        "id": 1642,
-        "question": "Tek bir sanatçının tek bir çalgı ile verdiği konser",
+        "id": 1634,
+        "question": "Hindistan, Nepal, Pakistan'da kullanılan para birimi",
         "letter": "R",
-        "answer": "Resital"
+        "answer": "Rupi"
     },
     {
-        "id": 409,
-        "question": "Depolanmış, yığın",
+        "id": 1797,
+        "question": "BULUNDUĞU YERDEN ACELEYLE, GİZLİCE VEYA DİKKATİ ÇEKMEDEN AYRILMAK, KAÇMAK",
         "letter": "S",
-        "answer": "stok, stoklanmış"
+        "answer": "Savuşmak, Sıvışmak"
     },
     {
-        "id": 1312,
-        "question": "Kuşku",
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
         "letter": "Ş",
-        "answer": "Şüphe"
+        "answer": "Şahsi"
     },
     {
-        "id": 1059,
-        "question": "Doğu Anadolu ile Azerbaycan'da çalınan bir çalgı türü",
+        "id": 1154,
+        "question": "Diş taşı",
         "letter": "T",
-        "answer": "tar"
+        "answer": "tartar"
     },
     {
-        "id": 1078,
-        "question": "Yufka açılırken hamurun tahtaya yapışmaması için serpilen kalın un",
+        "id": 1070,
+        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
         "letter": "U",
-        "answer": "Uğra"
+        "answer": "Uçkun"
     },
     {
-        "id": 880,
-        "question": "Hastalıkları iyileştirdiğine inanılan soluk",
+        "id": 868,
+        "question": "Bina eteği, etek duvarı veya subasman",
         "letter": "Ü",
-        "answer": "Üfürük, üfürme"
+        "answer": "Üstemel"
     },
     {
-        "id": 883,
-        "question": "Evleri kuşatan üstü kapalı ve camlı teras",
+        "id": 39,
+        "question": "Güneş sistemindeki en sıcak gezegen",
         "letter": "V",
-        "answer": "Veranda"
+        "answer": "venüs"
     },
     {
-        "id": 839,
-        "question": "Sayıyı yukarı ya da aşağı değiştirerek tüm sayı haline getirme",
+        "id": 1719,
+        "question": "Öğrencilerin topluca kaldıkları geçici ikametgah ",
         "letter": "Y",
-        "answer": "Yuvarlama, Yuvarlamak"
+        "answer": "Yurt"
     },
     {
-        "id": 1586,
-        "question": "Dinç, canlı, diri, sağlam",
+        "id": 1303,
+        "question": "Çapkın, kadın düşünü anlamlarındaki bir söz",
         "letter": "Z",
-        "answer": "Zinde"
+        "answer": "Zampara"
     }
 ]

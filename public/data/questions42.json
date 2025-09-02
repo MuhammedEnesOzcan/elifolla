@@ -1,158 +1,158 @@
 [
     {
-        "id": 1926,
-        "question": "BOKSTA, BÜKÜK KOLLA AŞAĞIDAN YUKARIYA DOĞRU ÇENEYE ATILAN YUMRUK",
+        "id": 1669,
+        "question": "Burgu ile delinerek açılan ve suyu yükseğe fışkırtan kuyu",
         "letter": "A",
-        "answer": "Aparkat"
+        "answer": "Artezyen"
     },
     {
-        "id": 131,
-        "question": "Başıboş, serseri kimse",
+        "id": 1837,
+        "question": "ARAPÇA KÖKENLİ \"MATBAA\" SÖZCÜĞÜNÜN TÜRKÇE EŞ ANLAMLISI",
         "letter": "B",
-        "answer": "berduş"
+        "answer": "Basımevi"
     },
     {
-        "id": 1532,
-        "question": "Ezilmiş havuç içine fındık, şeker vb. eklenerek yapılan bir tür tatlı",
+        "id": 159,
+        "question": "Kazanmak, cebine indirmek, çalmak",
         "letter": "C",
-        "answer": "Cezerye"
+        "answer": "ceplemek, cukkalamak"
     },
     {
-        "id": 1816,
-        "question": "MECAZEN; DİNÇLİĞİNİ KAYBETMEK, İHTİYARLAMAK",
+        "id": 1543,
+        "question": "Tahta kepçe, çemçe",
         "letter": "Ç",
-        "answer": "Çökme, Çökmek"
+        "answer": "Çömçe"
     },
     {
-        "id": 1385,
-        "question": "Evlenme veya sünnet dolayısıyla yapılan tören, eğlence",
+        "id": 557,
+        "question": "Doluluğunu, gücünü yitirme",
         "letter": "D",
-        "answer": "Düğün"
+        "answer": "Deşarj, deşarj olma, deşarj olmak"
     },
     {
-        "id": 1822,
-        "question": "Bir evin gelinlerinin birbirine göre akrabalık durumu",
+        "id": 204,
+        "question": "Tutsak, köle",
         "letter": "E",
-        "answer": "Elti, Eltilik"
+        "answer": "esir"
     },
     {
-        "id": 227,
-        "question": "Satıcının alıcıya verdiği hesap pusulası",
+        "id": 1489,
+        "question": "Etken, etmen",
         "letter": "F",
-        "answer": "fatura, fiş"
+        "answer": "Faktör"
     },
     {
-        "id": 238,
-        "question": "Değersiz, aşağı görülen, küçümsenen topluluk, derinti, sürü",
+        "id": 22,
+        "question": "Ahmaklık, anlayışsızlık, kalın kafalılık, bönlük",
         "letter": "G",
-        "answer": "güruh"
+        "answer": "gabavet"
     },
     {
-        "id": 1443,
-        "question": "Mecazen; Yasa dışı yollarla zimmetine para veya mal geçirmek",
+        "id": 89,
+        "question": "Bir şirketin ortaklarından her biri",
         "letter": "H",
-        "answer": "Hortumlama, hortumlamak"
+        "answer": "hissedar"
     },
     {
-        "id": 596,
-        "question": "Aşırı güçlü istek, tutku",
+        "id": 1604,
+        "question": "Bir kimsenin ya da bir şeyin benzerlerinden ayrı tutulması durumu",
         "letter": "İ",
-        "answer": "İhtiras"
+        "answer": "İstisna, istisnai"
     },
     {
-        "id": 1897,
-        "question": "TENİ VE SAÇLARI SARIYA ÇALAN AÇIK BUĞDAY RENGİ OLAN KİMSE",
+        "id": 278,
+        "question": "Çocuk yuvası",
         "letter": "K",
-        "answer": "Kumral"
+        "answer": "kreş"
     },
     {
-        "id": 1527,
-        "question": "Sükseli, kalantor, gösterişli kimse",
+        "id": 621,
+        "question": "Kelime, sözlük",
         "letter": "L",
-        "answer": "Lort"
+        "answer": "Lügat, Lugat, Lûgat"
     },
     {
-        "id": 1166,
-        "question": "Küçük, ufak tefek, zarif",
+        "id": 631,
+        "question": "Açık artırma ile satış yapılan yer",
         "letter": "M",
-        "answer": "Minyon"
+        "answer": "Mezat"
     },
     {
-        "id": 994,
-        "question": "Tahtta hükümdar olmadığı zaman veya hükümdarın çocukluğu sırasında devleti yöneten kimse",
+        "id": 1785,
+        "question": "Ney üfleyen sanatçı",
         "letter": "N",
-        "answer": "naip"
+        "answer": "Neyzen"
     },
     {
-        "id": 1760,
-        "question": "Beklenilen zaman gelinceye kadar zaman geçirmek",
+        "id": 1711,
+        "question": "Norveç'in Başkenti",
         "letter": "O",
-        "answer": "Oyalanma, Oyalanmak"
+        "answer": "Oslo"
     },
     {
-        "id": 1007,
-        "question": "Hayvanları çayıra bağlamaya yarayan kalın ip, örük",
+        "id": 369,
+        "question": "Yalnız kendine özgü bir nitelik taşıyan, orijinal",
         "letter": "Ö",
-        "answer": "Örk"
+        "answer": "Özgün"
     },
     {
-        "id": 88,
-        "question": "Üstüne mumlar konan doğum günü tatlısı",
+        "id": 673,
+        "question": "Söz dalaşı",
         "letter": "P",
-        "answer": "pasta"
+        "answer": "Polemik"
     },
     {
-        "id": 395,
-        "question": "Orta kaldırım",
+        "id": 1278,
+        "question": "Uyku sırasında görülen olaylar",
         "letter": "R",
-        "answer": "refüj"
+        "answer": "Rüya"
     },
     {
-        "id": 1824,
-        "question": "Bir şeyin yalnız kenar çizgileriyle tek renk olarak beliren görüntüsü, gölge",
+        "id": 1039,
+        "question": "Klasik Türk müziğinde bir birleşik makam",
         "letter": "S",
-        "answer": "Silüet"
+        "answer": "saba"
     },
     {
-        "id": 1458,
-        "question": "İçinde çok miktarda şeker bulunan koyu sıvı kıvamda olan ilaç",
+        "id": 923,
+        "question": "Daha çok cami avlularında bulunan havuz",
         "letter": "Ş",
-        "answer": "Şurup"
+        "answer": "Şadırvan"
     },
     {
-        "id": 442,
-        "question": "Herhangi bir sebeple acelecilik",
+        "id": 441,
+        "question": "Bir şeyi yapabilme gücü, hâl, derman",
         "letter": "T",
-        "answer": "telaş, telaşlanma, telaşlanmak"
+        "answer": "takat"
     },
     {
-        "id": 1564,
-        "question": "Aklında kalmamak, hatırlamamak",
+        "id": 1559,
+        "question": "Mecazen; Her hangi bir işi yapmak istemeyen, tembel, miskin",
         "letter": "U",
-        "answer": "Unutmak, unutma"
+        "answer": "Uyuşuk"
     },
     {
-        "id": 1508,
-        "question": "Bir ülküye çıkar gütmeden bağlı olan, idealist",
+        "id": 852,
+        "question": "Gerçekleşmesi Olanaksız Tasarı Ya Da Düşünce",
         "letter": "Ü",
-        "answer": "Ülkücü"
+        "answer": "Ütopya"
     },
     {
-        "id": 483,
-        "question": "Sürekli bir yönde gidip gelme, yürüme, dolaşma",
+        "id": 472,
+        "question": "İki dağ arasındaki çukurca arazi veya geçit",
         "letter": "V",
-        "answer": "volta, volta atma, volta atmak"
+        "answer": "vadi"
     },
     {
-        "id": 906,
-        "question": "Kısa kollu ceket, mont",
+        "id": 773,
+        "question": "Japon mafyası",
         "letter": "Y",
-        "answer": "Yelek"
+        "answer": "Yakuza"
     },
     {
-        "id": 509,
-        "question": "İrade zayıflığı, eksiklik",
+        "id": 859,
+        "question": "Fotoğrafçılıkta, Değişken Odak Uzunluklu Objektif",
         "letter": "Z",
-        "answer": "zaaf"
+        "answer": "Zum, zoom"
     }
 ]

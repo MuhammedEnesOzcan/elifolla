@@ -1,129 +1,129 @@
 [
     {
-        "id": 1971,
-        "question": "BİR KİŞİYİ GÖREVİNDEN ALMAK, UZAKLAŞTIRMAK",
+        "id": 1340,
+        "question": "Herhangi bir konuda yapılan ön hazırlık",
         "letter": "A",
-        "answer": "AZLETME, AZLETMEK"
+        "answer": "Antrenman, antreman, alıştırma"
     },
     {
-        "id": 1165,
-        "question": "Enine göre boyu kısa olan, kısa boylu ve tıknaz",
+        "id": 1599,
+        "question": "Şehir içinde ağaçlı, geniş cadde",
         "letter": "B",
-        "answer": "Bodur"
+        "answer": "Bulvar"
     },
     {
-        "id": 164,
-        "question": "Gürültülü, karışık durum",
+        "id": 160,
+        "question": "Üzerinde savaşın sürdüğü bölge",
         "letter": "C",
-        "answer": "curcuna"
+        "answer": "cephe, cephe bölgesi"
     },
     {
-        "id": 1485,
-        "question": "Etkili, dikkat çeken, sansasyonel",
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
         "letter": "Ç",
-        "answer": "Çarpıcı, çarpıcı olay"
+        "answer": "Çaça"
     },
     {
-        "id": 551,
-        "question": "Çapraz Bağların bulunduğu uzuv",
+        "id": 795,
+        "question": "Akan suyun hacmi",
         "letter": "D",
-        "answer": "Diz"
+        "answer": "Debi, Debisi"
     },
     {
-        "id": 1227,
-        "question": "Tekrar eden ses, yankı",
+        "id": 1211,
+        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
         "letter": "E",
-        "answer": "Eko"
+        "answer": "Emekleme, emeklemek"
     },
     {
-        "id": 568,
-        "question": "Aynı olmayan, değişik",
+        "id": 1671,
+        "question": "Yeni çıkmış körpe ve küçük dal veya yaprak",
         "letter": "F",
-        "answer": "Farklı"
+        "answer": "Filiz"
     },
     {
-        "id": 1701,
-        "question": "Yadırganacak bir yönü olma durumu, yadırgatıcılık, tuhaflık",
+        "id": 233,
+        "question": "Suya batma, boğulma",
         "letter": "G",
-        "answer": "Garabet"
+        "answer": "gark, gark etme"
     },
     {
-        "id": 1794,
-        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "id": 1229,
+        "question": "Yakını görememe kusuru",
         "letter": "H",
-        "answer": "Hasılat"
+        "answer": "Hipermetrop, hipermetropluk"
     },
     {
-        "id": 601,
-        "question": "Gerçek yönünü ortaya çıkarma, kanıtlama",
+        "id": 273,
+        "question": "Anlaşma, uyuşma, uzlaşma",
         "letter": "İ",
-        "answer": "İspat, ispatlama, ispatlamak, ispat etme, ispat etmek"
+        "answer": "itilaf, ittifak"
     },
     {
-        "id": 280,
-        "question": "Kumaştan veya örgüden küçük torba",
+        "id": 1857,
+        "question": "GEMİLERDE BULUNAN ODALARA VERİLEN İSİM",
         "letter": "K",
-        "answer": "kese"
+        "answer": "Kamara"
     },
     {
-        "id": 1280,
-        "question": "Bir şeyi yemek için ağza götürülen parça",
+        "id": 1703,
+        "question": "Yıkanmak için kullanılan bitki telleri demeti veya türlü ipliklerden yapılmış örgü",
         "letter": "L",
-        "answer": "Lokma"
+        "answer": "Lif"
     },
     {
-        "id": 630,
-        "question": "Dayanaksız, delilsiz, arkası boş olan",
+        "id": 758,
+        "question": "Eksiksiz, kusursuz ve yetkin durumda olan",
         "letter": "M",
-        "answer": "Mesnetsiz, mesnetsiz iddia"
+        "answer": "Mükemmel, müthiş"
     },
     {
-        "id": 1881,
-        "question": "YÖRESEL AĞIZLARDA, “KÖTÜ, BERBAT, AKSİ, HUYSUZ KİŞİLERE” YÖNELİK KULLANILAN BİR SIFAT",
+        "id": 989,
+        "question": "Bir şeyi hatırlamak için yazılan kısa yazı",
         "letter": "N",
-        "answer": "Nalet"
+        "answer": "Not, not etme, not etmek"
     },
     {
-        "id": 995,
-        "question": "Plastik, tahta, mika vb. maddelerden yapılmış taşlarla oynanan ve konkene benzeyen bir tür oyun",
+        "id": 1518,
+        "question": "Hızlı bir trafik akımı sağlamak amacıyla yapılan, çok şeritli, çift yönlü geniş yol, otoban",
         "letter": "O",
-        "answer": "okey"
+        "answer": "Otoyol"
     },
     {
-        "id": 1169,
-        "question": "Perdeayaklılardan evcil ve yabanisi de bulunan su kuşu",
+        "id": 361,
+        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
         "letter": "Ö",
-        "answer": "Ördek"
+        "answer": "önem"
     },
     {
-        "id": 78,
-        "question": "Eski Yunan'da, kent devletlerine verilen isim",
+        "id": 670,
+        "question": "Kişiye onur nişanesi olarak verilen küçük levha",
         "letter": "P",
-        "answer": "polis"
+        "answer": "Plaket"
     },
     {
-        "id": 1634,
-        "question": "Hindistan, Nepal, Pakistan'da kullanılan para birimi",
+        "id": 1025,
+        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
         "letter": "R",
-        "answer": "Rupi"
+        "answer": "run"
     },
     {
-        "id": 1159,
-        "question": "Uygulamalı öğrenme, iş öncesi öğrenme",
+        "id": 1931,
+        "question": "BİR ŞEYİN YAYILABİLECEĞİ VEYA GENİŞLEYEBİLECEĞİ SON ÇİZGİ",
         "letter": "S",
-        "answer": "Staj, stajyerlik, staj yapma, staj yapmak"
+        "answer": "Sınır"
     },
     {
-        "id": 420,
-        "question": "Kötülük, fenalık",
+        "id": 423,
+        "question": "Bir çıkar karşılığı, uzlaşarak bir iş yapma, aldatma",
         "letter": "Ş",
-        "answer": "şer"
+        "answer": "şike, şike yapma, şike yapmak"
     },
     {
-        "id": 1910,
-        "question": "BİR YAZARIN, KONU VE FİKRİ YAPI OLARAK BİRBİRİNİ İZLEYEN ÜÇ ESERİ",
+        "id": 1693,
+        "question": "BULAŞIK MAKİNELERİNDE KULLANILAN KOMPAKT DETERJAN TÜRÜ",
         "letter": "T",
-        "answer": "Triloji"
+        "answer": "Tablet"
     },
     {
         "id": 1070,
@@ -132,27 +132,27 @@
         "answer": "Uçkun"
     },
     {
-        "id": 1316,
-        "question": "Derinleştirmeden, yüzeysel olarak",
+        "id": 1472,
+        "question": "Bir şeyden korkup sıçramak, tevahhuş etmek",
         "letter": "Ü",
-        "answer": "Üstten"
+        "answer": "Ürkmek"
     },
     {
-        "id": 732,
-        "question": "Diğer adı petrol jelatini olan nemlendirici bakım ürünü",
+        "id": 715,
+        "question": "Genellikle sıvı şeyleri koymakta kullanılan, silindir biçiminde ve üstü kapalı, metal kap",
         "letter": "V",
-        "answer": "Vazelin, Vaseline"
+        "answer": "Varil"
     },
     {
-        "id": 493,
-        "question": "Kötülüklerini söylemek, zemmetmek",
+        "id": 1577,
+        "question": "Hacmine oranla ağırlığı çok olan",
         "letter": "Y",
-        "answer": "yermek"
+        "answer": "Yoğun"
     },
     {
-        "id": 1143,
-        "question": "Belediye hizmetlerinin güvenliğini sağlamakla görevli yönetim",
+        "id": 507,
+        "question": "Art arda birdenbire ters yöne açılar yapan kırık çizgi",
         "letter": "Z",
-        "answer": "Zabıta"
+        "answer": "zikzak"
     }
 ]

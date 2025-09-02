@@ -1,158 +1,158 @@
 [
     {
-        "id": 1918,
-        "question": "“SERBEST, HÜR, ÖZGÜR” ANLAMLARINDA FARSÇA KÖKENLİ BİR SÖZCÜK",
+        "id": 1658,
+        "question": "Bilginler, yazarlar, sanatçılar kurulu",
         "letter": "A",
-        "answer": "Azat, Azad, Azade"
+        "answer": "Akademi"
     },
     {
-        "id": 1351,
-        "question": "Deniz, havuz vb. yerlere girerken veya güneşlenirken giyilen, iki parçadan oluşan kadın giysisi",
+        "id": 129,
+        "question": "Veteriner hekim",
         "letter": "B",
-        "answer": "Bikini"
+        "answer": "baytar"
     },
     {
-        "id": 531,
-        "question": "Uygun, yerinde sayılan, yakışık alan",
+        "id": 914,
+        "question": "At Alıp Satan Kimse",
         "letter": "C",
-        "answer": "Caiz"
+        "answer": "Cambaz, canbaz"
     },
     {
-        "id": 166,
-        "question": "Dağın bir noktasından kopup yuvarlanan ve yuvarlandıkça büyüyen kar kümesi",
+        "id": 174,
+        "question": "Düzenli aralıklarla ve sürekli belirli aralıklarla yanıp sönen fener",
         "letter": "Ç",
-        "answer": "çığ"
+        "answer": "çakar"
     },
     {
-        "id": 1399,
-        "question": "Büyük takımlar arasında oynanan maç",
+        "id": 185,
+        "question": "Evlerde çocuğa bakan kimse, daye",
         "letter": "D",
-        "answer": "Derbi, derbi maçı"
+        "answer": "dadı"
     },
     {
-        "id": 1822,
-        "question": "Bir evin gelinlerinin birbirine göre akrabalık durumu",
+        "id": 215,
+        "question": "Gündüz ile gecenin eşit olma durumu",
         "letter": "E",
-        "answer": "Elti, Eltilik"
+        "answer": "ekinoks"
     },
     {
-        "id": 1285,
-        "question": "Uygun zaman, uygun durum veya şart, vesile, imkan, şans",
+        "id": 576,
+        "question": "Fotoğrafta güzel çıkan, etki bırakan (kimse)",
         "letter": "F",
-        "answer": "Fırsat"
+        "answer": "Fotojenik"
     },
     {
-        "id": 580,
-        "question": "Çökmüş, kaymış toprak, yıkıntı",
+        "id": 1262,
+        "question": "Huzursuz, kaygılı, sinirli kimse",
         "letter": "G",
-        "answer": "Göçük"
+        "answer": "Gergin"
     },
     {
-        "id": 1437,
-        "question": "Doğru bir çizgi üzerinde bulunma durumu",
+        "id": 1248,
+        "question": "Pandemiyle hayatımıza girmiş, eğitimin hem çevrimiçi hem de yüzyüze yapılması durumu",
         "letter": "H",
-        "answer": "Hiza, hizada, hizalanmak, hizalanması"
+        "answer": "Hibrit, hibrit eğitim"
     },
     {
-        "id": 263,
-        "question": "Anlama yeteneği, anlayış, akıl erdirme",
+        "id": 53,
+        "question": "Yemek yeme isteği",
         "letter": "İ",
-        "answer": "idrak, idrak etme, idrak etmek, izan"
+        "answer": "İştah"
     },
     {
-        "id": 1784,
-        "question": "BAZI LOKANTALARDA ÇATAL, BIÇAK GİBİ SERVİS ÖGELERİNDEN ALINAN ÜCRET",
+        "id": 1795,
+        "question": "RUMCA KÖKENLİ “YIPRANMIŞ, ESKİ VE BAKIMSIZ” ANLAMLARINDA DAHA ÇOK ARAÇLAR, MAKİNELER İÇİN KULLANILAN SÖZCÜK",
         "letter": "K",
-        "answer": "Kuver"
+        "answer": "Külüstür"
     },
     {
-        "id": 302,
-        "question": "Bazı bitkilerin genellikle süt görünüşünde olan öz suyu",
+        "id": 1958,
+        "question": "Teniste topa arkadan öne ve yukarıdan aşağıya doğru vurma",
         "letter": "L",
-        "answer": "lateks"
+        "answer": "Lift"
     },
     {
-        "id": 1631,
-        "question": "Bir ilgi veya benzetme sonucu gerçek anlamından başka anlamda kullanılan söz",
+        "id": 308,
+        "question": "Yasaklama, engel olma",
         "letter": "M",
-        "answer": "Mecaz, mecazi, mecazen"
+        "answer": "men, men etme, men etmek"
     },
     {
-        "id": 638,
-        "question": "Sıklığı az olan, seyrek",
+        "id": 1676,
+        "question": "Çeşitli belge ve işlemlere geçerlik kazandırmakla yükümlü kamu görevlisi",
         "letter": "N",
-        "answer": "Nadir"
+        "answer": "Noter"
     },
     {
-        "id": 347,
-        "question": "Yiyecek, içecek gibi şeylerin alınabildiği mekanik veya elektrikli araç",
+        "id": 1002,
+        "question": "Salepgillerden, çiçekleri sinek, örümcek gibi birtakım böcekleri andıran, yumrulu, otsu bir bitki",
         "letter": "O",
-        "answer": "otomat"
+        "answer": "Ofris"
     },
     {
-        "id": 1478,
-        "question": "Ayrı bir yasaya bağlı olarak kendi kendini yönetme yetkisi olan (kuruluş, devlet vb.), muhtar, otonom",
+        "id": 658,
+        "question": "Beğendiği bir durumda olma, beğendiği şeye benzeme çabası",
         "letter": "Ö",
-        "answer": "Özerk"
+        "answer": "Özenti, Özentilik, Özenme, Özenmek"
     },
     {
-        "id": 1802,
-        "question": "KURUTULARAK UZUN SÜRE DAYANABİLECEK HÂLE GETİRİLMİŞ DİLİMLİ EKMEK",
+        "id": 378,
+        "question": "Kumsal deniz kıyısı",
         "letter": "P",
-        "answer": "Peksimet"
+        "answer": "plaj"
     },
     {
-        "id": 396,
-        "question": "Yönetme, düzenleme biçimi, düzen",
+        "id": 1032,
+        "question": "Pokerde, bir oyuncunun önündeki paranın tümü",
         "letter": "R",
-        "answer": "rejim"
+        "answer": "rest"
     },
     {
-        "id": 765,
-        "question": "İşlerine önem vermeyen, ihmalkâr",
+        "id": 1232,
+        "question": "Yanılarak, yanlışlıkla",
         "letter": "S",
-        "answer": "Savsak"
+        "answer": "Sehven"
     },
     {
-        "id": 1683,
-        "question": "Çoğunlukla saç yıkamakta kullanılan, kokulu ve bol köpüklü bir tür sıvı sabun",
+        "id": 698,
+        "question": "Gizli haberleşmeye yarayan işaretlerin tümü, kod",
         "letter": "Ş",
-        "answer": "Şampuan"
+        "answer": "Şifre, şifreli mesaj"
     },
     {
-        "id": 1063,
-        "question": "Çoğunlukla evlenen veya nişanlanan birine armağan olarak verilen küpe, bilezik, yüzük, zincir gibi şeylerin tümü",
+        "id": 441,
+        "question": "Bir şeyi yapabilme gücü, hâl, derman",
         "letter": "T",
-        "answer": "Takı"
+        "answer": "takat"
     },
     {
-        "id": 1070,
-        "question": "Ateşten fırlayan ve etrafa saçılan kıvılcım",
+        "id": 456,
+        "question": "Gökyüzünde tanımlanamayan cisim",
         "letter": "U",
-        "answer": "Uçkun"
+        "answer": "ufo"
     },
     {
-        "id": 1314,
-        "question": "Manevi hazdan yoksunluk",
+        "id": 468,
+        "question": "Gerçekleştirilmesi imkânsız tasarı veya düşünce",
         "letter": "Ü",
-        "answer": "Üzenti"
+        "answer": "ütopya, ütopik"
     },
     {
-        "id": 771,
-        "question": "Araç, taşıt anlamlarındaki söz",
+        "id": 473,
+        "question": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi",
         "letter": "V",
-        "answer": "Vasıta"
+        "answer": "vali"
     },
     {
-        "id": 1501,
-        "question": "Parmağa geçirilen genellikle metal halka",
+        "id": 734,
+        "question": "Su kıyısında yapılmış büyük, görkemli ev",
         "letter": "Y",
-        "answer": "Yüzük"
+        "answer": "Yalı"
     },
     {
-        "id": 1145,
-        "question": "Hor görülme, alçalma",
+        "id": 505,
+        "question": "El ustalığı isteyen işler",
         "letter": "Z",
-        "answer": "Zillet"
+        "answer": "zanaat"
     }
 ]

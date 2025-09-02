@@ -1,158 +1,158 @@
 [
     {
-        "id": 1183,
-        "question": "Yargı önünde kişiyi savunan kimse",
+        "id": 743,
+        "question": "Eski çağlardan kalma yapıt",
         "letter": "A",
-        "answer": "Avukat"
+        "answer": "Antik, Antika"
     },
     {
-        "id": 145,
-        "question": "Kendine özgü nitelikleri yitirmeden bölünemeyen tek varlık, fert",
+        "id": 1085,
+        "question": "Bateri çalmaya yarayan ince, kısa çubuk",
         "letter": "B",
-        "answer": "birey"
+        "answer": "Baget"
     },
     {
-        "id": 1370,
-        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
+        "id": 1652,
+        "question": "Kanat, taraf, kısım",
         "letter": "C",
-        "answer": "Cumhuriyet"
+        "answer": "Cenah"
     },
     {
-        "id": 172,
-        "question": "Açılıp kapanan bir veya birkaç ağızlı küçük cep bıçağı",
+        "id": 1452,
+        "question": "Yenilen yaş veya kuru yemiş vb. şeyler",
         "letter": "Ç",
-        "answer": "çakı"
+        "answer": "Çerez, çerezler"
     },
     {
-        "id": 556,
-        "question": "Gereği kadar pişmemiş",
+        "id": 1386,
+        "question": "İçinden hava veya buhar geçirildiğinde keskin ses çıkaran ve işaret vermek için kullanılan araç",
         "letter": "D",
-        "answer": "Diri"
+        "answer": "Düdük"
     },
     {
-        "id": 1238,
-        "question": "Kimyasal tepkimelerin hızını arttıran, canlı hücrelerde üretilen özel proteinler",
+        "id": 207,
+        "question": "Benzer, eş, denk, daha önce benzeri görülen",
         "letter": "E",
-        "answer": "Enzim, enzimler"
+        "answer": "emsal"
     },
     {
-        "id": 218,
-        "question": "Yün, pamuk vb. ipliklerden düğümlerle oluşmuş ağ",
+        "id": 220,
+        "question": "Belirli nesneler veya durumlar karşısında duyulan olağan dışı güçlü korku",
         "letter": "F",
-        "answer": "file"
+        "answer": "fobi"
     },
     {
-        "id": 1964,
-        "question": "DİVAN EDEBİYATINDA 5-10 BEYİT ARASINDA DEĞİŞEN, UYAKLI, GENELLİKLE LİRİK KONULARDA YAZILAN NAZIM BİÇİMİ",
+        "id": 800,
+        "question": "Abartılı, aldatıcı ve yapay davranış",
         "letter": "G",
-        "answer": "GAZEL"
+        "answer": "Gösteriş, Gösterişli"
     },
     {
-        "id": 89,
-        "question": "Bir şirketin ortaklarından her biri",
+        "id": 1098,
+        "question": "Kur'an'ı bütünüyle ezbere bilen kimse",
         "letter": "H",
-        "answer": "hissedar"
+        "answer": "Hafız"
     },
     {
-        "id": 1951,
-        "question": "HEM “EKONOMİ” HEM “TUTUM” ANLAMINA GELEN SÖZCÜK",
+        "id": 275,
+        "question": "İçine alma, içinde bulundurma, içerme",
         "letter": "İ",
-        "answer": "İktisat, İktisad"
+        "answer": "ihtiva"
     },
     {
-        "id": 290,
-        "question": "Askeri birliği ve onunla ilgili işleri yönetme görevi, kumanda",
+        "id": 1935,
+        "question": "Hem taşıt hem konut olarak kullanılan üstü kapalı araç",
         "letter": "K",
-        "answer": "komuta, komuta etme, komuta etmek"
+        "answer": "Karavan"
     },
     {
-        "id": 305,
-        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
+        "id": 981,
+        "question": "Amerikan devesi de denilen geviş getirenlerden bir hayvan",
         "letter": "L",
-        "answer": "lisans"
+        "answer": "Lama"
     },
     {
-        "id": 308,
-        "question": "Yasaklama, engel olma",
+        "id": 1851,
+        "question": "RESTORANLARDA SOFRAYA ÇIKARILACAK YEMEKLERİN HEPSİ",
         "letter": "M",
-        "answer": "men, men etme, men etmek"
+        "answer": "Menü"
     },
     {
-        "id": 912,
-        "question": "Hristiyanların en büyük bayramı",
+        "id": 637,
+        "question": "Bir şeyin iyi veya kötü olma özelliği, kalite, özellik",
         "letter": "N",
-        "answer": "Noel"
+        "answer": "Nitelik, niteliği"
     },
     {
-        "id": 648,
-        "question": "İyimser, pesimist karşıtı",
+        "id": 998,
+        "question": "Genellikle ipek ibrişim kullanarak iğne, mekik, tığ veya firkete ile yapılan ince dantel",
         "letter": "O",
-        "answer": "Optimist"
+        "answer": "oya"
     },
     {
-        "id": 361,
-        "question": "Bir şeyin nitelik veya nicelik bakımından değeri olma durumu",
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
         "letter": "Ö",
-        "answer": "önem"
+        "answer": "Ödün, Ödün verme, Ödün vermek"
     },
     {
-        "id": 383,
-        "question": "Birine saldırmak için saklanarak beklenilen yer",
+        "id": 823,
+        "question": "Bir balık ve bir meyve türünün ortak adı",
         "letter": "P",
-        "answer": "pusu"
+        "answer": "Palamut"
     },
     {
-        "id": 1805,
-        "question": "OSMANLIDA MALİYE İŞLEMLERİNDE KULLANILAN, GÜNEŞ YILI ESASINA DAYALI BİR TAKVİM TÜRÜ",
+        "id": 391,
+        "question": "Yol, yöntem, usul",
         "letter": "R",
-        "answer": "Rumi, Rumi Takvim"
+        "answer": "racon"
     },
     {
-        "id": 686,
-        "question": "Bir şey öğrenmek için yöneltilen söz veya yazı",
+        "id": 414,
+        "question": "Bazı tedavi yöntemlerinin uygulanması için ayrılan süre",
         "letter": "S",
-        "answer": "Soru"
+        "answer": "seans"
     },
     {
-        "id": 67,
-        "question": "Tarihi oluşum olan Göbeklitepe'nin bulunduğu il",
+        "id": 1126,
+        "question": "Düşen su damlasının çıkardığı ses",
         "letter": "Ş",
-        "answer": "Şanlıurfa, Şanlı Urfa"
+        "answer": "şıp"
     },
     {
-        "id": 436,
-        "question": "Bir taşınmazın üstündeki mülkiyet hakkını gösteren belge",
+        "id": 1927,
+        "question": "BİR ŞEYE HASTALIK DERECESİNDE DÜŞKÜNLÜK",
         "letter": "T",
-        "answer": "tapu, tapu belgesi"
+        "answer": "Takıntı, Takıntılık, Takma, Takmak"
     },
     {
-        "id": 1513,
-        "question": "Bir nesnenin uzayda kapladığı yer, vüsat",
+        "id": 893,
+        "question": "Kaşındırıcı bir deri hastalığı",
         "letter": "U",
-        "answer": "Uzam"
+        "answer": "Uyuz"
     },
     {
-        "id": 38,
-        "question": "Fakülteler topluluğu",
+        "id": 1474,
+        "question": "Altyapı üzerine kurulan, oturmaya veya üretime yarayan yapıların tümü",
         "letter": "Ü",
-        "answer": "ÜNİVERSİTE"
+        "answer": "Üstyapı"
     },
     {
-        "id": 1251,
-        "question": "Orta, iki şeyin ortasında olan, ortalama",
+        "id": 1861,
+        "question": "İLERİYİ DÜŞÜNEREK PLANLAR YAPAN VE YENİLİKLERE AÇIK OLAN KİMSE",
         "letter": "V",
-        "answer": "Vasat"
+        "answer": "Vizyoner, Vizyonlu"
     },
     {
-        "id": 889,
-        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
+        "id": 487,
+        "question": "Delik ve yırtığı uygun bir parça ile onarma, kapatma",
         "letter": "Y",
-        "answer": "Yalak"
+        "answer": "yama, yama yapma, yama yapmak, yamalama, yamalamak"
     },
     {
-        "id": 1747,
-        "question": "Sıkıntı veya güçlükle yapılma durumu",
+        "id": 719,
+        "question": "Eski tarihlerde tutukluların ya da hükümlülerin içine konulduğu kapalı yer",
         "letter": "Z",
-        "answer": "Zahmet, zahmetli"
+        "answer": "Zindan"
     }
 ]

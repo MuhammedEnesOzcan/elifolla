@@ -1,158 +1,158 @@
 [
     {
-        "id": 1660,
-        "question": "Baştan çıkarmak, doğru yoldan saptırmak",
+        "id": 1549,
+        "question": "Kınamak, takbih etmek",
         "letter": "A",
-        "answer": "Ayartmak, ayartma"
+        "answer": "Ayıplamak"
     },
     {
-        "id": 1354,
-        "question": "Evlilik hayatının ilk ayı veya ilk günleri",
+        "id": 1770,
+        "question": "DEVLET ADINA DAVALAR AÇAN KAMU GÖREVLİLERİNİN EN ÜST DÜZEYDE OLANI",
         "letter": "B",
-        "answer": "Balayı"
+        "answer": "Başsavcı"
     },
     {
-        "id": 1371,
-        "question": "Hayvanlarda tür, çeşit",
+        "id": 789,
+        "question": "Bir maddenin özü, değerli taş",
         "letter": "C",
-        "answer": "Cins, cinsleri"
+        "answer": "Cevher"
     },
     {
-        "id": 1450,
-        "question": "Karikatürcü",
+        "id": 181,
+        "question": "Silahlı büyük kavga, arbede",
         "letter": "Ç",
-        "answer": "Çizer"
+        "answer": "çatışma"
     },
     {
-        "id": 1246,
-        "question": "Dumanı ve kokuları toplayıp bacaya vermeye yarayan mutfak aracı",
+        "id": 1398,
+        "question": "Aynı cinsten onluk bir küme",
         "letter": "D",
-        "answer": "Davlumbaz, davlunbaz"
+        "answer": "Deste"
     },
     {
-        "id": 1211,
-        "question": "Bebeklerin yürümeye başlamadan önceki sürünme performansı ",
+        "id": 1723,
+        "question": "Enfeksiyon sonucu hasta olan kişi, enfenksiyon bulaşmış",
         "letter": "E",
-        "answer": "Emekleme, emeklemek"
+        "answer": "Enfekte"
     },
     {
-        "id": 1329,
-        "question": "Başka bir yere dikilmek için bulunduğu yerden çıkarılan taze ağaç",
+        "id": 222,
+        "question": "Genellikle boyuna bağlanan, bir tür ince ipek kumaş",
         "letter": "F",
-        "answer": "Fidan"
+        "answer": "fular"
     },
     {
-        "id": 1961,
-        "question": "SANAT ESERLERİNİN SERGİLENDİĞİ BÜYÜK SALON",
+        "id": 237,
+        "question": "Her zaman gülümseyen, mütebessim",
         "letter": "G",
-        "answer": "Galeri"
+        "answer": "güleç"
     },
     {
-        "id": 593,
-        "question": "Uçan balonların içinde bulunan gaz",
+        "id": 251,
+        "question": "Ayak bileğine takılan bilezik",
         "letter": "H",
-        "answer": "Helyum, Helyum gazı"
+        "answer": "halhal"
     },
     {
-        "id": 256,
-        "question": "Alınmış bir şeyi geri verme",
+        "id": 603,
+        "question": "Gereği yokken, genellikle kendini göstermek için işe karışan (kimse)",
         "letter": "İ",
-        "answer": "iade"
+        "answer": "İşgüzar, İşgûzar"
     },
     {
-        "id": 611,
-        "question": "Giyilen kıyafetlerin birbiriyle uyum içinde olması",
+        "id": 1751,
+        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
         "letter": "K",
-        "answer": "Kombin, Kombin yapma, kombin yapmak"
+        "answer": "Kıta"
     },
     {
-        "id": 984,
-        "question": "Duvarları taş veya tuğladan, üstü taş bir kapakla örtülü mezar",
+        "id": 296,
+        "question": "Tadı güzel, lezzetli",
         "letter": "L",
-        "answer": "Lahit"
+        "answer": "leziz"
     },
     {
-        "id": 317,
-        "question": "Aşırı olmayan, uygun, elverişli",
+        "id": 1193,
+        "question": "Genellikle çocukların kullandığı üflemeli ve klavyeli çalgı",
         "letter": "M",
-        "answer": "makul, mâkul"
+        "answer": "Melodika"
     },
     {
-        "id": 644,
-        "question": "Atomun çekirdeğinden elde edilen bir enerji türü",
+        "id": 337,
+        "question": "Benzer, aynı, kopya",
         "letter": "N",
-        "answer": "Nükleer, Nükleer enerji"
+        "answer": "nüsha"
     },
     {
-        "id": 645,
-        "question": "Doğal yolla yapılan",
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
         "letter": "O",
-        "answer": "Organik"
+        "answer": "Opak"
     },
     {
-        "id": 1479,
-        "question": "İstek",
+        "id": 1117,
+        "question": "Yaşamaz olmak, hayatı sona ermek, can vermek",
         "letter": "Ö",
-        "answer": "Özenç"
+        "answer": "ölmek, ölüm, ölme"
     },
     {
-        "id": 672,
-        "question": "Atış yeri, atış antrenman alanı",
+        "id": 1854,
+        "question": "YAYA OLARAK SAVAŞAN ASKERLERİN OLUŞTURDUĞU SINIF",
         "letter": "P",
-        "answer": "Poligon"
+        "answer": "Piyade"
     },
     {
-        "id": 1906,
-        "question": "BASKETBOLDA, SAYI OLMAYAN BİR ATIŞTAN SONRA POTADAN SEKEN TOPUN HAVADAYKEN YAKALANMASI",
+        "id": 675,
+        "question": "İstek, arz, ilgi, itibar",
         "letter": "R",
-        "answer": "Ribaund"
+        "answer": "Rağbet"
     },
     {
-        "id": 690,
-        "question": "Kısa mesaj servisi kısaltması",
+        "id": 692,
+        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
         "letter": "S",
-        "answer": "SMS"
+        "answer": "Sahaf"
     },
     {
-        "id": 1687,
-        "question": "Göz, alın ve yanak arasında, elmacık kemiğinin üstünde bulunan çukurumsu bölge",
+        "id": 426,
+        "question": "Açık ve ayrıntılı anlatma",
         "letter": "Ş",
-        "answer": "Şakak"
+        "answer": "şerh"
     },
     {
-        "id": 1847,
-        "question": "İRİ İRİ DOĞRANMIŞ İŞKEMBEDEN YAPILAN BİR TÜR ÇORBA",
+        "id": 1903,
+        "question": "YUMUŞAK ÇELİKTEN YAPILMIŞ ÜZERİ KALAY KAPLI İNCE SAC",
         "letter": "T",
-        "answer": "Tuzlama, Tuzlama çorba, Tuzlama çorbası"
+        "answer": "Teneke"
     },
     {
-        "id": 455,
-        "question": "Açıkgöz, kurnaz, cingöz",
+        "id": 1074,
+        "question": "Türk müziğinde ana makamlardan biri",
         "letter": "U",
-        "answer": "uyanık"
+        "answer": "Uşşak"
     },
     {
-        "id": 462,
-        "question": "Tanınmış, şöhretli, meşhur",
+        "id": 879,
+        "question": "Geniş Anlamıyla Derş Ya Da Mukoza Altı Dokuları Meydanda Bırakan Kronik Yaralar",
         "letter": "Ü",
-        "answer": "ünlü"
+        "answer": "Ülser"
     },
     {
-        "id": 881,
-        "question": "Daha çok ahşap malzemelere sürülen parlak cila",
+        "id": 472,
+        "question": "İki dağ arasındaki çukurca arazi veya geçit",
         "letter": "V",
-        "answer": "Vernik, vernık"
+        "answer": "vadi"
     },
     {
-        "id": 839,
-        "question": "Sayıyı yukarı ya da aşağı değiştirerek tüm sayı haline getirme",
+        "id": 491,
+        "question": "Dağın veya tepenin herhangi bir yanı",
         "letter": "Y",
-        "answer": "Yuvarlama, Yuvarlamak"
+        "answer": "yamaç"
     },
     {
-        "id": 1587,
-        "question": "İç içe geçen sehpa",
+        "id": 1594,
+        "question": "Şiddetli bir şekilde titremek veya sallanmak",
         "letter": "Z",
-        "answer": "Zigon, zigon sehpa"
+        "answer": "Zangırdamak, zangırdama"
     }
 ]

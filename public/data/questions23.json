@@ -1,69 +1,69 @@
 [
     {
-        "id": 1296,
-        "question": "Elektrik enerjisini kimyasal enerji olarak depolayıp ihtiyaç durumunda bu enerjiyi tekrar elektrik enerjisine çeviren cihaz",
+        "id": 1659,
+        "question": "Konuğa saygı göstererek onun her türlü rahatını, gereksinimini sağlamak",
         "letter": "A",
-        "answer": "Akü"
+        "answer": "Ağırlamak, ağırlama"
     },
     {
-        "id": 784,
-        "question": "Yazı ya da sözle canlandırmak",
+        "id": 1833,
+        "question": "İNSANIN KENDİSİNİ VE ÇEVRESİNİ TANIMA YETENEĞİ, ŞUUR",
         "letter": "B",
-        "answer": "Betimleme, Betimlemek"
+        "answer": "Bilinç"
     },
     {
-        "id": 914,
-        "question": "At Alıp Satan Kimse",
+        "id": 1086,
+        "question": "Şehir içinde ana yol",
         "letter": "C",
-        "answer": "Cambaz, canbaz"
+        "answer": "cadde"
     },
     {
-        "id": 176,
-        "question": "İnsan bedeninde bulunan enerjiyi tüm vücuda dağıttığına inanılan enerji noktaları",
+        "id": 1543,
+        "question": "Tahta kepçe, çemçe",
         "letter": "Ç",
-        "answer": "çakra, çakralar"
+        "answer": "Çömçe"
     },
     {
-        "id": 1764,
-        "question": "ACI, ÜZÜNTÜ VEYA PİŞMANLIK SEBEBİYLE KENDİ KENDİNE VURMAK",
+        "id": 557,
+        "question": "Doluluğunu, gücünü yitirme",
         "letter": "D",
-        "answer": "Dövünme, Dövünmek"
+        "answer": "Deşarj, deşarj olma, deşarj olmak"
     },
     {
-        "id": 1418,
-        "question": "Vücutta istenmeyen kılları alma",
+        "id": 562,
+        "question": "Çeşitli renk ve büyüklükteki karelerden oluşan (desen veya kumaş)",
         "letter": "E",
-        "answer": "Epilasyon"
+        "answer": "Ekose, Ekoseli"
     },
     {
-        "id": 1827,
-        "question": "\"HAVADAR, AYDINLIK VE İÇ AÇICI YER\" ANLAMINA GELEN SIFAT",
+        "id": 1913,
+        "question": "BÜYÜK ESERLERİN AYRI AYRI BÖLÜMLER HÂLİNDE YAYIMLANAN PARÇALARINDAN HER BİRİ",
         "letter": "F",
-        "answer": "Ferah"
+        "answer": "Fasikül"
     },
     {
-        "id": 241,
-        "question": "Öfke, kızgınlık, hiddet",
+        "id": 232,
+        "question": "Resmi bir törenden sonra yapılan büyük ve gösterişli şölen",
         "letter": "G",
-        "answer": "gazap"
+        "answer": "gala"
     },
     {
-        "id": 973,
-        "question": "Yere veya mobilya üstüne serilmek, duvara gerilmek için, genellikle yünden dokunan, kısa ve sık tüylü, nakışlı, kalın yaygı",
+        "id": 250,
+        "question": "Hırsız, haydut, eşkıya",
         "letter": "H",
-        "answer": "Halı"
+        "answer": "harami, haramiler"
     },
     {
-        "id": 273,
-        "question": "Anlaşma, uyuşma, uzlaşma",
+        "id": 809,
+        "question": "Kâr amacıyla sermaye yatırılarak kurulan kurum",
         "letter": "İ",
-        "answer": "itilaf, ittifak"
+        "answer": "İşletme"
     },
     {
-        "id": 611,
-        "question": "Giyilen kıyafetlerin birbiriyle uyum içinde olması",
+        "id": 1751,
+        "question": "Yeryüzünde en küçüğü Avustralya olan 7 büyük kara parçasından her biri",
         "letter": "K",
-        "answer": "Kombin, Kombin yapma, kombin yapmak"
+        "answer": "Kıta"
     },
     {
         "id": 1455,
@@ -72,87 +72,87 @@
         "answer": "Larva, larva dönemi"
     },
     {
-        "id": 325,
-        "question": "Konu, beklenmedik olay",
+        "id": 1618,
+        "question": "Bir kimsenin sürekli ilişkide bulunduğu insanlar topluluğu, çevre",
         "letter": "M",
-        "answer": "mevzu"
+        "answer": "Muhit"
     },
     {
-        "id": 1521,
-        "question": "Parlaklığı birdenbire artan, patlamalı değişen yıldız",
+        "id": 949,
+        "question": "Nikel'in simgesi",
         "letter": "N",
-        "answer": "Nova"
+        "answer": "ni"
     },
     {
-        "id": 346,
-        "question": "Şehirler arası çalışan motorlu taşıtların yolcularını aldıkları ve indirdikleri yer",
+        "id": 820,
+        "question": "Hayvan sürülerinin beslendiği açık alan, mera",
         "letter": "O",
-        "answer": "otogar"
+        "answer": "Otlak, otlak arazi, ova"
     },
     {
-        "id": 363,
-        "question": "Birini, bir şeyi övmek için söylenen söz veya yazılan yazı, methiye",
+        "id": 1534,
+        "question": "Bir alışveriş ilişkisinde, borcu alacaklıya vermek, tediye etmek",
         "letter": "Ö",
-        "answer": "övgü"
+        "answer": "Ödemek, Ödeme, ödeme yapma, ödeme yapmak"
     },
     {
-        "id": 1013,
-        "question": "Yaşlı, koca, ihtiyar kimse",
+        "id": 65,
+        "question": "Yalan söylediğinde burnu uzayan roman karakteri",
         "letter": "P",
-        "answer": "Pir"
+        "answer": "pinokyo"
     },
     {
-        "id": 395,
-        "question": "Orta kaldırım",
+        "id": 1121,
+        "question": "Herhangi bir işte, bir yarışta, birbirini geçmeye çalışan, aynı şeyi elde etmeye uğraşan",
         "letter": "R",
-        "answer": "refüj"
+        "answer": "Rakip"
     },
     {
-        "id": 1948,
-        "question": "MECAZEN, “AKIL SAĞLIĞINI YİTİRMEK” ANLAMINA GELEN SÖZ",
+        "id": 407,
+        "question": "Güldürü niteliğinde kısa oyun",
         "letter": "S",
-        "answer": "Sıyırma, Sıyırmak"
+        "answer": "skeç"
     },
     {
-        "id": 432,
-        "question": "Belli bir amaçla düzenlenen eğlence",
+        "id": 1684,
+        "question": "Otomobil iç lastiği",
         "letter": "Ş",
-        "answer": "şölen, şenlik"
+        "answer": "Şambrel"
     },
     {
-        "id": 36,
-        "question": "1500 km²'lik yüzeyi ile Türkiye'nin ikinci büyük gölü ",
+        "id": 91,
+        "question": "Eski dilde öğrenci",
         "letter": "T",
-        "answer": "Tuz Gölü, Tuz"
+        "answer": "talebe"
     },
     {
-        "id": 1512,
-        "question": "Bütün varlıkların içinde bulunduğu sonsuz boşluk, feza, mekân",
+        "id": 1562,
+        "question": "Bir toplulukta rahat konuşamayan ve rahat davranamayan, sıkılgan, çekingen",
         "letter": "U",
-        "answer": "Uzay"
+        "answer": "Utangaç"
     },
     {
-        "id": 868,
-        "question": "Bina eteği, etek duvarı veya subasman",
+        "id": 1871,
+        "question": "BİR DEVLETİN BAŞKA BİR DEVLET İÇİN, TANIDIĞI SÜREDE İSTEKLERİNİN YERİNE GETİRİLMESİ İÇİN VERDİĞİ NOTA",
         "letter": "Ü",
-        "answer": "Üstemel"
+        "answer": "Ültimatom"
     },
     {
-        "id": 1304,
-        "question": "Şehrin mülki amiri",
+        "id": 483,
+        "question": "Sürekli bir yönde gidip gelme, yürüme, dolaşma",
         "letter": "V",
-        "answer": "Vali, valilik"
+        "answer": "volta, volta atma, volta atmak"
     },
     {
-        "id": 496,
-        "question": "Enerji ve ısı ortaya çıkaran yanıcı madde",
+        "id": 1501,
+        "question": "Parmağa geçirilen genellikle metal halka",
         "letter": "Y",
-        "answer": "yakıt"
+        "answer": "Yüzük"
     },
     {
-        "id": 1245,
-        "question": "Eski dilde deprem",
+        "id": 739,
+        "question": "Gerçekleşeceği düşünülmeyen, hesapta olmayan, umulmadık",
         "letter": "Z",
-        "answer": "Zelzele"
+        "answer": "Zuhurat, Zuhurât"
     }
 ]

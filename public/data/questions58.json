@@ -1,69 +1,69 @@
 [
     {
-        "id": 1665,
-        "question": "Bir müzik programında genellikle en son sahneye çıkan, alanında çok ünlü olan sanatçı",
+        "id": 1654,
+        "question": "Bir şeyin umulduğundan az olduğu yargısına varmak, az görmek, az bulmak",
         "letter": "A",
-        "answer": "Assolist"
+        "answer": "Azımsamak, azımsama"
     },
     {
-        "id": 527,
-        "question": "Yanıltarak bir işten caydırmak",
+        "id": 1348,
+        "question": "Kaldırımların kenarlarında bulunan taşlar",
         "letter": "B",
-        "answer": "Blöf, blöf yapma, blöf yapmak"
+        "answer": "Bordür"
     },
     {
-        "id": 962,
-        "question": "Yoğurt, ayran içine hıyar veya marul doğranarak yapılan, çoğu kez sarımsaklı, iştah açıcı yiyecek",
+        "id": 1370,
+        "question": "Devlet yönetim biçimi olarak, halkın seçtiği temsilciler tarafından idare edilen devlet",
         "letter": "C",
-        "answer": "Cacık"
+        "answer": "Cumhuriyet"
     },
     {
-        "id": 176,
-        "question": "İnsan bedeninde bulunan enerjiyi tüm vücuda dağıttığına inanılan enerji noktaları",
+        "id": 1873,
+        "question": "DOĞA KİRLİLİĞİ SORUNLARIYLA UĞRAŞAN KİMSE VEYA TOPLULUK",
         "letter": "Ç",
-        "answer": "çakra, çakralar"
+        "answer": "Çevreci"
     },
     {
-        "id": 1394,
-        "question": "Doldurularak yapılan yemek",
+        "id": 1384,
+        "question": "Hava ve deniz taşıtlarında, taşıta istenilen yönü vermeye ve belirli bir doğrultuda götürmeye yarayan hareketli parça",
         "letter": "D",
-        "answer": "Dolma"
+        "answer": "Dümen"
     },
     {
-        "id": 566,
-        "question": "Bilirkişi tarafından yapılan inceleme",
+        "id": 212,
+        "question": "Bütünleşmiş, dahili",
         "letter": "E",
-        "answer": "Ekspertiz, Ekspertiz raporu"
+        "answer": "entegre"
     },
     {
-        "id": 968,
-        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
+        "id": 226,
+        "question": "Çok üzüntü veren, acıklı olay, afet",
         "letter": "F",
-        "answer": "Faiz"
+        "answer": "facia, feci"
     },
     {
-        "id": 1850,
-        "question": "PASLANMAKTAN KORUMAK İÇİN ERİMİŞ ÇİNKOYA BATIRILARAK KAPLANMIŞ OLAN",
+        "id": 1769,
+        "question": "BELLİ BİR BÜTÜNE GÖRE KALEME ALINAN METNİN SONUÇTAN ÖNCEKİ BÖLÜMÜ",
         "letter": "G",
-        "answer": "Galvanize, Galvanizli"
+        "answer": "Gelişme"
     },
     {
-        "id": 250,
-        "question": "Hırsız, haydut, eşkıya",
+        "id": 1440,
+        "question": "Dildeki bir sesi gösteren ve alfabeyi oluşturan işaretlerden her biri",
         "letter": "H",
-        "answer": "harami, haramiler"
+        "answer": "Harf"
     },
     {
-        "id": 1199,
-        "question": "Damıtma işinde kullanılan araç, damıtıcı",
+        "id": 271,
+        "question": "Yerine koyma, yerine kullanma",
         "letter": "İ",
-        "answer": "İmbik"
+        "answer": "ikame"
     },
     {
-        "id": 1795,
-        "question": "RUMCA KÖKENLİ “YIPRANMIŞ, ESKİ VE BAKIMSIZ” ANLAMLARINDA DAHA ÇOK ARAÇLAR, MAKİNELER İÇİN KULLANILAN SÖZCÜK",
+        "id": 613,
+        "question": "Uygunsuz hareket, çirkin, yakışıksız davranış, suç",
         "letter": "K",
-        "answer": "Külüstür"
+        "answer": "Kabahat"
     },
     {
         "id": 623,
@@ -72,87 +72,87 @@
         "answer": "Loca"
     },
     {
-        "id": 1621,
-        "question": "Hareketli, taşınabilir",
+        "id": 319,
+        "question": "Bir olayın, bir durumun etkisinde veya karşısında bulunan",
         "letter": "M",
-        "answer": "Mobil"
+        "answer": "maruz, maruz kalan"
     },
     {
-        "id": 993,
-        "question": "Hoş olmayan, hoşa gitmeyen, kötü, çirkin",
+        "id": 1785,
+        "question": "Ney üfleyen sanatçı",
         "letter": "N",
-        "answer": "Nahoş"
+        "answer": "Neyzen"
     },
     {
-        "id": 1515,
-        "question": "Sinema, perde veya bir gösteride rol alan sanatçı, aktör, aktris",
+        "id": 1518,
+        "question": "Hızlı bir trafik akımı sağlamak amacıyla yapılan, çok şeritli, çift yönlü geniş yol, otoban",
         "letter": "O",
-        "answer": "Oyuncu"
+        "answer": "Otoyol"
     },
     {
-        "id": 1169,
-        "question": "Perdeayaklılardan evcil ve yabanisi de bulunan su kuşu",
+        "id": 899,
+        "question": "Serbest, Hiçbir Koşula Bağlı Olmayan",
         "letter": "Ö",
-        "answer": "Ördek"
+        "answer": "Özgür, ozgur"
     },
     {
-        "id": 1916,
-        "question": "MATEMATİKTE, BAYAĞI KESİRLERDEKİ ÇİZGİ ALTI SAYISI",
+        "id": 670,
+        "question": "Kişiye onur nişanesi olarak verilen küçük levha",
         "letter": "P",
-        "answer": "Payda"
+        "answer": "Plaket"
     },
     {
-        "id": 678,
-        "question": "Yapılması alışkanlık haline gelmiş iş",
+        "id": 681,
+        "question": "Sporda veya oyunda yenilmiş olanın aynı rakiple oynadığı ikinci oyun",
         "letter": "R",
-        "answer": "Rutin, Rutin iş"
+        "answer": "Rövanş, Rövanş maçı, Rovanş, Rovanş maçı"
     },
     {
-        "id": 692,
-        "question": "Genellikle kullanılmış ve eski kitap alıp satan kitapçı",
+        "id": 1159,
+        "question": "Uygulamalı öğrenme, iş öncesi öğrenme",
         "letter": "S",
-        "answer": "Sahaf"
+        "answer": "Staj, stajyerlik, staj yapma, staj yapmak"
     },
     {
-        "id": 766,
-        "question": "Haşlanmış gıdayı hızlıca buz ile soğutmak",
+        "id": 431,
+        "question": "Ortaklık, ortaklık kuruluşu",
         "letter": "Ş",
-        "answer": "Şoklama, Şoklamak, Şoklama işlemi"
+        "answer": "şirket"
     },
     {
-        "id": 1064,
-        "question": "Şişe gibi dar delikleri tıkamaya yarayan mantar, cam, tahta veya plastikten tıkaç",
+        "id": 767,
+        "question": "Mecazi anlamda kızdırma maksadıyla şaka yollu konuşmak",
         "letter": "T",
-        "answer": "tapa, tıpa"
+        "answer": "Takılmak"
     },
     {
-        "id": 1069,
-        "question": "ele avuca sığmaz (kimse)",
+        "id": 724,
+        "question": "Bir gezegenin çekiminde bulunarak onun çevresinde dolanan daha küçük gezegen",
         "letter": "U",
-        "answer": "Uçarı"
+        "answer": "Uydu, uydusu"
     },
     {
-        "id": 1316,
-        "question": "Derinleştirmeden, yüzeysel olarak",
+        "id": 882,
+        "question": "At Ve Kısrak Sürüsüne Verilen Ad",
         "letter": "Ü",
-        "answer": "Üstten"
+        "answer": "Ürek"
     },
     {
-        "id": 482,
-        "question": "Banka vb. kurum ve kuruluşlarda para alınıp verilen yer",
+        "id": 1138,
+        "question": "Tehlikeli durum",
         "letter": "V",
-        "answer": "vezne"
+        "answer": "varta, vuku, vukuat"
     },
     {
-        "id": 717,
-        "question": "Yüksek mahkeme, yüksek yargı kurulu",
+        "id": 885,
+        "question": "Pembe veya erguvan tonları ile karışık koyu kırmızı renkte,saydam, değerli bir taş",
         "letter": "Y",
-        "answer": "Yargıtay"
+        "answer": "Yakut"
     },
     {
-        "id": 841,
-        "question": "Kimse, kişi",
+        "id": 738,
+        "question": "Boşuna harcama, zarar",
         "letter": "Z",
-        "answer": "Zat"
+        "answer": "Ziyan, ziyan etme, ziyan etmek"
     }
 ]

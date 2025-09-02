@@ -1,153 +1,153 @@
 [
     {
-        "id": 781,
-        "question": "Sembol niteliğindeki yapı",
+        "id": 1339,
+        "question": "Yerini doldurabilmek, yokluğunu sezdirmemek",
         "letter": "A",
-        "answer": "Abide, Anıt"
+        "answer": "Aratmama, aratmamak"
     },
     {
-        "id": 42,
-        "question": "Türk halk müziğinde en çok popüler telli çalgı",
+        "id": 1349,
+        "question": "Bankacılıkta bir varlığın yetkili otoritelerin izni olmadan sahibi tarafından kullanılamaması durumu",
         "letter": "B",
-        "answer": "Bağlama"
+        "answer": "Blokaj, bloke, bloke koyma, bloke koymak"
     },
     {
-        "id": 915,
-        "question": "Sonu Olmayan, Sonsuz, Ebedi, Ölümsüz",
+        "id": 159,
+        "question": "Kazanmak, cebine indirmek, çalmak",
         "letter": "C",
-        "answer": "Cavit"
+        "answer": "ceplemek, cukkalamak"
     },
     {
-        "id": 179,
-        "question": "Çizilerek veya oyularak açılan kertik",
+        "id": 748,
+        "question": "Araçların trafikte üstünlük sağlamak için kullandığı kırmızı-mavi ışıklar",
         "letter": "Ç",
-        "answer": "çetele, çentik"
+        "answer": "Çakar, çakar lamba, çakar lambası"
     },
     {
-        "id": 1399,
-        "question": "Büyük takımlar arasında oynanan maç",
+        "id": 1829,
+        "question": "\"DOĞRU\", \"BİÇİMLİ\", \"MUNTAZAM\" ANLAMINA GELEN BİR SÖZCÜK",
         "letter": "D",
-        "answer": "Derbi, derbi maçı"
+        "answer": "Düzgün, Düzenli"
     },
     {
-        "id": 1279,
-        "question": "Bitkilerden çıkarılan veya kimya yardımıyla çeşitli maddelerden elde edilen kokulu, uçucu sıvı",
+        "id": 205,
+        "question": "Başlangıcı belli olmayan zaman, öncesizlik",
         "letter": "E",
-        "answer": "Esans, esansı"
+        "answer": "ezel"
     },
     {
-        "id": 571,
-        "question": "Bir girişimde başarısız sonuç",
+        "id": 968,
+        "question": "İşletmek için bir yere ödünç verilen paraya karşılık alınan kâr, getiri, ürem, nema",
         "letter": "F",
-        "answer": "Fiyasko"
+        "answer": "Faiz"
     },
     {
-        "id": 582,
-        "question": "Dikkatli ve planlı olarak ele alınıp incelenme durumu",
+        "id": 971,
+        "question": "Sonbahar",
         "letter": "G",
-        "answer": "Gözlem, Gözlem yapma, Gözlem yapmak"
+        "answer": "Güz"
     },
     {
-        "id": 1794,
-        "question": "Bir kurumun belirli bir zaman içerisinde elde ettiği tüm gelirlerin toplamı",
+        "id": 252,
+        "question": "Niteliği değişmemiş, aslına uygun olan",
         "letter": "H",
-        "answer": "Hasılat"
+        "answer": "hakiki"
     },
     {
-        "id": 1204,
-        "question": "Kendi isteğiyle çalıştığı işi bırakmak",
+        "id": 1692,
+        "question": "“TRAFİĞİ ÇOK OLAN, CANLI, HAREKETLİ, YOĞUN VE KALABALIK” ANLAMLARINDA KULLANILAN BİR SÖZ",
         "letter": "İ",
-        "answer": "İstifa, istifa etme, istifa etmek"
+        "answer": "İşlek, işlek yol, işlek cadde"
     },
     {
-        "id": 613,
-        "question": "Uygunsuz hareket, çirkin, yakışıksız davranış, suç",
+        "id": 1922,
+        "question": "FRANSIZCA KÖKENLİ “KONTRAST” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
         "letter": "K",
-        "answer": "Kabahat"
+        "answer": "Karşıtlık"
     },
     {
-        "id": 1529,
-        "question": "Kişiye alay yollu takılan takma ad",
+        "id": 982,
+        "question": "Bir dilin tarihi, yapısı, politik sebeplerden dolayı ses, yapı ve söz dizimiyle ayrılan bir kolu",
         "letter": "L",
-        "answer": "Lakap, lakab"
+        "answer": "Lehçe, lehçesi"
     },
     {
-        "id": 632,
-        "question": "Ara, aralık, uzaklık",
+        "id": 1628,
+        "question": "Genellikle karın kaslarının güçlendirilmesi için yapılan beden hareketi",
         "letter": "M",
-        "answer": "Mesafe"
+        "answer": "Mekik, mekik çekme, mekik çekmek"
     },
     {
-        "id": 987,
-        "question": "Kendini beğendirmek amacıyla yapılan davranış, cilve, eda",
+        "id": 1111,
+        "question": "At nalı yapan demirci",
         "letter": "N",
-        "answer": "Naz"
+        "answer": "Nalbant"
     },
     {
-        "id": 1739,
-        "question": "Kuruluşları ortak bir amaç için bir araya getirme, düzenleme",
+        "id": 1003,
+        "question": "On açısı, on kenarı olan çokgen",
         "letter": "O",
-        "answer": "Organizasyon, Organize etme, Organize etmek"
+        "answer": "Ongen"
     },
     {
-        "id": 1481,
-        "question": "Bir sorunu çözmek üzere öne sürülen görüş, düşünce, teklif",
+        "id": 656,
+        "question": "Uzlaşmaya varmak için karşı taraf yararına vazgeçme",
         "letter": "Ö",
-        "answer": "Öneri"
+        "answer": "Ödün, Ödün verme, Ödün vermek"
     },
     {
-        "id": 78,
-        "question": "Eski Yunan'da, kent devletlerine verilen isim",
+        "id": 1018,
+        "question": "Pantolon, don, şalvar vb. giyeceklerde bacakların çıktığı aşağı bölüm",
         "letter": "P",
-        "answer": "polis"
+        "answer": "Paça"
     },
     {
-        "id": 33,
-        "question": "Yüksek basınçtan, alçak basınca doğru olan hava akımları",
+        "id": 1025,
+        "question": "Göktürk yazıtlarında kullanılan yazı türünün harflerinden her biri",
         "letter": "R",
-        "answer": "Rüzgar"
+        "answer": "run"
     },
     {
-        "id": 417,
-        "question": "Buhar banyosu",
+        "id": 1931,
+        "question": "BİR ŞEYİN YAYILABİLECEĞİ VEYA GENİŞLEYEBİLECEĞİ SON ÇİZGİ",
         "letter": "S",
-        "answer": "sauna"
+        "answer": "Sınır"
     },
     {
-        "id": 1678,
-        "question": "Almanya ve Avusturya'da hükûmet başkanı ünvanı",
+        "id": 696,
+        "question": "Kişisel, kişiye ait olan",
         "letter": "Ş",
-        "answer": "Şansölye"
+        "answer": "Şahsi"
     },
     {
-        "id": 1128,
-        "question": "Yiyecek koymaya yarar, az derin ve yayvan kap",
+        "id": 1060,
+        "question": "Türlü metallerden yapılmış, kopmaya karşı bir direnç gösteren ince uzun ip",
         "letter": "T",
-        "answer": "tabak"
+        "answer": "tel"
     },
     {
-        "id": 1561,
-        "question": "Merkezi sinir sistemine etki ederek farkındalığı, dikkati ve uyanıklığı artıran ilaçlar ya da maddeler",
+        "id": 723,
+        "question": "Uyuşma, mutabakat, konsensüs",
         "letter": "U",
-        "answer": "Uyarıcı, uyarıcı ilaçlar, uyarıcı maddeler"
+        "answer": "Uzlaşı, uzlaşma, uzlaşmak"
     },
     {
-        "id": 868,
-        "question": "Bina eteği, etek duvarı veya subasman",
+        "id": 465,
+        "question": "Bilim veya sanat alanında üstün bilgisi ve yeteneği olan kimse",
         "letter": "Ü",
-        "answer": "Üstemel"
+        "answer": "üstat, üstad"
     },
     {
-        "id": 473,
-        "question": "Bir ilde devleti temsil eden en yetkili yönetim görevlisi",
+        "id": 1208,
+        "question": "Manşet, smaç, pas gibi terimlerin bulunduğu spor dalı",
         "letter": "V",
-        "answer": "vali"
+        "answer": "Voleybol"
     },
     {
-        "id": 1583,
-        "question": "Yayvan ve düz olan",
+        "id": 891,
+        "question": "Baştan savma, üstünkörü",
         "letter": "Y",
-        "answer": "Yassı"
+        "answer": "Yalapşap, yalap şap, yalapsap"
     },
     {
         "id": 1595,

@@ -1,51 +1,51 @@
 [
     {
-        "id": 124,
-        "question": "Bir kimseye veya bir topluluğa zorla, ücret vermeden yaptırılan iş, yüklenti",
+        "id": 1338,
+        "question": "Kazı bilimi",
         "letter": "A",
-        "answer": "angarya"
+        "answer": "Arkeoloji"
     },
     {
-        "id": 42,
-        "question": "Türk halk müziğinde en çok popüler telli çalgı",
+        "id": 1598,
+        "question": "Bir yemek adı olarak da kullanılan; Büyükbaş ve küçükbaş hayvanların kalın bağırsağı",
         "letter": "B",
-        "answer": "Bağlama"
+        "answer": "Bumbar, bumbar dolması"
     },
     {
-        "id": 1357,
-        "question": "Elindeki parayı harcamaya kıyamayan",
+        "id": 1729,
+        "question": "Kelimelerin bir araya gelerek oluşturduğu söz dizimi",
         "letter": "C",
-        "answer": "Cimri, cimrilik"
+        "answer": "Cümle"
     },
     {
-        "id": 965,
-        "question": "Zaman dilimi, vakit",
+        "id": 1088,
+        "question": "Ticaret gemilerinde eski ve usta gemici",
         "letter": "Ç",
-        "answer": "Çağ"
+        "answer": "Çaça"
     },
     {
-        "id": 795,
-        "question": "Akan suyun hacmi",
+        "id": 77,
+        "question": "19'uncu yüzyılda kullanılmaya başlanan tuşlu yazı makinesi",
         "letter": "D",
-        "answer": "Debi, Debisi"
+        "answer": "daktilo"
     },
     {
-        "id": 1092,
-        "question": "Yemiş koparırken dalları çekmeye veya kovandan bal almaya yarayan araç",
+        "id": 209,
+        "question": "Çok gerekli, vazgeçilmez",
         "letter": "E",
-        "answer": "Eğiç"
+        "answer": "elzem"
     },
     {
-        "id": 225,
-        "question": "Ancak, ama, lakin",
+        "id": 572,
+        "question": "Bir kimseyi veya bir yeri koruyan kimse",
         "letter": "F",
-        "answer": "fakat"
+        "answer": "Fedai"
     },
     {
-        "id": 582,
-        "question": "Dikkatli ve planlı olarak ele alınıp incelenme durumu",
+        "id": 971,
+        "question": "Sonbahar",
         "letter": "G",
-        "answer": "Gözlem, Gözlem yapma, Gözlem yapmak"
+        "answer": "Güz"
     },
     {
         "id": 1794,
@@ -54,105 +54,105 @@
         "answer": "Hasılat"
     },
     {
-        "id": 600,
-        "question": "Bir yeri ele geçirme",
+        "id": 267,
+        "question": "Gereksiz yere para, zaman, emek vb.ni harcama, savurganlık",
         "letter": "İ",
-        "answer": "İşgal, işgal etme, işgal etmek"
+        "answer": "israf, israf etme, israf etmek"
     },
     {
-        "id": 1922,
-        "question": "FRANSIZCA KÖKENLİ “KONTRAST” SÖZÜNÜN TÜRKÇE KARŞILIĞI",
+        "id": 95,
+        "question": "Komutanı korgeneral olan askeri birlik",
         "letter": "K",
-        "answer": "Karşıtlık"
+        "answer": "kolordu"
     },
     {
-        "id": 299,
-        "question": "Önder, şef",
+        "id": 305,
+        "question": "Genellikle dört yıl süren üniversite veya yüksekokul öğrenimi",
         "letter": "L",
-        "answer": "lider"
+        "answer": "lisans"
     },
     {
-        "id": 1108,
-        "question": "Miskete fiske vurarak oynanan zıpzıp oyunu",
+        "id": 629,
+        "question": "Tek, ayrı, kendi başına olan",
         "letter": "M",
-        "answer": "madık, Madik"
+        "answer": "Münferit"
     },
     {
-        "id": 339,
-        "question": "Tavsiye, öğüt",
+        "id": 333,
+        "question": "İstenilen düzende olan, düzene uygun olan",
         "letter": "N",
-        "answer": "nasihat"
+        "answer": "nizami"
     },
     {
-        "id": 349,
-        "question": "On ere kumanda eden asker, erin üstündeki ilk rütbe",
+        "id": 651,
+        "question": "Saydam olmayan, donuk, mat",
         "letter": "O",
-        "answer": "onbaşı"
+        "answer": "Opak"
     },
     {
-        "id": 1535,
-        "question": "Bilimde bir düzenli görüşü oluşturan ilke ve dogmaların bütünü, meslek, doktrin",
+        "id": 359,
+        "question": "Bir kimseye yapması veya yapmaması gereken şeyler için söylenen söz, nasihat",
         "letter": "Ö",
-        "answer": "Öğreti"
+        "answer": "öğüt"
     },
     {
-        "id": 823,
-        "question": "Bir balık ve bir meyve türünün ortak adı",
+        "id": 1730,
+        "question": "Kolaylıkla uygulanabilir, kullanışlı olan",
         "letter": "P",
-        "answer": "Palamut"
+        "answer": "Pratik"
     },
     {
-        "id": 679,
-        "question": "Bir mağazanın yalnız bir tür eşya satılan bölümü",
+        "id": 683,
+        "question": "Yanlış, yozlaşmış, vb. şeylerin iyileştirilmesi veya köklü değiştirilmesi",
         "letter": "R",
-        "answer": "Reyon, reyonu"
+        "answer": "Reform, Reform yapma, Reform yapmak"
     },
     {
-        "id": 829,
-        "question": "Bütün geceyi uyumadan geçirmek",
+        "id": 1040,
+        "question": "Kuş tersi, kuş gübresi",
         "letter": "S",
-        "answer": "Sabahlama, Sabahlamak"
+        "answer": "Sağı"
     },
     {
-        "id": 898,
-        "question": "Oda İçinde Tuğla Ya Da Taşdan Yapılmış Ocak",
+        "id": 699,
+        "question": "Ev, fabrika, baraj vb.nin yapımının sürdüğü yer",
         "letter": "Ş",
-        "answer": "Şömine, somine"
+        "answer": "Şantiye, şantiye alanı"
     },
     {
-        "id": 1651,
-        "question": "Üç yaşına kadar olan at yavrusu",
+        "id": 1154,
+        "question": "Diş taşı",
         "letter": "T",
-        "answer": "Tay"
+        "answer": "tartar"
     },
     {
-        "id": 1223,
-        "question": "Bir sonuca varmak üzere, ortadaki engelleri kaldırmak için tutulması gereken yol, çıkar yol, çözüm, çare",
+        "id": 847,
+        "question": "Bir düşünceyi, bir tasarıyı ya da bir kuramı gerçekleştirme",
         "letter": "U",
-        "answer": "Umar"
+        "answer": "Uygulama, uygulamak"
     },
     {
-        "id": 466,
-        "question": "Anlatma, oluş, deyiş veya yapış biçimi, tarz",
+        "id": 725,
+        "question": "Birci, birlikten yana olan, tekil, birimsel",
         "letter": "Ü",
-        "answer": "üslup"
+        "answer": "Üniter"
     },
     {
-        "id": 1571,
-        "question": "Niteliksiz, daha önce işte tecrübesi olmayan",
+        "id": 1867,
+        "question": "Tramvay Sürücüsü",
         "letter": "V",
-        "answer": "Vasıfsız, vasıfsız eleman"
+        "answer": "Vatman"
     },
     {
-        "id": 40,
-        "question": "Günlük kazanç",
+        "id": 889,
+        "question": "Hayvanların su içtikleri taş veya ağaçtan oyma kap",
         "letter": "Y",
-        "answer": "yevmiye"
+        "answer": "Yalak"
     },
     {
-        "id": 41,
-        "question": "Ses telleri olmayan hayvan",
+        "id": 843,
+        "question": "Telli Bir Çalgıyı Acemice Çalarak Çıkarılan Çirkin Sesin Adı",
         "letter": "Z",
-        "answer": "Zürafa"
+        "answer": "Zımbırtı, zimbirti"
     }
 ]
